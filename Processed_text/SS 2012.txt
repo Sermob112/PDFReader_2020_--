@@ -1,0 +1,8961 @@
+
+Shipbuilder: Meyer Werft
+Vessel’s name:AIDAmar
+Hull No:S690
+Owner/operator: AIDA Cruises
+Country:Germany
+Designer: AIDA Cruises
+Country:Germany
+Flag: Italy
+IMO number: 9490052
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa: 253.30m
+Length bp: 230.50m
+Breadth moulded: 32,20m
+Depth moulded
+	
+To main deck: 12,40m
+Draught
+	
+Scantling: 7.2m
+Gross:71,304dwt
+Displacement:37,375tonnes
+Deadweight
+	
+Scantling:7,757dwt
+Speed, service:21,8knots
+Classification society and notations: GL 100 A5- IW ERS 
+BWM MC AUT RP3-50% EP
+Main engine
+	
+Design:Caterpillar
+	
+Model:9M43C
+	
+Manufacturer:MaK
+	
+Number: 4
+	
+Type of fuel used:HFO
+	
+Output of each engine: 9,000kW
+Propellers
+	
+Material: Cu-Zn
+	
+Designer/manufacturer:MMG
+	
+Number: 2
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 5.2m
+Main-engine driven alternators
+	
+Number: 2
+	
+Make/type:VEM
+	
+Output/speed of each set: 12,500kW
+Boilers
+	
+Number: 2
+	
+Type: oil/exhaust gas
+	
+Make: TPK Nova d.o
+Output, each boiler:10bar/ 107m2, 190m
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 1,820persons
+	
+Make:Viking
+	
+Type:MES
+	
+Vertical or sloping chutes:vertical
+Complement
+	
+Crew: 620
+Passengers
+	
+Total: 2,686
+	
+Number of cabins: 1,607
+	
+Percentage/number outboard: 510
+Bow thrusters
+	
+Make: Brunvoll
+	
+Number: 2
+	
+Output: 2,300kW
+Stern thrusters
+	
+Make: Brunvoll
+	
+Number: 2
+	
+Output: 1,500kW
+Bridge control system
+	
+Make: SAM Electronics
+	
+Type: NACOS Platinum
+	
+One-man operation:yes
+Integrated bridge system
+	
+Make: SAM Electronics
+	
+Type: NACOS Platinum
+Contract date: 13 December 2007
+Launch/float-out date:1 April 2012
+Delivery date:3 May 2012
+AIDAMAR: cruise ship with EGR
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:STX Offshore & 
+Shipbuilding Co., Ltd
+Vessel’s name:Al-Idrisi
+Hull No: B-5055
+Owner/Operator:Jan De Nul
+Country: Belgium
+Flag:Luxembourg
+IMO number: 9572707
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa: 119.10m
+Length bp: 104.25m
+Breadth moulded: 23.00m
+Depth moulded
+	
+To main deck: 10.75m
+	
+To upper deck: 10.75m
+	
+To other decks:tween deck 6.25m
+Width of double skin
+	
+Side: 2.50m
+	
+Bottom: 1.20m
+Draught
+	
+Scantling: dredging draught 8.15m
+	
+Design:summer draught 6.30m
+Gross:	8,082gt
+Displacement:16,811tonnes
+Lightweight:5,170tonnes
+Deadweight
+	
+Design:7,387dwt
+	
+Scantling:11,641dwt
+Block co-efficient: 0.8393
+Speed, service:13.7knots
+Cargo capacity
+Hopper: 7,500m3
+Bunkers
+Water ballast:  404m3
+Daily fuel consumption
+	
+Main engine:17.3tonnes/day
+	
+Auxiliary:4.95tonnes/day
+Classification society and notations:Bureau Veritas I, + 
+HULL, +MACH, +AUT-UMS, +DYNAPOS, 
+AM/AT, Hopper Dredger, Unrestricted 
+Navigation Operating area notation: 
+dredging over 15 miles from shore +
+Main engine
+	
+Design:4 stroke
+	
+Model: 8L32/40
+	
+Manufacturer: MAN Diesel
+	
+Output of each engine: 3,300kW
+Rudder-propeller
+	
+Material: Gi-Cu-Al10-Ni
+	
+Designer/manufacturer: Schottel
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 3.1m
+	
+Speed:176.8rpm
+Main-engine driven alternators
+	
+Make/type:Indar/synchronous generator
+	
+Output/speed of each set: 4,815kVA x 750rpm
+Thermal oil heater
+	
+Type:THM/V 1500
+	
+Make:S-MAN
+	
+Output, each boiler: 1500kW
+Cargo cranes
+	
+Make: JDN
+	
+Type:Hydraulic
+	
+Performance: Dredging equipment
+Other cranes
+	
+Make:TTS energy
+	
+Type:Electro-hydraulic driven, cylinder luffing type
+	
+Performance:Spare equipment 
+handling and provision handling
+Mooring equipment
+	
+Number: 2 x windlasses 1 x capstan
+	
+Make:Brusselle Marine
+	
+Type: Hydraulic/electric
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 25persons
+	
+Make:DSB Engineering
+	
+Type:Free-fall lifeboats
+Cargo tanks
+	
+Coated tanks make:Jotun
+Ballast control system
+	
+Make:Panasia
+	
+Type:Electric pressure sensor
+Complement
+	
+Officers: 6
+	
+Crew: 15
+Bow thruster
+	
+Make:HRP thruster systems
+	
+Number:HRP 6001TT/WM
+	
+Output: 750kW
+Bridge control system
+	
+Make: IHC
+	
+Type:DP I Class
+Fire detection system
+	
+Make: Autronica
+	
+Type:BS-320M
+Fire extinguishing systems
+	
+Engine room: NK/high pressure CO2, seawater
+Radars
+	
+Make:JRC
+	
+Model:  JMA-91332-SA, JMA-9122-6XA
+Waste disposal plant
+	
+Incinerator: HMMCO/ MAXI T50SL WS
+	
+Sewage plant:Il Seung/ ISS-25N
+Contract date:30 September 2009
+Launch/float-out date:18 May 2011
+Delivery date: 27 March 2012
+AL-IDRISI: hopper suction dredger
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Daewoo Shipbuilding 
+Vessel’s name:APL Southampton
+Hull No: 4191
+Owner/operator:Neptune Orient Lines
+Country:Singapore
+Designer:Daewoo Shipbuilding 
+Country: Korea
+Model test establishment used:HSVA
+Flag:Singapore
+IMO number: 9462017
+Total number of sister ships still on order: 3
+TECHNICAL PARTICULARS   
+Length oa: 347.0m
+Length bp: 331.0m
+Breadth moulded: 45.2m
+Depth moulded
+	
+To freeboard deck: 22.59m
+	
+To upper deck: 29.7m
+Width of double skin
+	
+Side: 2.17m
+	
+Bottom: 2.0m
+Draught
+	
+Scantling: 15.5m
+	
+Bottom: 13.5m
+Gross: 128,929gt
+Deadweight
+	
+Design:102,140dwt
+	
+Scantling:129,240dwt
+Speed, service:23.4knots
+Bunkers
+Heavy oil: 12,300m3
+Classification society and notations:GL + 100A5E, 
+Container Ship, +MC E, AUT, IW, DG, 
+NAV-O, RSD, STAR, EP, CM (shaft monitoring)
+Heel control equipment: One pair of anti-heeling tanks
+Main engines
+	
+Design:1 x MAN B&W
+	
+Model:12K98ME-C7.1
+	
+Manufacturer: Doosan Engine Co., Ltd
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 54,120kW x 97rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:1 x DSME/MMG
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 8.9m
+Diesel-driven alternators
+	
+Engine make/type: 4 x Hyundai HiMSEN 7H32/40
+	
+Type of fuel:HFO, MDO
+	
+Output, speed of each set: 3,500kW x 720rpm
+	
+Alternator make/type:Hyundai
+	
+Output/speed of each set: 3,300kW
+Boilers
+	
+Type:1 x vertical, water tube
+	
+Make:Kangrim
+	
+Output, each boiler: 5,500kg/h
+Other cranes
+	
+Make: 1 x DMC
+	
+Type:Monorail
+	
+Tasks: Provisions
+	
+Performance: SWL 13tonnes
+Mooring equipment
+	
+Make: 12 x Rolls-Royce
+	
+Type: Electric
+Hatch covers
+	
+Manufacturer: DSME/MacGregor
+	
+Type: Pontoon
+Containers
+	
+Cell guides:Arranged in holds
+	
+Total TEU capacity: 10,642
+	
+	
+On deck: 5,220
+	
+	
+In holds: 5,422
+	
+	
+Homogenously loaded:7,760TEU
+	
+Reefer plugs:800 units
+	
+Tiers/rows
+	
+	
+On deck:8 tiers
+	
+	
+In holds: 11 tiers/16 rows
+Water ballast treatment system
+	
+Make: Techcross
+Capacity: 1,000m3/h
+Complement
+	
+Officers: 18
+	
+Crew: 12
+Bow thrusters
+	
+Make: 1 x HHI
+	
+Output: 3,000kW
+Bridge control system
+	
+Make:Sperry
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Addressable
+Fire extinguishing systems
+	
+Cargo holds:NK/ CO2
+	
+Engine room:NK/ CO2
+Radars
+	
+Make:2 x Sperry
+Contract date:17 July 2007
+Launch/float-out date:11 February 2012
+Delivery date:30 April 2012
+APL SOUTHAMPTON: eco-box ship
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Hyundai-Vinashin Shipyard
+Vessel’s name: Arkadia
+Hull No:S042
+Owner/operator:ESL Shipping
+Country: Finland
+Designer:Hyundai Mipo
+Country: Korea
+Mosel test establishment used: Hyundai 
+Maritime Research Institute/ 
+Aker Arctic Technology Inc. 
+Flag: Finland
+IMO number: 9590797
+TECHNICAL PARTICULARS   
+Length oa: 197.08m
+Length bp: 189.00m
+Breadth moulded: 32.26m
+Depth moulded
+To main deck: 18.50m
+To upper deck: 18.50m
+Width of double skin
+	
+Side: 1.3m
+	
+Bottom: 1.7m
+Draught
+	
+Scantling: 13.00m
+	
+Design: 11.00m
+Gross: 33,958gt
+Displacement:68,418tonnes
+Lightweight:12,070tonnes
+Deadweight
+	
+Design:45,161dwt
+	
+Scantling:56,348dwt
+Speed, service:14.5knots
+Cargo capacity
+Grain: 70,055m3
+Bunkers
+Heavy oil: 2,010m3
+Water ballast: 19,200m3
+Daily fuel consumption
+	
+Main engine only:33.6tonnes/day
+Classification society and notations:DNV, +1A1, Bulk 
+Carrier, ESP, CSR, BC-A
+[Holds 2&4 may be empty], GRAB[20], E0, 
+COAT-PSPC(B), NAUT-0C, ICE-1A, 
+BIS, TMON, BWM-T
+Main engine
+	
+Design:Hyundai Heavy Industry Co., Ltd
+	
+Model:7S50MC-C8
+	
+Manufacturer:Hyundai Heavy Industry Co., Ltd
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 11,620kW x 127rpm
+Propeller
+	
+Material:Stainless Steel (SUS)
+	
+Designer/manufacturer: Rolls-Royce
+	
+Number: 4
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 6.2m
+	
+Speed:127rpm
+Boilers
+	
+Number: 1
+	
+Type: Composite boiler
+	
+Make:SAAKE
+Output, each boiler: 1,600kg/h (oil fired)/1,200kg/h (exhaust gas section)
+Cargo cranes/cargo gear
+	
+Number: 4
+	
+Make: Cargotec
+	
+Type:Electro-Hydraulic
+Other cranes
+	
+Number: 1/ 1
+	
+Make: DMC
+	
+Type: Motor driven/ Electro-hydraulic
+	
+Tasks:E/R overhead crane/ provision handling
+	
+Performance: SWL 2tonnes
+Mooring equipment
+	
+Number: 4
+	
+Make: Rolls-Royce
+	
+Type: Electro-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 25persons
+	
+Make: Hyundai Lifeboat Co., Ltd
+	
+Type:Electro-hydraulic freefall type
+Hatch covers
+	
+Design: Cargotec
+	
+Manufacturer: Cargotec
+	
+Type: Folding type
+Cargo tanks
+	
+Number: 5
+	
+Grades of cargo carried: Bulk 
+Product range:Grain, iron ore, hot coil, limestone, 
+steel pipe, fertiliser
+Water ballast treatment system
+	
+Make:Panasia
+Capacity:2 x 1,000m3/h
+Complement
+	
+Officers: 11
+	
+Crew: 13
+Bow thruster
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Number: 1
+	
+Output:117kN
+Stern thruster
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Number: 1
+	
+Output:117kN
+Bridge control system
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Type: Self standing
+Fire detection system
+	
+Make:Consilium
+	
+Type:715_FC Cargo/4L
+Radars
+	
+Number: 2
+	
+Make: Furuno
+	
+Model:FAR-2837S, FAR-2826
+Integrated bridge system
+	
+Make: Furuno
+	
+Model:FEA2807
+Waste disposal plant
+	
+Incinerator:Hyundai-Atlas
+	
+Sewage plant: IlSeung
+Contract date:06 May 2010
+Launch/float-out date:15 June 2011
+Delivery date:02 January 2012
+ARKADIA: 56,000dwt handymax built  
+in Vietnam
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Mitsubishi Heavy Industries Ltd
+Vessel’s name:Astomos Earth
+Hull No: 2283
+Operator: Idemitsu Tanker Co., Ltd
+Country:Japan
+Designer: Mitsubishi Heavy Industries Ltd
+Country:Japan
+Model test establishment used:MHI Nagasaki 
+R&D Center
+Flag:Panama
+IMO number: 9607069
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa: 230.00m
+Length bp: 219.00m
+Breadth moulded: 36.60m
+Depth moulded
+	
+To upper deck: 21.65m
+Draught
+	
+Scantling: 11.55m
+	
+Design: 11.10m
+Gross: 47,950gt
+Deadweight
+	
+Scantling:55,260dwt
+Speed, service:17knots
+Cargo capacity
+Liquid volume: 83,426m3
+Bunkers
+Heavy oil: 3,200m3
+Water ballast: 22,700m3
+Daily fuel consumption
+	
+Main engine only:46.6tonnes/day
+Classification society and notations:NK NS* (Liquified Gas 
+Carrier Type 2G), (PS-DA & FA, 
+design fatigue life of 50 years), MNS* and (M0)
+Main engine
+	
+Design: Mitsubishi Heavy Industries Ltd
+	
+Model:7UEC60LSII
+	
+Manufacturer: Mitsubishi Heavy Industries Ltd
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 13,000kW x 100rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:.. Mitsubishi Heavy Industries Ltd
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Speed:100rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type:Yanmar Co., Ltd
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 3 x 1,020kW x 900rpm
+	
+Alternator make/type: Taiyo Electric Co., Ltd
+	
+Output/speed of each set: 950kW x 900rpm
+Boilers
+	
+Number: 1
+	
+Type:Composite
+	
+Make:Osaka Boiler Mfg Co., Ltd
+	
+Output, each boiler: 2,300kg/h
+Other cranes
+	
+Number:1 x hose handling crane
+	
+Make:Oriental precision & engineering Co., Ltd
+	
+Type: Electro-hydraulic
+Mooring equipment
+Number: 2 x mooring winch/windlass,6 x mooring winches
+	
+Make:Manabe Zoki Co., Ltd
+	
+Type: Electro-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 39 persons
+	
+Make:Shigi Shipbuilding Co., Ltd
+	
+Type: FRP enclosed type lifeboat
+Cargo tanks
+	
+Number: 4
+	
+Grades of cargo carried: 4
+	
+Product range: Propane, butane, propane/
+butane mixture
+Cargo pump
+	
+Number: 8 + 4
+	
+Type:Submerged type
+	
+Make:Ebara Corporation
+Capacity:8 x 550m3/h, 4 x 250m
+Cargo control system
+	
+Make: Mitsubishi Heavy Industries., Ltd
+Ballast control systems
+	
+Make: Nakakita Seisakusho Co., Ltd
+Complement
+	
+Officers: 9
+	
+Crew: 16
+Stern appendages/special rudders: Reaction fin
+Fire detection system
+	
+Make: Autronica
+	
+Type:Optical type
+Fire extinguishing systems
+	
+Upper deck:Seaplus Co., Ltd/ dry chemical
+	
+Engine room: Eaplus Co., Ltd/ CO2
+Radars
+	
+Number: 2
+	
+Make:  japan Radio Co., Ltd
+Waste disposal pant
+	
+Sewage plant: Sasakura Engineering Co., Ltd
+Contract date: 02 October 2010
+Launch/float-out date:24 May 2012
+ASTOMOS EARTH: 83,000m3 LPG carrier
+from Japan
+
+Shipbuilder:CSSC Chengxi Shipyard Co., ltd
+Vessel’s name: Baie St. Paul
+Hull No: CX9301
+Owner/operator:Canada Steamship Lines
+Country: Canada
+Designers: Cooke Naval Architect 
+Consultants Inc (CNAC)/ SDARI
+Country: Canada/China
+Model test establishment used:Shanghai Ship 
+Flag: Canada
+IMO number: 9601027
+Total number of sister ships still on order: 3
+TECHNICAL PARTICULARS   
+Length oa: 225.5m
+Length bp: 222.6m
+Breadth moulded: 23.76m
+Depth moulded
+	
+To main deck: 14.75m
+Draught
+	
+Summer: 9m
+	
+Design: 8.07m
+Gross: 24,430gt
+Deadweight
+	
+Design:29,700dwt
+	
+Scantling:34,500dwt
+Speed, service:13knots
+Cargo capacity
+Bale: 41,708m3
+Grain: 41,708m3
+Bunkers
+Heavy oil: 677m3
+Water ballast: 18,118m3
+Daily fuel consumption
+	
+Main engine only:29tonnes/day
+Classification society and notations:LR +100A1, Great 
+Lakes Bulk Carrier (self-unloader) 
+for service on the Great Lakes and 
+River St Lawrence, ShipRight, ACS(B), 
+LI, ECO, +LMC, UMS, NAV1, IBS, 
+descriptive notation: part higher 
+tensile steel, self-unloader, double skin, 
+BWMP (S) (SERS), green passport
+Main engine make and model: 1 x MAN B&W
+	
+Model: 6S50ME-B9 Tier II
+	
+Manufacturer: Hudong Heavy Machinery
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 8,750kW
+Gearboxes
+	
+Make: Renk
+	
+Model:1 x BW111S50/GCR 2600
+Propeller
+	
+Material: Bronze
+	
+Designer/manufacturer: MAN
+	
+Number: 1
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 5.2m
+	
+Speed:109rpm
+	
+Special adaptations: Ducted steering nozzle
+Main-engine driven alternators
+	
+Make/type:1 x SAM
+	
+Output/speed of each set: 2,750kW x 1,800rpm
+Diesel-driven alternators
+	
+Engine make/type:3 x ZCME-MAN 2 x 6L21/31/ 1 x 5L21/31
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 1,320kW/ 1,000kW
+	
+Alternator make/type:CME-Hyundai HFJ6-564, 
+HFJ5-632
+	
+Output/speed of each set:1,250kW x 938kW
+Boilers
+	
+Type:3 x Thermal oil fired/ Exhaust gas heater
+	
+Make:Gesab
+	
+Output, each boiler:1,500kW, 585kW, 400kW
+Cargo gear
+	
+Type:five hoppered cargo holds 
+with cargo discharge gates, two tunnel 
+conveyors below cargo holds, two thwartship 
+transfer conveyors, ‘C’ loop 
+type elevator, discharge boom conveyor
+	
+Make: EMS-Type
+	
+Type:Gravity type
+	
+Performance: up to 5,000tonnes/h
+Mooring equipment
+	
+Make:8 x Dilts Electro-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 30persons
+	
+Make:Neptune Freefall
+Hatch covers
+	
+Design:.Single panel, lifted and lowered via gantry crane
+	
+Manufacturer: TTS
+	
+Type:Main deck
+Cargo tanks
+	
+Number: 5
+	
+Grade of cargo carried:Dry bulk
+Product range: Cargos with RHO up to 2,4tonnes/m3
+ and grain
+	
+Coated tanks: IP Intersheild 300 & Interzone 1000
+Ballast pumps
+	
+Type:4 x Centrifugal
+	
+Make: Taiko
+	
+Stainless steel: Shafts
+Capacity: 2 x 2,500m3/h + 2 x 500m
+Cargo control system
+	
+Make: EMS-Tech
+	
+Type: Self-unloading equipment
+Ballast control system
+	
+Make: Pleiger
+Type:	 Electro-hydraulic remote control valves, pneumatic/ 
+electronic tank level..................................  measuring system
+Complement
+	
+Officers Crew: 8/26
+Stern appendages/special rudders:Steering nozzle
+Bow thruster
+	
+Make:1 x Wärtsilä
+	
+Output: 1,000kW
+Stern thruster
+	
+Make:1 x Wärtsilä
+	
+Output: 800kW
+Bridge control system
+	
+Make:Sperry
+	
+Type:IBS
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Tyco
+Fire extinguishing systems
+	
+Cargo holds: Sprinkler iwo conveyors systems
+	
+Engine room:NK/ CO2
+	
+Cabins/public spaces:Firemain
+Radars
+	
+Make:Sperry
+	
+Model:VisionMaster FT
+Integrated bridge system
+	
+Make:Sperry
+Waste disposal plant
+	
+Incinerator: Teamtec/ OGS 400C
+	
+Sewage plant: RWO/ WWT-LC4
+Contract date:12 June 2010
+Launch/float-out date: 26 March 2012
+Delivery date:27 September 2012
+BAIE ST PAUL: first Trillium class bulker
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Jinagzhou Shipyard
+Vessel’s name:BBC Amethyst
+Hull No:2Z 1047
+Owner/operator:BBC Chartering
+Country:Germany
+Designer:abh Ingenieur-Technik GmbH
+Country:Germany
+Flag: Antijnn
+IMO number:9563706
+TECHNICAL PARTICULARS   
+Length oa:153.80m
+Length bp:145.50m
+Breadth moulded:23.20m
+Depth moulded
+	
+To main deck:12.80m
+Width of double skin
+	
+Side:2.60/1.60m
+	
+Bottom: 2.00m
+Draught
+	
+Scantling: 9.10m
+	
+Design: 8.20m
+Gross:12,800gt
+Displacement:23,596tonnes
+Lightweight:8,586tonnes
+Deadweight
+	
+Scantling:14,320dwt
+Cargo capacity:20,848m3
+Bunkers
+Heavy oil:1,350m3
+Water ballast:6,470m3
+Classification society and notations:GL 100A5, 
+E3, DNV 1, IW, DG, MCInt, E3, 
+“Equipment for carriage of containers” 
+“Strengthened for heavy cargo”
+Main engine
+	
+Model:6S46MC-C8
+	
+Manufacturer:STX Engine Co., Ltd
+	
+Number:1
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine:8,280kW
+Propellers
+	
+Material:Ni-Al-Bronze
+	
+Number:1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 5.4m
+	
+Speed:127rpm
+Diesel-driven alternators
+	
+Number:3
+	
+Engine make/type: 2 x 6L23/30, 1 x 8L23/30
+	
+Type of fuel:HFO, MDO
+	
+Alternator make/type:HFC6 506-14K/ HFC6 565-14K
+	
+Output/speed of each set:740kW/990kW
+Boilers
+	
+Number:1 exhaust gas, 1 oil fired
+	
+Type: TOH1000V40_V/ EGH850VLLO-DF
+	
+Make: Gesab
+	
+Output, each boiler: 1,000kW/ 850kW
+Cargo cranes/cargo gear
+	
+Number:2
+	
+Make:NMF
+	
+Type:DK SL 400
+Performance:400tonnes x 6-18m,200tonnes x 4.5-30m, +40tonnes x 33m
+Other cranes
+	
+Number:1
+	
+Make:NMF
+	
+Type:DK V 80
+	
+Performance:80tonnes x 18m
+Mooring equipment
+	
+Number:4
+	
+Type:Hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 22 persons
+	
+Type:Freefall
+Hatch covers
+	
+Design/manufacturer:McGregor
+	
+Type:Pontoon
+Containers
+	
+Lengths:30’/40’
+	
+Heights:4 +9.6
+	
+Total TEU capacity:985
+	
+	
+On deck:598
+	
+	
+In holds:387
+	
+	
+Homogenously loaded to 14tonnes:706
+	
+Reefer plugs:30
+	
+Tiers/rows
+	
+	
+On deck:4
+	
+	
+In holds:4
+Ballast control system
+	
+Make:Sander & Co
+	
+Type:Electro-hydraulic
+Complement
+	
+Officers:7
+	
+Crew:13
+Bow thrusters
+	
+Make: Brunvoll
+	
+Number:1
+	
+Output:900kW
+Fire extinguishing systems
+	
+Cargo holds:NK/ CO2
+Waste disposal plant
+	
+Incinerator: Teamtec/ OGS 200/400L
+	
+Sewage plant:RWO
+Delivery date..............................................................January 2012
+BBC AMETHYST: fleet 
+renewal for BBC Chartering
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Hyundai Heavy Industries
+Vessel’s name:Brightoil Glory
+Hull No:2587
+Owner/operator:Brightoil
+Country:Hong Kong
+Designer:HHI
+Country:Korea
+Model test establishment used:HMRI
+Flag:Hong Kong
+IMO number:9602631
+Total number of sister ships still on order: 2
+TECHNICAL PARTICULARS   
+Length oa: 333m
+Length bp: 319m
+Breadth moulded: 60m
+Depth moulded
+	
+To main deck: 30.4m
+	
+To upper deck: 30.4m
+	
+To other decks:27.654m
+Width of double skin
+	
+Side: 3.4m
+	
+Bottom: 3.00m
+Draught
+	
+Scantling:22.60m
+	
+Design:21.00m
+Gross:161,269gt
+Deadweight
+	
+Design:291,061dwt
+	
+Scantling:319,743dwt
+Speed, service:16.4knots
+Cargo capacity
+Liquid volume:353,626m3
+Bunkers
+Heavy oil:8,397m3
+Water ballast:97,983m3
+Daily fuel consumption
+	
+Main engine only:108.8tonnes/day
+	
+Auxiliaries:4.67tonnes/day
+Main engine
+	
+Design: 2-stroke
+	
+Model: 6S90ME-C8.2
+	
+Manufacturer:Hyundai
+	
+Number:1
+	
+Type of fuel:HFO, MDO, MGO
+	
+Output of each engine:30,423kW
+Propellers
+	
+Material:Ni-Al-bronze
+	
+Designer/manufacturer:Hyundai
+	
+Number:1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 10.1m
+Diesel-driven alternators
+	
+Number:3
+	
+Engine make/type: Hyundai 6H21/32
+	
+Type of fuel:HFO, MDO, MGO
+	
+Output, speed of each set:1,277kW x 900rpm
+	
+Alternator make/type:Hyundai HFC7 566-84K
+	
+Output, speed of each set:1,200kW x 900rpm
+Boilers
+	
+Number:2
+	
+Type:Mission OL
+	
+Make: Aalborg
+	
+Output, each boiler:45,000kg/h
+Hose handling crane
+	
+Number:2
+	
+Make:Oriental
+	
+Type: Single jib crane with self-contained 
+hydraulic power unit
+	
+Performance:SWL 20tonnes x 7m
+Provision handling crane
+	
+Number:2
+	
+Make:Oriental
+	
+Type: Single jib crane with self-contained 
+hydraulic power unit
+	
+Performance:SWL 10/3tonnes x 4m
+Mooring equipment
+Number:2 x combined windlass/mooring winch,8 x mooring winches
+	
+Make:TTS Marine
+	
+Type: Electro-hydraulic, high pressure
+Special lifesaving equipment
+	
+Number or each and capacity:2 x 30persons
+	
+Make:Hyundai Lifeboat
+	
+Type:Conventional
+Cargo tanks
+	
+Number:15 cargo tanks + 2 slop tanks
+	
+Stainless steel:Piping ERW steel
+Cargo pumps
+	
+Number:3
+	
+Type: Vertical centrifugal single stage
+	
+Make:Hyundai
+Capacity: 5,000m3/h x 150mTH
+Cargo control system
+	
+Make:Ace Valve
+	
+Type:.Hydraulic operated valves/ piano type control console
+Ballast control system
+	
+Make:Ace Valves
+	
+Type:.Hydraulic operated valves/ piano type control console
+Complement
+	
+Officers:12
+	
+Crew:18
+Bridge control system
+	
+Make:Kongsberg
+	
+Type:Autochief C20
+Fire detection system
+	
+Make: Tyco Marine
+	
+Type: T2000
+Fire extinguishing system
+	
+Engine room:NK/ High expansion foam
+	
+Cabins/public spaces:Seawater, portable extinguishers
+Radars
+	
+Number:2
+	
+Make:JRC
+	
+Models:JMA-9132-SA, JMA-9122-6XA
+Integrated bridge system
+	
+Make:JRC
+	
+Model:JAN-901B
+Waste disposal plant
+	
+Incinerator:HMMCO/ MAXI 1500SL WS
+	
+Sewage plant:Il Seung ISS-35N
+Contract date:31 August 2010
+Launch/float-out date:20 July 2012
+BRIGHTOIL GLORY: first318,000dwt tanker for Brightoil
+Ship represented in photo is Brightoil Galaxy, sister ship of Brightoil Glory
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Hanjin Heavy Industry 
+Vessel’s name:Brightway
+Hull No: NTP0059
+Owner/operator: Tanker Pacific Management
+Country: Singapore, India, UK
+Designer:Hanjin Heavy Industry 
+Country: Korea
+Model test establishment used: MOERI
+Flag:Singapore
+IMO number: 9588146
+Total number of sister ships still on order: 4
+TECHNICAL PARTICULARS   
+Length oa: 274.00m
+Length bp: 264.00m
+Breath moulded: 48.00m
+Depth moulded
+	
+To main deck: 23.50m
+Width of double skin
+	
+Side: 2.55m
+	
+Bottom: 2.70m
+Draught
+	
+Scantling: 17.20m
+	
+Design: 16.00m
+Gross: 83,830gt
+Displacement:185,000tonnes
+Deadweight
+	
+Design:145,800dwt
+	
+Scantling:160,000dwt
+Speed, service:15.7knots
+Cargo capacity
+Liquid volume: 176,500m3
+Bunkers
+Heavy oil: 3,600m3
+Water ballast: 56,000m3
+Daily fuel consumption
+	
+Main engine only:75tonnes/day
+	
+Auxiliaries:4.5tonnes/day
+Classification society and notations: DNV + 1A1, 
+“Tanker for oil ESP”, E0, CSR, SPM, BIS, 
+VCS-2B, BWM-E(S), COAT-PSP (B), CLEAN
+Main engine
+	
+Design: MAN Turbo Diesel
+	
+Model:6S70MC-C8
+	
+Manufacturer: Hyundai Heavy Industries
+	
+Type of fuel:HFO
+	
+Output of each engine: 18,100kW
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: HHIC (TMS)/MMG
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 8.3m
+	
+Speed:89rpm
+Diesel-driven alternators
+	
+Engine make/type: Hyundai/Himsen 5H21/32
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 960kW x 900rpm
+	
+Alternator make/type: Hyundai/HFC7 506-84K
+	
+Output/speed of each set: 900kVA x 900rpm
+Boilers
+	
+Type:Oil-fired boiler
+	
+Make:Aalborg
+	
+Output, each boiler:45,000gh/h x 16Bar
+Cargo cranes/cargo gear
+	
+Make:MCT
+	
+Type:Electro-hydraulic cylinder luffing type
+	
+Performance: SWL 20tonnes
+Other cranes
+	
+Make:Haean
+	
+Type: Electric driven wire luffing type
+	
+Tasks: Provision & engine part handling
+	
+Performance: SWL 6.5tonnes/ 2tonnes
+Mooring equipment
+	
+Make:Pusnes
+	
+Type: Electro-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 32 persons
+	
+Make: DSB
+Cargo tanks
+	
+Number: 12 x cargo tanks + 2 slop tanks
+	
+Grades of cargo carried:Crude oil having 
+a flash point below 60°C
+Coated tanks: PPG SSC’s epoxy (Sigmaprime 700) for 
+crown area & bottom & slop tanks (full area)
+Cargo pumps
+	
+Type: Steam driven, vertical, reciprocating, 
+duplex double acting
+	
+Make:Shinko
+	
+Stainless steel: Shaft
+Capacity:3,800m3/h x 150mTH
+Cargo control system
+	
+Make:KSB Seil
+Ballast control system
+	
+Make:KSB Seil
+Bridge control system
+	
+Make: Hyundai Heavy Industries 
+	
+Type:Integrated navigation console
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico cargo
+Fire extinguishing systems
+	
+Engine room:NK/ high expansion foam
+Radars
+	
+Make: Japan Radio Co., Ltd
+	
+Model: JMA-9133-SA, JMA-9123-9XA
+Integrated bridge system
+	
+Make: Japan Radio Co., Ltd
+Waste disposal plant
+	
+Incinerator:Hyundai/ MAXI NG100SL WS
+	
+Sewage plant:Jonghap/ JMC-Bio Aerob-18N
+Contract date: 17 March 2012
+Launch/Float-out date: 28 October 2011
+Delivery date:1 May 2012
+BRIGHTWAY: Suezmax tanker from HHIC-Phil
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Daewoo Shipbuilding 
+Vessel’s name: CMA CGM Marco Polo
+Hull No: 4161
+Owner/operator:CMA CGM
+Country: France
+Designer:Daewoo Shipbuilding 
+Country: Korea
+Model test establishment used:HSVA
+Flag: France
+IMO number: 9454436
+TECHNICAL PARTICULARS   
+Length oa: 396.0m
+Length bp: 378.4m
+Breadth moulded: 53.6m
+Depth moulded
+	
+To main deck: 29.9m
+Width of double skin
+	
+Side: 2.59m
+	
+Bottom: 2.2m
+Draught
+	
+Scantling: 16.0m
+	
+Design: 14.0m
+Gross: 153,022gt
+Deadweight
+	
+Design:149,470dwt
+	
+Scantling:186,470dwt
+Speed, service:25.1knots
+Bunkers
+Heavy oil: 14,500m3
+Water ballast: 52,000m3
+Daily fuel consumption
+	
+Main engine only:288.5tonnes/day
+Classification society and notations:BV I, +HULL, +MACH, 
+Container Ship, Unrestricted Navigation, 
+VERISTAR HULL, +AUT-UMS, +AUT-PORT, 
+CLEANSHIP(C), Green Passport% high tensile steel used in construction: 66.2%
+Main engine
+	
+Design: Wärtsilä 14RT-flex96C
+	
+Manufacturer:Doosan Engine
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 80,080kW x 102rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: DSME/ Hyundai
+	
+Fixed/controllable pitch: 9.1m
+Diesel-driven alternators
+	
+Engine make/type:Hyundai HiMSEN
+	
+Type of fuel used:HFO, MDO
+	
+Output/speed of each set: 2 x 3,840kW, 2 x 3,300kW
+	
+Alternator make/type: self-excited/brushless
+	
+Output/speed of each set:720rpm
+Boilers
+	
+Type:Vertical
+	
+Make:Alfa Laval Aalborg
+	
+Output: 5,500kg/h
+Cranes
+	
+Make:Oriental
+	
+Type: Electric
+	
+Tasks:Provisions, Suez mooring boats 
+and FO hose handling
+Mooring equipment
+	
+Number:2 x windlasses, 10 x mooring winches
+	
+Make: Rolls-Royce
+	
+Type: Electric
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 40 persons
+	
+Make:2 x 40 person Hyundai Lifeboat Conventional
+Hatch covers
+	
+Design:Cargotec Finland
+	
+Manufacturer: DSME
+	
+Type: Pontoon type
+Containers
+	
+Lengths: 40ft
+	
+Heights:8ft 6in or 9ft 6in
+	
+Cell guides:Fixed cell guide
+	
+Total TEU capacity: 16,000
+	
+	
+On deck: 8,600
+	
+	
+In holds: 7,400
+	
+	
+Homogenously loaded to 14tonnes:12,000TEU
+ 	
+Reefer plugs:800 units
+	
+Tiers/rows
+	
+	
+On deck: 9/21
+	
+	
+In holds: 11/19
+Ballast control system
+	
+Make: Heinrich Behrens Pumpenfabric
+	
+Type: Centrifugal, vertical, self-priming
+Complement
+	
+Officers: 15
+	
+Crew: 14
+Bow thruster
+	
+Make:Kawasaki Heavy Industry
+	
+Output: 1,800kW
+Fire extinguishing systems
+	
+Cargo holds/Engine room:CO2
+	
+Cabins:Seawater from fire main
+Radars
+	
+Number: 1
+	
+Models: Radar and integrated navigation system
+Contract date:6 July 2007
+Launch/float-out date:6 June 2012
+Delivery date: 16 October 2012
+CMA CGM MARCO POLO: mega container 
+ship from DSME
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Neptun Werft
+Vessel’s name:Coral Energy
+Hull No:S665
+Owner/operator:Anthony Veder Chartering B.V
+Country: The Netherlands
+Designer: Neptun Werft
+Country:Germany
+Flag: Dutch
+IMO number: 9617698
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 154.95m
+Length bp: 146.67m
+Breadth moulded: 22.70m
+Depth moulded
+	
+To main deck: 14.95m
+Draught
+	
+Ballast: 5.19m
+	
+LNG: 7.35m
+	
+Summer: 8.45m
+Deadweight
+	
+LNG draught:8,710dwt
+	
+Summer draught:12,250dwt
+Speed, service:15.80knots
+Cargo capacity
+Liquid Volume: 15,600m3
+Bunkers
+Heavy oil: 1,400m3
+Water ballast: 4,908m3
+Classification society and notations:BV I *Hull, *MACH, 
+*AUT-UMS Liquefied gas carrier, 
+Unrestricted navigation, Ice Class 1A, 
+MON SHAFT, CLEANSHIP 7+, 
+SYS NEQ-1, AVM-DPS, Inwatersurvey, 
+Green Passport Liquefied Gas Carrier 
+Type 2G/IER S.P 4.2 barg/F.R. -163°C
+Main engines
+	
+Design:Wärtsilä
+	
+Model:8L50DF
+	
+Manufacturer:Wärtsilä
+	
+Number: 1
+	
+Type of fuel:Natural gas, HFO, MGO
+	
+Output of each engine: 7,800kW x 514rpm
+Propellers
+	
+Material:
+	
+Designer/manufacturer:Wärtsilä
+	
+Number: 1
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 5,4m
+	
+Speed:514rpm
+Diesel-driven generators
+	
+Number: 2
+	
+Engine make/type:Wärtsilä 6L20DF
+	
+Type of fuel: Natural gas, MGO
+	
+Output/speed of each set:1,056kw x 1,200rpm
+Other cranes
+	
+Number: 2
+	
+Tasks: Hose handling, provision crane
+	
+Performance: 5tonnes x 18.5m, 4tonnes x 8.3m
+Mooring equipment
+	
+Number: 7
+	
+Make: Rolls-Royce
+	
+Type: Hydraulic driven
+Special lifesaving equipment
+Number of each and capacity: 1 x 30persons, 1 x6persons, 3 x liferafts
+	
+Type: free-fall, rigid boat with inboard motor
+Cargo tanks
+	
+Number: 3
+	
+Grade of cargo carried: Methane, Liquefied Natural 
+Gas (LNG)
+	
+Coated tanks: Tank type C
+Cargo pumps
+	
+Number: 6
+	
+Make/type:Hamworthy, Deepwell
+Capacity: 270m3/hr
+Complement
+	
+Officers: 6
+	
+Crew: 15
+Passengers
+	
+Total: 22
+	
+Number of cabins: 26
+Bow thruster
+	
+Make:Verheer Omega
+	
+Number: 1
+	
+Output: 850kW
+Launch/float-out date:30 September 2012
+Delivery date:January 2013
+CORAL ENERGY: dual-fuel LNG carrier
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Samsung Heavy Industries 
+Co., Ltd
+Vessel’s name:Eagle San Antonio
+Hull No: HN1962
+Owner/operator:AET/ AET 
+Shipmanagement Pte Limited
+Country:Singapore
+Designer:Samsung Heavy Industries Co., Ltd
+Country: Korea
+Model test establishment used:Samsung Ship 
+Model Basin
+Flag:Singapore
+IMO number: 9594822
+Total number of sister ships still on order: 4
+TECHNICAL PARTICULARS   
+Length oa: 274.29m
+Length bp: 267.0m
+Breath moulded: 49.0m
+Depth moulded
+	
+To main deck: 23.3m
+	
+To upper deck: 23.3m
+Width of double skin
+	
+Side: 2.45m
+	
+Bottom: 2.55m
+Draught
+	
+Scantling: 17.2m
+	
+Design: 16.2m
+Gross: 80,783gt
+Displacement:181,682tonnes
+Lightweight:23,832tonnes
+Deadweight
+	
+Design:145,946dwt
+	
+Scantling:157,849dwt
+Block co-efficient: 0.7860
+Speed, service:15.97knots
+Cargo capacity
+Liquid volume: 175,066m3
+Bunkers
+Heavy oil: 3,578m3
+Water ballast: 50,943m3
+Daily fuel consumption
+	
+Classification society and notations: Lloyds Register100A1, Double Hull Oil Tanker, CSR, ESP,
+ShipRight (ACS (B), CM), LI, LMC, UMS, 
+ShipRight SCM, IWS 
+(no searching blanking device), EP
+Main engines
+	
+Design:MAN Diesel & Turbo
+	
+Model:6S70MC-C8.1
+	
+Manufacturer:Doosan Engine-MAN Diesel 
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 16,400kW x 82.8rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:MMG
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 8.45m
+	
+Speed:82.2rpm
+Diesel-driven alternators
+	
+Engine make/type:STX Engine-MAN Diesel & Turbo 
+Licensee/ 6L23/30H
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 960kW x 900rpm
+	
+Alternator make/type: HHI/HFC7 508-84K
+	
+Output/speed of each set: 900kW x 900rpm
+Boilers
+Number: 2 x auxiliary boiler1 x composite boiler.
+	
+Type:Mission OL3500, Mission OC2000/1600
+	
+Output, each boiler:35tonnes/h x 1.6MPa,2tonnes/h x 0.6MPa for oil fired side,
+Cargo cranes/cargo gear
+	
+Make: DMC
+	
+Type:Electric-hydraulic
+	
+Performance:15tonnes x 17m
+Other cranes
+	
+Make: DMC
+	
+Type:Electric-hydraulic
+	
+Tasks: Provisions, machinery equipment handling
+	
+Performance: 6.3tonnes x 14.5m, 2tonnes x 14.5m
+Mooring equipment
+	
+Make: Flutek-Kawasaki
+	
+Type:Electric-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 32 persons
+	
+Make:Hyundai Lifeboat
+	
+Type:Totally enclosed
+Cargo tanks
+	
+Number: 14
+	
+Grades of cargo carried:Crude oil having a 
+flash point below 60°C
+	
+Product range:Crude oil
+Coated tanks:Epoxy anti-corrosive paint
+ (Deckhead and 1.7m below x 1 + 200 micron. 
+Bottom and 0.5m above x 2 = 250 micron)
+Stainless steel: Piping: Hydraulic line for 
+valve control shall be of stainless steel
+Cargo pumps
+	
+Type:Vertical, single stage, centrifugal
+	
+Make:shinko
+	
+Stainless steel:Stainless steel is installed 
+for the impeller shaft
+Capacity:3,500m3/h x 135m at S.G 1.025
+Cargo control system
+	
+Make: Samsung – Amri Seil
+	
+Type: Valve remote control system
+Ballast control system
+	
+Make: Samsung – Amri Seil
+	
+Type: Valve remote control system
+Complement
+	
+Officers: 19
+	
+Crew: 13
+Stern appendages/special rudders: Rudder bulb
+Bridge control system
+	
+Make: Tokyo Keiki
+	
+Type: Auto Pilot with adaptive function
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Addressable type
+Fire extinguishing systems
+	
+Engine room:Kashiwa/ High expansion foam system
+	
+Cabins/public spaces: Seawater
+Radars
+	
+Make:SHI-JRC
+	
+Models: JMA-9132-SA, JMA-9122-6XA
+Integrated bridge system
+	
+Make:SHI-JRC
+	
+Model:JAN-901-B
+Waste disposal plant
+	
+Incinerator: Hyundai-Atlas/ Maxi T150SL
+Contract date:25 June 2010
+Launch/ float-out date:29 February 2012
+Delivery date:26 April 2012
+EAGLE SAN ANTONIO: eco-designed 
+Suezmax from Samsung
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: STX Offshore 
+Vessel’s name: Elka Leblon
+Hull No:S1571
+Owner/operator: European Navigation Inc
+Country:Greece
+Designer: STX Offshore 
+Country: Korea
+Flag: Liberia
+IMO number: 9625712
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa: 278.30m
+Length bp: 264.00m
+Breadth moulded: 48.70m
+Depth moulded
+	
+To upper deck: 23.60m
+Draught
+	
+Scantling: 16.60m
+	
+Design: 15.00m
+Displacement:182,644tonnes
+Lightweight:27,800tonnes
+Deadweight
+	
+Design:135,452dwt
+	
+Scantling:154,844dwt
+Block co-efficient: 0.8333
+Speed, service:15.5knots
+Cargo capacity
+Liquid volume: 170,220m3
+Bunkers
+Heavy oil: 4,553m3
+Water ballast: 54,607m3
+Daily fuel consumption
+	
+Main engine only:55.99tonnes/day
+	
+Auxiliaries:6.9tonnes/day
+Classification society and notations:DNV, +1A1, Tanker for Oil 
+esp. CSR, E0, DYNPOS-AUTR, 
+Bow Loading, NAUT-OC, SPM, VCS-2, 
+COAT-PSPC(B), HELDK-SH, CCO, 
+F-AMC, ECA(SOx-A), CLEAN, TMON, OPP-F, 
+Recyclable, AP-2(25%), BIS, BWM-T, BWM-E(s)
+Main engine
+	
+Design:STX-MAN B&W
+	
+Model:6S70ME-C8.1 (NOx Tier III)
+	
+Manufacturer:STX Heavy Industry
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output of each engine: 17,525kW x 82rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Kawasaki
+	
+Fixed/controllable pitch: Controllable pitch
+	
+Diameter: 8.6m
+	
+Speed:82rpm
+Diesel-driven alternators
+	
+Engine make/type: 2 x STX-MAN 8L27 38
+	
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output/ speed of each set: 2,500kW x 72rpm
+	
+	
+Alternator make/type: Hyundai Heavy Industries
+Boilers
+	
+Number:2 x Kangrim
+	
+Type:Oil fired
+	
+Output, each boiler:10tonnes/h
+Exhaust gas economiser
+	
+Number:1 x Kangrim
+	
+Type:EM16DC12A2
+	
+Output, each boiler:1.6tonnes/h
+Cargo cranes
+	
+Number: 2 x DMC
+	
+Type: Electro hydraulic driven cylinder 
+luffing single jib type
+	
+Performance: SWL 20tonnes
+Other cranes
+	
+Number:1 x DMC Electro hydraulic
+	
+Tasks:BLS equipment and hose handling
+	
+Performance: SWL 5tonnes
+Mooring equipment
+	
+Number: 8 x Flutek-Kawasaki
+	
+Type:Hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 40 persons
+	
+Make:Hyundai
+Cargo tanks
+	
+Number:12 cargo tanks & 2 slop tanks
+	
+Grades of cargo carried:Crude oil having a flash point 
+below 60°C
+	
+Coated tanks make:Jotun
+Cargo pumps
+	
+Number: 12 cargo pumps & 2 slop tanks
+	
+Type:Centrifugal, hydraulic motor driven
+	
+Make: Framo
+.600m
+Cargo control system
+	
+Make: Scana(VRC) + Framo
+Ballast control system
+	
+Make: Scana (VRC) + Framo
+Water ballast treatment system
+	
+Make: Techcross
+Capacity: 2,600m3/h, 450m
+Complement
+	
+Officers: 22
+	
+Crew: 12
+Stern thruster: 2 x Kawasaki2,200kW(tunnel type), 2,200kW(azimuth type)
+Bridge control system
+	
+Make:KTE, T-Shape
+	
+One-man operation:Yes
+Fire detection system
+	
+Make: Consilium, Salwico Cargo
+Fire extinguishing systems
+	
+Engine room/Cargo holds:NK/CO2
+Integrated bridge system/Radars:2 x Konsberg K-bridge
+Contract date:15 April 2011
+Launch/float-out date:31 August 2012
+Delivery date: 23 December 2012
+ELKA LEBLON: STX's shuttle tanker
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Mitsubishi Heavy Industries
+Vessel’s name: Emerald Ace
+Hull No: 1296
+Owner/operator:Mitsui OSK Lines
+Country:Japan
+Designer:Mitsubishi Heavy Industries
+Country:Japan
+Model test establishment used: MHI Nagasaki 
+R&D Centre, Japan
+Flag: Marshall Islands
+IMO number: 9539236
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 199.99m
+Length bp: 192.00m
+Breadth moulded: 32.26m
+Depth moulded
+	
+To main deck: 14.70m
+	
+To upper deck: 34.52m
+Draught
+	
+Scantling: 9.70m
+	
+Design: 8.80m
+Gross: 60,154gt
+Deadweight
+	
+Design:13,932dwt
+	
+Scantling:18,334dwt
+Speed, service:20.65knots
+Bunkers
+Heavy oil: 2,600m3
+Water ballast: 8,500m3
+Daily fuel consumption
+	
+Main engine only:49tonnes/day
+Classification society and notations: Nippon Kaiji Kyokai, 
+NS* (Vehicle Carrier), IWS, MNS* (M0)
+Main engine
+	
+Design: Mitsubishi Heavy Industries
+	
+Model:7UEC60LSII (P/U)
+	
+Manufacturer: Mitsubishi Heavy Industries
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 14,315kW x 105rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: Mitsubishi Heavy Industries
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+Speed:105rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type: Daihatsu Diesel Mfg Co., Ltd
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 1,250kW x 720rpm
+	
+Alternator make/type:Nishishiba Electric Co., Ltd
+	
+Output/speed of each set: 1,170kW x 720rpm
+Boilers
+	
+Number: 1
+	
+Make:Osaka Boiler Mfg Co., Ltd
+Mooring equipment
+	
+Number: 2 x mooring winches, 4 x mooring winches
+	
+Make:Manabe Zoki Co., Ltd
+	
+Type: Electric
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 32 persons
+	
+Make:Techno Alpha Co., Ltd
+	
+Type: FRP enclosed type lifeboat
+Vehicles
+	
+Number of vehicle decks:9.5 fixed, 2.5 hoistable
+	
+Total cars: 6,400
+Doors/ramps/lifts/movable car decks
+	
+Number of each: 1 x stern ramp, 1 x side ramp
+	
+Designer:Kyoritsu Kikai Co Ltd
+Ballast control system
+	
+Make:Nakakita Deisakusho Co Ltd
+Complement
+	
+Officers: 10
+	
+Crew: 21
+Stern appendages/special rudders: Stator fin
+Bow thruster
+	
+Make: Kawasaki Heavy Industries 
+	
+Number: 1
+	
+Output: 1,590kW
+Fire detection system
+	
+Make: Autronica
+Fire extinguishing systems
+	
+Engine room:Foam, water spray
+	
+Vehicle spaces: Foam
+Radars
+	
+Number: 2
+	
+Make: Japan Radio Co., Ltd
+Launch/float-out date: 9 March 2012
+Delivery date:29 June 2012
+EMERALD ACE: solar powered car carrier 
+from Mitsubishi
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Hyundai Samho Heavy 
+Industries Co., Ltd
+Vessel’s name: Ephesos
+Hull No:S570
+Owner/operator:N.J Goulandris
+Country:Greece
+Designer:Hyundai Samho Heavy 
+Industries Co., Ltd
+Country: Korea
+Model test establishment used: Hyundai 
+Maritime Research Institute
+Flag:Greece
+IMO number: 9607423
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 274.18m
+Length bp: 264.00m
+Breadth moulded: 50.00m
+Depth moulded
+	
+To main deck: 23.10m
+	
+To upper deck: 23.10m
+Width of double skin
+	
+Side: 2.50m
+	
+Bottom: 2.90m
+Draught
+	
+Scantling: 17.15m
+	
+Design: 16.00m
+Gross: 84,850gt
+Displacement:191,050tonnes
+Lightweight:26,300tonnes
+Deadweight
+	
+Design:150,620dwt
+	
+Scantling:164,730dwt
+Block co-efficient: 0.8211
+Cargo capacity: 180,807m3
+Liquid volume: 177,191m3
+Bunkers
+Heavy oil: 4,321m3
+Water ballast: 57,329m3
+Daily fuel consumption
+	
+Main engine only:67.4tonnes/day
+Classification society and notations: DNV, +A1, Tanker 
+of Oil, ESP, CSR, E0, VCS-2, TMON, 
+BIS, BWM-E(s), SPM, COAT-PSPC(B)
+Main engine
+	
+Design:Hyundai B&W
+	
+Model: 6S70ME-C8
+	
+Manufacturer:Hyundai
+	
+Number: 1
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 18,660kW x 91rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Hyundai Heavy 
+Industries Co., Ltd
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 8.2m
+	
+Speed:91rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type: Hyundai/HiMSEN 5H21/32
+	
+Type of fuel: HFO, MDO, MDO
+	
+Output/speed of each set: 960kW x 900rpm
+	
+Alternator make/type: HHI-EES/ cylindrical rotary filled
+	
+Output/speed of each set: 900kW x 900rpm
+Exhaust-gas scrubbing equipment
+	
+Manufacturer:Kangrim
+	
+Type:Forced circulating, surface extended, water tube
+	
+On main engine:Yes
+Boilers
+	
+Number: 1
+	
+Type: Automatic, forced draft, HFO, 
+burning, marine boiler
+	
+Make:Alfa Laval Aalborg
+	
+Output, each boiler:35,000kg/h x 16/6kg/cm2
+Cargo cranes/ cargo gear
+	
+Number: 2
+	
+Make:Oriental Precision & Engineering Co., Ltd
+	
+Type: Electro-hydraulic driven
+	
+Performance:20tonnes
+Mooring equipment
+	
+Number: 9
+	
+Make:Aker Pusnes AS
+	
+Type: Electro-hydraulic
+Cargo tanks
+	
+Number: 14
+	
+Grades of cargo carried:Crude oil
+Cargo pumps
+	
+Number: 3
+	
+Type:Vertical centrifugal single stage
+	
+Make:Shinko Industry
+Capacity:4,000m3/h x 135mTH
+Cargo control system
+	
+Make: Nakakita Seisakusho Co., Ltd
+	
+Type: Remote control
+Ballast control system
+	
+Make: Nakakita Seisakusho Co., Ltd
+	
+Type: Remote control
+Complement
+	
+Officers: 14
+	
+Crew: 17
+Bridge control system
+	
+Make: HHI-EES
+	
+Type: Self standing
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Riken Keiki
+Fire extinguishing systems
+	
+Cargo holds:NK/ low expansion foam/ seawater
+	
+Engine room: Fain/ CO2
+	
+Cabins/public spaces: Seawater
+Radars
+	
+Number: 2
+	
+Make: Furuno
+	
+Model:FAR-2837S, FAR-2827
+Waste disposal plant
+	
+Incinerator:Hyunddai Marine/ Atlas
+	
+Sewage plant:Hamworthy/ SD-3A 
+Contract date:9 July 2012
+Launch/float-out date:6 January 2012
+Delivery date:28 February 2012
+EPHESOS: EEDI rated oil tanker
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Samsung Heavy Industries
+Vessel’s name: Ever Lambent
+Hull No: HN1980
+Owner/operator:Evergreen
+Country: Taiwan
+Designer: Samsung Heavy Industries
+Flag: UK
+IMO number: 9595436
+Total number of sister ships still on order: 20
+TECHNICAL PARTICULARS   
+Length oa: 335m
+Length bp: 317m
+Breadth moulded: 45.8m
+Depth moulded
+	
+To upper deck: 25m
+Width of double skin
+	
+Side: 14.2m
+	
+Design: 13.5m
+Draught
+	
+Scantling: 14.2m
+	
+Design: 13.5m
+Gross: 97,500gt
+Deadweight
+	
+Design:95,800dwt
+	
+Scantling:104,400dwt
+Speed, service:24.7knots
+Bunkers
+Heavy oil: 10,500m3
+Water ballast: 40,000m3
+Classification society and notations:LR  100A1, 
+Container Ship, ShipRight (SDA, FDA Plus (25, NA), 
+CM, ACS (B)), *IWS, LI, EP, LMC, UMS
+Main engine
+	
+Design:MAN Diesel & Turbo
+	
+Model:9K98ME7
+	
+Manufacturer: Hyundai Heavy Industries
+	
+Number: 1
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 56,070kW
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Samsung Heavy Industries/
+Nakashima
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Special adaptations:Tip Rake Design
+Diesel-driven alternators
+	
+Number: 4
+	
+Engine make/type:Doosan-MAN/ 7L32/40
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 3,500kW x 720rpm
+	
+Alternator make/type:Nishishiba
+	
+Output/speed of each set: 3,200kW x 720rpm
+Boilers
+	
+Number: 1
+	
+Type:Oil fired
+	
+Make:Kangrim
+	
+Output, each boiler:5tonnes/h x 7kg/cm2
+Mooring equipment
+	
+Number: 4
+	
+Make: Manabe
+	
+Type: Electric
+Special lifesaving equipment
+	
+Number of each and capacity: 2
+	
+Make:Hyundai
+	
+Type: Totally enclosed, davit launching type
+Hatch covers
+	
+Manufacturer: Samsung Heavy Industries
+	
+Type: Steel pontoon
+Water ballast treatment system
+	
+Make:Optimarin
+Capacity: 1,000m3/h
+Complement
+	
+Officers: 18
+	
+Crew: 12
+Bow thruster
+	
+Make:KTE
+	
+Number: 1
+	
+Output: 3,000kW
+Bridge control system
+	
+Make: Kongsberg
+	
+Type:Autochief C20
+	
+One-man operation:Yes
+Fire detection system
+	
+Make: NK Fire Protection
+Fire detection systems
+	
+Cargo holds:NK/ CO2
+	
+Engine room:NK/CO2
+	
+Cabins/public spaces: Seawater
+Radars
+	
+Number: 2
+	
+Make: Tokyo Keiki
+	
+Model: BR-3200
+Integrated bridge system
+	
+Make:Samsung/Terasaki
+Waste disposal plant
+	
+Incinerator: Hyundai-Atlas/ MAXI 1200
+	
+Sewage plant:Evac/ MBR 16C
+Contract date:2 July 2010
+Launch/float-out date:21 April 2012
+Delivery date:25 July 2012
+EVER LAMBENT: first ‘L’ Class for 
+Evergreen
+Ship represented in photo is Ever Laden, sister ship of Ever lambent
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Mitsubishi Heavy Industries
+Vessel’s name:Ferry Naminoue
+Owner/operator:A Line Ferry Co., Ltd
+Country:Japan
+Designer: Mitsubishi Heavy Industries, Ltd.
+Country:Japan
+Model test establishment used: MHI Nagasaki 
+R&D Centre, Japan
+Flag: JAPAN (Amami)             
+IMO number: 9608348
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 145.00m
+Length bp: 135.00m
+Breadth moulded: 24.00m
+Depth moulded
+	
+To main deck: 8.25m
+	
+To upper deck: 14.50m
+Draught
+	
+Scantling: 6.25m
+	
+Design: 6.20m
+Gross: 8,072gt
+Deadweight
+	
+Design:3,711dwt
+	
+Scantling:3,833dwt
+Speed,service:21knots
+Bunkers
+Heavy oil: 544.7m3
+Water ballast: 2,394m3
+Daily fuel consumption
+	
+Main engine only:52.6tonnes/day
+Main engine
+	
+Design: S.E.M.T – Pielstick
+	
+Model: 12PC2-6V
+	
+Manufacturer: JFE Engineering Corporation
+	
+Number: 2
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 6,070kW
+Gearboxes
+	
+Make: Hitachi Nico Transmission Co., Ltd
+	
+Model:MMGRP32043-91
+	
+Number: 1
+Propeller
+	
+Material:CAC703
+	
+Designer/manufacturer: Nakashima Propeller Co., Ltd
+	
+Number: 1
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 4.8m
+Main-engine alternators
+	
+Number: 1
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type:Yanmar/ 6N21AL-EW
+	
+Type of fuel used:HFO, MDO
+	
+Output/speed of each set:900rpm
+Boilers
+	
+Number: 1
+	
+Type: HB-025
+	
+Make: Muira Kogyo Co., Ltd
+	
+Output, each boiler: 2,000kg/h
+Cargo cranes/ cargo gear
+	
+Number: 1
+	
+Make:Teramoto Co., Ltd
+	
+Type:K-7
+Mooring equipment
+	
+Number: 2 x mooring winch, 1 x windlass
+	
+Make:Manabe Zoki Co., Ltd
+	
+Type:Electric-hydraulic
+Special lifesaving equipment 
+	
+Number of each and capacity:MES-4
+	
+Make:Fujikura Rubber Ltd.
+	
+Type:FSMES-200・N
+	
+Vertical or sloping chutes:vertical
+Containers
+	
+Total TEU capacity: 312
+	
+	
+On deck: 56
+	
+	
+In holds: 256
+Vehicles
+	
+Number of vehicle decks:3 fixed
+	
+Total cars: 72
+	
+Total freight: 48
+Doors/ramps/lift/movable car decks
+	
+Number of each:1 x ramp door, 4 x ramp, 1 x lift 
+	
+Designer:Shimonoseki Ryoju Engineering Co., Ltd 
+Ballast control system
+	
+Make: NYK Trading Corporation
+Complement
+	
+Officers: 10
+	
+Crew: 15
+Passengers
+	
+Total: 707
+	
+Number of cabins: 47
+Bow thruster
+	
+Make:Nakashima Propeller Co., ltd
+	
+Number: 1
+Stern thrusters
+	
+Make: Nakashima Propeller Co., Ltd
+	
+Number: 2
+Bridge control system
+	
+Make:Nabtesco
+	
+Type:electric
+Fire detection system
+	
+Make:Nippon Hakuyo Electronics
+	
+Type:Smoke detector type & Temperature type
+Fire extinguishing systems
+	
+Cargo holds:Nohmi Bosai Ltd/sprinker
+	
+Engine room: Air Water Safety Service/ CO2
+	
+Vehicle spaces: Nohmi Bosai Ltd/ fixed
+	
+Cabins & public spaces:Yamato Protec/ Portable
+Radars
+	
+Number: 2
+	
+Make:JRC
+	
+Models:JMA-5332-12, JMA-9122-9XA
+Contract date:20 June 2011
+Launch/float-out date: 27 March 2012
+Delivery date:19 September 2012
+FERRY NAMINOUE: 8,000gt passenger 
+ferry with MALS
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Namura Shipbuilding Co., Ltd
+Vessel’s name:FS Diligence
+Hull No: 324
+Owner/operator:J&K Shipping 
+Company Limited
+Country:Hong Kong
+Designer:Namura Shipbuilding Co., Ltd
+Country:Japan
+Flag:Hong Kong
+IMO number: 9532161
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 249.97m
+Length bp: 241.00m
+Breadth moulded: 44.00m
+Depth moulded
+	
+To upper deck: 21.20m
+Width of double skin
+	
+Side: 2.20m
+	
+Bottom: 2.51m
+Draught
+	
+Scantling: 14.80m
+	
+Design: 12.91m
+Gross: 63,058gt
+Deadweight
+	
+Design:89,652dwt
+	
+Scantling:115,656dwt
+Speed, service:15.2knots
+Cargo capacity
+Liquid volume: 133,033.1m3
+Bunkers
+Heavy oil: 3,277.3m3
+Water ballast: 41,981m3
+Daily fuel consumption
+	
+Main engine only:51.7tonnes/day
+	
+Auxiliaries:2.32tonnes/day
+Classification society and notations: ABS +A1 Oil 
+Carrier, (E), CSR, AB-CM, ESP, 
++AMS, +ACCU, VEC, UWIND, TCM, RW, CPP
+Main engine
+	
+Model: 1 x MAN B&W 6S60MC-C
+	
+Manufacturer:.Mitsui Engineering & Shipbuilding Co., Ltd
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 13,560kW x 105rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: Nakashima Propeller Co., Ltd
+	
+Number: 1
+	
+Diameter: 7m
+	
+Speed:105rpm
+Diesel-driven alternators
+	
+Engine make/type:3 x Yanmar Co., Ltd/ 6EY18AL
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 660kW x 900rpm
+	
+Alternator make/type:Taiyo Electric Co., Ltd/ FE 547A-8
+	
+Output/speed of each set: 660kW x 900rpm
+Boilers
+	
+Type:1 x MAC-45B
+	
+Make: Mitsubishi Heavy Industries Ltd
+	
+Output, each boiler: 45,000kg/h x 1.57MPa 
+x Saturated Temp
+Cargo cranes/cargo gear
+	
+Make: 1 x Kyoritsu Kikai Co., Ltd
+	
+Type:Electro-hydraulic driven jib type
+	
+Performance:15tonnes x 27m
+Other cranes
+	
+Make: 1 x Sekigahara Seisakusyo Ltd
+	
+Type:Electric driven jib type
+	
+Performance:3.5tonnes x 11.4m
+Mooring equipment
+	
+Number: 7
+	
+Make:Kawasaki Heavy Industries Ltd
+	
+Type: Electro-hydraulic driven type
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 25 persons
+	
+Make:Shigi Shipbuilding Co., Ltd
+	
+Type:Enclosed FRP fire protected lifeboat
+Cargo tanks
+	
+Number: 14
+	
+Grade of cargo carried: 3
+	
+Product range: Product oil
+	
+Coated tanks: Pure Epoxy paint
+Cargo pumps
+	
+Number: 3
+	
+Type:KV450-3
+	
+Make: Shinko Ind., Ltd
+	
+Stainless steel: Impeller Shaft
+Capacity:3,000m3/h x 135m
+Cargo control systems
+	
+Make: Nakakita Seisakusho Co.,Ltd]
+Type: Remote controlled hydraulic oil system
+Ballast control system
+	
+Make: Nakakita Seisakusho Co.,Ltd
+	
+Type: Remote controlled hydraulic oil system
+Complement
+	
+Officers: 9
+	
+Crew: 15
+Stern appendages/special rudders:Namura control fin
+Bridge control system
+	
+Make: Mitsui Engineering & Shipbuilding Co., Ltd
+	
+Type:BMS-2000 III
+Fire detection system
+	
+Make:Nippon Hakuyo Electronics., Ltd
+	
+Type: FF-3062
+Fire extinguishing systems
+	
+Cargo holds/Engine room: Foam type
+	
+Cabins/public spaces:Portable fire extinguisher
+Radars
+	
+Make:3 x Furuno Electric Co., Ltd
+	
+Model:FAR-2837S, FAR-2827, FAR-2817
+Waste disposal plant
+	
+Incinerator:Sunflame Co., Ltd/ OSV 600SAI
+	
+Waste shredder/crusher:.. Sanwa Churi Industry Co., Ltd/ 
+Disposer SD-15BS
+	
+Sewage plant: Evac Oy/ Evac MBR 16
+Delivery date:18 January 2012
+FS DILIGENCE: Japanese Aframax tanker
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Hyundai Heavy Industries
+Vessel’s name:Hamburg Express
+Hull No: 2241
+Owner/operator:Hapag-Lloyd
+Country:Germany
+Designer: Hyundai Heavy Industries
+Country: Korea
+Model test establishment used: HMRI
+Flag: Liberia
+IMO number: 9461051
+Total number of sister ships still on order: 7
+TECHNICAL PARTICULARS   
+Length oa: 366.45m
+Length bp: 350.00m
+Breadth moulded: 48.2m
+Depth moulded
+	
+To main deck: 29.85m
+Width of double skin
+	
+Side: 2.4m
+	
+Bottom: 2.3m
+Draught
+	
+Scantling: 15.5m
+	
+Design: 14.5m
+Gross: 142,295gt
+Deadweight
+	
+Design:142,092dwt
+	
+Scantling:127,170dwt
+Speed, service:23.6knots
+Bunkers
+Heavy oil: 12,785m3
+Water ballast: 34,519m3
+Daily fuel consumption
+	
+Main engine only:214.4tonnes/day
+	
+Auxiliaries:22.1tonnes/day
+Classification society and notations:GL +100A5, 
+Container Ship, DG, +MC, AUT, 
+RSD, EP, NAV-O, IW, BWM(D2)
+Main engine
+	
+Design:2-stroke
+	
+Model:11K98ME7
+	
+Manufacturer:Hyundai
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output of each engine: 58,274kW
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Hyundai
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 9m
+Main-engine driven alternator
+	
+Make/type: SAM Electronics 
+	
+Output/speed of each set: 4,500kW x 65-95rpm
+Diesel-driven alternators
+	
+Engine make/type:Daihatsu/ 8DC-32, 6DC-32
+	
+Type of fuel: MDO, MGO
+Output/speed of each set:3 x 3,844kW,1 x 2,905kW x 720rpm
+	
+Alternator make/type:Hyundai/ HSJ7 811-10P, 
+HSJ7 801-10P
+Output/speed of each set:3 x 3,650kW,1 x 2,750kW x 720rpm
+Boilers
+	
+Type:Horizontal composite boilers
+	
+Make: Saake
+	
+Output, each boiler:7,000kg/h exhaust 
+gas section: 2,900kg/h
+Provision cranes
+	
+Make: DMC
+	
+Type:Single jib, electro-hydraulic
+	
+Performance: SWL 4tonnes x 4m
+Other cranes
+	
+Make:Fuchs
+	
+Type:Monorail hoist
+	
+Tasks:Spare parts in engine room 
+and handling precision
+	
+Performance: SWL 12.5tonnes x 7.5m
+Mooring equipment
+	
+Number: 2 x combined windlass/mooring winch, 8 x 
+mooring winch
+	
+Make:Pusnes
+	
+Type:Conventional lifeboat
+Hatch covers
+	
+Design: Cargotec
+	
+Manufacturer:Hyundai
+	
+Type:Steel pontoon type on upper deck
+Containers
+	
+Lengths: 6,058mm
+	
+Heights: 2,591mm
+	
+Cell guides: High/low entry system with protection bar
+	
+Total TEU capacity:13,169TEU
+	
+	
+On deck:7,105TEU
+	
+	
+In holds:6,064TEU
+	
+	
+Homogenously loaded to 14tonnes:9,074TEU
+	
+Reefer plugs:800FEU
+	
+Tiers/rows
+	
+	
+On deck: 9/19
+	
+	
+In holds: 11/17
+Ballast control system
+	
+Make:Pleiger Far East
+	
+Type: Electro-hydraulic
+Water ballast treatment system
+	
+Make:Mahle
+Capacity:2 x 1,500m3/h
+Bow thrusters
+	
+Make:Kawasaki
+	
+Output: 1,800kW
+Bridge control system
+	
+Make/Type: SAM Electronics/PCS 2200
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico
+Fire extinguishing systems
+	
+Cargo holds/engine room:NK/CO2
+	
+Cabins/public spaces:NK/ seawater hydrant
+Radars
+	
+Make: Furuno
+	
+Models:FAR-2827, FAR 2837S
+Integrated bridge system
+	
+Make: Furuno
+	
+Model:FEA-2807
+Waste disposal plant
+	
+Sewage plant: Hamworthy
+Contract date: 13 December 2010
+Launch/float-out date:6 April 2012
+Delivery date:5 July 2012
+HAMBURG EXPRESS: first in new class 
+for Hapag-Lloyd
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Hyundai Samho Heavy 
+Industries Co., Ltd
+Vessel’s name:Hyundai Together
+Hull No:S456
+Owner/operator:Danaos Shipping Co., Ltd/ 
+Hyundai Merchant Marine Co., Ltd
+Country:Greece
+Designer:Hyundai Samho Heavy 
+Industries Co., Ltd
+Country: Korea
+Model test establishment used: Hyundai 
+Maritime Research Institute
+Flag: Liberia
+IMO number: 9473731
+TECHNICAL PARTICULARS   
+Length oa: 366.53m
+Length bp: 350.00m
+Breadth moulded: 48.20m
+Depth moulded
+	
+To main deck: 29.85m
+	
+To upper deck: 29.85m
+Width of double skin
+	
+Side: 48.20m
+	
+Bottom: 2.30m
+Draught
+	
+Scantling: 15.50m
+	
+Design: 14.50m
+Gross:	59,000gt
+Displacement:184,000tonnes
+Deadweight
+	
+Design:126,000dwt
+	
+Scantling:141,000dwt
+Block co-efficient: 0.68
+Speed, service:24.70knots
+Bunkers
+Heavy oil: 12,500m3
+Water ballast: 36,000m3
+Daily fuel consumption
+	
+Main engine only:270tonnes/day
+	
+Auxiliaries:5.5tonnes/day
+Classification society and notations:GL +100A5, 
+Container Ship, SOLAS II-2 Reg.19, 
++MC, AUT, IW, RSD, STAR, ERS, BWM
+Main engine
+	
+Design: B&W
+	
+Model:12K98ME-C7
+	
+Manufacturer:Hyundai
+	
+Number: 1
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 72,240kW x 104rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Hyundai Heavy Industries Co., 
+Ltd
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 8.8m
+	
+Speed:104rpm
+Diesel-driven alternators
+	
+Number: 5
+	
+Engine make/type: Hyundai/Himsen 8H32/40
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output/speed of each set: 2,870kW x 720rpm
+	
+Alternator make/type: Hyundai HSJ7 805-16E, 
+HSJ7 811-16E
+	
+Output/speed or each set: 2,700kW x 720rpm
+Exhaust-gas scrubbing equipment
+	
+Manufacturer:Kangrim
+	
+Type: Forced
+	
+On main engine:Yes
+Boilers
+	
+Number: 1
+	
+Type:Fully automatic, forced draft, HFO burning
+	
+Make:Kangrim
+Output, each boiler:5,500kg/h x 6kg/cm2
+Cargo cranes/cargo gear
+	
+Number: 2
+	
+Make:Oriental Precision Engineering
+	
+Type: Electro-hydraulic driven
+	
+Performance:4tonnes
+Other cranes
+	
+Number: 1
+	
+Make: Dongham Marine Crane Co., Ltd
+	
+Type: Electric motor driven
+	
+Tasks:Maintenance
+	
+Performance:12.5tonnes
+Mooring equipment
+	
+Number: 10
+	
+Make:Towmor
+	
+Type: Electro-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 28persons
+	
+Make: Hyundai lifeboats
+	
+Type:Hinged gravity type
+Hatch covers
+	
+Design:Seohae Marine System
+	
+Manufacturer:Hyundai Samho Heavy Industries Co., Ltd
+	
+Type: Pontoon
+Containers
+	
+Lengths: 6,058mm
+	
+Height: 2,591mm
+	
+Total TEU capacity:13,082TEU
+	
+	
+On deck:7,074TEU
+	
+	
+In holds:6,008TEU
+	
+	
+Homogenously loaded to 14tonnes:8,927TEU
+	
+Reefer plugs:800FEU
+	
+Tiers/rows
+	
+	
+On deck: 9/19
+	
+	
+In holds: 11/17
+Ballast control system
+	
+Make: Shinshin-Hamworthy
+	
+Type: Remote control type
+Complement
+	
+Officers: 12
+	
+Crew: 16
+Stern appendages/special rudders: Semi-spade type
+Bow thruster
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Number: 2
+	
+Output: 1,800kW
+Bridge control system
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Type:Self Standing
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium Marine AB
+	
+Type:CS4000
+Fire extinguishing systems
+	
+Cargo holds/engine room:NK/ CO2
+	
+Cabins/ public spaces: Seawater
+Radars
+	
+Number: 2
+	
+Make: Furuno
+	
+Model: FAR-2837S, FAR-2827W
+Waste disposal plant
+	
+Incinerator:Kangrim
+	
+Sewage plant: Jonghap Machinery
+Contract date:29 September 2007
+Launch/float-out date:20 November 2011
+Delivery date:16 February 2012
+HYUNDAI TOGETHER: 13,000TEU 
+containership
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Sungdong Shipbuilding 
+Vessel’s name: Innovation
+Hull No:S1177
+Owner/operator:Aegean Bulk Co., Inc
+Country:Greece
+Designer:Sungdong Shipbuilding 
+Country: Korea
+Model test establishment used:SSPA Sweden
+Flag:Liberia, Monrovia
+IMO number: 9622667
+TECHNICAL PARTICULARS   
+Length oa: 229m
+Length bp: 222m
+Breadth moulded: 32.26m
+Depth moulded
+	
+To main deck: 20.2m
+	
+To upper deck: 20.2m
+Width of double skin
+	
+Bottom: 1.85m
+Draught
+	
+Scantling: 14.55m
+	
+Design: 12.2m
+Gross:	44,300tonnes
+Displacement:94,900tonnes
+Deadweight
+	
+Design:65,200dwt
+	
+Scantling:81,600dwt
+Speed, service:14.5knot
+Cargo capacity
+Bale: 91,500m3
+Grain: 96,300m3
+Bunkers
+Heavy oil: 2,500m3
+Water ballast: 22,800m3
+Daily fuel consumption
+	
+Main engine only:37tonnes/day
+Classification society and notations: ABS +A, (E), 
+Bulk Carrier, CSR, ESP, BC-A (Hold no’s: 2, 4, & 6 may be 
+empty), AB-CM, GRAB[20], CPS, RW, +AMS, +ACCU, 
+UWILD, TCM, PMA, BWE, ENVIRO, GP
+Main engine
+	
+Model: MAN Diesel 6S60ME-C8.2
+	
+Manufacturer: HHI
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output of each engine: 11,200kW x 96rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: Sungdong/HHI
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 7,1m
+	
+Speed:96rpm
+Diesel-driven alternators
+	
+Engine make/type:STX 5L23 30H IMO Tier 2
+	
+Type of fuel used: HFO, MDO, MGO
+Output/speed of each set: 650kW x 720rpm
+	
+Alternator make/type: HHI HFCS 520-14K
+	
+Output/speed of each set: 600kW x 720rpm
+Boiler
+	
+Type: Composite boiler
+	
+Make:Kangrim
+	
+Output, each boiler:oil-fired 1,300kg/h, 
+exhaust gas 1,300kg/h
+Other cranes
+	
+Make:Oriental
+	
+Type: Overhead crane
+	
+Tasks:For moving the heavy spare 
+or overhauling in the engine room
+	
+Performance:4tonnes x 7m
+Other cranes
+	
+Make:Oriental
+	
+Type: Electro hydraulic cylinder luffing jib type
+	
+Tasks: Provisions
+	
+Performance:4tonnes x 15m
+Mooring equipment
+	
+Make: Fluteck-Kawasaki
+	
+Type:Electro hydraulic high pressure
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 25 persons
+	
+Make: Hyundai Lifeboats
+	
+Type:Totally enclosed
+Hatch covers
+	
+Design: MacGregor
+	
+Manufacturer: MacGregor
+	
+Type:Weather deck hatch covers, side rolling
+Cargo tanks, number: 7
+	
+Grades of cargo carried:Grain, coal, ore
+Ballast control system
+	
+Make: Kongsberg
+	
+Type: K-Cheif500
+Complement
+	
+Officers: 15
+	
+Crew: 10
+Bridge control system
+	
+Make: HHI
+	
+One-man operation:Yes
+Fire detection system:
+	
+Make:Consilium
+	
+Type:Addressable
+Fire extinguishing systems
+	
+Engine room/Cargo holds:NK/CO2 
+Radars
+	
+Make:Furuno/Models FAR-2827, FAR-2837S
+Waste disposal plant
+	
+Incinerator: Hyundai-Atlas/ MAXI NG100SL WS
+	
+Sewage plant:Il Seung/ISS-25N
+Contract date: 3 March 2011
+Launch/float-out date:7 May 2012
+Delivery date:18 June 2012
+INNOVATION: modern Kamsarmax
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Crist S.A, Gdansk
+Vessels name: Innovation
+Hull No: 142
+Owner/operator:HGO InfraSeas Solutions 
+GmbH & Co. Kg
+Country:Germany
+Designer:Design Consortium 
+Overdick/Wärtsilä
+Country:Germany/ Finland
+Model test establishment used: MARIN
+Flag:Germany
+IMO number: 9603453
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 166.00m
+Length bp: 146.8m
+Breadth moulded: 42.00m
+Depth moulded
+	
+To main deck: 11,00m
+	
+To forecastle deck: 15.00m
+Draught
+	
+Scantling: 7.348m
+	
+Design: 7.00m
+Gross: 21,900gt
+Displacement:35,537tonnes
+Lightweight:24,371tonnes
+Deadweight
+	
+Design:9,323dwt
+	
+Scantling:11,166dwt
+Block co-efficient: 0.7594
+Speed, service:max: 12.3knots service: 10knots
+Cargo capacity: up to 6 turbines of 
+the 6MW class Up to 3 foundations 
+for the 6MW turbines in 50m water depth
+Bunkers
+Water ballast: 11,037.2m3
+Daily fuel consumption
+	
+Maine engine only: 15-45tonnes/day
+Classification society and notations:GL 100A5, SPS, Self 
+Elevating Unit, Operation acc. 
+To operation manual, S9P65, 
+DP2, OSV, WTIS, EP, NAV-OC, MC AUT
+Main engine
+	
+Design: Diesel-electric
+Model: 9M32C/9M20C
+	
+Manufacturer: MaK Germany
+	
+Number: 6/1
+	
+Type of fuel:MGO
+	
+Output of each engine: 4,500kW/ 1,620kW
+Propellers
+	
+Designer/manufacturer: Schottel
+	
+Number: 4 
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 3.4m
+Cargo cranes/cargo gear
+	
+Number: 1
+	
+Make:Liebherr
+	
+Type:Crane around the leg CAL 64,000/RL 2650-40 LIT
+	
+Performance: 1,500tonnes x 31,5m/ 40tonnes x 30m
+Other cranes
+	
+Number: 1
+	
+Make:Liebherr
+	
+Type:RL 2650-40 LIT
+	
+Task:Auxiliary crane
+	
+Performance:40tonnes x 30m
+Mooring equipment
+	
+Number: 8
+	
+Make: Towimoor
+	
+Type: Electric
+Special lifesaving equipment
+	
+Number of each and capacity: 2 x 102persons
+	
+Make:Noreq
+	
+Type:LBT 935T
+Complement
+	
+Crew: 35
+Bow thruster
+	
+Make:Schottel Tunnel Thruster STT 3030
+	
+Number: 3
+	
+Output: 2,800kW
+Bridge control system
+	
+Make: SAM Electronics
+Fire detection system
+	
+Make:Sam Electronics/ Consilium
+Fire extinguishing systems
+	
+Engine room:CO2
+	
+Cabins/public spaces: Sprinkler
+Radars
+	
+Number: 7
+	
+Make: SAM Electronics
+Integrated bridge system
+	
+Make: SAM Electronics
+	
+Model:Platinum
+Contract date: October 2010
+Delivery date:August 2012
+INNOVATION: flexible jack-
+up vessel from Hochtief
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Shipkits B.V
+Vessels name:Jaguar
+Hull No:105
+Owner/operator:Jaguar Shipping
+Country:The Netherlands
+Designer:Vuyk Engineering Groningen B.V
+Country:The Netherlands
+Model test establishment used: Marin
+Flag:The Netherlands
+IMO number:9613628
+Total number of sister ships still on order: 3
+IMO number: 9573713
+Total number of sister ships still on order: 22
+TECHNICAL PARTICULARS   
+Length oa: 199.99m
+Length bp: 32.26m
+Depth moulded
+	
+To main deck: 18.50m
+	
+To upper deck: 18.50m
+Draught
+	
+Scantling: 13.325m
+	
+Design: 11.30m
+Gross: 35,812gt
+Displacement:74,922tonnes
+Lightweight:11,621tonnes
+Deadweight
+	
+Design:50,850dwt
+	
+Scanrling:63,301dwt
+Block co-efficient: 0.860
+Speed, service:14.5knots
+Cargo capacity
+Bale: 75,555m3
+Grain: 77,492m3
+Bunkers
+Heavy oil: 1,746m3
+Water ballast: 18,385m3/ 34,391m
+with cargo hold number 3
+Daily fuel consumption
+	
+Main engine only:25.8tonnes/day
+	
+Auxiliaries:2.0tonnes/day
+Classification society and notations:BV I +HULL, +MACH, 
+Bulk Carrier, CSR, BC-A (Holds 2 & 4 may 
+be empty), ESP, GRAB[20], CPS(WBT), 
+Unrestricted Navigation, +Veristar-Hull, +AUT-UMS, 
+MON-SHAFT, Inwatersurvey, Green Passport
+Main engines
+	
+Design:MAN BW
+	
+Model: 5S60MEC8 TII
+	
+Manufacturer: Doosan Engine Co., Ltd
+	
+Number: 1
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output of each engine: 8,300kW x 91rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: Nakashima
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 6.9m
+	
+Speed:91rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type: CME MAN 5 23/30H
+	
+Type of fuel: HFO, MDO, MGO
+Output/speed of each set: 650kW x 720rpm TII
+Alternator make/type: Zhenjiang China Marine Xiandai 
+Generating Co., Ltd
+Output/speed of each set: 615kW x 720rpm
+Boilers
+	
+Number: 1
+	
+Type: Combined exhaust/oil fired
+	
+Make: Saacke 
+	
+Output, each boiler: 700kg/h-1,600kg/h
+Cargo cranes/cargo gear
+	
+Number: 4
+	
+Make: MacGregor
+	
+Type: GLB 3629
+	
+Performance:36tonnes x 29m
+Other cranes
+	
+Number: 3
+	
+Make:Wuxi Huaxing Marine Equipment
+	
+Type: Electric single jib
+	
+Tasks:..Engine room overhead/provisions and machinery
+	
+Performance:2/4tonnes x 5m
+Mooring equipment
+	
+Number: 8
+	
+Make: Rolls-Royce
+	
+Type: Electro-hydraulic high pressure
+Special lifesaving equipment
+Number of each and capacity:1 x 28 persons,1 x 6 persons
+	
+Make: Jiangsu Jiaoyan Marine Equipment
+	
+Type:Totally enclosed
+Hatch covers
+	
+Design: MacGregor
+	
+Manufacturer: MacGregor Nantong
+	
+Type: Electro-hydraulic, folding
+Ballast control system
+	
+Make:BESI
+	
+Type:.Integrated hydraulic control and monitoring system
+Complement
+	
+Officers: 11
+	
+Crew: 10
+Stern appendages/special adaptations: Rudder bulb, 
+HSVA rudder profile
+Bridge control system
+	
+Make:Nabtesco
+	
+Type: Conventional
+	
+One-man operation:Yes
+Fire detection system
+	
+Make: Salwico Consilium
+	
+Type:Addressable
+Fire extinguishing systems
+	
+Cargo holds:CO2
+	
+Engine room:CO2
+Radars
+	
+Number: 2
+	
+Make:JRC
+	
+Model:JMA 9122, JMA 9132 – TFT 23”arpa
+Waste disposal plant
+	
+Incinerator:Teamtec
+	
+Sewage plant: Jowa/ STP 2010-25
+Contract date: 16 October 2009
+Launch/float-out date: 16 December 2011
+Delivery date: 02 March 2012
+JS AMAZON: Crown 63 
+design with EEDI
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Naikai Zosen Corporation
+Vessel’s name: Jules Garnier II
+Hull No: 755
+Owner/operator:Sunny Durban Maritime S.A
+Country: Panama
+Designer:Naikai Zozen Corporation
+Country:Japan
+Flag: Panama
+IMO number: 9646417
+Total number of sister ships still on order: nil
+TECHNICAL PARTICULARS   
+Length oa: 160.00m
+Length bp: 154.50m
+Breadth moulded: 26.00m
+Depth moulded
+	
+To upper deck: 14.00m
+Draught
+	
+Scantling: 9.88m
+Gross: 16,715gt
+Deadweight
+	
+Scantling:27,454dwt
+Speed, service:14.5knots
+Cargo capacity
+Grain: 20,955.8m3
+Bunkers
+Heavy oil: 1,032.2m3
+Water ballast: 13,847m3
+Daily fuel oil consumption
+	
+Main engine only:24.7tonnes/day
+Classification society and notations: ClassNK NS* (Bulk 
+Carrier Modified, BC-X II, Grab) (IWS), MNS*
+Main engine
+	
+Design:MAN Diesel & Turbo SE
+	
+Model: Hitachi-MAN B&W 6S42MC7.1
+	
+Manufacturer: Hitachi Zozen Corporation 
+Innoshima Works
+	
+Number: 1
+	
+Type:HFO
+	
+Output of each engine:M.C.O 6,480kW x 136rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: Nakashima Propeller Co., Ltd
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 5.20m
+	
+Speed:136rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type:Yanmar Co., Ltd
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 500kW x 900rpm
+	
+Alternator make/type: Taiyo Electric Co., Ltd
+	
+Output/speed of each set: 440kW x 900rpm
+Boilers
+	
+Number: 1
+	
+Type: Veritcal, forced draft, composite boiler
+	
+Make:Miura Co., Ltd
+	
+Output, each boiler: 1,000/700kg/h
+Cargo cranes/cargo gear
+	
+Number: 3
+	
+Make:IHI Corporation
+	
+Type:H300185-260
+	
+Performance:Hook use: 30tonnes x 18.5m
+	
+Grab use:24tonnes x 18.5m
+Mooring equipment
+	
+Number:.2 x windlass/mooring winch, 6 x mooring winch
+	
+Make: Nippon Pusnes Co., Ltd
+	
+Type: Electro-hydraulic driven closed gear
+Hatch covers
+	
+Design/manufacturer:Iknow Machinery co., Ltd
+	
+Type: Folding type steel hatch covers
+Complement
+	
+Officers: 8
+	
+Crew: 12
+Stern appendages/special rudders: Mariner type with 
+surf-bulb
+Bow thrusters
+	
+Make:Nakashima propellers Co., Ltd
+	
+Number: 1
+	
+Output: 650kW
+Fire detection system
+	
+Make:Nippon Hakuyo Electronics Ltd
+	
+Type:FF-3062-10
+Fire extinguishing systems
+	
+Engine room: Air Water Safety Service Inc/ CO2 
+	
+Yamato Protec Corporation/ Seawater, portable 
+extinguishers
+	
+Cabins/public spaces:Portable fire extinguishers
+Radars
+	
+Number: 2
+	
+Make: Japan Radio Co., Ltd
+	
+Model: JMA-9132-SA, JMA-9122-6XA
+Waste disposal plant
+	
+Incinerator:Miura Co., Ltd/ BGW-20N
+	
+Sewage plant:Taiko Kikai Ind Co., LTD/ SBH-25
+Contract date:11 April 2011
+Launch/float-out date:4 July 2012
+Delivery date:19 September 2012
+JULES GARNIER II: unique nickel 
+ore carrier
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Hyundai Samho Heavy 
+Industries Co., Ltd
+Vessel’s name:K. Hope
+Hull No:S588
+Owner/operator:SK Shipping
+Country: Korea
+Designer:Hyundai Samho Heavy 
+Industries Co., Ltd
+Country: Korea
+Model test establishment used: Hyundai 
+Maritime Research Institute
+Flag:Panama
+IMO number: 9613783
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 330.07m
+Length bp: 321.00m
+Breadth moulded: 57.00m
+Depth moulded
+	
+To main deck: 25.10m
+	
+To upper deck: 25.10m
+Width of double skin
+	
+Side: 31.68m
+	
+Bottom: 4.00m
+Draught
+	
+Scantling: 18.00m
+	
+Design: 18.00m
+Gross: 133,647gt
+Displacement:285,100tonnes
+Deadweight
+	
+Scantling:250,000dwt
+Block co-efficient: 0.8424
+Cargo capacity: 169,455m3
+Bunkers
+Heavy oil: 7,142m3
+Water ballast: 155,083m3
+Daily fuel consumption
+	
+Main engine only:72.7tonnes/day
+	
+Auxiliaries:7tonnes/day
+Classification society and notations: KR, +KRS1-Ore 
+Carrier ‘ESP’, IWS, Grab, ENV (IBWM, IAFS, IOPP, 
+ISPP, IGPP, IAPP), PSPC, CHA, L1, +KRM1-UMA, 
+STCM. DNV (leading class), +1A1, Ore Carrier, 
+ESP, ES (O), 1B-3, E0, BIS, TMON, BWM-E(s), 
+COAT-PSPC (B) NAUTICUS (Newbuilding), NAUT-OC
+Main engine
+	
+Design:Hyundai-Wärtsilä
+	
+Model:6RT-flex82T
+	
+Manufacturer:Hyundai
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 23,000kW x 78rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:..Hyundai Heavy Industries Co., Ltd
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 9.8m
+	
+Speed:78rpm
+Diesel-driven alternators
+	
+Engine make/type: Hyundai HiMSEN 6H21/32
+	
+Type of fuel: HFO, MDO, MGO
+Output/speed of each set: 1,100kW x 900rpm
+Alternator make/type: Hyundai/ HJ7 564-84K
+	
+Output/speed of each set: 1,000kW x 900rpm
+Exhaust gas scrubbing equipment
+	
+Manufacturer:Kangrim
+	
+Type: Forced circulating, surface extended, water tube
+	
+On main engine:Yes
+Boilers
+	
+Type:Kangrim Automatic, forced draft, HFO, 
+burning, marine boiler
+	
+Output, each boiler: 2,500kg/h 
+Cargo cranes/cargo gear
+	
+Make:Oriental Precision & Engineering Co., Ltd
+	
+Type: Electro hydraulically driven
+	
+Performance: hoisting capacity: 10/4tonnes
+Mooring equipment
+	
+Make: Rolls-Royce/Electro-hydraulic
+Special lifesaving equipment
+	
+Number or each and capacity:1 x 25 persons
+	
+Make:Hyundai lifeboats Co., Ltd
+	
+Type:Totally enclosed & free-fall launching type
+Hatch covers
+	
+Design: SMS/Hyundai Samho Heavy 
+Industries Co., Ltd
+	
+Type:Side rolling
+Cargo tanks
+	
+Number: 5
+	
+Grades of cargo carried:Ore
+Ballast control system
+	
+Make:Ace Valve Co., Ltd
+Complement
+	
+Officers: 10
+	
+Crew: 15
+Stern appendages/special rudders: Semi-spade type
+Bridge control system
+	
+Make: HHI-EES
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:B-I Industrial Co., Ltd/BDS-4000
+Fire extinguishing systems
+	
+Cargo holds:Fain/ seawater
+	
+Engine room:NK/ High expansion foam/seawater
+Radars
+	
+Make: JRC/JMA-9132-SA, JMA-9122-6XA
+Contract date: 22 December 2010
+Launch/float-out date:1 June 2012
+Delivery date:12 September 2012
+K. HOPE: very large ore carrier for SK Shipping
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Estalerio Ilha S.A (EISA)
+Vessel’s name:LOG-IN Tambaqui
+Hull No:EI-509
+Owner/operator:..LOG-IN Logistica Intermodal
+Country: Brazil
+Designer:Projemar S.A
+Country: Brazil
+Model test establishment used: Marintek
+Flag: Brazil
+IMO number: 9555785
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa: 245.00m
+Length bp: 237.00m
+Breath moulded: 40.00m
+Depth moulded
+	
+To main deck: 17.60m
+Draught
+	
+Scantling: 12.08m
+	
+Design: 11.58m
+Gross: 48,258gt
+Deadweight
+	
+Design:78,214dwt
+	
+Scantling:82,689dwt
+Block co-efficient: 0.83
+Speed, service:14knots
+Cargo capacity
+Ore: 63,235m3
+Bunkers
+Heavy oil: 1,844m3
+Water ballast: 63,556m3
+Daily fuel consumption
+	
+Main engine only:35tonnes/day
+Classification society and notations:LR  100A1 
+Ore Carrier, ESP, ShipRight 
+(SDA, FDA, CM, ACS(B)) 
+*IWS, LI, “ LMC, UMS” with 
+descriptive notes, “Holds 1 to 6 
+strengthened for Regular Discharge 
+by Heavy Grabs, Single-Pass 
+Loading Capability as per Approved 
+Loading Sequence, ShipRight (BWMP (S), 
+SCM, ShipRight ES+1 (Bottom and Bilge)), 
+pt higher tensile steel”
+Main engine
+	
+Design:Wärtsilä Switzerland Ltd
+	
+Model: 6RT-flex 50-B
+	
+Manufacturer: Hyundai Heavy Industries
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 9,960kW
+Propellers
+	
+Material:Cu-Ni-Al
+	
+Designer/manufacturer: Wärtsilä Netherlands B.V
+	
+Number: 1
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 6.1m
+	
+Speed:124rpm
+Diesel-driven alternators
+	
+Number: 4
+	
+Engine make/type:Wärtsilä
+	
+Type of fuel:HFO/MDO
+	
+Output/speed of each set: 520kW x 900rpm
+	
+Alternator make/type:Wärtsilä/ Auxpac 520W4L20
+	
+Output/speed of each set: 650kVA x 900rpm
+Boilers
+	
+Number: 1
+	
+Type:Composite
+	
+Make:Aalborg
+	
+Output, each boiler: 2,900kg/h x7bar
+Other cranes
+	
+Number: 2
+	
+Make:Acta
+	
+Type:HSC 60-40-15
+	
+Tasks: Provisions
+	
+Performance:4tonnes x 15m
+Mooring equipment
+	
+Number: 2
+	
+Make: TTS Kocks
+	
+Type:E-Anchor windlass RW W1
+Special lifesaving equipment
+	
+Number or each and capacity:1 x 40persons
+	
+Make:Norsafe
+	
+Type:Freefall lifeboat
+Hatch covers
+	
+Design:TTC Dry Cargo Handling
+	
+Manufacturer:EISA
+	
+Type: Upper deck
+Cargo control system
+	
+Make: Interschalt Maritime Systems AG
+	
+Type: Seacos MACS3
+Ballast control system
+	
+Make:Hoppe Bordmesstechnik GmbH
+	
+Type: Pneumatic
+Complement
+	
+Officers: 8
+	
+Crew: 12
+Stern appendages/special rudders:Fishing tail rudder
+Bow thruster
+	
+Make:Wärtsilä
+	
+Number: 2
+	
+Output:740kN x 1,785rpm
+Bridge control system
+	
+Make: SAM Electronics
+	
+Type: Nacos Platinum
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico Fire Alarm
+Fire extinguishing systems
+	
+Engine room:Minimax/ Novec MX 1230
+Radars
+	
+Number: 3
+	
+Make: SAM Electronics
+	
+Model:S-Band/ X-Band/ Riveradar JMA-610
+Integrated bridge system
+	
+Make: SAM Electronics
+	
+Model: Nacos Platinum
+Waste disposal plant
+	
+Incinerator: Atlas/ Atlas 600 SL
+	
+Sewage plant:Hamworthy/ T0406027 A
+Contract date:13 July 2009
+Launch/float-out date: 11 October 2011
+Delivery date: December 2012 
+LOG-IN TAMBAQUI: tailor-made ore 
+carrier for Brazil
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:STX Finland Turku Shipyard
+Vessel’s name:Meri
+Hull No: 1379
+Owner/operator: Oy Gaiamare Ab
+Country: Finland
+Designer:STX Finland Turku Shipyard
+Country: Finland
+Model test establishment used: Aker Arctic
+Flag: Finland
+IMO number: 9622502
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 105.4m
+Length bp: 95.6m
+Breadth moulded: 18.8m
+Depth moulded
+	
+To main deck: 6.55m
+Draught
+	
+Design: 4.0m
+Draught, at design waterline:  4.0 m
+Draught, bow & stern first ice operation: 4.7 m
+Draught, ballast: 3.25 m
+Gross:	3,360gt
+Deadweight
+	
+Design:3,200dwt
+Speed, service:12.5knots
+Bunkers
+Heavy oil: 262m3
+Water ballast: 5,791.6m3
+Classification society and notations: Bureau Veritas
+Hull  Mach, Deck Ship, General cargo ship, 
+Unrestricted Navigation, heavycargo 
+[MAIN DECK Frames #-9+200 mm 
+to #95, 78.48 kN/m²], ICE CLASS 1 A, 
+AUT-UMS, DYNAPOS AM/AT; Equipped 
+for Carriage of Containers, preparations for 
+additional class notation: “Oil Recovery Ship”
+Main engines
+	
+Design: Wärtsilä Finland Oy
+	
+Model:Wärtsilä 6L20
+	
+Manufacturer: Wärtsilä Finland Oy
+	
+Number: 3
+	
+Type of fuel:HFO/LBF
+	
+Output of each engine: 1,200kW x 1,000rpm
+Azimuthing thrusters
+	
+Designer/manufacturer: Schottel
+	
+Number: 2
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 2.6m
+	
+Speed:230rpm
+Main-engine driven alternators
+	
+Number: 3
+	
+Make/type:AEM Dessau GmbH SE 500L6
+	
+Output/speed of each set:1,200kw x 1,000rpm
+Boilers
+	
+Number: 1
+	
+Type: E1134
+	
+Make:Pyro AS
+	
+Output, each boiler: 1,162kW
+Number: 2 x anchor windlasses/mooring winches,1 x mooring winch aft, 1 x mooring capstan
+Make: Ships Equipment Centre Groningen BV
+Type:electric
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 26 persons
+	
+Make:Jiangyn Wolong FRP Boat Co., Ltd
+	
+Type: JY50CA
+Containers
+	
+Total TEU capacity:80 x 20ft
+	
+	
+On deck: 80
+Bow thrusters
+	
+Make: Schottel
+	
+Number: 2
+	
+Output: 450kW
+Bridge control system
+	
+Make:Consilium
+	
+Type: Consilium Selesmar ECDIS
+Fire detection system
+	
+Make:Consilium
+	
+Type: Cargo fire alarm system
+Fire extinguishing systems
+	
+Engine room:Novenco/ water mist sprinkler
+Radars
+	
+Number: 2
+	
+Make:Consilium
+	
+Model: Selemar Selux-ST Arpa
+Integrated bridge system
+	
+Make:Consilium
+	
+Model:Selemar ECDIS
+Waste disposal plant
+	
+Sewage plant:Evac/MBR
+Contract date: 23 March 2011
+Launch/float-out date: 1 March 2012
+Delivery date:13 June 2012 
+MERI: multipurpose deck cargo vessel
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Hyundai Samho 
+Heavy Industries Co., Ltd
+Vessel’s name:MSC Altamira
+Hull No:S592
+Owner/operator: Ofer Ships Holding Ltd/
+Bernhard Schulte
+Country:Israel
+Designer:Hyundai Samho Heavy 
+Industries Co., Ltd
+Country: Korea
+Model test establishment used: Hyundai 
+Maritime Research Institute (HMRI)
+Flag:Hong Kong
+IMO number: 9619426
+Total number of sister ships still on order: 4
+TECHNICAL PARTICULARS   
+Length oa: 299.18m
+Length bp: 286.00m
+Breadth moulded: 48.20m
+Depth moulded
+	
+To main deck: 24.80m
+	
+To upper deck: 24.80m
+	
+To other decks: 20.14m
+Width of double skin
+	
+Side: 48.20m
+	
+Bottom: 2.00m
+Draught
+	
+Scantling: 14.50m
+	
+Design: 12.50m
+Gross: 94,017gt
+Displacement:143,761tonnes
+Lightweight:31,245tonnes
+Deadweight
+Design:88,997dwt
+Scantling:112,516dwt
+Block co-efficient: 0.6996
+Speed, service:22knots
+Bunkers
+Heavy oil: 9003.1m3
+Water ballast: 28,465m3
+Daily fuel consumption
+	
+Main engine only:159.7tonnes/day
+	
+Auxiliaries:3.9tonnes/day
+Classification society and notations:KR, +KRS1-Container 
+Ship, IWS, Sea Trust 
+(DSA2, FSA3 and HCM), CDG, 
+ENV (IBWM, IAFS, IOPP, ISPP, 
+IGPP and IAPP), PSPC, LI, CHA 
++ KRM1-UMA, STCM
+Heel control equipment:Anti-heeling pump
+Main engine
+	
+Model: 9S90ME-C8.2
+	
+Manufacturer: HHI-EMD
+	
+Number: 1
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 47,430kW x 78rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: HHI-EMD
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 9.5m
+	
+Speed:76.1rpm
+Diesel-driven alternators
+	
+Number: 4
+	
+Engine make/type:HHI-EMD/7H23/40
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 3,500kW x 720rpm
+	
+Alternator make/type:HHI-EES/ HJ 807-10P
+	
+Output/speed of each set: 3,360kW
+Boilers
+	
+Number: 1
+	
+Type: Pin tube type, oil fired buring
+	
+Make:Kangrim
+	
+Output, each boiler: 5,500kg/h
+Other cranes
+	
+Number: Monorail crane
+	
+Make:Dongham Marine Crane
+	
+Type:Electric motor driven sliding type
+	
+Tasks:Engine room service
+	
+Performance: SWL 10tonnes
+Mooring equipment
+	
+Number: 2 x Windlasses, 7 x winches
+	
+Make: Towimor
+	
+Type:Electric hydraulic and electric driven
+Special lifesaving equipment
+Number of each and capacity:2 x 30 persons,2 x 6 persons, 4 x 16 persons
+	
+Make:Schat-Harding , Viking Life Saving
+	
+Type: Lifeboat: totally enclosed, 
+Liferaft: throw over type
+Hatch covers
+	
+Design: Cargotec
+	
+Manufacturer:Marine Tech Inc
+	
+Type: Pontoon, non-sequencial operation
+Containers
+	
+Lengths: 20ft/40ft/45ft
+	
+Heights: 8ft 6inches/ 9ft 6inches
+	
+Total TEU capacity:8,886TEU
+	
+	
+On deck:5,056TEU
+	
+	
+In holds:3,830TEU
+	
+	
+Homogenously loaded to 14tonnes:7,260TEU
+	
+Reefer plugs:1,000FEU
+	
+Tiers/rows
+	
+	
+On deck: 10 tiers/19 rows
+	
+	
+In holds: 9 tiers/ 17 rows
+Ballast control system
+	
+Make:Pleiger Far East
+	
+Type:Electro hydraulic type
+Water ballast treatment system
+	
+Make:Alfa Laval
+Capacity: 1,000m3/h
+Complement
+	
+Officers: 11
+	
+Crew: 16
+Stern appendages/special rudders: Semi-balance 
+stream line
+Bow thruster
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Number: 1
+	
+Output: 3,000kW
+Bridge control system
+	
+Make: Hyundai Heavy Industries Co., Ltd
+	
+Type: Self standing
+	
+One-man operation:Yes
+Fire detection system
+	
+Make: NK
+	
+Type: Smoke detecting type
+Fire extinguishing systems
+	
+Cargo holds:NK/ CO2 
+	
+Engine room:NK/ CO2
+	
+Cabins: Sea water
+	
+Public spaces: Sea water
+Radars
+	
+Number: 2
+	
+Make:JRC
+	
+Model:  JMA-9132-SA, JMA-9122-6XA
+Waste disposal plant
+	
+Sewage plant:Jonghap Machinery Co., Ltd/ Biological
+Contract date:1 February 2011
+Launch/float-out date:27 July 2012
+Delivery date:28 September 2012
+MSC ALTAMIRA: modern 8,900TEU box 
+ship from Hyundai Samho
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Sungdong Shipbuilding 
+Vessel’s name: MSC Athens
+Hull No:S4010
+Owner/operator: Costamare Inc
+Country:Greece
+Designer:Sungdong Shipbuilding 
+Country: Korea
+Model test establishment:Korea Institute of 
+Ocean Science & Technology (KIOST)
+Flag:Greece
+IMO number: 9618305
+Total number of sister ships still on order: 5
+TECHNICAL PARTICULARS   
+Length oa: 299.95m
+Length bp: 288.5m
+Breadth moulded: 48.2m
+Depth moulded
+	
+To main deck: 20.14m
+	
+To upper deck: 24.6m
+Width of double skin
+	
+Side: 2.4m
+	
+Bottom: 2.0m
+Draught
+	
+Scantling: 14.5m
+	
+Design: 12.5m
+Deadweight
+	
+Design:86,375dwt
+	
+Scantling:110,875dwt
+Speed, service:22knots
+Bunkers
+Heavy oil: 8,300m3
+Water ballast: 30,000m3
+Daily fuel consumption
+	
+Main engine only:160tonnes/day
+Classification society and notations:GL +100 A5, 
+Container Ship, DG, IW, BWM, 
+RSD(F25), _MC, AUT, NAV-O, EP
+Main engine
+	
+Design: MAN B&W
+	
+Model:9S90ME-C 8.2(TierII)
+	
+Manufacturer: HHI
+	
+Type of fuel used: HFO, MDO, MGO
+	
+Output of each engine: 47,430kW
+Propellers
+	
+Material:Cu-Al-Ni
+	
+Designer/manufacturer:Sungdong/MMG
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 9.7m
+	
+Speed:78rpm
+Diesel-driven alternators
+	
+Engine make/type: STX 8L 32 40H
+	
+	
+                                                             STX 9L 32 40H
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output/speed of each set: 4,000kW x 720rpm
+	
+	
+Alternator make/type: HHI
+	
+Output/speed of each set: 5,146.7kVA x 720rpm
+	
+Auxiliary boiler
+	
+Type:Missiontm OL/ Missiontm XS-2V
+	
+Make:Alfa Laval Aalborg
+	
+Output, each boiler: 5,000kg/h/ 3,000kg/h
+Other cranes
+	
+Make:Oriental
+	
+Type: Over-head crane
+	
+Tasks:For moving the heavy 
+spare or overhauling in the engine room
+	
+Performance:10tonnes x 6.455m
+Other cranes
+	
+Make:Oriental
+	
+Type: Monorail crane
+	
+Tasks: Provisions
+	
+Performance:12.5tonnes x 5m
+Mooring equipment
+	
+Make: Rolls-Royce
+	
+Type: Electric pole change type
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 31persons
+	
+Make:Norsafe
+	
+Type:Totally enclosed lifeboat
+Hatch covers
+	
+Design/Manufacturer: MacGregor
+	
+Type: Life away type
+Containers
+	
+Lengths: 20ft/40ft/45ft
+	
+Heights: 8.6ft
+	
+Cell guides: 150mm x 150mm x15.0E.A
+	
+Total TEU capacity:8,770TEU
+	
+	
+On deck:4,890TEU
+	
+	
+In holds:3,880TEU
+	
+	
+Homogenously loaded to 14tonnes:7,080TEU
+	
+Reefer plugs:1,462FEU
+	
+Tiers/rows
+	
+	
+On deck: 10/19
+	
+	
+In holds: 9/17
+	
+Hold refrigeration system:Air cooled
+Cargo control system
+	
+Make:Kongsberg K-Chief 600
+	
+Type: Integrated control and monitoring system
+Ballast control system
+	
+Make:Kongsberg K-Chief 600
+	
+Type: Integrated control and monitoring system
+Water ballast treatment system
+	
+Make: Techcross
+Capacity: 1,000m3/h
+Complement
+	
+Officers: 16
+	
+Crew: 15
+Stern appendages/special rudders:Full spade flap rudder
+Bow thruster
+	
+Make:Kawasaki
+	
+Output: 3,000kW x 900rpm
+Bridge control system
+	
+Make: HHI
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Addressable
+Fire extinguishing system
+	
+Cargo holds:Sea-plus/High pressure CO2	
+	
+Engine room:Tanktech/L.F.F.S
+Radars
+	
+Make: Furuno
+	
+Model:FAR-2827, FAR-2837S, FAR-2817
+Waste disposal plant
+	
+Incinerator:Kangrim/KFB-110S
+	
+Sewage plant:Hamworthy/ST2AC
+Contract date:28 January 2011
+Launch/float-out date:November 2012
+Delivery date: December 2012
+MSC ATHENS: green 
+containership with EEDI
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Nevsky Shipbuilding-
+Shiprepair Plant
+Vessel’s name:Neva Leader 1
+Hull No: 401
+Owner/operator: North-Western Shipping 
+Company, JSC
+Counrty:Russian Federation
+Designer:Marine Engineering Bureau
+Country: Ukraine
+Model test establishment used: Krylov 
+Shipbuilding Research Institute
+Flag: Russia
+IMO number: 9598816
+Total number of sister ships still on order: 10
+TECHNICAL PARTICULARS   
+Length oa: 139.95m
+Length bp: 135.74m
+Breadth moulded: 16.5m
+Depth moulded
+	
+To main deck: 6.00m
+Width of double skin
+	
+Side: 1.9m
+	
+Bottom: 9.8m
+Draught
+	
+Design: 4,7m (at sea), 3.6m (in river)
+Block co-efficient: 0.902
+Speed, service:11.5knots
+Cargo capacity
+Bale: 10,921m3
+Water ballast: 3,959m3
+Daily fuel consumption
+	
+Main engine only:8.0tonnes/day
+	
+Auxiliaries:0.5tonnes/day
+Classification society and notations:KM 
+  Ice2 R2 AUT1-C
+Main engine
+	
+Design:Wärtsilä
+	
+Model: 6L20
+	
+Manufacturer:Wärtsilä
+	
+Number: 2
+	
+Type of fuel:HFO
+	
+Output of each engine: 1,200kW x 1,000rpm
+Gearboxes
+	
+Make:Wärtsilä
+	
+Model:WAF 863
+	
+Number: 2
+	
+Output speed:247.6rpm
+Propellers
+	
+Number: 2
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 2.6m
+	
+Speed:247.6rpm
+	
+Special adaptations:Ice class
+Diesel-driven alternators
+	
+Number: 2
+	
+Engine make/type:MAN D 2876 LE 301
+	
+Type of fuel:MDO
+	
+Output/speed of each set: 345kW x 1,500rpm
+	
+Alternator make/type:Mecc Alte ECO 40-2s/4
+	
+Output/speed of each set: 292kW x 1,500rpm
+Boilers
+	
+Number: 1
+	
+Type: UNEX CHB-750
+	
+Make:Aalborg
+	
+Output, each boiler: 750kg/h
+Mooring equipment
+	
+Number:3 x anchor-mooring winch
+	
+Type: Electro-hydraulic
+Hatch covers
+	
+Design/manufacturer: Cargotec
+	
+Type:Multi-folding
+Ballast control system
+	
+Make:BESI Marine systems
+	
+Type:Hydraulic system
+Water ballast treatment system
+	
+Make:Alfa Laval
+Complement
+	
+Officers: 3
+	
+Crew: 7
+Bow thruster
+	
+Make: Schottel
+	
+Number: 1
+	
+Output: 200kW
+Fire detection system
+	
+Make: MRS Electronics
+	
+Type: IICM-A addressable type
+Fire extinguishing systems
+	
+Cargo holds:Danfoss/CO2
+	
+Engine room:Danfoss/CO2
+Radars
+	
+Number: 2
+	
+Make:JRC
+	
+Model:JMA-5312-6A RPA
+Launch/float-out date:14 December 2012/ 20 May 2012
+Delivery date:26 November 2012
+NEVA LEADER 1: self-propelled dry cargo 
+vessel 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Daewoo Shipbuilding and 
+Marine Engineering Co., Ltd
+Vessel’s name: Nikolay Zuyev
+Hull No: 5384
+Owner/operator:Sovcomflot
+Country:Russian Federation
+Designer:Daewoo Shipbuilding and 
+Marine Engineering Co., Ltd
+Country: Korea
+Model test establishment used:SSPA + HSVA
+Flag: Liberia
+IMO number: 9610781
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 249.9m
+Length bp: 243.0m
+Breadth moulded: 46.0m
+Depth moulded
+	
+To main deck: 21.2m
+	
+To upper deck: 21.2m
+Draught
+	
+Scantling: 14.9m
+	
+Design: 13.6m
+Gross: 66,818gt
+Deadweight
+	
+Design:107,550dwt
+	
+Scantling:120,600dwt
+Speed, service:14.6knots
+Cargo capacity
+Liquid volume: 137,000m3
+Bunkers
+Heavy oil: 2,900m3
+Water ballast: 43,000m3
+Daily fuel consumption
+	
+Main engine only: 49.6tonne/day
+Classification society and notations:LR +100A1, Double 
+Hull Oil Tanker, ESP, CSR, 
+ShipRight (CM, ACS (B)), 
+Part Higher Tensile Steel, 
++LMC, LI, UMS, IGS, SPM4, 
+COW (LR), *IWS, with the descriptive 
+notes of ShipRight (SCM, BWM (T), 
+SERS), EP (B, Ede, G,I,O,P,Vc)#, NAV1, IBS, ETA
+Main engine
+	
+Design:MAN Diesel & Turbo
+	
+Model:MAN B&W 6S60MC-C8.2
+	
+Manufacturer:Doosan
+	
+Type of fuel used:HFO, MDO, LSMGO
+	
+Output of each engine: 13,250kW x 98.4rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:DSME/Samwoo
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 7.4m
+	
+Speed:99.8rpm
+Diesel-driven alternator
+	
+Engine make/type:HHI Himsen 6H21/32
+	
+Type of fuel: MDO, LSMGO
+	
+Output/speed of each set: 1,000kW x 900rpm
+	
+Alternator make/type: HHI HFC7 508-84K
+	
+Output/speed of each set: 1,000kW x 900rpm
+Boilers
+	
+Type:Vertical, water tube
+	
+Make:Kangrim
+	
+Output, each boiler:20tonnes/h
+Cargo cranes/ cargo gear
+	
+Make: DMC
+	
+Type: Single jib, cylinder luffing
+	
+Performance: SWL 15tonnes x 10m
+Other cranes
+	
+Make: DMC
+	
+Type:Single jib
+	
+Tasks:Provision & engine room spare parts handling
+	
+Performance: SWL 4tonnes x 10m
+Mooring equipment
+	
+Number:2 x windlass combined 
+with mooring winch, 6 x mooring winch
+	
+Make: TTS Kocks
+	
+Type: Electro-hydraulic high pressure
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 30 persons
+	
+Make:Hyundai Lifeboat
+	
+Type: Totally enclosed gravity launching type
+Cargo tanks
+	
+Number:12 cargo tanks + 2 slop tanks
+	
+Grades of cargo carried: 3
+	
+Coated tanks: IPK, tin free epoxy 
+(deckhead and bottom)
+Cargo pumps
+	
+Type:Centrifugal, vertical, single stage
+	
+Make: HHI
+	
+Stainless steel:Impeller shaft
+	
+Capacity:3,000m3/h x 130mTH
+Cargo control system
+	
+Make: Kongsberg
+	
+Type: Console
+Ballast control system
+	
+Make: Kongsberg
+	
+Type: Console
+Water ballast treatment system
+	
+Make: NK
+Capacity: 4,000m3/h
+Stern appendages/special rudders:Flap rudder
+Bridge control system
+	
+Make:Nabtesco
+	
+Type:M-800-III
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico Cargo
+Fire extinguishing systems
+	
+Cargo holds: NK/ deck foam
+	
+Engine room: NK/ High pressure CO2
+Radars
+	
+Make:Transas
+Integrated bridge system
+	
+Make:Transas
+Waste disposal plant
+	
+Waste compactor:Uson Marine/ UBP-30S
+	
+Sewage plant:Evac/ MBR 32 C
+Contract date: 20 October 2010
+Launch/float-out date: 24 March 2012
+Delivery date:31 May 
+NIKOLAY ZUYEV: EEDI compliant tanker 
+for Sovcomflot
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: STX Offshore 
+Vessel’s name:Nord Stability
+Hull No:S1535
+Owner/Operator:Norden
+Country:Denmark
+Designer: STX Offshore 
+Country: Korea
+Flag:Singapore
+IMO number: 9629495
+Total number of sister ships still on order: 3
+TECHNICAL PARTICULARS   
+Length oa: 183.00m
+Length bp: 173.90m
+Breadth moulded: 32.20m
+Depth moulded
+	
+To main deck: 19.8m
+	
+To upper deck: 19.8m
+	
+To other decks:1st deck 14.4m, 2nd deck 8.8m
+Width of double skin
+	
+Side: 2.00m
+	
+Bottom: 2.15m
+Draught
+	
+Scantling: 13.15m
+	
+Design: 11.00m
+Displacement:61,345tonnes
+Lightweight:10,445tonnes
+Deadweight
+	
+Design:39,814dwt
+	
+Scantling:50,900dwt
+Block co-efficient: 0.8110
+Speed, service:14.5knots
+Cargo capacity
+Liquid volume: 54,000m2
+Bunkers
+Heavy oil: 1,120m2
+Water ballast: 22,150m3
+Daily fuel consumption
+	
+Main engine only:27tonnes/day
+Classification society and notations: DNV +1A1, 
+Tanker for oil and Chemicals ESP, 
+Ship type 2, a2, b3, c3, f2, str 0.075, 
+CSR, E0, COW, COAT-PRPC(B), 
+VCS-2, TMON, BWM-E(s), SPM, BIS, ETC
+Main engine
+	
+Model:STX MAN 6S50ME-C8.2 
+	
+Manufacturer:STX Engine
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 7,570kW x 108rpm
+Propellers
+	
+Material: Ni-Al Bronze
+	
+Designer/manufacturer: Haey Ang
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 6.2m
+	
+Speed:108rpm
+Diesel-driven alternators
+	
+Engine make/type: STX Engine 6L23/30H
+	
+Type of fuel:HFO, MDO
+	
+Output/ speed of each set: 960kW x 900rpm
+	
+Alternator make/type:STX Engine
+	
+Output/speed of each set: 960kW x 900rpm
+Boilers
+	
+Type: PB0301AS12
+	
+Make:Kangrim
+	
+Output, each boiler: 18,000kg/h x 7bar
+Cargo cranes
+	
+Make:Oriental precision & Engineering Co.,Ltd
+	
+Type:Electric-Hydraulic driven
+	
+Performance: SWL 3tonnes 2.6m-10m
+Mooring equipment
+Number: 2 x windlass combined with4 x mooring winches
+	
+Make:Flutek
+	
+Type:Hydraulic motor driven
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 26 persons
+	
+Make:Hyundai Lifeboats Co., Ltd
+	
+Type:Freefall 
+Cargo tanks
+	
+Number:12 x cargo oil tanks
+	
+Grades of cargo carried:Crude oil having 
+a flash point below 60degs
+	
+Coated tanks: Jotun Tankguard special ultra
+Cargo pumps
+	
+Number: 12
+	
+Type:MDPC-200, DEEP, CEN, ELEC, MOTRO DRV
+	
+Make:Maflex
+	
+Stainless steel: SUS 316L
+Capacity: 600m3
+Cargo control system
+	
+Make: Emerson
+	
+Type: Remote control
+Ballast control system
+	
+Make: Emerson
+	
+Type: Remote control
+Complement
+	
+Officers: 12
+	
+Crew: 13
+Bridge control system
+	
+Make:KTE
+Fire detection system
+	
+Make: Autronica/BS-200M
+Fire extinguishing systems
+	
+Engine room:NK/ fixed high pressure
+Radar
+	
+Make: Furuno
+Waste disposal plant
+	
+Incinerator:HMMCO/ MAXI NG150 SL WS
+Contract date:30 May 2012
+Launch/float-out date: 04 October 2012
+Delivery date: 10 December 2012
+NORD STABILITY: green tanker for Denmark
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Samsung Heavy Industries Co., 
+Ltd. Geoje Shipyard, South Korea
+Vessel’s name: Pacific Orca 
+Hull No: 1940 
+Owner/operator: Swire Pacific Offshore 
+Operations (Pte) Ltd., 
+Singapore/Swire Blue Ocean A/S
+Country:Denmark
+Designer:Knud E. Hansen A/S 
+Country:Denmark
+Model test establishment: Samsung Ship 
+Model Basin, South Korea
+Flag: Limassol, Cyprus
+IMO numbers: 9601326 
+TECHNICAL PARTICULARS   
+Length oa
+	
+Hull excl. helicopter deck: 161.3m
+	
+Incl. helicopter deck: 164.9m
+Length bp: 155.6m
+Breadth, moulded: 49.0m
+Depth to main deck, moulded: 10.4m
+Draught, moulded
+	
+Design: 5.5m
+	
+Max. summer: 6.0m
+	
+Air draught at design draught: 99.5m
+Gross tonnage: 14,000gt
+Lightweight:24,390tonnes
+Deadweight
+	
+At design draught:9,890dwt
+	
+At max. summer draught:13,155dwt
+	
+For jacking:8,400dwt
+Block co-efficient: 0.78
+Service speed:13.0knots
+Classification society and notations:GL 100 A5 Offshore 
+Support Vessel Self-elevating Unit
+WTIS EP Helil SPS (except SRtP)
+Tank capacities
+Marine gas oil: 4,285m3
+Lube oil: 44m3
+Water ballast: 11,905m3
+Cargo deck
+Deck area: 4,300m2
+Uniformly distributed load
+Aft & amidships:21tonnes/m2
+Forward:15tonnes/m2
+	
+Grid system of strong points:Mesh 1.4 x 1.4m
+Max strong point loads aft: 250tonnes downwards /200tonnes upwards
+Automatic anti-heeling system:
+Pump capacity:2,000m3 per hour
+	
+Change of trim moment:82,600tm per hour
+Diesel generator sets
+	
+Number of generator sets: 8
+	
+Engine make/type: MAN L27/38
+	
+Type of fuel:Marine gas oil
+	
+Output:720rpm
+	
+Alternator make/type: ABB AMG 0710LS10 LSE
+	
+Rated electrical power: 3024kW
+Bow tunnel thrusters
+	
+Number of thrusters: 2
+	
+Make/type/capacity: Brunvoll FU100LTC2750, 2.2 MW
+Bow retractable azimuth thrusters
+	
+Number of thrusters: 2
+	
+Make/type/capacity:Brunvoll AR100LNA2600, 2.2 MW
+Stern thrusters
+	
+Number of thrusters: 4
+	
+Make/type/capacity:ABB Compact Azipod, 3.4 MW
+Dynamic positioning system
+	
+Type: DP-2
+Legs and spud cans
+	
+Number of legs: 6
+	
+Type: 3-chorded truss type w. split-pipe-chords
+	
+Length:105m (may be lengthened by 15m)
+	
+Max. leg protrusion below BL: 80m
+	
+Chord distance: 9.7m
+	
+Rack thickness:6inch
+Spud can area: 95.4m2
+Jacking system
+	
+Design and make:BLM
+	
+Type:High-speed electrical rack-and-pinion
+	
+Jacking units: 6 double-pinion D110 units per chord
+	
+Jacking speed:
+	
+	
+Raising / lowering legs:2.4 m/min
+	
+	
+Raising / lowering hull:1.2 m/min
+Operational conditions for jacking
+	
+Wind speed:20m/s
+	
+Significant wave height:2.5m (subject to actual 
+conditions onsite)
+Main crane
+	
+Make:NOV Amclyde
+Type:Rope luffing “work-around-leg”
+Main hoists:2 x 600t side by side for 1200t31m in tandem
+	
+Max. load-radius: 91m
+	
+Aux hoist:500tonnes 50m
+	
+Max. load-radius: 107m
+	
+Whip hoist:50tonnes 112m, approved for man-riding
+	
+Tuggers: 7 x 5tonnes SWL
+	
+Max operational wind speed:20m/s
+Auxiliary crane
+	
+Make:NOV Amclyde
+	
+Type:Hydraulic
+	
+Main hoist:35tonnes 6.5 to 30m
+	
+Aux hoist:25tonnes 6.5 to 40m, 
+approved for man-riding
+Knuckle-boom crane
+	
+Make:NOV Amclyde
+	
+Type: Hydraulic with telescopic jib
+	
+Hoist:2tonnes 25m, 4tonnes 14m
+	
+Man-riding radius:30m by operating telescopic jib
+Mooring equipment
+	
+Make/type:.RRM Electric MW 250F / CU 87 U3 /MW250F
+Helicopter landing deck
+	
+D-diameter: 22m
+	
+Load-bearing capacity:12.8tonnes
+Life boats
+	
+Number and capacity:2 x 60persons
+	
+Make/type:Norsafe JYN 80 with LH-140 davits 
+Integrated bridge control system
+	
+Make:Samsung Automation SSAS-Master
+Complement
+	
+Number of cabins: 111 with en-suite bathrooms
+Fire detection system
+	
+Make/type:Tyco T2000
+Fire extinguishing system
+	
+Engine room:Unitor 50-CO2 HP system
+Waste disposal plants
+	
+Galley waste handling system: USON Marine
+	
+Incinerator:Hyundai – Atlas / Maxi NG150SL WS
+	
+Sewage plant:Omnipure / 5528
+Contract date:11 August 2010
+Delivery date:27 July 2012
+PACIFIC ORCA: wind farm 
+installation vessel
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: SPP Shipbuilding Co., Ltd
+Vessel’s name: Prime Rose
+Hull No:S5093
+Owner/operator: Active Shipping
+Country:Turkey
+Designer: SPP Shipbuilding Co., Ltd
+Country: Korea
+Flag: Marshall Islands
+IMO number: 9590747
+Total number of sister ships still on order: 4
+TECHNICAL PARTICULARS   
+Length oa: 229.00m
+Length bp: 223.00m
+Breadth moulded: 32.26m
+Depth moulded
+	
+To main deck: 20.20m
+	
+To upper deck: 20.20m
+Width of double skin
+	
+Bottom: 1.75m
+Draught
+	
+Scantling: 14.5m
+	
+Design: 12.2m
+Gross: 44,485gt
+Displacement:94,867tonnes
+Lightweight:13,282tonnes
+Deadweight
+	
+Design:65,304dwt
+	
+Scantling:81,595dwt
+Block co-efficient: 0.8851
+Speed, service:15.06knots
+Cargo capacity
+Bale: 92,534m3
+Grain: 97,090m3
+Bunkers
+Heavy oil: 2,517m3
+Water ballast: 22,612m3
+Daily fuel consumption
+	
+Main engine only:43.68tonnes/day
+	
+Auxiliaries:3.13tonnes/day
+Classification society and notations:LR  +100A1 Bulk 
+Carrier, CSR, BC-A [Holds 2, 4 
+and 6 may be empty], GRAB[20], 
+ESP, LI, *IWS, ShipRight (CM, 
+ACS(B)), +LMC, UMS, SERS EP (B,I,R) 
+with descriptive notes “ShipRight 
+(SCM, BWMP(F)), P. Ht., Green passport”
+Main engine
+	
+Design:Hyundai-MAN B&W
+	
+Model:6S60MC-C8.1
+	
+Manufacturer:Hyundai
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 10,770kW x 95rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Silla Metal
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 7.15m
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type: Yanmar 6N21L-SW
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 745kW x 720rpm
+	
+Alternator make/type:Nishishiba 3GT4167
+	
+Output/speed of each set: 680kW x 720rpm
+Boilers
+	
+Number: 2
+	
+Type: MC-RMS7-ZMD
+	
+Make: SPP Machine Tech
+	
+Output, each boiler:1,500/1,200kg/h x 7kg/cm2
+Provision cranes
+	
+Number: 1
+	
+Make: SPP Machine Tech
+	
+Type: Electric motor driven
+	
+Tasks:Provisions, engine room spare parts handling
+	
+Performance: SWL 4tonnes x 10m
+Mooring equipment
+	
+Number: 6
+	
+Make: Flutek-Kawasaki
+	
+Type:Electric-hydraulic
+Special lifesaving equipment
+	
+Number or each and capacity:1 x 24persons
+	
+Make:Norsafe
+	
+Type:Totally enclosed free-fall type
+Hatch covers
+	
+Design: MacGregor
+	
+Manufacturer: MacGregor
+	
+Type:Side rolling type
+Complement
+	
+Officers: 13
+	
+Crew: 14
+Stern appendages/special rudders:Mewis Duct
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico Cargo
+Fire extinguishing systems
+	
+Engine room: Tank Tech/X-mist
+Radars
+	
+Number: 2
+	
+Make: Furuno
+	
+Model:FAR-2837S, FAR-2827
+Waste disposal plant
+	
+Incinerator: Hyundai-Atlas/ MAXI NG100SL WS
+	
+Sewage plant:Il Seung/ ISS-25N
+Contract date: 23 march 2010
+Launch/float-out date:19 November 2011
+Delivery date:20 February 2012
+PRIME ROSE: 82,000dwt bulk carrier
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Sungdong Shipbuilding 
+Vessel’s name:PTSC Bien Dong 01
+Hull No:S5005
+Owner/operator:Petro Vietnam 
+Services Corporation
+Country: Vietnam
+Designer:Sungdong Shipbuilding 
+Country: Korea
+Flag:Singapore
+IMO number: 9633496
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 171.5m
+Length bp: 170.00m
+Breadth moulded: 32.4m
+Depth moulded
+	
+To main deck: 18.2m
+Width of double skin
+	
+Side: 3.24m
+Draught
+	
+Scantling: 12.6m
+	
+Design: 12.0m
+Gross: 31,349gt
+Displacement:66,000tonnes
+Deadweight
+	
+Design:51,700dwt
+	
+Scantling:55,500dwt
+Cargo capacity
+Liquid volume: 58,500m3
+Bunkers
+Water ballast: 21,230m3
+(Underwater inspection in lieu of drydocking)% high tensile steel used in construction: 80%
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type:Wärtsilä
+	
+Type of fuel:LNG, MDO
+Output/speed of each set: 1,480kW x 900rpm,1,584kW x 1,200rpm
+	
+Alternator make/type: AVK/DSG99 M 1/8, 
+AVK/DSG99 K 1/6
+Boilers
+	
+Number: 2
+	
+Type:FMB-VL
+	
+Make: Saake
+	
+Output, each boiler: 15,000kg/h
+Cargo cranes/cargo gear
+	
+Number: 1
+	
+Make:Haean Machinery Ind., Co., Ltd
+	
+Type:Diesel Engine Driven, Cylinder luffing type
+	
+Performance: SWL 7.5tonnes
+Special lifesaving equipment
+	
+Number of each and capacity: 2
+	
+Make:Hyundai Lifeboats Co., Ltd
+	
+Type: Totally Enclosed Lifeboat
+	
+Vertical or sloping chutes:Vertical
+Cargo tanks
+	
+Number: 12
+	
+Coated tanks: Jotun/ Jotacote Universal N10
+Cargo pumps
+	
+Pumps: 2
+	
+Type:Vertical, centrifugal single stage, 
+electric, motor driven
+	
+Make:Shinko
+Capacity:2,000m3/h x 150mTH
+Cargo control system
+	
+Make:Sinko
+	
+Type: Remote control
+Ballast control system
+	
+Make:Shinko
+	
+Type: Remote control
+Complement
+	
+Crew: 50
+Passengers
+	
+Total: 48
+Fire detection system
+	
+Make:HHI (Autronica)
+	
+Type:BS-420
+Fire extinguishing system
+	
+Cargo holds:Wilhelmsen/ low expansion form
+	
+Engine room:Wilhelmsen/ 
+High expansion foam, water mist
+Radars
+	
+Number: 1
+	
+Make:OSB (JRC)
+	
+Models:JMA5322-9/NKE-2254
+Integrated bridge system
+	
+Make: HHI
+	
+Model:Delta V
+Waste disposal plant
+	
+Incinerator: Hyundai-Marine Machinery Co/ MAXI 
+NG25SL WS
+	
+Waste compactor: Samjoo/TT160
+	
+Sewage plant: Jong-hap/AEROB-25N
+ESD System
+	
+Make:HHI (Emerson)
+	
+Type: Delta V SIS
+Contract date:12 May 2011
+Launch/float-out date:September 2012
+Delivery date: December 2012
+PTSC BIEN DONG 01: first FSO for PTSC
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:De Hoop Lobith
+Vessel’s name: River Discovery II
+Hull No: 444
+Owner/operator:Vantage Delux Travel
+Country:USA
+Designer:De Hoop Lobith
+Country: The Netherlands
+Model test establishment used:Development 
+Centre for Ship Technology and 
+Transport Systems (DTS)
+Flag:Germany
+MMSI: 211563860
+Total number of sister ships already completed
+   (excluding ship presented):nil
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa: 135m
+Breadth moulded: 11.1m
+Depth moulded
+	
+To main deck: 3.25m
+Draught
+	
+Operational: 1.4m
+	
+Ballast draught: 2.1m
+Block co-efficient: 0.85
+Bunkers
+Water ballast: 850m3
+Classification society and notations:BV I 5 IN (0,6) Z 
+Passenger Vessel/Fire *MC
+Main engines
+	
+Design:Caterpillar
+	
+Model: Caterpillar C32 Ditta Acert
+	
+Manufacturer:Caterpillar
+	
+Number: 2
+	
+Type of fuel:MGO
+	
+Output of each engine: 746kW
+Propellers
+	
+Designer/manufacturer:Veth VZ-900 CR
+	
+Number: 2
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 1.5m front, 1.35m aft
+	
+Speed:340rpm	
+Special adaptations:Flexible suspended
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type: Caterpillar C18 Acert Ditta
+	
+Type of fuel:MGO
+	
+Output/speed of each set: 500kVA
+	
+Alternator make/type: Leroy Somer
+	
+Output/speed of each set: 439kW x 1500rpm
+Boilers
+	
+Number: 1
+	
+Type: Elprex 420
+	
+Make:Unical with Riello oil burner
+	
+Output, each boiler: 360kW
+Other cranes
+	
+Number: 2
+	
+Make:Van Wilk
+	
+Type:Hydraulic telescopic
+	
+Tasks:Operation of gangways
+	
+Performance:SWL 750kg
+Mooring equipment
+Number: 2 x anchor/mooring winches,1 x stern anchor/mooring winch
+	
+Make: Dijvler
+	
+Type: Electric
+Complement
+	
+Crew: 49
+Passengers
+	
+Total: 176
+	
+Number of cabins: 92
+Bow thrusters
+	
+Make: Veth Compact Jet CJ-1200
+	
+Number: 1
+	
+Output: 350kW
+Fire detection system
+	
+Make:Eltek
+Fire extinguishing systems
+	
+Cargo holds:Seafix
+	
+Engine room: FM200
+	
+Cabins/public spaces: Imtech
+Radars
+	
+Number: 2
+	
+Make:Alphatron
+	
+Model:JMA-610
+Waste disposal system
+	
+Sewage plant:Gertsen & Olufsen/ BR-37000 
+BG-G Bio compact
+Contract date: 01 October 2010
+Launch/float-out date: 14 December 2011
+Delivery date:01 February 2012
+RIVER DISCOVERY II:  first generation 
+river cruise vessel for US owner
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:STX Finland Rauma Shipyard
+Vessel’s name:S.A. Agulhas II
+Hull No: NB 1369
+Owner/operator:Department of 
+Environmental affairs
+Country:South Africa
+Designer: STX Finland Oy
+Country:Finland
+Model test establishment used: Aker Arctic 
+and SSPA
+Flag:South Africa
+IMO number:9577135
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa:134.0m
+Length bp:121.4m
+Breadth moulded: 22.0m
+Depth moulded
+	
+To main deck:10.55m
+	
+To upper deck:13.55m
+Width of double skin
+	
+Side: 1.0m
+	
+Bottom: 1.2m
+Draught
+	
+Scantling: 7.7m
+	
+Design: 7.65m
+Gross:	12,897gt
+Deadweight
+	
+Design: 5,020dwt
+	
+Scantling: 5,250dwt
+Speed, service:14knots
+Cargo capacity
+Bale:4,000m3
+Grain:4,600m3
+Refrigerated cargo: 80m3
+Bunkers
+Diesel oil:3,650m3
+Classification society and notations:DNV + 1A1 PASSENGER 
+SHIP, PC5, WINTERISED
+BASIC, DAT(-35), EO, RP, HELDEK-SHF,CLEAN 
+DESIGN,COMF V(2)/C(2),NAUT-AW, TMON, BIS, 
+DYNPOS-AUT, DE-ICE, LFL App:(ICE 10 for HULL)
+Heel control equipment:Hoppe, automatic 
+operating heeling system
+Roll-stabilisation equipment:Hoppe, controlled passive 
+stabilising tank system
+Main engine
+	
+Model: 6L32
+	
+Manufacturer:Wärtsilä
+	
+Number:4
+	
+Type of fuel:MGO
+	
+Output of each engine:3,000kW
+Main-engine driven generators
+	
+Make/type:Converteam B128P8
+	
+Output/speed of each set:3,230kVA
+Propulsion motor
+	
+Motor make:Converteam
+	
+Motor type:N3HXC1120LL8CH
+	
+Speed of each set:140rpm
+	
+Output of each set:4,500kW
+Propeller
+	
+Material:Stainless steel EN-GX4Cr-Ni-Mo16-5-1
+	
+Designer/manufacturer: KaMeWa CPP, Rolls-Royce
+	
+Fixed/controllable pitch:Controllable
+	
+Diameter: 4.3m
+	
+Speed:140rpm
+Thermal oil heaters
+	
+Type:TOH 1200V40
+	
+Make: Gesab
+	
+Output, each boiler:1,200kW
+Cargo cranes/cargo gear
+	
+Make: TTS
+	
+Type:Knuckle boom deck crane
+	
+Performance:1 x 35tonnes x 27.5m, 2 x 10tonnes x 10m
+Mooring equipment
+	
+Make:Hatlapa/ Petrel Engineering
+	
+Type: Electric
+Special lifesaving equipment
+Number of each and capacity:2 x 75 persons,6 x 25 persons
+	
+Make: Schat-Harding/ Viking Life-Saving
+	
+Type:Lifeboats: Kiss1000/ Liferafts: 15DKF Arctic
+Hatch covers
+	
+Manufacturer:Cargotec
+	
+Type:3 x upper deck, 3 x tween deck
+Containers
+	
+Total TEU capacity: 47 x 20ft ISO containers
+	
+	
+On deck:20 cargo + 6 laboratory
+	
+	
+In holds:21 cargo
+Cargo tanks
+	
+Number:2
+	
+Grades of cargo carried:Polar diesel oil
+Cargo pumps
+	
+Type: SD100
+	
+Make:Framo
+Capacity:60m3/h, 120mlc
+Water ballast treatment system
+	
+Make:Hyde Marine HG25OS
+Capacity:250m3/h
+Complement: 44
+Passengers
+	
+Total:100
+	
+Number of cabins:46
+Bow thruster
+	
+Make:Rolls-Royce
+	
+Input power:750kW
+Stern thruster
+	
+Make:Rolls-Royce
+	
+Input power:1,200kW
+Bridge control system
+	
+Make:Raytheon Anschütz
+	
+Type:Synapsis
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium Marine/Salwico
+Fire extinguishing systems
+	
+Cargo holds:Autronica/CO2
+	
+Engine room: Autronica/Novec 1230
+Radars
+	
+Make:Raytheon Anschütz
+	
+Model:Synapsis
+Waste disposal plant
+	
+Incinerator:Teamtec/OG 400 C, CSW
+	
+Waste compactor:Mil-Tek/ XP300
+	
+Sewage plant:EVAC/AWT MBR 120C
+Contract date: 17 November 2009
+Launch/float-out date:21 July 2011
+Delivery date:04 April 2012
+S.A. AGULHAS II: single deck 
+research vessel
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Kyokuyo Shipyard Corporation, 
+Japan
+Vessel’s name: Severine
+Hull No: 501
+Owner/operator: Shiplux VIII S.A
+Country:Luxembourg
+Designer:Kyokuyo Shipyard Corporation
+Country:Japan
+Flag: Malta
+IMO number: 9539078
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 152.02m
+Length bp: 142.00m
+Breadth moulded: 22.00m
+Depth moulded
+	
+To main deck: 8.20m
+	
+To upper deck: 16.20m
+Width of double skin
+	
+Side: 5.40m
+	
+Bottom: 2.40m
+Draught
+	
+Scantling: 5.40m
+	
+Design: 5.40m
+Gross: 16,342gt
+Deadweight
+	
+Design:6,576dwt
+	
+Scantling:6,576dwt
+Speed, service:17knots
+Bunkers
+Heavy oil: 764m3
+Water ballast: 4,135m3
+Daily fuel consumption
+	
+Main engine only:28.6tonnes/day
+Classification society and notations: BV I +HULL, 
++MACH ro-ro cargo ship unrestricted navigation, 
+Heel control equipment: Frank Mohn, 500m3/h
+Main engine
+	
+Design:Wärtsilä
+	
+Model: 16V32
+	
+Manufacturer:Wärtsilä
+	
+Number: 1
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 7,000kW x 750rpm
+Gearboxes
+	
+Make:Wärtsilä
+	
+Model:SCV 95-PDMT116
+	
+Output speed:168.2rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:Wärtsilä
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 4.3m
+	
+Speed:168.2rpm
+Main-engine driven alternators
+	
+Make/type: AVK/DSG99L1/6
+	
+Output/speed of each set: 2,000kW x 1,200rpm
+Diesel-driven alternators
+	
+Engine make/type: Daihatsu Diesel Mfg Co., Ltd
+	
+Type of fuel:MDO
+	
+Output/speed of each set: 550kW x 900rpm
+	
+Alternator make/type: Taiyo Electric Co., Ltd
+	
+Output/speed of each set: 500kW x 900rpm
+Boilers
+	
+Type:Thermal oil heater, Economiser
+	
+Make:Alfa Laval
+	
+Output, each boiler: Thermal oil heater 700kW, 
+Economiser 500kW
+Other cranes
+	
+Make:Kyoritsu Kikai Co., Ltd
+	
+Type: Electric motor driven
+	
+Tasks:Provision handling
+	
+Performance:1tonne x 4m
+Mooring equipment
+	
+Number:2 x windlasses, 2 x mooring winches
+	
+Make: Nippon Pusnes Co., Ltd
+	
+Type:Hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 36 persons
+	
+Make:Hatecke 
+	
+Type:Totally enclosed freefall
+Vehicles
+	
+Number of vehicle decks:3 decks
+	
+Total lane length: 1,755m
+	
+Total cars: 116
+Doors/ramps/lifts/movable car ramps
+	
+Number of each: 1 x ramp, 1 x ramp cover
+	
+Type:Stern ramp-way door/ side hinged ramp door
+	
+Designer: TTS
+Ballast control system
+	
+Make: Nakakita Seisakusho Co., Ltd
+Water ballast treatment system
+	
+Make:Panasia
+Capacity: 500m3/h
+Complement
+	
+Officers: 10
+	
+Crew: 14
+Stern appendages/special rudders:Double plated, 
+ocean shilling mariner
+Bow thruster
+	
+Make:Kawasaki Heavy Industries, Ltd
+	
+Output:144kN
+Stern thruster
+	
+Make:Kawasaki Heavy Industries, Ltd
+	
+Output:99kN
+Bridge control system
+	
+Make: Furuno
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Autronica Fire and Security/ AMCO 
+Engineering Corporation
+	
+Type:Addressable
+Fire extinguishing systems
+	
+Vehicle spaces /Engine room:Danfoss Semco/ CO2
+	
+Cabins/ public spaces:Seawater & portable 
+fire extinguishers
+Radars
+	
+Make: Furuno Electric Co., Ltd
+	
+Models:FAR-2827/ FAR-2837S
+Integrated bridge system
+	
+Make: Furuno
+	
+Model: Voyager
+Waste disposal plant
+	
+Sewage plant: Taiko Kikiai Industries Co., Ltd/ SBH-40
+Launch/float-out date:29 September 2011
+Delivery date:25 January 2012
+SEVERINE: Ipswichmax ro-ro from Japan
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Mitsubishi Heavy Industries Ltd
+Vessel’s name: Silver Princess
+Hull No:1158
+Owner/operator:.Kawasaki Kinkai Kisen Kaisya Ltd
+Country: Japan
+Designer:Mitsubishi Heavy Industries Ltd
+Country: Japan
+Model test establishment used:MHI Nagasaki 
+R&D Centre, Japan
+Flag: Japan (Hachinohe)       
+IMO number:9597616
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa:150.00m
+Length bp:137.50m
+Breadth moulded:25.00m
+Depth moulded
+	
+To main deck: 8.00m
+	
+To upper deck:13.15m
+Draught
+	
+Scantling: 5.85m
+	
+Design: 5.70m
+Gross:10,536gt
+Deadweight
+	
+Design: 4,315dwt
+	
+Scantling: 4,724dwt
+Speed, service:20.5knots
+Bunkers
+Heavy oil:612.3m3
+Water ballast:3,056.2m3
+Daily fuel consumption
+	
+Main engine only:55.1tonnes/day
+Main engine
+	
+Design: S.E.M.T – Pielstick
+	
+Model:12PC2-6B
+	
+Manufacturer:JFE Engineering Corporation
+	
+Number:2
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine:7,200kW
+Gearboxes
+	
+Make: Kitachi Nico Transmission Co., Ltd
+	
+Model:MGP1843H50
+	
+Number:2
+Propellers
+	
+Material:ALBC3
+	
+Designer/manufacturer: Kawasaki Heavy Industries
+	
+Number:2
+	
+Fixed/controllable pitch:Controllable
+	
+Diameter: 4.2m
+Main-engine driven alternators
+	
+Number:2
+	
+Make/type: Nishiba Electric Co., Ltd
+Diesel-driven alternators
+	
+Number:3
+	
+Engine make/type:Daihatsu Diesel MFG. 
+Co. Ltd/ 5DK-20e
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set:900rpm
+Boilers
+	
+Number:1
+	
+Make:Muira Co., Ltd
+	
+Output, each boiler:3,000kg/h
+Mooring equipment
+	
+Number:4
+	
+Make: Manabe Zoki Co., Ltd
+	
+Type:Electric-hydraulic
+Special lifesaving equipment 
+	
+Number of each and capacity:MES-2
+	
+Make:Fujikura Rubber Ltd
+	
+Type:FSMES-160・N
+Vertical or sloping chutes:Vertical
+Vehicles
+	
+Number of vehicle decks:3
+	
+Total cars:30
+	
+Total freight:92
+Doors/ramps/lifts/movable car decks
+	
+Number of each:2 x ramps, 2 x movable car decks
+Ballast control system
+	
+Make:NYK Trading Corporation
+Complement
+	
+Officers:9
+	
+Crew:11
+Passengers
+	
+Total:900
+	
+Number of cabins:176
+Stern appendages/ special rudders:Mariner
+Bow thruster
+	
+Make: Kawasaki Heavy Industries
+	
+Number:2
+Bridge control system
+	
+Make: Nabtesco
+	
+Type:electric
+Fire detection system
+	
+Make:Nippon Hakuyo Electronics
+	
+Type:Smoke detector type & Temperature type
+Fire extinguishing systems
+	
+Engine room:Air Water Safety Service/ CO2
+	
+Vehicle spaces:Nohmi Bosai Ltd/ sprinkler
+	
+Cabins/public spaces: Yamato Protec/ Portable
+Radars
+	
+Number:3
+	
+Make:JRC
+Contract date: 26 March 2010
+Launch/float-out date: 11 November 2011
+Delivery date:5 April 2012
+SILVER PRINCESS: advanced ro-pax 
+from Japan
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Samsung Heavy 
+Industries Co., Ltd
+Vessel’s name: Stena Supreme
+Hull No: HN1925
+Owner/operator:Stena Bulk
+Country:Sweden
+Designer:Samsung Heavy 
+Industries Co., Ltd
+Country: Korea
+Model test establishment used:Samsung Ship 
+Model basin
+Flag:Bermuda
+IMO number: 9585895
+Total number of sister ships still on order: 7
+TECHNICAL PARTICULARS   
+Length oa: 274.23m
+Length bp: 264.0m
+Breadth moulded: 48.0m
+Depth moulded
+	
+To main deck: 23.3m
+	
+To upper deck: 23.3m
+Width of double skin
+	
+Side: 2.45m
+	
+Bottom: 2.55m
+Draught
+	
+Scantling: 17.0m
+	
+Design: 16.0m
+Gross:	81,187gt
+Displacement:182,914tonnes
+Lightweight:23,883tonnes
+Deadweight
+	
+Design:147, 090dwt
+	
+Scantling:159,031dwt
+Block co-efficient: 0.8267
+Speed, service:14.58knots
+Cargo capacity
+Liquid volume: 175,742m3
+Bunkers
+Heavy oil: 3,532m3
+Water ballast: 52,032m3
+Daily fuel consumption
+	
+Main engine only:49tonnes/day
+Classification society and notations: BV I, +Hull, +MACH, 
+Oil Tanker, ESP, CSR, Unrestricted Navigation, 
++AUT-UMS, +VeriSTAR-HULL, MON SHAFT, 
+In Water Survey, VCS, _AUT-PORT, SYS-NEQ-1, 
+Cleanship(C), ALP
+Main engine
+	
+Design:MAN Diesel & Turbo
+	
+Model: 6S70ME-C
+	
+Manufacturer:Doosan Engine (MAN Licensee)
+	
+Type of fuel: 15,720kW x 81.4rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: SHI/HHI
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 8.4m
+Diesel-driven alternators
+	
+Engine make/type: Yanmar/6N21AL-GV
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 950kW x 900rpm
+	
+Alternator make/type: Hyundai/ HFC7 508-84K
+	
+Output/speed of each set: 1,187.5kVA
+Boilers
+	
+Type: Mission OL 30000
+	
+Make:Aalborg
+	
+Output, each boiler:30tonnes/h x 16kg/cm2
+Cargo cranes/cargo gear
+	
+Make: DMC
+	
+Type: Electric-hydraulic, self-contained type, single jib
+	
+Tasks:Provisions and machinery part handling
+	
+Performance:2tonnes/6.3tonnes
+Mooring equipment
+	
+Make: Flutek Kawasaki
+	
+Type: Electro-hydraulic driven
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 32 persons
+	
+Make:Fassmer
+	
+Type:Freefall
+Cargo tanks
+	
+Number:12 + 2 slop tanks
+	
+Grades of cargo carried:Grade B
+	
+Product range:Crude oil (S.G 0.85)
+Cargo pumps
+	
+Type: Vertical, single stage, centrifugal, double suction
+	
+Make:Hyundai Heavy industries Co., Ltd
+	
+Stainless steel:Impeller shaft
+Capacity:3,800m3/h x 135m at S.G 1.025
+Cargo control system
+	
+Make: Samsung
+Ballast control system
+	
+Make: Samsung
+	
+Bridge control system
+	
+Make:Nabtesco
+	
+Type: M-800 III
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Addressable type
+Fire extinguishing systems
+	
+Engine room:Wilhelmsen/ High expansion 
+foam & seawater
+	
+Cabins/ public spaces:Seawater & portable 
+fire extinguishers
+Radars
+	
+Make: Furuno
+	
+Model:FAR-2827, FAR-2837S
+Integrated bridge system
+	
+Make: Furuno
+	
+Type:FEA-2807
+Waste disposal plant
+	
+Incinerator:Hyundai-Atlas/ MAXI T150SL WS
+	
+Sewage plant:Il Seung/ ISS-35N
+Contract date: 19 March 2010
+Launch/float-out date:19 May 2012
+Delivery date:30 June 2012
+STENA SUPREME: eco tanker from 
+Samsung
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Hyundai Mipo Dockyard Co., Ltd
+Vessel’s name: STI Amber
+Hull No: 2332
+Owner/operator:Scorpio Tankers
+Country:Monaco
+Designer: Hyundai Mipo Dockyard Co., Ltd
+Country: Korea
+Model test establishment used:Force 
+Technology
+Flag: Marshall Islands
+IMO number: 9629926
+Total number of sister ships still on order: 3
+TECHNICAL PARTICULARS   
+Length oa: 183.31m
+Length bp: 174.00m
+Breadth moulded
+	
+To main deck: 19.1m
+	
+To upper deck: 19.1m
+Width of double skin
+	
+Side: 2m
+	
+Bottom: 2.15m
+Draught
+	
+Scantling: 13.30m
+	
+Design: 11.00m
+Gross:	29,708gt
+Displacement:50,048tonnes
+Lightweight:10,389tonnes
+Deadweight
+	
+Design:39,659dwt
+	
+Scantling:51,616dwt
+Speed, service:15.4knots
+Cargo capacity
+Liquid volume: 55,320m3
+Bunkers
+Heavy oil: 1,454m3
+Water ballast: 22,428m3
+Daily fuel consumption
+	
+Main engine only:31.8tonnes/day
+Classification society and notations:ABS, +A1, Hull Oil and 
+Chemical Carrier, +AMS, +ACCU, CSR, 
+AB-CM, VEC, UWILD, COW, TCM, CRC, 
+ENVIRO, GP, POT, RRDA, SPMA, RW, 
+ESP, IMO Ship Type 2, BWE
+Main engine
+	
+Design:Hyundai Heavy Industry Co., Ltd
+	
+Model: 6S50ME-B9.2
+	
+Manufacturer:Hyundai Heavy Industry Co., Ltd
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 8,890kW x 99rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: HHI-EMD
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 6.6m
+	
+Speed:99rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type:HHI 6H21/32
+	
+Type of fuel:HFO, MDO
+	
+Output/speed of each set: 1,000kVA x 720rpm
+	
+Alternator make/type: HHI HFC7 508-14K
+Boilers
+	
+Number: 2
+	
+Type:Aux. boiler, composite boiler
+	
+Make:Alfa Laval
+Output, each boiler: 18,000kg/h, 2,000kg/h (oil fired),850kg/h (exhaust)
+Cargo cranes/cargo gear
+	
+Number: 1
+	
+Make:Dongham Marine Crane
+	
+Type:Electric-hydraulic
+Other cranes
+	
+Number: 1/2
+	
+Make:Dongham Marine Crane
+	
+Type:Motor drive/ electric-hydraulic
+	
+Tasks: E/R crane/ provision handling
+Mooring equipment
+	
+Number: 8
+	
+Make: Aker Pusnes
+	
+Type:Hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity: 1
+	
+Make:Fassmer Marland
+	
+Type:CFL-T66
+Cargo tanks
+Number:12 x cargo oil tanks,2 x slop tanks, 1 x residual tank
+	
+Grades of cargo carried:Chemical cargoes 
+compatible with IMO ship type II
+	
+Product range:.According to cargo list approved by ABS
+Cargo pumps
+	
+Number:15 sets
+	
+Type:Submerged type
+	
+Make: Framo
+	
+Stainless steel: 316
+Capacity:600m3/h, 300m
+Cargo control system
+	
+Make: Kongsberg Maritime Korea
+	
+Type:CMS
+Ballast control system
+	
+Make: Emerson Process Management
+	
+Type:CMS
+Complement
+	
+Officers: 11
+	
+Crew: 13
+Bridge control system
+	
+Make: Hyundai Heavy industry Co., Ltd
+	
+Type:Floor mounted and self standing
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico Cargo
+Fire extinguishing systems
+	
+Cargo holds: Maritime protection/ Inert gas
+	
+Engine room:SeaPlus/ Water mist
+	
+	
+........................................................................NK/ CO2
+	
+Cabins/public spaces:NK/ portable fire extinguishers
+Radars
+	
+Number: 2
+	
+Make: Furuno
+	
+Model:FAR-2837S, FAR-2827
+Waste disposal system
+	
+Incinerator:TeamTec/ OG400CS
+	
+Sewage plant:Il Seung/ ISS-25N
+Contract date:02 June 2011
+Launch/float-out date:10 May 2012
+Delivery date:20 July 2012
+STI AMBER:	 first in series for Scorpio 
+Tankers
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: Mercurius Shipbuilding 
+(Mercurius Shipping group)
+Shipyard:Shipyard (Serbia)
+Vessel’s name: Stolt Rhine
+Hull No: 294
+Owner/operator:Stolt Nielsen Inland 
+Tanker Service B.V
+Country: The Netherlands
+Flag: The Netherlands
+MMSI number: 244740787
+Total number of sister ships already completed 
+(excluding ship presented): 1
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 109.99m
+Breadth moulded: 11,35m
+Depth moulded
+	
+To main deck: 5,35m
+Width of double skin
+	
+Side: 80cm
+	
+Bottom: 65cm/80cm
+Draught
+	
+Design: 4,00m
+Gross: 3,409.795gt
+Displacement:3,409.795tonnes
+Deadweight
+	
+Design:1,007.823dwt
+Speed, service:10.63knots
+Cargo capacity
+Liquid volume: 3,791m3
+Bunkers
+Diesel oil: 48m3
+Daily fuel consumption
+	
+Main engine only:6,0912tonnes/day
+	
+Auxiliaries:3,414tonnes/day
+Classification society and notations:LR + A1 IWW 
+Chemical Tanker Type C, in association with a list of 
+a defined cargoes, loading sequence “0”
+Main engine
+	
+Design:ABC
+	
+Model: 6 DZC-1000-166-A
+	
+Manufacturer: Anglo Belgian Corporation N.V
+	
+Number: 1
+	
+Type of fuel:MDO
+	
+Output of each engine: 1,325kW
+Gearboxes
+	
+Make: ZF-Masson
+	
+Model: ZF W12000 C
+	
+Number: 1
+	
+Output speed:335,35rpm
+Propellers
+	
+Material...................................................................... CU3
+	
+Designer/manufacturer:Wärtsilä Iberica S.A
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 1.75m
+	
+Speed:30,71rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type: Cummins 
+	
+Type of fuel:MDO
+	
+Output/speed of each set:560kW, 153kW, 81kW
+	
+Alternator make/type: Marathon
+	
+Output/speed of each set: 660KVa, 160KVa, 107KVa
+Cargo boilers
+	
+Number: 1
+	
+Type: 5-TFO-020
+	
+Make:Heatmaster
+	
+Output, each boiler: 2,100kW
+Mooring equipment
+	
+Number: 2
+	
+Make: Dijvler Materialen B.V
+	
+Type: Electric
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 3 persons
+	
+Make: Riwa Boating International
+	
+Type:Riwa 400 River Warrior
+Hatch covers
+	
+Design: Mercurius Shipbuilding
+	
+Manufacturer:Shipyard Begej
+Cargo tanks
+	
+Number: 10
+	
+Grades of cargo carried:Closed
+Product range: Type C
+	
+Coated tanks: Stainless steel
+	
+Stainless steel:St.st/ Duplex 2205, 
+piping system AISI 316L
+Cargo pumps
+	
+Number: 10
+	
+Type:MDPD-80
+	
+Make:Marflex
+	
+Stainless steel: St.st AISA 316L
+	
+Capacity: 140m3/h
+Cargo control system
+	
+Make:Magnetrol Eclipse
+	
+Type:7XA
+Complement
+	
+Officers: 2
+	
+Crew: 4
+Stern appendages/special rudders:.. Promac with 2 rudders
+Bow thruster
+	
+Make:Verhaar Omega
+	
+Number: 1
+	
+Output: 393kW
+Bridge control system
+	
+Make:Radio Holland
+	
+Type: Sigma Line
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Crowcon Detection Instrument Ltd
+	
+Type:Gasmaster II 4/4
+Fire extinguishing systems
+	
+Engine room: Niecom Constructie B.V/ FM2300
+	
+Cabins/public spaces:Crowcon Detection Instrument
+Radars
+	
+Number: 2
+	
+Make: Furuno
+	
+Model:RHRS 2005RC TFT
+Contract date: 15 October 2010
+Launch/float-out date:19 November 2011
+Delivery date:6 February 2012
+STOLT RHINE: new and improved inland 
+tankers
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:STX Offshore & 
+Shipbuilding Co., Ltd
+Vessel’s name: STX Arborella
+Hull No:S1539
+Owner/operator:POS Maritime CA S.A/ 
+STX PanOcean Co., Ltd
+Country: Korea
+Designer: STX Offshore 
+Country: Korea
+Model test establishment used: MOERI
+Flag: Marshall Islands
+IMO number: 9613288
+Total number of sister ships still on order: 9
+TECHNICAL PARTICULARS   
+Length oa: 199.9m
+Length bp: 191.8m
+Breadth moulded: 32.26m
+Depth moulded
+	
+To main deck: 19.3m
+	
+To upper deck: 19.3m
+	
+To other decks: 16.4m
+Width of double skin
+	
+Side: 2.03m
+	
+Bottom: 1.9m
+Draught
+	
+Scantling: 12.7m
+	
+Design: 11.0m
+Gross: 39,009gt
+Displacement:70,605tonnes
+Lightweight:13,065tonnes
+Deadweight
+	
+Design:47,171dwt
+	
+Scantling:57,539dwt
+Block co-efficient: 0.8746
+Speed, service:13.9knots
+Cargo capacity
+Grain: 68,539m3
+Bunkers
+Heavy oil: 3,149m3
+Diesel oil: 250.7m3
+Water ballast: 23,019m3
+Daily fuel consumption
+	
+Main engine:37.2tonnes/day
+	
+Auxiliaries:449tonnes/day
+Classification society and notations:DNV, +1A1 
+General Cargo Carrier, HC-A 
+maximum cargo density 3.0tonnes/m3),
+BIS, COAT-PSPC(B), BWM-T, E0, TMON, 
+Naticus (newbuilding), GRAB[20]
+Main engines
+	
+Model:MAN 6S50MC-C8.1
+	
+Manufacturer: STX Heavy Industries
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output of each engine: 9,960kW x 127rpm
+Propellers
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer:STX/SILLA Metal
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 6m
+	
+Special adaptations: PBCF
+Diesel-driven alternators
+	
+Number: L23/30H-S-1539
+	
+Engine make/type: STX engine/ 6L23/30H
+	
+Type of fuel: HFO, MDO, MGO
+	
+Output/speed of each set: 960kW x 900rpm
+	
+Alternator make/type: Hyundai/ HFC7 508-84K
+	
+Output/speed of each set: 910kW x 900rpm
+Boilers
+	
+Number:MPS012011STV
+	
+Type: Composite boiler
+	
+Make:SeAH E&T Co., Ltd
+Output, each boiler: 1,200kg/h (oil fired),1,100kg/h (exhaust gas)
+Cargo cranes
+	
+Make: MacGregor
+	
+Type:Electro hydraulic
+Other cranes
+	
+Make:Oriental
+	
+Type: Electro hydraulic, single jib type
+	
+Tasks: Provision and engine part handling
+	
+Performance: SWL 2tonnes
+Mooring equipment
+	
+Number: 2 xWindlass, 4 x winches
+	
+Make: Flutek-Kawasaki
+	
+Type:Electro hydraulic
+Special lifesaving equipment
+Number of each and capacity: 1 x 24 persons, 1 x 6 
+persons, 2 x 25 persons, 1 x 6 persons
+	
+Make: Oriental/ Viking
+	
+Type:Freefall, rescue boat, liferafts
+Hatch covers
+	
+Manufacturer: MacGregor
+	
+Type:Piggy bag type & folding
+Cargo tanks
+	
+Number: 8
+	
+Coated tanks make:Jotun/ Jotacote Universal
+Ballast control system
+	
+Make:Lyngso Marine
+	
+Type: MOS2200
+Water Ballast Treatment System
+	
+Make:Techcross electro chamber unit
+Capacity:2 x 1,000m3/h
+Complement
+	
+Officers: 11
+	
+Crew: 13
+Bridge control system
+	
+Make: Tokyo-Keiki
+	
+Type:PR-6000
+Fire detection system
+	
+Make: B-I Industrial Co., Ltd
+	
+Type:BDS-4000
+Fire extinguishing systems
+	
+Cargo holds: NK/ CO2, seawater
+	
+Engine room: NK/ CO2, seawater
+	
+Cabins:NK/ Portable fire extinguisher
+	
+Public spaces:NK/ portable fire extinguisher
+Radars
+	
+Make: SAM Electronics
+	
+Model: NACOS Platinum
+Waste disposal plant
+	
+Incinerator: Hyundai Machinery Co., Ltd/ 
+MAXI NG100SL WS
+	
+Waste compactor:SAMJOO/ BS520
+	
+Sewage plant:Il-Seung/ ISS-25N
+Contract date: 13 December 2010
+Launch/float-out date: 6 December 2012 
+Delivery date:9 November 2012
+STX ARBORELLA: open-hatch bulker
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Daewoo Shipbuilding 
+Vessel’s name:Tanit
+Hull No:H.7511
+Owner/operator: Compagnie Tunisienne 
+De Navigation
+Country:Tunisia
+Designer:Daewoo Shipbuilding 
+Country: Korea
+Model test establishment used: MARIN
+Flag:Tunisia
+IMO number: 9598579
+Total number of sister ships still on order:nil
+TECHNICAL PARTICULARS   
+Length oa: 210.0m
+Length bp: 189.6m
+Breadth moulded: 30.0m
+Depth moulded
+	
+To main deck: 10.5m
+	
+To upper deck: 16.62m
+Width of double skin
+	
+Bottom: 1.6m
+Draught
+	
+Scantling: 7.92m
+	
+Design: 7.29m
+Gross:	52,645gt
+Deadweight
+	
+Design:6,126dwt
+Speed, service:27.5knots
+Bunkers
+Heavy oil: 1,780m3
+Water ballast: 2,450m3
+Daily fuel consumption
+	
+Main engine only:196.3tonnes/day
+	
+Auxiliaries:24.5tonnes/day
+Classification society and notations: BV I, HULL, MACH, 
+Roro Passenger Ship, COMF-NOISE2, 
+COMF-VIB 2, AUT-UMS, AUT-PORT,
+SYS-NEQ-1, MON-SHAFT, Ice Class ID,
+REF-STORE, ALP, SDS, Inwater Survey, Unrestricted
+Heel control equipment:Two pairs of heeling tanks
+Roll-stabilisation:One pair of fin stabilisers
+Main engine
+	
+Design: MAN B&W
+	
+Model: 12V48/60CR
+	
+Manufacturer: MAN B&W
+	
+Number: 4
+	
+Type of fuel:HFO, MDO
+	
+Output of each engine: 14,400kW x 514rpm
+Propeller
+	
+Material: Ni-Al-Bronze
+	
+Designer/manufacturer: MAN
+	
+Number: 2
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 5.6m
+Diesel-driven alternators
+	
+Number: 4
+	
+Engine make/type: MAN 6L32/40
+	
+Type of fuel:HFO, MDO
+	
+Alternator make/type: HHI/HFJ7 808-8P
+	
+Output/speed of each set: 2,850kW
+Boilers
+	
+Number: 2
+	
+Type: Steam boiler
+	
+Make: Staacke
+	
+Output, each boiler: 5,000kg/h
+Mooring equipment
+	
+Number: 6
+	
+Make: Rolls-Royce
+	
+Type:Low pressure hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:4 x 632 persons
+	
+Make: RFD
+	
+Type:MES
+	
+Vertical or sloping chutes:Vertical
+Vehicles
+	
+Number of vehicle decks: 3 x fixed, 1 x movable
+	
+Total lane length: 1,400
+	
+Total cars: 1,060
+Total freight units:91 trailers (14.6m x 3m),339 cars or 1,060 cars
+Doors/ramps/movable car decks
+	
+Number of each: 8/4/12
+	
+Type:Hydraulic
+	
+Designer: TTS
+Water ballast treatment system
+	
+Make:Panasia
+Capacity: 300m3/h
+Complement
+	
+Officers/crew: 285
+Passengers
+	
+Total: 3,200
+	
+Number of cabins: 653
+	
+Percentage/number outboard: 21%/136 cabins
+Stern appendages/special rudders:Flap rudder
+Bow thruster
+	
+Make: Brunvoll
+	
+Number: 2
+	
+Output: 1,750kW
+Bridge control system
+	
+Make:JRC
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type:Addressable 
+Fire extinguishing systems
+	
+Engine room:CO2
+	
+Vehicle spaces:Drencher
+	
+Cabins: Marioff/ water mist
+	
+Public spaces: Marioff/water mist
+Radars
+	
+Number: 3
+	
+Make:JRC
+	
+Models:JMA-9122-6XA, JMA-9132-SA, JMA-9122-6XA
+Integrated bridge system
+	
+Make:JRC
+	
+Model:JAN-901B-CON
+Waste disposal unit
+	
+Waste compactor: Uson/USC-2030
+	
+Waste shredder/crusher: Uson/USC-2030
+	
+Sewage plant:Hamworthy/ST-50C
+Contact date:26 July 2010
+Delivery date:31 May 2012
+TANIT: ro-pax built to latest regulations
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: SPP Shipbuilding Co., Ltd
+Vessel’s name: Tzini
+Hull No: H-4076
+Owner/operator:Eastern Mediterranean 
+Maritime
+Country:Greece
+Designer: SPP Shipbuilding Co., Ltd
+Country: Korea
+Flag: Malta
+IMO number: 9625906
+Total number of sister ships still on order: 2
+TECHNICAL PARTICULARS   
+Length oa: 170.00m
+Length bp: 160.00m
+Breadth moulded: 29.8m
+Depth moulded
+	
+To main deck: 14.5m
+	
+To upper deck: 14.5m
+	
+To other decks: A Deck 18.50m, B Deck 21.50m 
+Width of double skin
+	
+Side: 29.8m
+	
+Bottom: 25.7m
+Draught
+	
+Scantling: 9.5m
+	
+Design: 8.5m
+Gross:Abt. 20,600gt
+Displacement:32,665tonnes
+Lightweight:Abt. 8480tonnes
+Deadweight
+	
+Design:20,001dwt
+	
+Scantling:24,185dwt
+Block co-efficient: 0.7015
+Speed, service: 19knots, 90%MCR with 15% sea margin
+Bunkers
+Heavy oil: 2,007m3
+Water ballast:  9,703m3
+	
+Container ships – water ballast in 
+	
+  loaded conditions:4771tonnes
+Daily fuel consumption
+	
+Main engine only:51.5tonnes/day
+	
+Auxiliaries:14tonnes/day
+Classification society and notations: +100A5, Container 
+Ship, DG, BMW, IW, RSD, +MC AUT, CM-PS
+Main engine
+	
+Design:MAN Diesel & Turbo
+	
+Model: 6S60ME-C8.2
+	
+Manufacturer: Hyundai Heavy Industries
+	
+Type of fuel:HFO
+	
+Output of each engine: 14,280kW x 105rpm at MCR
+Propellers
+	
+Material: Ni-Al Bronze
+	
+Designer/manufacturer:SHJ/ Silla Metal Co., Ltd
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 6.6m
+	
+Speed:105rpm
+Diesel-driven alternators
+	
+Engine make/type:HHI/ 8H21/32
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 1,760kW x 900rpm
+Boilers
+	
+Type:MC
+	
+Make: SPP Machine Tech
+	
+kg/h x 7kg/cm2
+Cargo cranes/cargo gear
+	
+Make:Liebherr
+	
+Type: Self contained electro-hydraulics single jib type
+Mooring equipment
+	
+Number:2 x Windlass
+	
+	
+Make:Oriental
+	
+Type:Hydraulic motor driven
+Special lifesaving equipment
+	
+Number of each and capacity:2 x 23 persons
+	
+Make:Fassmer
+Hatch covers
+	
+Manufacturer:SMS
+	
+Type: Steel pontoon hatch cover
+Containers
+	
+Lengths: 20ft, 40ft
+	
+Heights: 20/40ft
+	
+Cell guides:130mm x 130mm x 15mm
+	
+Total TEU capacity:1756TEU
+	
+	
+On deck:1136TEU
+	
+	
+In holds:620TEU
+	
+	
+Homogenously loaded to 14 tonnes: 1380
+	
+Tiers/rows
+	
+	
+On deck:7 tiers/12 row
+	
+	
+In holds: 6 tiers/ 19 rows
+Doors/ramps/lifts/movable car decks
+	
+Number of each: 124
+	
+Type:Joiner door, steel door
+	
+Designer:Sta-Intec, Kwang-Lim
+Cargo tanks
+	
+Number: 7
+	
+Grades and cargoes carried:Dangerous goods of 
+classes 1.4s, 2,3,4,5.1, 6.1,8 and 9 in 
+closed containers in No 1 & 2 holds 
+hydrogen mixture) and classes1,2,3,4,5.1,5.2,6.1,8 and 9 in
+closed container on all hatch 
+covers except above engine room.
+Ballast control system
+	
+Make:Scana Korea
+	
+Type: Piano type ballast control console
+Water ballast treatment system
+	
+Make:Panasia
+Capacity: 500m3/h
+Complement
+	
+Officers: 13
+	
+Crew: 10
+Bow thrusters
+	
+Make:Kawasaki
+	
+Output: 800kW
+Bridge control system
+	
+Make:Nabtesco
+	
+Type: M-800III
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico Cargo
+Fire extinguishing systems
+	
+Engine room/Cargo holds: NK/ CO2, seawater
+Public spaces:Il-Jin AND/ KS2000
+Radars
+	
+Make: Furuno
+	
+Models:FAR-2837, FAR-2837S
+Waste disposal plant
+	
+Incinerator: Hyundai Marine Machinery/
+MAXI NG100SL WS
+	
+Sewage plant:Il Seung/ ISS-25N
+Contract date:11 April 2011
+Launch/float-out date:22 September 2012
+Delivery date:14 January 2013
+TZINI: boxship with piracy 
+protection
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Flensburger Schiffbau-
+Gesellschaft GmbH & Co. KG
+Vessel’s name:Ulusoy-14
+Hull No:753
+Owner/operator: Ulusoy Sealines
+Country: Turkey
+Designer:Flensburger Schiffbau-
+Gesellschaft GmbH & Co. KG
+Country:Germany
+Model test establishment used:HSVA
+Flag: Turkey
+IMO number:9506253
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa:208.30m
+Length bp:197.39m
+Breadth moulded:26.00m
+Draught
+	
+Scantling: 7.00m
+	
+Design: 6.45m
+Displacement:1,025tonnes/m3
+Lightweight:1,023NT
+Deadweight
+	
+Design:10,749dwt
+	
+Scantling:13,124dwt
+Speed, service:20.6knots
+Bunkers
+	
+Heavy oil:4,250l/h
+	
+Water ballast:2,280m3
+Daily fuel consumption
+	
+Main engine only:63,98tonnes/day
+Classification society and notations:DNV +1A1, 
+General Cargo Carrier Ro-Ro, E0, 
+NAUT-AW, DG-P, TMON*, BIS**
+Roll stabilisation equipment:Flume stabilisation system
+Main engine
+	
+Model:MAN 8L 48/60-CR
+	
+Manufacturer: MAN
+	
+Number:2
+	
+Type of fuel:HFO
+	
+Output of each engine:9,600kW x 500rpm
+Gearboxes
+	
+Make:Renk
+	
+Model:RSH-1050
+	
+Number:2
+	
+Output speed:137,2rpm
+Propellers
+	
+Material:Ni-Al-Bronze
+	
+Designer/manufacturer: Schottel
+	
+Number:2
+	
+Fixed/controllable pitch:Controllable
+	
+Diameter:5m
+	
+Speed:137,50rpm
+Main-engine driven alternators
+	
+Number:2
+	
+Engine make/type:AEM SE 500L4
+	
+Output/speed of each set:1,800rpm
+Diesel-driven alternators
+	
+Number:2
+	
+Engine make/type:HFO/MDO
+	
+Output/speed of each set:1,185kVA
+	
+Alternator make/type: Hyundai heavy industries 35/B20
+	
+Output/speed of each set:1,187kVA
+Boilers
+	
+Type:UNEXTMBH-3000
+	
+Make: Aalborg
+	
+Output, each boiler:2,000kg/h
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 40persons
+	
+Make:Hatecke
+	
+Type: GFF 8.1
+Vehicles
+	
+Number of vehicles:4 fixed
+	
+Total lane length:4,094m
+	
+Total freight units: 283 trailers
+Doors/ramps
+Numbers of each: 1 stern ramp,1 vertical sliding door, 1 ramp cover
+	
+Type:All directly hydraulically driven
+	
+Designer:Cargotec MacGregor
+Complement
+	
+Officers:9
+	
+Crew:14
+Passengers
+	
+Total:12
+Stern appendages/special rudders: Full spade 
+rudder with Costa bulb
+Bow thrusters
+	
+Make: Brunvoll
+	
+Number:1
+	
+Output:2,000kW 
+Bridge control system
+	
+Make:SAM Electronics
+	
+Type: Type 1100
+	
+One-man operation:Yes
+Fire detection system
+	
+Make: Consilium
+	
+Type:Salmico CS 4000
+Fire extinguishing system
+	
+Cargo holds:Wilhelmsen Technical Solutions/ Water spray 
+system
+	
+Engine room: Wilhelmsen Technical Solutions/ 
+CO2 HP systems FW BLAFFS
+	
+Vehicle spaces: Wilhelmsen Technical Solutions/ 
+Water spray system
+Integrated bridge system
+	
+Make:SAM Electronics
+	
+Model: Type 1100
+Waste disposal plant
+	
+Incinerator:Deerberg systems/ IRLA-30
+	
+Sewage plant:RWO/ WWTLCO5
+Contract date:February 2008
+Launch/float-out date:03 August 2012
+Delivery date:06 December 2012
+ULUSOY-14: longest ro-ro from FSG
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Kranoye Sormovo (OJSC), 
+Nizhny Novgorod
+Vessels name:VF Tanker 1
+Hull No: 02001
+Owner/operator:VF Tanker Ltd
+Country:Russian Federation
+Designer:Marine Engineering Bureau
+Country: Ukraine
+Model test establishment used: Odessa 
+National Maritime University basin/
+Krylov Shipbuilding Research Institute
+Flag:Russian Federation
+IMO number: 9640499
+Total number of sister ships still on order: 3
+TECHNICAL PARTICULARS   
+Length oa: 140.85m
+Length bp: 137.10m
+Breadth moulded: 16.70m
+Depth moulded
+	
+To main deck: 6.00m
+Width of double skin
+	
+Side: 1.85m
+	
+Bottom: 1.2m
+Draught
+	
+Design: 4.2m (at sea)
+	
+Gross: 5,075gt
+Displacement:9,483tonnes
+Lightweight:2,461tonnes
+Deadweight
+	
+Design: 7,022dwt (at sea)
+	
+Block co-efficient: 0.936
+Speed, service:11knots
+Cargo capacity
+Liquid volume: 8,274m3
+Bunkers
+Heavy oil: 350m3
+Water ballast: 4,650m3
+Daily fuel consumption
+	
+Main engine only:8tonnes/day
+	
+Auxiliaries:0.5tonnes/day
+Classification society and notations: Russian Maritime 
+Register of Shipping (RS), KM   Ice 1 R2 
+AUT 1- ICS OMBO VCS ECO-S Oil Tanker (ESP)
+Main engine
+	
+Model: 6L20
+	
+Manufacturer:Wärtsilä
+	
+Type of fuel:HFO
+	
+Output of each engine: 1,200kW
+Rudder/propeller
+	
+Make: Schottel
+	
+Model: SRP1012FP
+	
+Output speed:307rpm
+Propellers
+	
+Fixed/controllable pitch:Fixed
+	
+Diameter: 1.9m
+	
+Speed:307rpm
+Diesel-driven alternators
+	
+Engine make/type:Rigas Diselis
+	
+Type of fuel:MDO
+	
+Output/speed of each set: 296kW
+Boilers
+	
+Type:CHB-3000
+	
+Make:Aalborg
+	
+Output, each boiler:2.5tonnes/h
+Other cranes
+	
+Make: Davit International
+	
+Type:C-SH.30/2.5-12
+	
+Tasks: Manifold crane
+	
+Performance: Flame-proof construction
+Mooring equipment
+	
+Number:2 x winches, 1 x capstan
+	
+Make:Adria Winch
+	
+Type: Electro-hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 16 persons
+	
+Make: Davit International
+	
+Type: JY-FF-4.90
+Cargo tanks
+	
+Number:6 + 2 slop tanks
+Cargo pumps
+	
+Type:MDPD-150
+	
+Make:Marflex
+Capacity: 200m3/h
+Cargo control system
+	
+Make:Valcom
+	
+Type:TSS/Control
+Complement
+	
+Officers: 3
+	
+Crew: 9
+Stern appendages/special rudders:2 full-revolving rudder 
+propellers with fixed-pitch 
+propellers in nozzels SRP-1012FP Schottel
+Bow thruster
+	
+Make: Schottel
+	
+Output: 230kW
+Bridge control system
+	
+Make:Northrup Gruman Sperry Marine
+	
+One-man operation:Yes
+Fire detection system
+	
+Make:Consilium
+	
+Type: Salwico CS4000
+Radars
+	
+Make:Northrup Gruman Sperry Marine
+	
+Model: Visionmaster FT, ECAT2 25
+Launch/float-out date:17 February 2012
+Delivery date:05 May 2012
+VF TANKER 1: latest tanker design for 
+Russian inland waterways
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder: CSBC Corporation, Taiwan, 
+Kaohsiung shipyard
+Vessel’s name: Wan Hai 511
+Hull number: 950
+IMO number: 9455296
+Total number of sister ships still on order: 3
+TECHNICAL PARTICULARS   
+Length, oa: 259.00m
+Length, bp: 246.40m
+Breadth, moulded: 37.30m
+Depth, moulded: 19.40m
+Gross: 46,904gt
+Deadweight
+	
+Design:44,053dwt
+	
+Scantling:57,830dwt
+Draught
+	
+Design: 11.00m
+	
+Scantling: 12.80m
+Speed:23.62 knots
+Bunkers
+heavy oil: 5, 341m3
+Water ballast: 15,777m3
+Fuel consumption
+	
+Main engine only:138tonnes/day
+Classification society and notations:DNV with the symbols 
+of +1A1 "Container Carrier", 
+E0, TMON, Nauticus (Newbuilding), 
+Heeling control system:Auto control, 550m3/h
+Main engine
+	
+Design: MAN B&W
+	
+Model:8K90MC-C6
+	
+Manufacturer:Hitachi Zosen Diesel & Engineering
+	
+Number: 1
+	
+Type of fuel:HFO
+	
+Output: 36,540kW x 104rpm
+Propeller
+	
+Material: Ni-Al-bronze
+	
+Design/Manufacturer:CSBC/Nakashima
+	
+Number: 1
+	
+Fixed/controllable pitch:Fixed
+	
+Speed:104rpm
+Diesel-driven alternators
+	
+Number: 3
+	
+Engine make/type:Yanmar /8EY26LW
+	
+Type of fuel:HFO
+	
+Output/speed of each set: 2450kW x 720rpm
+	
+Alternator make/type:Hyundai/HFC7714-10P
+	
+Output/speed of each set: 2280kW x 720rpm
+Boilers
+	
+Number: 1
+	
+Type:AQ10/16, Vertical oil fired boiler
+	
+Make:Alfa Laval Aalborg
+	
+Output, each boiler: 3,000kg/h
+Mooring equipment
+	
+Number:2 x mooring winch/windlass, 4 x mooring winch
+	
+Make:Nippon Pusnes
+	
+Type: Electric
+Lifesaving equipment
+	
+Number of set and capacity:2 x 25 persons
+	
+Make:Fassmer-Marland
+	
+Type:Gravity type
+Hatch covers
+	
+Design: Cargotec
+	
+Make:CSBC
+	
+Type: Pontoon type
+Containers
+	
+Lengths: 20ft/40ft
+	
+Total TEU capacity: 4,532
+	
+	
+on deck: 2,790
+ 	
+	
+ in hold: 1,742
+  	 	
+homogeneously loaded to 14tonnes: 3,524
+ 	
+ Reefer plugs:400FEU
+	
+Tiers/rows (maximum)
+	
+	
+on deck: 7/15
+  	 	
+in hold: 7/13
+Ballast control system
+	
+Make: Emerson
+	
+Type: Remote control
+Complement
+	
+Officers: 12
+	
+Crews: 11
+	
+Suez Canal crew: 6
+Bow thruster
+	
+Make: Nakashima
+	
+Number: 1
+	
+Output: 1,600kW
+Fire detection system
+	
+Make:Consilium
+	
+Type:Salwico Cargo
+Fire extinguishing system
+	
+Cargo hold/Engine room: Fixed CO2
+	
+Make:NK Co., LTD
+Radars
+	
+Number: 2
+	
+Make:JRC
+	
+Model: JMA-9133-SA/JMA-9126-6XA
+Waste disposal plant
+	
+Incinerator:Kangrim/ KIN-80SDA
+	
+Sewage plant:Hamworthy/ ST2A-C
+Contract date:June 2007
+Launch date:June 2012
+Delivery date:May 2012
+WAN HAI 511: Taiwan-built 4,500TEU 
+class, wide beam container vessel
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Shipbuilder:Sefine Shipyard
+Vessels Name:Zealand Juliana
+Hull No:16
+Owner/operator:Sefine Denizcilik 
+Tersanecilik TUR. SAN. VE TIC. A.S
+Country: Turkey
+Designer:Delta Marine
+Country: Turkey
+Model test establishment used:Bulgarian Ship 
+Hydrodynamics Centre (BSHC)
+Flag:Dutch
+IMO number:9655951
+Total number of sister ships still on order: 1
+TECHNICAL PARTICULARS   
+Length oa:152.50m
+Length bp:146.00m
+Breadth moulded:20.00m
+Depth moulded
+	
+To main deck:10.80m
+To upper deck:10.80m
+Width of double skin
+	
+Side: 2.15m
+	
+Bottom: 1.80m
+Draught
+	
+Scantling: 7.00m
+	
+Design: 7.00m
+Gross:11,627gt
+Displacement:21,655tonnes
+Lightweight:4,918tonnes
+Deadweight
+	
+Design:14,412dwt
+	
+Scantling:16,736dwt
+Block co-efficient: 0.838
+Speed, service:13knots
+Cargo capacity
+Grain:21,759m3
+Bunkers
+Heavy oil:640m3
+Water ballast:7,668m3
+Daily fuel consumption
+	
+Main engine only:16.2tonnes
+Classification society and notations:BVI, HULL, 
+Cargo, Unrestricted Navigation, Heavy Cargo (20tonnes/m2),
+Grabloading (10tonnes), AUT-UMS, Ice Class 1C, SYS-NEQ-1, 
+Cleanship, IWS, MON-SHAFT
+Main engine
+	
+Design: MAN
+	
+Model:6S35MC
+	
+Manufacturer: STX-MAN
+	
+Type of fuel:MDO, HFO
+	
+Output of each engine:4,440kW x 173rpm
+Gearboxes
+	
+Make:Kumera
+	
+Model: 2FG-1100-450
+	
+Output speed: 173 x 1,800rpm
+Propeller
+	
+Material:Ni-Al-Bronze
+	
+Designer:Berg
+	
+Fixed/controllable pitch:Controllable
+	
+Diameter: 3.9m
+	
+Speed:173rpm
+Main-engine driven alternators
+	
+Make/type:AVK/ DSU-62 L1-4
+	
+Output/speed of each set:640kW x 1,800rpm
+Diesel-driven alternators
+	
+Engine make/type:MAN/ Lindenberg
+	
+Type of fuel:MDO
+	
+Output/speed of each set:472kW
+	
+Alternator make/type:AVK/ DSU 62 L1-4
+	
+Output/speed of each set:1,800rpm
+Boilers
+	
+Type:Thermal oil heater
+	
+Make:Garioni Naval/SMAN
+	
+Output, each boiler:600kW
+Cargo cranes
+	
+Make:NMF
+	
+Type:DKV 30025
+	
+Performance:SWL 30tonnes x 25m
+Other cranes
+	
+Make:Gürdesan
+	
+Type:GD.KHK-20/9.0
+	
+Tasks:Provisions
+	
+Performance:SWL 2tonnes x 9m
+Mooring equipment
+	
+Make:Denizsan
+	
+Type:Electro hydraulic
+Special lifesaving equipment
+	
+Number of each and capacity:1 x 25persons
+	
+Make:GEPA
+	
+Type:free-fall
+Hatch covers
+	
+Design:Gürdesan
+	
+Manufacturer:Gürdesan
+	
+Type: High stowing folding
+Cargo tanks
+	
+Product range:General cargo, steel coil, coal, 
+grain, grab, dangerous goods
+	
+Coated tanks make:Jotun
+Complement
+	
+Officers:11
+	
+Crew:8
+Bridge control system
+	
+One-man operation:Yes
+Fire detection system
+	
+Make: Polimar/ Almar
+Waste disposal plant
+	
+Sewage plant: Detagasa
+Contract date: 28 March 2011
+Launch/float-out date:13 June 2012
+Delivery date:September 2012
+ZEALAND JULIANA: general cargo vessel
+

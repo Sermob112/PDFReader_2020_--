@@ -1,0 +1,2819 @@
+
+     Significant Small Ships of 2011
+Builder: Metal Shark Boats
+Designer: Metal Shark Boats
+Vessel’s name: 28 Defiant
+Owner/operator: US Coast Guard
+Country: US
+Flag	 : US
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 38
+Delivery date: June 2011
+TECHNICAL PARTICULARS   
+Length, oa: 9.5m
+Length, bp: 8.7m
+Breadth, oa: 2.56m
+Breadth, moulded: 2.3m
+Depth, moulded: 1.37m
+Displacement: 3.78tonnes
+Design, draught: 0.55m
+Desigh, deadweight: 4.65tonnes
+Lightweight: 3.46tonnes
+Speed, service: 25knots
+Max speed: 40knots
+Range (nautical miles)...........................................................200
+Classification society and notations: N/A
+Main engine(s)
+	
+Make : Honda
+	
+Model: BF225AKXA
+	
+Number: 2
+	
+Output of each engine: 167.8kW
+Propeller(s)
+	
+Material: Stainless steel
+	
+Number: 2
+	
+Fixed / controllable pitch: Fixed 
+	
+Diameter: 387mm
+Alternators
+	
+Make/type: Honda
+	
+Number: 2
+Deck machinery
+	
+Bow and stern tow post
+Bridge electronics
+	
+Radar(s).........................................................Furuno DRS4D
+	
+Other communications systems: Standard Horizon 
+GX5500S, 
+Motorola XTL-5000 VHF, 
+Motorola XTL-500 UHF, 
+Harris PRC-117
+GPS	 : Furuno
+Gyro	 : Furuno PG500R
+Chart plotter: 2 x Furuno MFD-12
+Engine monitoring / fire detection system: CO 
+Alarm – Firebox – Xintex
+Complement
+	
+Crew: 4
+Passengers : 628 DEFIANT: Fast, lightweight response
+boat scoops USCG contract
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Baltic Workboats
+Designer: Baltic Workboats
+Vessel’s name: Banrion Uladh
+Owner /operator: Department of Agriculture 
+and Rural Development, Northern Ireland
+Flag	 : UK
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0
+Contract date: November 2008
+Delivery date: December 2010
+TECHNICAL PARTICULARS   
+Length, oa: 25.9m
+Length, bp: 22.4m
+Breadth, moulded: 5.7m
+Depth, moulded: 3.05m
+Gross tonnage: 74tonnes
+Displacement: 52tonnes
+Design, draught: 1.5m
+Design, deadweight: 9tonnes
+Lightweight: 44tonnes
+Speed, service : 18knots
+Max speed: 26knots
+Range (nautical miles).....................................................500
+Daily fuel consumption (tonnes/day) ..................................2
+Classification Society and notations: Lloyd's Register 
+100 A1SSC Patrol Mono G3
+Other important international regulations complied with-
+MCA Small Commercial Vessel Code of Practice (SCV 
+Code), Category 2
+Main engine(s)
+	
+Make: MTU
+	
+Model: 10V2000M72
+	
+Number : 2
+	
+Output of each engine: 900kW
+Gearbox(es)
+	
+Make: ZF
+	
+Model: 2050A
+	
+Number : 2
+	
+Output speed: 912rpm
+Propeller(s)
+	
+Material : NiBrAl
+	
+Manufacturer: ZF Faster
+	
+Number : 2
+Fixed / Controllable Pitch: Fixed
+Diameter: 950mm
+Speed : 1120mm
+Open or nozzled: Open
+Alternators
+	
+Number : 1
+	
+Make/type: Cummins Onan MDKBR
+	
+Output/speed of each set: 17.5kW
+Bow thruster(s)
+	
+Number : 1
+	
+Make : Sleipner SP550
+	
+Output of each: 42kW
+Deck 	machinery
+	
+Crane - Guerra M60.90A2
+	
+Spencer Carter pothauler
+	
+One 2tonnes and 2 x 1tonne deckwinches, aft gantry
+	
+Multibeam
+	
+Muir VRC4500 anchor winch
+Bridge electronics
+	
+Radar(s) .........................2 x Sperry Marine Visionmaster 
+ARPA 25 1/6/M/FS
+	
+Autopilot: Simrad AP50
+	
+GMDSS: ICOM, Simrad EP50, McMurdo S4
+	
+GPS: Simrad MX520
+	
+Gyro: Simrad GC80 Compact
+	
+Chart plotter: Transas Navi Sailor 4000
+	
+Engine monitoring / fire detection system: MTU / Deckma
+Complement
+	
+Crew: 5
+	
+Passengers : 2
+	
+No. of cabins: 3 x 2 persons + 1 x 1 person
+Other significant or special items of equipment – 
+Boomeranger RIB C-605, speed 35knots
+BANRION ULADH: Fisheries patrol vessel, 
+slashing noise and vibration levels
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Simek
+Designer: Rolls-Royce Marine / Ulsteinvik
+Vessel’s name: Caspian Provider
+Owner / operator: Topaz Energy and Marine
+Country : Dubai
+Flag	 : Azerbaijan 
+(Cayman Islands on delivery)
+Total number of sister ships 
+  already completed: 167
+Total number of sister ships still on order: 180
+Contract date: August 2010
+Delivery date: July 2011
+TECHNICAL PARTICULARS   
+Length, oa: 73.6m
+Length, bp: 68.2m
+Breadth, moulded: 17m
+Depth, moulded: 7m
+Gross tonnage: 2471tonnes
+Displacement: 5065tonnes
+Design, draught: 5.91m
+Design, deadweight: 3179tonnes
+Lightweight: 1886tonnes
+Max speed: 14.95knots (@4.2m)
+Classification society and notations: Det Norske  Veritas
+Main engine(s) 
+	
+Make: Rolls-Royce
+	
+Model: Bergen C25:33L8P
+	
+Number : 2
+	
+Output of each engine: 2320kW
+Gearbox(es)
+	
+Make : Rolls-Royce
+	
+Model: Kamewa Ulstein 600AGSC-V-KP50L
+	
+Number : 2
+	
+Output speed: 197rpm
+Propeller(s)
+	
+Material: NiAlBr
+	
+Manufacturer: Rolls-Royce
+	
+Number: 2
+	
+Fixed/controllable pitch: Controllable
+	
+Diameter: 2900mm
+	
+Speed: 197rpm
+	
+Open or nozzled: Open
+Alternators
+	
+Make/type: Marelli MJR 500MA4
+	
+Number: 2
+	
+Output/speed of each set: 1800kVA@1800rpm
+Bow thruster(s)
+	
+Make : Rolls-Royce TT1650 DPN CP
+	
+Number: 2
+	
+Output of each: 590kW@313rpm
+Stern thruster(s)
+	
+Make : Rolls-RoyceTT1650 DPN CP
+	
+Number: 2
+	
+Output of each: 590kW@313rpm
+Deck machinery
+Bridge electronics
+	
+Radar(s)................ Furuno FAR-2137,  Furuno FAR-2117
+	
+Autopilot: Anschütz, Pilotstar D
+	
+GMDSS: Furuno FM-8800S, Area A3
+	
+Other communications systems: Furuno FS-1570
+	
+GPS: Furuno GP-150/DGPS
+	
+Gyro: Anschütz, 3 x Std 22
+	
+Chart plotter: Telchart T-2121
+Engine monitoring / fire detection system: Rolls-Royce 
+ACON
+Complement
+	
+Crew: 40
+	
+No. of cabins: 27
+CASPIAN PROVIDER: Upgrading a proven 
+PSV concept with extra capacity
+
+Significant Small Ships of 2011                                                                                                                                                 11
+Builder: Hike Metal Products
+Designer: Robert Allan Ltd
+Vessel’s name: Christopher Wheatley
+Owner/operator: Chicago Fire Department
+Country: USA
+Flag 	: USA
+Total number of vessels already completed: 1
+Total number of sister ships still on order: 0
+Contract date: July 2008
+Delivery date: April 2011
+TECHNICAL PARTICULARS   
+Length, oa: 27.43m
+Length, wl: 25.12m 
+Breadth, moulded: 7.62m
+Depth, moulded: 3.71m
+Gross tonnage: 179.9tonnes
+Displacement: 230tonnes
+Design, draught: 2.24m (hull) / 4.87m (max air draught)
+Design, deadweight: 37.7tonnes
+Lightweight: 191.9tonnes
+Max speed: 13knots
+Range (nautical miles).....................................................330
+Daily fuel consumption (tonnes/day)..............................14.3
+                                                  (propulsion engines only)
+Classification society and notations: Not classed 
+                                 but built in accordance to ABS rules
+Other important regulations complied with: NFPA Type III
+                                                     standards for fireboats
+Main engine(s) 
+	
+Make: Caterpillar
+	
+Model: C32
+	
+Number : 2
+	
+Output of each engine: 1081kW@2300rpm
+Gearbox(es)
+	
+Make : ZF
+	
+Model: W4610 (ratio 4.062:1)
+	
+Number : 2
+	
+Output speed: 566rpm
+Propeller(s)
+	
+Material : NiAlBr
+	
+Manufacturer: Rolls-Royce
+	
+Number: 2
+	
+Fixed / controllable pitch: Fixed
+	
+Diameter: 1372mm
+	
+Open or nozzled: Open
+Alternators
+	
+Make / type: Caterpillar C4.4
+	
+Number: 2
+	
+Output/speed of each set: 99ekW@1800rpm
+Deck machinery
+	
+Elevating Fi-Fi monitor platform
+	
+Anchor windlass
+	
+Portable davits (2)
+	
+Portable diver’s platform
+	
+Tow post
+	
+Hydraulically actuated folding mast
+Bridge electronics
+	
+Radar(s)...................................1 x Furuno 1834C/NT 10”
+	
+	
+GMDSS: Furuno FM 3000, Furuno LH 3000
+	
+Other communications systems: VHF radios (4), 
+                                                 VHF radios (2), loudhailer
+	
+GPS : Furuno, Ritchie 
+                                      Globemaster Magnetic Compass
+	
+Chart plotter: Furuno GP1920 C/NT 10” display
+	
+Engine monitoring  / fire detection system: CCTV system, 	
+	
+                                          FLIR infrared imaging system
+Complement
+	
+Crew 5 (normal operations) / 10 (fire-fighting operations)
+Other significant or special items of equipment
+	
+Ice Class ABS C-O
+Fire-fighting system with 3200m3/hr @ 10 bar pump flow
+	
+capacity – comprising three hydrants, foam system, five
+	
+fire-fighting monitors
+	
+Fi-Fi equipment room
+	
+EMS space  / Decontamination shower
+	
+SCBA/SCUBA equipment room
+	
+Engine removal hatch
+	
+Oil booms
+	
+Gas equipment / desk lockers
+CHRISTOPHER WHEATLEY : New fireboat 
+class braves Illinois winters
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : CTruk Boats Ltd
+Designer: CTruk Boats Ltd
+Vessel’s name: CWind Alliance
+Owner/operator : CWind
+Country : UK
+Flag	 : UK
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 2
+Delivery date: October 2011
+TECHNICAL PARTICULARS   
+Length, oa: 18.5m
+Length, bp: 15.75m
+Depth, moulded: 2.28m
+Displacement: 24tonnes
+Design, draught: 0.68m
+Design, deadweight: 23.3tonnes
+Lightweight: 20.7tonnes
+Speed, service: 25knots
+Max speed: 30knots
+Range (nautical miles)...................................................2200
+Daily fuel consumption (tonnes/hour)...........  0.04 @23knots
+Classification society and notations: MCA CAT 2, 
+DNV 1A1 HSLC R2 B crew boat
+Main engine(s)
+	
+Make : Cummins
+	
+Model : QSM11
+	
+Number : 2
+	
+Output of each engine: 448.7kW
+Gearbox(es)
+	
+Number : 2
+	
+Output speed: 3.3:1
+Alternator(s)
+	
+Number : 3
+	
+Output/speed of each set: 110amp
+Waterjet(s)
+	
+Number : 2
+	
+Make : Rolls-Royce
+	
+Model: FFR 41
+Bridge electronics
+	
+Radar(s).........................................................  2 x Simrad
+	
+Autopilot: Simrad AP50
+	
+GMDSS : 2 x Simrad
+	
+Other communications systems: PLB locator, G3 and GSM
+	
+GPS: Simrad
+	
+Chart plotter: 2 x Simrad
+	
+Engine monitoring / fire detection system..Sea Safe FM 200
+Complement
+	
+Crew: 2
+	
+Passengers : 14
+	
+No. of cabins: 1
+Vehicles
+	
+Number of vehicle decks: 1
+	
+Total lane length: 6m
+	
+No. of cars: 1
+Other significant or special items of equipment
+	
+Patented flexible pod system, allowing the wheelhouse
+	
+to be moved to suit differing vessel roles
+	
+Current pod configurations allow diving operations,
+	
+offshore fuel transfer, survey work
+	
+Rescue vessel with amphibious rescue vessel
+	
+deployable from aft deck
+	
+Heavy lifting with the ability to carry 20tonnes on deck
+CWIND ALLIANCE: Flexible pod design 
+widens scope for wind farm support vessel 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Alnmaritec
+Designer: Alnmaritec
+Vessel’s name: Elastec1
+Owner / operator: PetroChina
+Country: China
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 0
+Delivery date: May 2011
+TECHNICAL PARTICULARS   
+Length, oa: 10.8m
+Breadth, moulded: 5.2m
+Displacement: 9.5tonnes
+Speed, service: 7knots
+Max speed: 7knots
+Main engine(s)
+	
+Make: Betamarine
+	
+Model: Beta 90
+	
+Number: 2
+	
+Output of each engine: 66.2kW
+Waterjet(s)
+	
+Make : Hamilton 213
+	
+Number: 2
+Complement
+	
+Crew: 2
+Other significant or special items of equipment
+	
+Elastec drum skimmer
+	
+Elastec weir skimmer
+	
+Hydraulic debris collection scoop
+Onboard garbage skip, capacity 2m3
+ELASTEC 1: China-bound refinery terminal 
+oil and trash skimmer
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : Wang Tak Engineering 
+Hongshen Shipbuilding 
+Designer: Robert Allan / 
+Wang Tak Engineering 
+Vessel’s name: Guan Xiao Er Hao
+Owner / operator: Dongguan  Fire 
+Services Department
+Country: China
+Flag	 : China
+Number of sister ships already completed: 0
+Number of sister ships still on order: 0
+Delivery date: November 2011
+TECHNICAL PARTICULARS   
+Length, oa: 46.4m
+Breadth, moulded: 11.7m
+Depth, moulded: 5.15m
+Displacement: 850tonnes
+Design, draught: 3.25m
+Speed, service: 15knots
+Max speed: 17knots
+Classification : China Classification Society, 
+*CSAD, *CMSD, Coastal service, Fi-Fi 2
+Main engine(s)
+	
+Make : Caterpillar
+	
+Model : 3516B
+	
+Number: 2
+	
+Output of each engine: 1864kW @ 1600rpm
+Gearbox(es)
+	
+Make : Reintjes
+	
+Model: ZWAF863
+	
+Number: 2
+Propeller(s)
+	
+Material: NiBrAl
+	
+Manufacturer: Michigan Wheel Corporation
+	
+Number: 2
+	
+Fixed /controllable pitch: FPP
+	
+Diameter: 2m (propeller), 205mm (shaft)
+Alternators
+	
+Make: Caterpillar
+	
+Model: CAT C18
+	
+Number: 2
+	
+Output of each set: 350kW
+Bow thruster(s)
+	
+Make : Schottel
+	
+Model: STT300T-LK
+	
+Number: 1
+	
+Output: 350kW
+Stern thruster(s)
+	
+Make : Schottel
+	
+Model: STT170T-LK
+	
+Number: 1
+	
+Output: 250kW
+Deck machinery
+	
+Hai Xing windlass
+	
+Hai Xing deck crane (3.5m / 8tonnes)
+	
+Hai Xing aft winch
+	
+Boston Whaler 22’ Guardian daughter boat (6.7m)
+	
+Patriot Marine 9750 daughter boat (9m)
+Bridge electronics
+	
+Radar(s) ...............................................Furuno FAR-2127
+	
+Gyro: Anschütz STD-22
+	
+GPS: Furuno DGP-150
+	
+GMDSS: Furuno FM8800S
+Complement
+	
+Crew: 10
+	
+Passengers: 40
+Other significant or special items of equipment
+	
+GUAN XIAO ER HAO: Fi-Fi 2 vessel with60tonnes foam capacity
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 	
+     Significant Small Ships of 2011
+Builder : Hornblower Cruises and Events
+Designer: Dejong & Lebet
+Vessel’s name: Hornblower Hybrid
+Owner / operator: Hornblower Cruises 
+Country: USA
+Flag	 : USA
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: TBD
+Delivery date: October 2011
+TECHNICAL PARTICULARS   
+Length, oa: 51.2m
+Breadth, moulded: 12.19m
+Depth, moulded: 2.1m
+Speed, service: 6-7knots
+Max speed: 12knots
+Daily fuel  consumption (tonnes/day) .................................5
+Main engines
+	
+Make: Scania
+	
+Model: D16
+	
+Number: 2
+	
+Output of each engine: 521kW
+Alternators (aux/back up)
+	
+Number : 1
+	
+Make/type: Kohler
+	
+Output/speed of each set: 180kW
+Bow thruster(s)
+	
+Make : ABT with customised Hornblower controls
+	
+Number : 1
+	
+Output of each: 75kW
+Bridge electronics
+	
+Radar(s)........................... Furuno 8122 / Furuno MFD-12
+	
+GPS: Furuno MFD 12 and AIS FA-1502
+	
+Chart plotter: Furuno MFD-12
+Engine monitoring/fire detection system – 
+Tyco Fire Detection and Hornblower custom engine and 
+power management interface
+Complement
+	
+Crew: up to 30
+	
+Passengers: 600
+HORNBLOWER HYBRID: Pioneering New 
+York passenger ferry slashes emissions 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : Selah Shipyard
+Designer : S.P.E.C
+Vessel’s name: Ievoli Orange
+Owner / operator: Marnavi Offshore Srl
+Flag	 : Italy
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0 
+Contract date: November 2009
+Delivery date: January 2011
+TECHNICAL PARTICULARS   
+Length, oa: 49.98m
+Length, bp: 46.75m
+Breadth, moulded: 13.35
+Depth, moulded: 4.85m
+Gross tonnage: 943tonnes
+Displacement: 1467.8tonnes
+Design, draught: 3.0m
+Design, deadweight: 400tonnes
+Speed, service (100% MCR output)...................... 12.5knots
+Range (nautical miles)...................................................2000
+Classification society: RINA S.p.A 
+Notations: CSupply Vessel, Anchor Handling/Tug; 
+Unrestricted Navigation; Clean Air, Clean Sea, Ice IA, In 
+Water Survey, Fire Fighting1, Waterspray, Rec Oil
+Main engine(s)
+	
+Make: Wärtsilä
+	
+Model: 9L20
+	
+Number: 2
+	
+Output of each engine: 1800kW
+Gearbox (es)
+	
+Make: MAN ALPHA
+	
+Model: AMG 16 EV / 39VO16
+	
+Number: 2
+	
+Output speed: 259rpm
+Propeller (s)
+	
+Material: Ni-Al-Bronze
+	
+Manufacturer: MAN ALPHA
+	
+Number: 2
+	
+Fixed/Controllable pitch: Controllable	
+	
+Diameter: 2200mm
+	
+Speed: 259rpm
+	
+Open or nozzled: Nozzled
+Bow thruster (s)
+	
+Make: ROMAGNOLI
+	
+Number: 1
+	
+.650rpm
+Deck machinery
+	
+Gürdesan GD.SK-20/15 SWL electro hydraulic crane,
+	
+Gürdesan type GD.RRS-64.A (15/4.0) rescue/provision
+	
+Crane, 1tonne SWL
+	
+Gürdesan GD.SR stern roller, 1095mm/4100mm
+Bridge electronics
+	
+Radar(s) make/model: Consilium X-band Selux ST250; 	
+	
+Consilium : S-band Selux ST250
+	
+Autopilot make/model: SPERRY Navipilot 4000
+	
+GMDSS make/model: SAILOR GMDSS 
+Area A3 Console; GMDSS 150W SSB/DSC; Inmarsat-C 
+communication system; Ship Security Alert System; 
+GMDSS VHF/DSCs; GMDSS portable VHFs
+Other communication systems
+	
+GPS make/model: SAAB DGPS Navigator
+	
+Gyro: SPERRY NAVIGAT X Mk1, Type G-TMC
+	
+Chart plotter: Furuno Weather Chart Plotter
+	
+Engine monitoring/fire detection system: Lyngso Alarm 	
+	
+Monitoring Sys; ................TYCO T1216 Fire Alarm Panel
+Complement
+	
+Crew: 16
+	
+No. of cabins: 4x single; 6x double cabins
+IEVOLI ORANGE: First-in-series AHTS 
+designed for offshore support in the 
+Mediterranean, Black and Caspian Seas
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: N Sundin, Dockstavarvet
+Designer: N Sundin, Dockstavarvet
+Vessel’s name: NB 569 / Interceptor 16 M
+Owner / operator: Russian pilots
+Country: Russia
+Flag	 : Russia
+Total number of sister ships 
+  already completed: 35
+Total number of sister ships still on order: 4
+Contract date: January 2011
+Delivery date: July 2011
+TECHNICAL PARTICULARS   
+Length, oa: 17.2m
+Length, bp: 13.75m
+Breadth, moulded: 3.8m
+Design, draught: 1m
+Displacement: 20tonnes
+Speed, service: 42knots@85% MCR
+Max speed: 50knots
+Range (nautical miles).....................................................350
+Classification society and notations: Lloyd’s Register 
+                                         Special Service Craft Rules G3
+Other important international regulations complied with: G3
+Main engine(s)
+	
+Make: MAN
+	
+Model: D2842LE416
+	
+Number: 2
+	
+Output of each engine: 809kW@2300rpm
+Gearbox(es)
+	
+Make: ZF
+	
+Model: ZF665
+	
+Number: 2
+Waterjet(s)
+	
+Manufacturer: Rolls-Royce
+	
+Model: FF-410
+	
+Number: 2
+Alternators
+	
+Make / type: Onan MDKBN
+	
+Output: 11kW@1500rpm
+Bow thruster(s)
+	
+Make: Vetus
+	
+Number: 1
+	
+Output : 4.4kW
+Bridge electronics 
+	
+System delivery: Furuno NavNet 3D
+	
+                                                          Furuno DRS-6A
+	
+Autopilot: Navpilot 711
+	
+GPS: GP-33
+	
+GPS-compass: SC-30
+	
+AIS: FA-50
+	
+Echo sounder: DFF1 with SS60
+	
+VHF: FM-4721M
+	
+Chart plotter: Transas ECS4000
+	
+Engine monitoring / fire detection system: Swefire Clean 	
+	
+Agent : FS49C2
+Complement
+	
+Crew: 4
+	
+Passengers: 4
+	
+Number of cabins: 3 (2 x single, 1 x double)
+Other significant or special items of equipment
+Viking 6DK life rafts
+Victron batteries and battery chargers
+Libra wheelhouse door
+HydroSwede hydraulics
+MB Hydraulikk hydraulic anchor system
+Interceptor 16 M: High-speed patrol 
+vessel making waves in Russia
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Safehaven Marine
+Designer: Frank Kowalski
+Vessel’s name: Joa Vaz Corte-Real
+Owner/operator: Azores pilots
+Country: Azores
+Flag	 : Portugal
+Total number of sister ships 
+  already completed: 2
+Total number of sister ships still on order: 2
+Contract date: April 2011
+Delivery date: December 2011
+TECHNICAL PARTICULARS   
+Length, oa: 11.7m
+Length, bp: 10.3m
+Breadth, moulded: 3.8m
+Depth, moulded: 2.2m
+Gross tonnage: 22tonnes
+Displacement: 13tonnes
+Design, draught: 1.35m
+Speed, service: 22knots
+Max speed: 25knots
+Range (nautical miles).....................................................250
+Classification society: Bureau Veritas
+Main engine(s)
+	
+Make: Volvo
+	
+Model : D9
+	
+Number : 2
+	
+Output of each engine: 312.6kW
+Gearbox(es)
+	
+Make : ZF
+	
+Model: V Drive
+	
+Number: 2
+Propeller(s)
+	
+Material: NiAlBr
+	
+Manufacturer : Clements Engineering
+	
+Number: 2
+	
+Fixed / controllable pitch: Fixed
+	
+Diameter : 26”
+	
+Alternators: 4
+Deck machinery
+	
+Mampaey slip hook
+Bridge electronics
+	
+Radar(s).........................................................Simrad NX4
+	
+GMDSS: Sailor
+	
+GPS: Simrad
+Complement
+	
+Crew : 1
+	
+Passengers : 5
+	
+No. of cabins: 2
+JOA VAZ CORTE-REAL: Multi-purpose, 
+easy access, self-righting pilot boat
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Méridien Maritime Réparation
+Designer: Navtech Inc. 
+Vessel’s name: Le Cageux
+Owner / operator : Administration 
+portuaire de Québec
+Country: Canada
+Flag	 : Canada
+Total number of sister ships already
+  completed: 0
+Total number of sister ships still on order: 0
+Contract date: November 2010
+Delivery date: June 2011
+TECHNICAL PARTICULARS   
+Length, oa: 13.41m
+Length, bp: 11.65m
+Breadth, moulded: 4.9m
+Depth, moulded: 2.3m
+Gross tonnage: 24.4tonnes
+Displacement : 39.2tonnes
+Design, draught: 1.5m
+Design, deadweight: 6.36tonnes
+Lightweight: 32.66tonnes
+Speed, service: 10knots (85% MCR)
+Max speed: 11knots
+Range (nautical miles)........................................................ 140
+Daily fuel consumption (tonnes/day)................................... 2.2
+Classification society and notations: N/A
+Other important international regulations complied with
+Transport Canada Sheltered Waters Voyage
+Main engine(s)
+	
+Make: Volvo Penta
+	
+Model: D9 MH
+	
+Number: 2
+	
+Output of each engine: 224bkW @ 1800rpm
+Gearbox(es)
+	
+Make: ZF
+	
+Model: 325-1
+	
+Number: 2
+	
+Output speed: 610rpm
+Propeller(s)
+	
+Material: NiAlBr	
+Manufacturer: Michigan Wheel
+	
+Number: 2
+	
+Fixed / Controllable pitch: Fixed
+	
+Diameter: 914mm
+	
+Speed: 720rpm
+	
+Special adaptations: Workhorse
+	
+Open or nozzled: Open
+Generator set
+	
+Number: 1
+	
+Make / type: Phasor Marine / K4-12.5kW
+	
+Output/speed of each set: 1800rpm
+Deck machinery
+Heila HLM 2-2S hydraulic crane (capacity 1.4tonnes @1.7m, 0.4tonnes @ 5.5m)
+	
+Rotzler winch (1mt)
+	
+Modular Trelleborg fender
+Bridge Electronics
+	
+Radar(s)....................................................................Furuno
+	
+Other communications systems: VHF
+	
+Engine monitoring / 
+	
+  fire detection system: Volvo / Best Marine
+Complement
+	
+Crew: 2
+	
+Passengers: 4
+	
+No. of cabins: N/A
+LE CAGEUX: Modern workboat with 
+optimised wheelhouse visibility
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Austal
+Designer: Austal
+Vessel’s name: Liberty
+Owner / operator: L’Express Des Iles
+Country: Guadeloupe
+Flag	 : France
+Total number of sister ships 
+  already completed: 5
+Total number of sister ships still on order: 0
+Contract date: June 2010
+Delivery date: August 2011
+TECHNICAL PARTICULARS   
+Length, oa: 47m
+Length, bp: 41.2m
+Breadth, moulded: 11.1m
+Depth, moulded: 4m
+Design, draught: 1.4m
+Design, deadweight: 59.6tonnes
+Speed, service: 33knots@100% MCR
+Range (nautical miles)......................330 (with 20% reserve)
+Class society and notations: Bureau Veritas 1HULL, 
+MACH, AUT-CCS, HSC-Cat A, Passenger
+Main engine(s)
+	
+Make: MTU
+	
+Model: 16v 4000 M71
+	
+Number: 2
+	
+Output of each engine: 2465kW
+Gearbox(es)
+	
+Make: ZF
+	
+Model: 2F 7550
+	
+Number: 2
+Waterjet(s)
+	
+Make: Kamewa
+	
+Model: 71 SIII
+	
+Number: 2
+Bridge electronics 
+	
+Radar(s)........................ Furuno / Kelvin Hughes / Decca
+	
+Autopilot: Anschütz / C Plath / Simrad / Furuno
+	
+GPS: Furuno / Leica
+	
+Gyro: SG Brown
+Engine monitoring / fire detection system: Salwico
+Complement
+	
+Crew: 7
+	
+Passengers: 437
+LIBERTY: High-speed passenger fast 
+ferry serving Guadeloupe tourist routes
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: STX OSV Braila SA
+Designer: Aker Arctic Technology Inc
+Vessel’s name: Mangystau-4
+Owner / operator..JSC Circle Maritime Invest / 
+Caspian Offshore Construction
+Country: Kazakhstan
+Flag	 : Kazakhstan
+Total number of sister ships 
+  already completed: 4
+Total number of sister ships still on order: 0
+Contract date: March 2009
+Delivery date: August 2011
+TECHNICAL PARTICULARS   
+Length, oa: 66m
+Length, bp: 61.87m
+Breadth, moulded: 16.4m
+Depth, moulded: 4.4m
+Gross tonnage: 1828tonnes
+Design, draught: 3m
+Design, deadweight: 765tonnes
+Speed, service: 12knots
+Max speed: 13knots
+Classification society and notations: Bureau Veritas 
+HULL MACHINERY, 
+Tug / Fire-Fighting Ship 1, 
+ICE CLASS 1A SUPER, 
+SPECIAL SERVICE – 
+NORTH CASPIAN SEA ICEBREAKER, 
+UNRESTRICTED NAVIGATION, AUT-UMS
+Main engine(s)
+	
+Make: Caterpillar
+	
+Model: 3512 C
+	
+Number: 4
+	
+Output of each engine: 1786kW
+Propeller(s)
+	
+Material: Bronze
+	
+Manufacturer: Schottel
+	
+Make: SRP 2020
+	
+Number: 3
+	
+Fixed / controllable pitch: Fixed
+	
+Diameter: 2.25m
+	
+Special adaptations: Azimuth propulsion units
+	
+Open or nozzled: Open
+Alternators
+	
+Make / type: AvK DSG 86 K1/4 W
+	
+Number: 4
+	
+Output of each set: 2200kVA
+Bow thruster(s)
+	
+Make: Schottel SPJ 132 T Pump Jet
+	
+Number: 2
+	
+Output of each: 550kW
+Deck machinery
+	
+Odim towing winch, 1400kN
+	
+Odim towing pin, 560kN SWL
+Complement
+	
+Crew: 12
+	
+Passengers : 10
+	
+No. of cabins: 16
+MANGYSTAU-4: Shallow draught tug, 
+built to break through 60cm of ice
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Damen Shipyards Gorinchem
+Designer: Damen
+Vessel’s name: MarineCo Shamal
+Owner / operator: MarineCo UK
+Country: UK
+Flag	: UK
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 2
+Contract date: September 2010
+Delivery date: June 2011
+TECHNICAL PARTICULARS   
+Length, oa: 26m
+Breadth, oa: 10.4m
+Depth (at sides)........................................................2.4m
+Design, draught: 2.05m
+Speed, service: 20knots
+Max speed: 27knots
+Classification society and notations: Bureau Veritas1Hull, l MACH, Light Ship  /Fast Utility Vessel,
+Sea Area 2 
+Other important international regulations complied with 
+MCA Work Boat Cat 1, 150nm
+Main engine(s)
+	
+Make: Caterpillar
+	
+Model: C32 TTA B
+	
+Number : 2
+	
+Output(total).........................................up to 1790bkW
+Gearbox(es)
+	
+Make: Reintjes
+	
+Model: ZWVS 440/1 (two speed)
+Propeller(s)
+	
+Fixed/ Controllable pitch: Fixed
+Bow thrusters(s)
+	
+Number: 2
+	
+Output of each: 52kW
+Deck machinery
+	
+Heila deck crane 20-25+3PM (0.9tonnes capacity)
+Bridge electronics
+	
+Radar(s).. 1 x Furuno Navnet 3D, 1 x Furuno Navnet 2
+	
+Autopilot: Navitron NT 88G
+Other communications systems: 2 x Sailor RT 5022,2 x SP3520
+	
+GPS : 1 x Furuno GP 320 B, 1 x Furuno NX 700A
+Complement
+	
+Crew: 4
+	
+Passengers: 12
+Other significant or special items of equipment
+	
+Fuel transfer system
+	
+Three-point mooring system
+	
+Diving / Man Overboard (MOB) recovery 
+	
+  platform at transom
+	
+Large hydraulic deck crane 
+	
+  (capacity, 20tonnes/metre)
+MARINECO SHAMAL: Impressive first 
+foray into high-speed support vessels for 
+the offshore wind sector from Damen
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : South Boats Special Projects Limited
+Designer.. South Boats Special Projects Limited
+Vessel’s name: MCS Zephyr
+Owner / operator: Maritime Craft Services 
+(Clyde) Ltd
+Country : UK
+Flag	 : UK
+Total number of sister ships already completed: 5
+Total number of sister ships still on order: 5
+Contract date: March 2010
+Delivery date: April 2011
+TECHNICAL PARTICULARS   
+Length, oa: 19.1m
+Length, bp: 15.4m
+Breadth, moulded: 7.2m
+Depth, moulded: 2.4m
+Displacement: 50tonnes
+Design, draught: 1.1m
+Design, deadweight: 16.54tonnes
+Lightweight: 47.25tonnes
+Speed, service: 24knots@90% MCR
+Max speed: 26knots
+Classification society and notations: Det Norske Veritas 
+1A1 HSLC R2 Wind Farm Service 1
+Other important international regulations complied with
+MCA Workboat Code, Category 1 (150nm)
+Main engine(s)
+	
+Make: MTU
+	
+Model: 8V2000M72
+	
+Number: 2
+	
+Output of each engine: 709.76kW
+Gearbox(es)
+	
+Make: ZF
+	
+Model: 2000
+	
+Number: 2
+Waterjet(s)
+	
+Make : Ultra Dynamics UJ575
+	
+Number: 2
+Deck machinery
+	
+Palfinger PK6500 fully folding knuckle boom crane
+	
+Anchor drum winch
+	
+Rope-handling capstan
+	
+Fuel transfer system
+	
+Pressure washer system
+Bridge electronics
+	
+Radar(s) ................................................................Furuno
+	
+Autopilot: Navitron
+	
+GMDSS: Sailor
+Other communications systems Iridium
+	
+GPS : Furuno
+	
+Gyro: Furuno
+	
+Chart plotter: Furuno
+	
+Engine monitoring / fire detection system: Boning
+Complement
+	
+Crew: 2-3
+	
+Passengers: 12
+	
+No. of cabins: 1
+MCS ZEPHYR: First wind farm support 
+vessel to be awarded new DNV notation
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : Simulation Tech Inc.
+Designer: Robert Allan Ltd
+Vessel’s name: Mojaweb
+Owner/operator: Kuwait Fire Services
+Country: Kuwait
+Flag	 : Kuwait
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0
+Contract date: September 2008
+Delivery date: March 2011
+TECHNICAL PARTICULARS   
+Length, oa: 39.1m
+Length, bp: 35.37m
+Breadth, moulded: 13.5m
+Depth, moulded: 6.11m
+Gross tonnage: 759tonnes
+Displacement: 1221.8tonnes
+Design, draught: 5.05m
+Design, deadweight: 364.4tonnes
+Lightweight: 857.4tonnes
+Speed, service: 12knots
+Max speed: 13.1knots
+Range (nautical miles) ..................................................4000
+Daily fuel consumption (tonnes/day) ........13.5 (max power)
+Classification society and notations: Lloyd’s Register, 
+100 A1 Escort Tug, Fi-Fi 2 
+with waterspray, LMC
+Main engine(s)
+	
+Make: Wärtsilä
+	
+Model: 6L26
+	
+Number : 2
+	
+Output of each engine: 1946kW @ 1000rpm
+Gearbox(es)
+	
+Included in Z-drive unit
+Propeller(s)
+	
+Material: CuNiAl
+	
+Manufacturer: Wärtsilä Lips CS250-CP Z-drive unit
+	
+Number : 2
+	
+Fixed /controllable pitch: Controllable
+	
+Diameter: 2400mm
+	
+Open or nozzled: Nozzled
+Alternators
+	
+Make: Caterpillar C-18
+	
+Number: 2
+	
+Output / speed of each set: 275eKw @ 1800rpm
+Bow thruster(s)
+	
+Make: Wesmar V2-34 Hydraulic Bow Thruster
+	
+Number: 1
+	
+Output of each: 261kW @2600rpm
+Deck machinery
+	
+Sekwang Marine Machineries Co. Ltd hydraulic
+	
+windlass towing winch, 120tonne brake capacity
+	
+Nor Crane Marine & Offshore Equipment hydraulic
+	
+capstan, 5tonnes x 10m/min
+	
+Nor Crane Marine & Offshore Equipment tow hook with .	
+	
+quick release, 100tonne capacity
+	
+Sekwang Marine Machineries Co. Ltd rescue boat
+	
+davit, 1.1tonne @ 5.2m, with Vogo 480 workboat
+	
+Palfinger PK23500MD hydraulic, foldable marine crane, 	
+Complement
+	
+Crew: 14 max
+	
+No. of cabins: 4
+Other significant or special items of equipment
+FFS fire-fighting system – 8400m3/hr flow capacity,
+	
+five monitors
+MOJAWEB: Powerful evolved hybrid 
+fireboat / tug, with Fi-Fi 2 capabilities
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : Grandweld Shipyards
+Designer: Grandweld Shipyards
+Vessel’s name: Mutawa202
+Owner/operator : Mutawa Marine Works
+Country: UAE
+Flag	 : UAE
+Total number of sister ships completed: 2
+Total number of sister ships still on order: 2 
+Contract date: September 2010
+Delivery date: July 2011
+TECHNICAL PARTICULARS   
+Length, oa: 24m
+Length, bp: 23.8m
+Breadth, moulded: 5.8m
+Depth, moulded: 2.7m
+Gross tonnage: 98tonnes
+Net tonnage: 30tonnes
+Displacement: 68.7tonnes
+Design, draught: 1.15m
+Design, deadweight: 18.5tonnes
+Lightweight: 50.2tonnes
+Speed, service: 26knots (fully loaded)
+Max speed: 31knots 
+Classification society and notations: Lloyd's Register 
+100 A1 SSC, Workboat Mono, 
+HSC, G3, []LMC
+Main engine(s)
+	
+Make : MTU
+	
+Model: 8V2000M72
+	
+Number: 3
+	
+Output of each engine: 720kW@2250rpm
+Gearbox(es)
+	
+Make : ZF
+	
+Model: ZF 2000
+	
+Number: 3
+	
+Output speed: 1566rpm
+Auxiliary engine(s) / gen set(s)
+	
+Make : Caterpillar
+	
+Number : 2
+	
+Model : CAT 48KVA
+Waterjet(s)
+	
+Make : HamiltonJet
+	
+Model: HM 461
+	
+Number : 3
+Deck machinery
+	
+Maxwell vertical anchor capstan
+Bridge electronics
+	
+Radar(s) ................Furuno Japan, 36nm Radar FR 1835
+	
+Autopilot: Camnav Commander
+	
+GMDSS: Samyung
+	
+GPS: JMC Japan, NP 20NT GPS
+	
+firefighting system with2 fire monitors (each = 150m
+Complement
+	
+Crew: 6
+	
+Passengers: 25
+	
+No. of cabins: 3 (2 persons per cabin)
+Other significant or special items of equipment
+	
+Forward landing capability via specialised bow fenders
+	
+Comfort noise level at passenger area below 70dB
+MUTAWA202: UAE toasts the delivery of 
+its first forward landing crew boat
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: P&S Werften
+Designer: Skipskonsulent
+Vessel’s name: Nordic
+Owner / operator: Bugsier Hamburg
+Country: Germany
+Flag	 : Germany
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0
+Delivery date: January 2011
+TECHNICAL PARTICULARS   
+Length, oa: 78m
+Length, bp: 69m
+Breadth, moulded: 16.4m
+Depth, moulded: 8m
+Gross tonnage: 3250tonnes
+Displacement: 4395tonnes
+Design, draught: 5.2m
+Design, deadweight: 1800tonnes
+Lightweight: 2300tonnes
+Speed, service: 19.5knots
+Max speed: 19.5knots
+Range (nautical miles)...................................................... 6200
+Daily fuel consumption (tonnes / day).............................. 71.4
+Classification society and notations: Germanischer Lloyd 
+100A5, TUG, MC, AUT, 
+Suitable for use in dangerous 
+atmosphere, IW, Fi-Fi 1
+Main engine(s)
+	
+Make: MTU
+	
+Model: 20V8000 M71L GSB
+	
+Number: 2
+	
+Output of each engine: 8600kW 
+(4000kW in explosive atmosphere)
+Gearbox(es)
+	
+Make : Flender
+	
+Number: 2
+Propeller(s)
+	
+Material: NiAlBr
+	
+Manufacturer : Berg 
+	
+Number: 2
+	
+Fixed / controllable pitch: Controllable
+	
+Diameter: 4m
+	
+Speed: 150rpm
+	
+Open or nozzled: Nozzled
+Alternators
+Bow thruster(s)
+	
+Make: Berg
+	
+Number: 2
+	
+Output of each: 800kW
+Stern thruster(s)
+	
+Make : Berg
+	
+Number: 1
+	
+Output of each: 800kW
+Deck machinery 
+	
+Hatlapa double drum towing winch, 2500kN
+	
+Karm fork, 300tonnes
+	
+Lintec deck crane, 4tonnes(offshore) / 6.5tonnes(port)
+Bridge electronics
+	
+Radar(s) .............................................1 X-band / 1 S-band
+	
+Autopilot: Anschütz AP 2015
+	
+GMDSS: Furuno
+	
+GPS: Furuno
+	
+Gyro : Anschütz
+	
+Chart plotter: Furuno
+	
+Engine monitoring / fire detection system. MTU / Minerva 	
+	
+MX T2000
+Complement
+	
+Crew: 12 (+4 boarding team + 10 trainees + instructor)
+	
+Passengers: N/A
+	
+No. of cabins: 28
+Other significant or special items of equipment
+	
+Gas detection system
+	
+Wire and Dyneema towing gear
+	
+Helicopter winching area
+NORDIC: North Sea emergency tow vessel, 
+designed to tackle hazardous spills
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Cheoy Lee Shipyards
+Designer: Robert Allan Ltd
+Vessel’s name: Ocean Pioneer
+Owner/operator: Ocean Sparkle Ltd
+Country : India
+Flag	 : Funafuti
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 0
+Contract date: August 2009
+Delivery date: May 2011
+TECHNICAL PARTICULARS   
+Length, oa: 32m
+Breadth, moulded: 12.4m
+Depth, moulded: 5.4m
+Gross tonnage: 493tonnes
+Displacement: 885tonnes
+Design, draught: 4.88m
+Design, deadweight: 290tonnes
+Lightweight: 595tonnes
+Fuel capacity: 235m3
+Classification society and notations: Lloyd’s Register, 
+100A1, Tug, Fi-Fi 1 with Water Spray, 
+*IWS, LMC, UMS
+Main engine(s)
+	
+Make: Caterpillar
+	
+Model: 3516B
+	
+Number: 2
+	
+Output of each engine: 1839kW
+Propeller(s)
+	
+Manufacturer: Schottel SRP1215FP rudder propellers
+	
+Number: 2
+	
+Fixed / Controllable pitch: Fixed
+	
+Diameter: 2400mm
+	
+Open or nozzled: Nozzled
+Generators
+	
+Make/type: Perkins, diesel
+	
+Number: 3
+	
+Output of each set: 2 x 112kW, 1 x 40kW
+Deck machinery
+	
+MacGregor single-drum towing winch/windlass at bow
+	
+MacGregor single-drum winch on aft deck
+	
+Cruciform towing bitt
+	
+Mampaey towing hook with remote release
+	
+Fixed-arm davit for launching six-man rescue boat
+Bridge electronics
+	
+Radar(s)............................................JRC JMA-5212-4HS
+	
+Autopilot: Anschütz NP60
+	
+GMDSS: Furuno Felcom-15 / Furuno FS-1570 c/w DSC
+Other communications systems: 2 x Furuno8800S c/w DSC, 3 x Sailor SP-3540
+	
+GPS: Furuno GP-32
+	
+Gyro: Koden KGC-1
+Other	 Furuno FA-150 AIS
+	
+Furuno NX-700B Navtex
+	
+Furuno FE-700 echo sounder
+	
+Furuno DS-80 doppler log
+Engine monitoring/fire detection system: Thorn T1008
+Complement
+	
+Crew: 12
+	
+No. of cabins: 5
+OCEAN PIONEER: First of two steel 
+sister ships for flexible fire-fighting and 
+tug services
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Freire Shipyard
+Designer: Skipsteknisk  / Freire Shipyard
+Vessel’s name: Polar King
+Owner / operator: Sea4I Shipping 
+/ GC Rieber Shipping
+Country: Norway
+Flag	 : Cyprus
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 0
+Contract date: May 2008
+Delivery date: March 2011
+TECHNICAL PARTICULARS   
+Length, oa: 110.6m
+Length, bp: 97.8m
+Breadth, moulded: 20m
+Depth, moulded: 9.8m
+Gross tonnage: 7238tonnes
+Displacement: 9912.9tonnes
+Design, draught: 7.3m
+Design, deadweight: 4151.8tonnes
+Lightweight: 5761.1tonnes
+Speed, service: 14knots@85% MCR
+Max speed: 15.85knots
+Range (nautical miles)................................................15,480 
+(with 10% fuel left in tanks)
+Daily fuel consumption (tonnes per day)...........................28
+Classification society and notations: Det Norske 
+Veritas 1A1, SF, EO, DYNPOS AUTR, 
+DK(+), NAUT OSV(A), CLEAN DESIGN, 
+COMF C(3)-V(3), ICE-C, HELDK-SH
+Main engine(s)
+	
+Make: MAN
+	
+Model: 9L-21/31
+	
+Number: 6
+	
+Output of each engine: 1800kW
+Propeller(s)
+	
+Make: Voith Schneider Propellers
+	
+Number : 2
+	
+Type: 36R6
+	
+Output: 3800kW
+	
+Diameter: 3600mm
+Alternators
+	
+Make/type: AVK / DSG99L1/8W
+	
+Number : 6
+	
+Output of each set: 2162kVa
+Bow thruster(s)
+	
+Bow tunnel thruster
+	
+Make : Rolls-Royce
+	
+Number: 2
+	
+Output of each set: 1350kW
+Azimuth thruster (bow)
+	
+Make : Rolls-Royce
+	
+Number: 1
+	
+Output of each set: 1500kW
+Deck machinery
+	
+TTS hatch moon pool
+	
+TTS roller gate
+Bridge electronics
+	
+Radar(s).............................................Banda-S / Banda-X
+	
+Autopilot: Simrad AP-50 Plus
+	
+GMDSS : Furuno
+Other communications systems: Automatic phone system 
+Alcatel-lucent OMNIPCX
+Vingtor battery-less phones
+.
+NorSat Sealink satcomms
+Engine monitoring / fire detection system
+	
+Autronica Autrosafe
+	
+	
+Complement
+	
+	
+Crew: 112
+	
+	
+No. of cabins: 67
+Other significant or special items of equipment
+	
+Iberfluid Instruments remote sounding system
+	
+Leonova shock pulse measurement system
+	
+Intellinova shock pulse measurement system
+	
+Condmasternova shock pulse measurement system
+POLAR KING: Oceanographic survey 
+vessel equipped to handle variety of 
+weather conditions
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder : Shipco
+Designer: Shipco
+Vessel’s name: PT May
+Owner / operator : Pacific Tug Pty Ltd
+Country : Australia
+Flag : Australia
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 0
+Delivery date: July 2011
+TECHNICAL PARTICULARS   
+Length, oa: 15m
+Breadth, moulded: 6.5m
+Depth, moulded: 2.75m
+Speed. service: 10knots
+Max speed: 10.5knots
+Main engine(s)
+	
+Manufacturer: Cummins
+	
+Make: KTA 19-M3
+	
+Number: 2
+	
+Output of each engine: 441.3kW@1800rpm
+Gearbox(es)
+	
+Manufacturer : ZF
+	
+Make  : W 1800 (island mounted)
+	
+Number: 2
+Propeller(s)
+	
+Material: Mild steel (shaft) / Manganese bronze 
+(blades)
+	
+Number: 2
+	
+Fixed / controllable pitch: Fixed
+	
+Diameter: 1494mm
+Deck machinery
+	
+Drum-type hydraulic anchor windlass with local
+	
+control
+	
+Foredeck capstan, 3tonne pull
+	
+Electric-driven towing winch, 10tonne line pull
+	
+@20m
+	
+Stern roller, 35tonne SWL
+	
+Central fuel oil / lube oil / sewage fill, discharge and 	
+	
+vent station
+Complement
+	
+Crew: 2
+PT MAY: 15m work tug with enhanced 
+manoeuvrability and towing capacity
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Fassmer
+Designer: Dykstra and Partners / Greenpeace
+Vessel’s name: Rainbow Warrior III
+Owner / operator: Stichting Greenpeace Council
+Flag	 : Netherlands
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0
+Contract date: July 2009
+Delivery date: October 2011
+TECHNICAL PARTICULARS   
+Length, oa: 57.9m
+Breadth, moulded: 11.3m
+Depth, moulded: 7.6m
+Gross tonnage: 855tonnes
+Design, draught : 5m
+Design, deadweight: 99.95tonnes
+Max draught: 5.15m
+Displacement, max: approx. 860tonnes
+Light displacement: approx. 686tonnes
+Max speed: 15knots
+Range (nautical miles)...................................................4500
+Classification: Germanischer Lloyd
+Notations: GL Inventory Hazardous Materials, 
+Environmental Protection Class,100 A5 Motor Sailing 
+Vessel, IW EP NAV-0 ERS HC(-/3)MC AUT CM-PS
+Engines
+	
+Main engine(s) 
+	
+Make : Caterpillar
+	
+Model : CAT Zeppelin 3512 C-HD DITA-SCAC
+	
+Number : 1
+	
+Output of each engine: 1425kW @ 
+Gearbox(es)
+	
+Model: ZF W 7610 NR
+	
+Number: 1
+	
+Reduction factor: 4026:1
+Propeller(s)
+	
+Manufacturer: Becker / Rolls-Royce
+	
+Number: 1
+	
+Fixed / controllable pitch: Controllable
+	
+Diameter: 1.75m
+Bridge electronics
+	
+ECDIS : Furuno
+Other significant or special items of equipment
+	
+Total sail surface: 1260m2
+	
+Helicopter landing deck, rated D12m
+Campaign office (23.4m2)
+Conference room (67m2, seats 50)
+RAINBOW WARRIOR III: 
+Greenpeace’s first purpose-
+built vessel
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Vitters Shipyard / 
+Green Marine (for structure)
+Designer: Tripp Design / Rhoades 
+Young Design (for interior)
+Vessel’s name: Sarissa
+Owner / operator: Jens Cornelsen 
+Yacht Consultant
+Flag	 : Cayman Islands
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0
+Delivery date: August 2011
+TECHNICAL PARTICULARS   
+Length, oa: 42.6m
+Breadth, oa: 8.6m
+Gross tonnage: 198tonnes
+Displacement: 163tonnes (at half load)
+Max speed: 18knots (under sail) /14knots (under power)
+Classification society and notations: Germanisher 
+Lloyd / Maritime Coastguard Agency 
+Main engine(s)
+	
+Make : Caterpillar
+	
+Model : C12
+	
+Number : 1
+	
+Output of each engine: 366bkW
+Gearbox(es)
+	
+Make : Mekanord
+	
+Model: 270 HS / LS
+	
+Number : 1
+Propeller(s)
+	
+Manufacturer: Korsør 
+	
+Number : 1
+	
+Fixed/Controllable pitch: Controllable
+	
+Diameter
+	
+Speed
+Bow thruster(s)
+	
+Make : Maxpower
+	
+Number : 1
+Stern thruster(s)
+	
+Make : Maxpower
+	
+Number : 1
+Deck machinery
+	
+Lewmar reel and drum winches
+	
+Lewmar mooring / utility winches
+Bridge electronics
+Engine monitoring / 
+  fire detection system: Novec (for engine room)
+Complement
+	
+Crew: 6
+	
+Passengers: 7
+SARISSA: Largest Dutch-built carbon 
+sloop, built for recreation and racing
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Macduff Shipyards
+Designer: Macduff Ship Design
+Vessel’s name: Sea Herald
+Owner/operator: Aberdeen Harbour Board
+Country: UK
+Flag	 : UK
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 0
+Contract date: March 2010
+Delivery date: February 2011
+TECHNICAL PARTICULARS   
+Length, oa: 14m
+Length, bp: 13m
+Breadth, moulded: 5.7m
+Depth, moulded: 2.7m
+Gross tonnage: 34.47tonnes
+Displacement: 81tonnes
+Design, draught: 1.87m
+Design, deadweight: 18tonnes
+Lightweight: 63tonnes
+Speed, service: 9knots@90% MCR
+Max speed: 9.6knots
+Range (nautical miles).....................................................400
+Classification society and notations: MCA Workboat Code
+Main engine(s)
+	
+Make: Scania 
+	
+Model: DI1259M 10 – 45J
+	
+Number: 2
+	
+Output of each engine: 261kW
+Gearbox(es)
+	
+Make: Twin Disc
+	
+Model: MGX 5114 DC( 4.59:1)
+	
+Number: 2
+	
+Output speed: 392rpm
+Propeller(s)
+	
+Material: NiAlBr
+	
+Manufacturer: Kort Propulsion
+	
+Number: 2
+	
+Fixed/controllable pitch....................................................	
+Fixed
+	
+Diameter: 1300mm
+	
+Speed: 392rpm
+	
+Open or nozzled: Nozzled
+Alternators
+	
+Make: Cummins Onan
+	
+Number: 1
+	
+Output/speed of each set: 19kW / 1500rpm
+Bow thruster(s)
+	
+Make : Kort KT 30DD
+	
+Number: 1
+	
+Output of each: 19kW / 1460rpm
+Deck machinery
+	
+Hydraulic rubbish basket
+Bridge electronics
+	
+Radar(s)................................ NSE12 Network Navigation
+	
+GMDSS.............................................................................	
+	
+Sailor : RT6215DSC
+	
+Other communications systems: Icom VHF, 
+	
+	
+                                                           Transas AIS
+	
+GPS: Furuno GP32 / JRC JLR 20 GPS
+	
+Chart plotter: Furuno Navtex NX 300
+	
+Engine monitoring / fire detection system: Scania
+Complement
+	
+Crew: 2
+	
+Other significant or special items of equipment
+	
+Survey equipment:Reson Applanix Pos MV
+	
+	
+                                            Reson 620 Multi Beam
+SEA HERALD: Versatile support vessel 
+with offset wheelhouse design
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Astilleros Zamakona
+Designer: Robert Allan Ltd
+Vessel’s name: St Elmo
+Owner / operator: Rimorchiatrori Riuniti
+Country: Italy
+Flag	 : Malta
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships 
+  still on order: 0
+Delivery date: October 2011
+TECHNICAL PARTICULARS   
+Length, oa: 30.25m
+Breadth, moulded: 11.75m
+Depth, moulded: 5.28m
+Gross tonnage: 458tonnes
+Displacement: 905tonnes
+Design, draught: 5.85m
+Lightweight: 649tonnes
+Speed, service: 13knots
+Classification society and notations: RINa CHull, 
+Mach, Escort Tug, Fire-Fighting Ship 1, 
+Unrestricted Navigation, Aut-Ums, Aut-Port
+Main engine(s)
+	
+Make: Caterpillar
+	
+Model: 3516B
+	
+Number: 2
+	
+Output of each engine: 2100kW@1600rpm
+Propeller(s)
+	
+Manufacturer: Rolls-Royce
+	
+Model: Aquamaster
+	
+Number: 2
+	
+Fixed/controllable pitch: Fixed, Azimuth
+	
+Open or nozzled: Nozzled
+Alternators
+	
+Number: 2 auxiliary / 1 emergency genset
+	
+Make / type: 2 x Caterpillar CAT C6.6 + 1 x CAT
+	
+Output/speed of each set: 2 x 125kWe@1500rpm 
++ 1 x 78kWe@1500rpm
+Deck machinery
+Bridge electronics
+	
+Radar(s)..............................Furuno FAR-2117, FAR-2137
+	
+Autopilot: Navitron NT-888G
+	
+GMDSS: A3, Inmarsat Sailor P5000, TT3000
+	
+Other communications systems: Nautical package
+	
+Gyro: Furuno
+	
+Chart plotter: Furuno
+Complement
+	
+Crew: 10
+	
+No. of cabins: 4
+Other significant or special items of equipment
+	
+Foam tank
+ST ELMO: Wide-beamed escort tug for 
+Malta, with fire-fighting capabilities
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Nicocraft (Topaz Engineering)
+Designer: Incat Crowther
+Vessel’s name: Topaz Zenith
+Owner/operator: Topaz Marine MENA
+Country: UAE
+Flag	 : UAE
+Total number of sister ships 
+  already completed: 1
+Total number of sister ships still on order: 0
+Contract date: June 2010
+Delivery date: June 2011
+TECHNICAL PARTICULARS   
+Length, oa: 27.6m
+Breadth, moulded: 7.5m
+Gross tonnage: 134tonnes
+Displacement: 95tonnes
+Design, draught: 1.35m
+Design, deadweight: 0.25tonnes
+Lightweight: 70tonnes
+Speed, service: 28knots @ 80% MCR
+Max speed: 32knots
+Range (nautical miles).......................................................50
+Classification society and notations: Det Norske Veritas 
+1A1 HSLC R3
+Main engine(s)
+	
+Make : Caterpillar
+	
+Model: C32
+	
+Number: 2
+	
+Output of each engine: 1193kW
+Gearbox(es)
+	
+Make: Twin Disc
+	
+Model: MGX6690 SC
+	
+Number: 2
+Alternators
+	
+Make : Leroy Somer
+	
+Number: 2
+	
+Output/speed of each set: 1500rpm
+Waterjet(s)
+	
+Make: Hamilton Jet (HM 651)
+	
+Number: 2
+Deck machinery
+	
+SORMEC crane
+	
+CMG Australia anchor winch
+Bridge electronics
+	
+Radar(s)................1 x Koden / 1 x Sperry Marine (Arpa)
+	
+Autopilot: Navitron System NT888G
+	
+GMDSS: MF/HF – Sailor RT5022
+	
+Other communications systems: Thrane & Thrane 
+FleetBroadband150 terminal
+	
+GPS: Koden KGP9130
+	
+Gyro: Sperry Marine – Naviguard XM K2
+	
+Chart plotter: Koden GTD 150
+	
+Engine monitoring / fire detection system: Marinelec Tech
+Complement
+	
+Crew: 5
+	
+Passengers: 36
+	
+No. of cabins: 3
+Other significant or special items of equipment
+	
+Fire monitor (delivers 600m3/hr)
+	
+NV1020 night vision camera
+	
+Dacon scoop
+	
+Fixed H2S alarm sensors at fore and aft locations
+TOPAZ ZENITH: High-speed debutante in 
+new wave-piercing crew vessel class
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     Significant Small Ships of 2011
+Builder: Swede Ship Marine
+Designer: Swede Ship Marine
+Vessel’s name: Uni Kragerö
+Owner / operator: Redningsselskapet
+Country : Norway
+Flag	 : Norwegian
+Total number of sister ships 
+  already completed: 0
+Total number of sister ships still on order: 2
+Contract date: July 2010
+Delivery date: June 2011
+TECHNICAL PARTICULARS   
+Length, oa: 13.6m
+Length, bp: 11.4m
+Breadth moulded: 3.6m
+Gross tonnage: 17tonnes
+Displacement: 9.8tonnes
+Design, draught: 0.7m
+Design, deadweight: 10tonnes
+Lightweight: 8.6tonnes
+Speed, service : 33knots @ 85% MCR
+Max speed: 37knots
+Range (nautical miles).....................................................250
+Classification society and notations: DNV Craft, Scantling 
+according to DNV HSLC Patrol R2
+Main engine(s)
+	
+Make: VP
+	
+Model: D6-435
+	
+Number: 2
+	
+Output of each engine: 320kW
+Gearbox(es)
+	
+Make : ZF
+	
+Model: 280-1
+	
+Number : 2
+	
+Output speed: 2312rpm
+Waterjet(s)
+	
+Make: Hamilton
+	
+Model: HJ-322
+Bow thruster(s)
+	
+Make: Sleipner
+	
+Number: 1
+	
+Output of each: 4.4kW
+Deck machinery
+	
+Towing hook, 5tonne SWL
+	
+Rescue platform
+Bridge electronics
+	
+Radar(s)................................................Furuno FAR 2117
+	
+Autopilot: Simrad AP50
+	
+GMDSS: Sailor RT5020/RT5022
+	
+Other communications systems: GSM phone, 
+VHF ICOM
+	
+GPS: Furuno
+	
+Compass: Furuno
+	
+Chart plotter: TELchart
+	
+Engine monitoring / fire detection system: VP-EVC, 	
+.
+Servofighter
+Complement
+	
+Crew: 4
+	
+Passengers: 4
+	
+No. of cabins: 1
+Other significant or special items of equipment
+	
+Electric salvage bilge pump
+	
+Petrol bilge / fire pump, 1000litres/minute
+	
+Medical equipment (heart-starter, stretchers, etc)
+	
+Line-throwing gun
+	
+VHF direction finder
+	
+Rear camera
+UNI KRAGERÖ: High-speed rescue 
+vessel, built to an energy-efficient 
+carbon-fibre sandwich design
+Significant Ships of 201167
+Builder: Zhenjiang Shipyard Co
+Designer : Robert Allan Ltd
+Vessel’s name: Yong Gang Tuo 29
+Owner/operator: Ningbo Port Group of China
+Country: China
+Flag	 : China
+Total number of sister ships 
+  already completed: 2
+Total number of sister ships still on order: 0
+Contract date: 2009
+Delivery date: 2011
+TECHNICAL PARTICULARS   
+Length, oa: 33m
+Breadth, moulded: 11.6m
+Depth, moulded: 5.36m
+Gross tonnage: 499tonnes
+Displacement: 803tonnes
+Design, draught: 3.85m
+Design, deadweight: 103tonnes
+Lightweight: 700tonnes
+Speed, service: 13knots@85% MCR
+Max speed: 13.7knots
+Range (nautical miles)...................................................1200
+Daily fuel consumption (tonnes/day).................................10
+Classification society and notations: China Classification 
+Society, Tug, Great Coastal Waters
+Other important international 
+  regulations complied with: ILLC 1966
+Main engine(s)
+	
+Make: Niigata
+	
+Model: 8L28HX
+	
+Number: 2
+	
+Output of each engine: 2206kW
+Slipping Clutch
+	
+Make: Niigata
+	
+Model: CL252APY
+Number: 2
+Propeller(s)
+Material: NiAlBr
+Manufacturer : Niigata
+Number: 2
+Fixed / controllable pitch: Fixed
+Diameter: 2700mm
+Speed	: 242rpm
+Open or nozzled: Nozzled
+Alternators
+	
+Make: Shanghai Diesel Engine Co. Ltd D683
+	
+Number: 2
+	
+Output/speed of each set: 100kW / 1500rpm
+Deck machinery
+Karmoy M060481 double drum hawser winch with anchor
+  windlass (pull/speed: 7tonnes/25m/min, 3.5tonnes/50m/min)
+Med Corporation tow hook, 90tonnes SWL
+Bridge electronics
+	
+Radar(s)..................................................... 1 x JRC radar
+Complement
+	
+Crew: 14
+	
+No. of cabins: 4
+YONG GANG TUO 29: First RAmparts 3300 
+tug design to feature increased bollard pull 
+and length
+

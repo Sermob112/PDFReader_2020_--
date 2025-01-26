@@ -1,0 +1,1787 @@
+Builder : Uzmar Uzmanlar Shipping and Trading Co
+Vessel name: Arkad-1 (& Arkad-2)
+Owner/Operator: Egon Oldendorff
+Designer: Robert Allan Ltd
+Flag: Turkish
+Total number of sister ships already completed: One
+Total number of sister ships still on order: Nil
+Delivery date: August 2002
+TECHNICAL PARTICULARS   
+Length, oa : 26.00m
+Length, bp: 24.5m
+Breadth, moulded: 10.80m
+Depth, moulded : 4.19m
+Design, deadweight : ca. 90tonnes
+Design draught: 3.85m
+Max speed (100% MCR engine output).........12.8knots
+Max bollard pull: 42.0tonnes
+Service speed: 11knots @ 80% MCR
+Classification Society & Notation: GL +100A5, Tug,
++MC, AUT
+Main Engine
+Model: 3512 B
+Manufacturer : Caterpillar
+Number : 2
+KW (bhp) and rev/min of each engine: 1305kW
+(1775bhp) @ 1600rev/min
+Alternators
+Number : 2
+Output and rev/min of each set: 100kW @1500rev/min
+Propeller
+Material: CuNiAl Bronze
+Manufacturer: Rolls-Royce
+Number : 2
+Pitch: Fixed
+Open or nozzled: Nozzled
+Stern Thruster/Z-Drive
+Make: Rolls-Royce US 205
+Number : 2
+winch aft (for pushing arrangement),100tonne brake capacity; two manual
+barge connector winches forward; two 
+roller fairleads on main deck aft; two line
+fairleads on bulwarks aft of midships; 
+radial arm tow-hook
+Bridge electronics
+Radar number: 3 
+GMDSS make/model: Area 1
+Complement
+Crew : up to 7 persons
+Number of Cabins: 3
+Other equipment: these tugs are specially configured 
+for pushing 10,000 tonne DWT self-unloading coal
+lightering barges from an offshore terminal 
+in southern Turkey. Hence the towing 
+arrangement comprises a double-drum winch 
+for the bridle wires, which lead aft around 
+the roller fairleads, thence forward to the stern 
+of the barge
+ARKAD-1 & ARKAD-2: unique barge
+handlers for Turkish power station
+Builder: Kegoya Dock Co Ltd, Kure, Japan
+Vessel name: Cheung Chau, Sha Chau, Ap Chau,
+Yueng Chau
+Owner/Operator: Hong Kong United Dockyards Ltd
+Designer: Imamura Shipbuilding Co Ltd/Hong Kong
+Salvage & Towage
+Flag : Hong Kong
+Total number of sister ships already completed: Two
+Total number of sister ships still on order: Four
+Contract date: December 2001
+Delivery date: September 2002, October 2002,
+TECHNICAL PARTICULARS   
+Length, oa : 29.00m
+Length, bp: 23.50m
+Breadth, moulded: 9.50m
+Depth, moulded : 4.70m
+Gross tonnage: 295gt
+Displacement : 596.34tonnes (full load)
+Lightweight : 422.85tonnes
+Design, deadweight : 172.75tonnes
+Design draught: 3.913m
+Max speed (100% MCR engine output) ............13.35m
+Max bollard pull: 55tonnes
+Service speed: 13.358knots @ 100% MCR
+Range : 3400miles @ 85% MCR
+Classification Society & Notation: Lloyd's Register100A1 TUG LMC
+Other regulations: SOLAS, Loadline, Marpol, ITC
+Main Engine
+Model: 6N260-EN
+Manufacturer: Yanmar Diesel Engine Co Ltd
+Bhp and rev/min of each engine: 200bhp @750rev/min
+Alternators
+Number : Two
+Make/type: Taiyo Electric Co Ltd TWY 28DS
+Output and rev/min of each set: 80kW
+(100kVA) @ 1500rev/min
+Gearbox
+Make: Kawasaki Heavy Industries Co
+Model: Wet type multi-disk hydraulic clutch 
+built in rexpeller
+Number: Two
+Propeller
+Material : NI-Aluminium Bronze (grade CU3)
+Manufacturer : Kamome Propeller Co, Ltd
+Number : Two
+Pitch : Fixed
+Diameter: 2150mm
+Open or nozzled: Open
+Deck machinery: Forward winch: Kitagawa Kogyo
+electro-hydraulically driven 2/1T x 25/6m/min brake
+capacity 90tonnes; aft winch: Kitagawa Kogyo
+electro-hydraulically driven 9/2T x 10/28m/min brake
+electro-hydraulically driven 2T x 15m/min, fitted with70m x 16mm diameter wire
+Bridge electronics
+Radar make/model : Furuno FR-7062
+Autopilot make/model : Tokimec FR-2204-ZZ
+GMDSS make/model SSB: Furuno FS-1562-15, 
+Other communication systems: Inmarsat-M: Nera 
+worldphone, VHF: Sailor RT 4822 (Hague plan), 
+Navtex Furuno NX-500, weather fax Furuno
+Fax-208 mark 2
+GPS make/model : Furuno GP-80
+Gyro: Tokimec ES-110
+Engine monitoring/fire detection system: Yanmar
+Diesel Engine
+Complement
+Crew : four officers; five crew
+Other equipment: two remote or locally controlled
+water/foam fire monitors each rated at 3000litres/min,
+capacity 360m3/hr; Unitor CO2 extinguishing
+system for engine room; full fendering
+CHEUNG CHAU: new tugs for increased
+fleet demands
+Builder : Alabama Shipyard Inc
+Vessel name: Christian Reinauer 
+Owner/Operator: Reinauer Transportation
+Companies
+Designer: Ocean Tug & Barge Engineering
+Flag: United States 
+Total number of sister ships already completed: Three
+Total number of sister ships still on order: One
+Contract date: April 2000
+Delivery date: December 2001
+TECHNICAL PARTICULARS   
+Length, oa : 37.87m 
+Length, bp: 34.44m
+Breadth, moulded: 12.19m 
+Gross tonnage: 196.97gt (domestic)779gt (international)
+Displacement: 1600tonnes
+Lightweight: 902tonnes
+Design, deadweight : 698tonnes
+Design draught: 6.3m
+*Max speed: 14.7knots
+*Max bollard pull: 78tonnes
+*Service speed: 11.7knots
+*Range : 77.5nm
+Fuel consumption (daily).................................24tonnes
+Classification society & notation : ABS+
+A1 Ocean Towing
+Other regulations: SOLAS 
+Main Engines
+Model : 3612 
+Manufacturer : Caterpillar 
+Bhp and rev/min of each engine: 3600bhp @900rev/min - capable of 4640bhp @ 900rev/min
+Alternators
+Number : 4 
+Make/type: Caterpillar 3304 
+Output and rev/min of each set: 99kW @ 1800rev/min
+Gearbox
+Make: Lufkin 
+Model: RHS 3200 
+Number : 2 
+Reduction ratio: 5.087:1 
+Propellers
+Material : Stainless steel
+Manufacturer: Rolls-Royce 
+Number : 2 
+Pitch : Fixed 
+Diameter : 3.56m 
+Open or nozzled: Open 
+Deck machinery: AFT Capstan -300,000 
+static load; ATB connection system by Intercon,
+Kansas City, MO - 50' model 
+Radar make/model: Furuno 2125/8, 2115/8,2115 BB
+Autopilot make/model : Anschutz Pilotstar 
+GMDSS make/model : Furuno 
+Gyro: Litton Sr/80 
+Engine monitoring fire detection system: EMI 
+Inc Harahan, LA and Caterpillar MMS system 
+Complement
+Crew: 7 
+Number of Cabins: 6
+Connection system, allowing the tug to push her145,000bbl product barge in seas up to 12.1m full
+sound and vibration attenuation package; high-visibility
+bridge design, fourth generator, and third radar to 
+allow tug to sail with any one radar or generator down,
+ergonomic design methods followed for entire vessel
+* with pushed 20,000tonne barge 
+CHRISTIAN REINAUER: the most popular
+tug in North America?
+
+Builder: Wang Tak Engineering & 
+Shipbuilding Co Ltd
+Vessel name: Elite
+Owner: Government of the HKSAR
+Operator : Fire Services Department, HKSAR
+Designer : Wang Tak Engineering & 
+Shipbuilding Co Ltd
+Flag : HKSAR
+Total number of sister ships already completed: Nil
+Total number of sister ships on order: Nil
+Contract date: 2000
+Delivery date: April 2002
+TECHNICAL PARTICULARS   
+Length, oa : 42.50m
+Length, bp: 39.60m
+Breadth, moulded: 9.60m
+Depth, moulded : 4.20m
+Gross tonnage: 653gt
+Displacement: 650tonnes
+Max speed (100% MCR engine output)......over 15knots
+@ 100% MCR
+Service speed: 15knots @ ~85% MCR
+Range: 50nm
+Classification Society & Notation: Designed to LRS100A1 Tug (not classed)
+Other regulations: HKMD Survey, IMO, IEE, Fi-Fi 11
+Main Engine
+Model: CAT3516B
+Manufacturer : Caterpillar
+Number : 2
+Output : 1772kW @1600rev/min
+Alternators
+Number: CAT3406
+Make: Caterpillar
+Number : 2
+Output : 245kW
+Gearboxes
+Make : NICO
+Model : MGN1424V
+Number : 2
+Reduction ratio: 3.06:1
+Propellers
+Material: Bronze
+Manufacturer: Stone
+Number : 2
+Pitch : 5-bladed FP
+Diameter : 1700mm
+Open/nozzle: Open
+Bow Thrusters
+Make : Schottel
+Output of each kW and rev/min: 500kW @1470rev/min
+Deck machinery
+Deck crane
+Make : Palfinger
+Model : PK48000MA
+Number : 1
+Capacity: SWL 3tonnes @ maximum
+outreach 5m
+Anchor Windlass
+Make : Plimsoll
+Model : PR-HAW/GG-24
+Number : 2
+Gypsy size: 24mm diameter U2 chain
+Speedboat
+Make: Boston Whaler
+Model: 21' Impact
+Number : 1
+Bridge Electronics
+Radar: Furuno FR1525 Mk3
+GPS: Furuno GP3300
+GPS Receive: Furuno GR80
+Echo sounder: Furuno FE-700
+VHF: Vingtor
+PA and Intercom: Vingtor
+Speedlog : Walker 7070
+Complement
+Crew: 15
+Passengers : 100
+Number of cabins: 3
+Other Equipment
+Diving Cage System
+Make: Southern Oceanics
+Model : LG-360
+Capacity: 3 divers
+Max working depth: 60m
+External Fire Fighting System
+Monitor: 2 x 40,000litres/min (water monitors); 6 x10,000litres/min (water/foam monitors)
+ELITE: dedicated fireboat for Hong Kong
+Significant Small Ships of 200213
+Builder: Dubai Drydocks
+Vessel name: GAC Mumtaz
+Owner/Operator: International World Shipping 
+	
+Agencies SA/Gulf Agency Co
+Designer: Seatech Solutions, Singapore
+	
+Flag Panama
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: 26 August 2001
+Delivery date: 22 August 2002
+Delivery date: July 2002
+TECHNICAL PARTICULARS   
+Length, oa : 19.50,
+Length, over fenders: 20.20m
+Breadth moulded: 8.00m
+Depth, moulded : 2.70m
+Displacement: 215tonnes
+Max speed (100% MCR engine output)..........11.6knots 
+Max bollard pull: 12tonnes
+Service speed: 8knots
+Fuel capacity: 4300litres
+Other regulations: built to Lloyd's
+Register of Shipping Rules and Regulations for
+the Classification of Special Service Craft; MCA
+Code of Practice for the Safety of Small Workboats
+and Pilot Boats; MCA Workboat Certificate 
+for a Category 3 vessel
+Main Engine
+Model : DI14-74M
+Manufacturer: Scania
+Number : 2
+KW (bhp) and rev/min of each engine: 406kW
+(552bhp) @ 1800rev/min
+Alternators
+Number: 2 per engine
+Make: supplied with engine
+Output: 24v/65Amp each
+Gearbox
+Make : ZF
+Model: BW 155 (ZF550)
+Number : 2
+Reduction ratio: 3.0421:1
+Propeller
+Material: Bronze
+Manufacturer : Kaplan
+Number : 2
+Diameter: 1140mm
+Deck machinery: Helia knuckle boom crane 
+with three hydraulic extension capacities;
+Spencer Carter winch; bow roller; 
+securing points
+Bridge electronics
+Radar make/model: Raytheon R84RC
+Other communication systems: Sailor VHF/DSC; 
+Furuno GP36 DGPS
+Complement
+Crew: 5
+HAVEN HORNBILL: multi-role oil spill
+recovery vessel for Harwich
+
+Builder: Innovation A/S
+Vessel name: Otra
+Owner/Operator : Kristiansand Fire Department, 
+Norway
+Designer : Jon Boye Andersen
+Flag : Norwegian
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Two
+Contract date: Jan 2002
+Delivery date: July 31 2002
+TECHNICAL PARTICULARS   
+Length, oa : 10.8m
+Breadth, moulded: 3.0m
+Displacement: max 5.5tonnes
+Lightweight : 4.3tonnes
+Max speed (100% MCR engine output)............37knots
+Service speed: 32knots @ 80% MCR
+Range: 200nm
+Classification Society & Notation : Nordic Workboat 
+rules
+Main Engine
+Model: Cat 3126B
+Manufacturer : Caterpillar
+Bhp and rev/min of each engine: 450bhp @2800rev/min
+Gearbox
+Make : ZF
+Model: ZF280PL
+Waterjet
+Make : Ultra Dynamics UJ305
+Number : 1
+Bow Thruster
+Make : Sleipner
+Number : 1
+Output of each: 8bhp
+Deck machinery: Bow ramp; doors in STB scantling
+with fold-out platform for recovery of people from sea;
+aft platform with special diving ladder; Engbo remote
+controlled anchor winch
+Bridge electronics
+Radar(s) make/model: Simrad RA42
+Chart plotter Simrad CE 40
+Engine monitoring/fire detection system: Cat
+Complement
+OTRA: fast response craft excels at40knots
+Builder : Langsten A/S
+Vessel name: Svalbard
+Owner/Operator: Royal Norwegian Navy
+Material Command
+Flag : Norway
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: 15th December 1999
+Delivery date: 18th January 2002
+TECHNICAL PARTICULARS   
+Length, oa : 103.7m
+Length, bp : 89m
+Breadth moulded: 19.1m
+Gross tonnage: 6375tonnes
+Design draught: 6.5m
+Max speed (100% MCR engine output) ............+17knots
+Max bollard pull: 100tonnes
+Range : 10,000nm
+Classification Society & Notation : DNV, De-Ice
+Main Engine
+Model: Bergen Diesel BRG-8
+Manufacturer : Rolls-Royce Marine, Bergen
+Number: 4
+KW and rev/min of each engine: 3390kW
+@ 720rev/min
+Alternators
+Number : 4
+Make/type : ABB
+Propeller
+Manufacturer : ABB Azipod
+Bow Thruster
+Make : Brunvoll
+Number : 1
+Output of each kW: 2180kW
+Complement
+Crew : 127
+SVALBARD: the most powerful Norwegian 
+ice breaker yet?
+Builder : Mustang Marine (Wales) Ltd
+Vessel Name: Three Counties
+Owner/Operator: Eastern Sea Fisheries
+Designer : Chris Baker - Marine Data (IOM) Ltd
+Flag: British
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: April 2001
+Delivery date: July 2002
+TECHNICAL PARTICULARS   
+Length, oa : 18.00m
+Length, bp: 15.55m
+Breadth moulded: 6.86m
+Displacement: 55tonnes, fully laden
+Lightweight : 48tonnes
+Design, deadweight : 7tonnes
+Design draught: 1.2m
+Max speed (100% MCR engine output).........12.7knots
+Service speed: 10knots @ 85% MCR
+Range: 400nm
+Fuel Consumption (daily)................................2340litres
+Classification Society & Notation: MCA Workboat
+Code Cat 2
+Main Engine
+Model: NTA14M
+Manufacturer: Cummins
+Number : 2
+Bhp and rev/min of each engine: 525bhp
+@ 2100rev/min
+Alternators
+Number : 2
+Output of each set: 100amps
+Gearbox
+Make : Twin disc
+Model: MG 5144RV
+Number : 2
+Reduction ratio: 1.92:1
+Propeller
+Material: Bronze
+Manufacturer : Kort
+Number : 2
+Pitch : Fixed
+Diameter : 685.8mm
+Open or nozzled: Open
+Bow Thruster
+Make: Kort
+Number : 2
+Output of each kW: 17.3kW
+Deck machinery 
+Bridge electronics
+Radar make/model: Simrad RA 52 
+Radar secondary: Simrad CA40D (combined unit)
+Autopilot make/model: Robertson AP45 Pilot
+Other communication systems: Mini M sat system:
+Imarsat C system Trimble Sentinel
+GPS make/model
+DGPS navigator primary: DGPS Simrad GN30
+DGPS navigator secondary: Simrad CA40D
+(combined unit)
+Gyro compass: Robertson Gyro RGC 50 
+Engine monitoring: Cummins standard
+Fire detection system/Control panel: Mustang Marine
+Complement
+Crew: 3
+Passengers : 5
+Number of cabins: 4-2 berth
+THREE COUNTIES: sophisticated research
+vessel designed to meet specific
+requirements
+Builder: Gemini Workboats
+Vessel name: Xplorer
+Owner/Operator: Dave Burden - Sea Trax
+Designer: Andrew Craig
+Flag: UK
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: 29 August 2001
+Delivery date: 4 March 2002
+TECHNICAL PARTICULARS   
+Length, oa : 11.83m
+Breadth moulded: 5.2m
+Gross tonnage: 13tonnes
+Displacement: 13tonnes
+Lightweight : 11tonnes
+Design, deadweight : 13tonnes
+Design draught: 1.16m
+Max speed (100% MCR engine output)............27knots
+Service speed: 21knots
+Range: 550nm
+Fuel Consumption: 60litres/hr
+Classification Society & Notation : MCA 60 Mile
+Main Engine
+Model : 6CTA 8.3M3
+Manufacturer: Cummins
+Bhp of each engine: 2 x 430bhp
+Alternators
+Number : 2
+Make/type: Cummins insulated return
+Output and rev/min of each set: 2 x 110amp
+Gearbox
+Make : ZF
+Model : IRM 304A
+Number : 2
+Reduction ratio: 1.525:1
+Propeller
+Material: Bronze
+Manufacturer: Hyperform
+Number: 2
+Pitch: Fixed
+Diameter: 23 x 22.5, 4-blade
+Open or nozzled: Open
+Deck machinery and Bridge Electronics: fitted by
+owner after delivery
+Complement
+Crew: 2
+Number of cabins: 2 x single, 1 x double
+XPLORER: first FastCat design success
+
+Builder: Delta Power Services
+Vessel name: Delta 140 Patrol
+Owner/Operator: National Security Force 
+Designer: Delta Power Services
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: January 2002
+Delivery date: November 2002
+TECHNICAL PARTICULARS   
+Length, oa : 14m
+Breadth, moulded: 4m
+Depth, moulded: 1.485m
+Displacement : 10,500kg
+Design draught: 0.75m
+Max speed: 38knots
+Max bollard pull: 2tonnes
+Range : 200nm @ 25knots 
+Classification Society & Notation : Lloyd's Special
+Service Craft 
+Other regulations: British Marine Industries 
+Federation, ISO 9001/2000, Marine
+and Coastguard Agency, UK 
+Ministry if Defence
+Main Engine
+Model : TAMD 74C 450hp
+Manufacturer: Volvo Penta
+Number: 2
+Bhp of each engine: 450bhp
+Gearbox
+Make : Volvo Penta
+Model : MG5085SC-E
+Number : 2
+Waterjet
+Make: Kamewa K32
+Number : 2
+Bridge electronics
+Radar make/model: Simrad
+GMDSS make/model: Skanti  
+Other communication systems: Motorola 
+GPS make/model: Simrad
+Gyro: Simrad
+Chart plotter: Simrad
+Engine monitoring/fire detection system 
+make/type: Micro Auto
+Complement
+Crew: 3
+Number of Cabins: 1
+Other significant or special item of equipment: Hull 
+constructed of GRP with an aluminium 
+superstructure; inflatable collar constructed of a
+Hypalon/Neoprene blended fabric with 13 
+individual compartments and mechanically 
+attached to the hull enabling the complete 
+collar to be changed in 4 hours 
+without specialised tools 
+DELTA 140 PATROL: results from four year
+design program
+
+Builder : Dockstavarvet AB
+Vessel name: Enforcer II 
+Owner/Operator: Own Account
+Designer: Dockstavarvet/Petter Håkansson
+Flag: Swedish
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Four
+Delivery date: 15 May 2002
+TECHNICAL PARTICULARS   
+Length, oa : 16.10m
+Length, bp: 13.00m
+Breadth, moulded: 3.80m
+Gross tonnage: 21gt
+Lightweight : 18tonnes
+Design draught: 1.0m
+Max speed (100% MCR engine output)............50knots 
+Service speed: 40knots
+Range: 200nm
+Fuel consumption: 380litres/h @ 50knots
+Classification Society & Notation: LR, Special
+Service Craft
+Main Engine
+Model: C 18
+Manufacturer: Caterpillar
+Number : 2
+KW and rev/min of each engine: 735kW @ 2300rev/min
+Alternators
+Number : 2
+Make/type: Prestolite
+Output of each set: 2 x 110A, 24V
+Clutches
+Make : Stromag
+Model: KHR 320 
+Number : 2
+Waterjet
+Make: Rolls-Royce Kamewa FF-410
+Number : 2
+Deck machinery 
+Anchor windlass: Lewmar Ocean
+Bridge electronics: Transas Navisailor 3000
+Radar make/mode : Transas Naviradar
+Autopilot make/model : Simrad AP 50
+Other communication systems: Sailor RT 2048
+GPS make/model: Trimble DSM 212 L
+GPS compass: Simrad HS 50  
+Chart/radar monitors: 3 x Hatteland 
+Engine monitoring/fire fighting system: Optec Soft-Ex
+Water mist system
+Complement
+Crew : 4
+Number of cabins: 2 single only and one double
+Other equipment
+Heating cooling system: Webasto/Marineair
+Bilge/Fire pump: Johnson, F-8B5
+Manoeuvring system: Morse Controls/
+Dockstavarvet
+Paint system: International, epoxy/
+polyurethane
+Fenders: Pur Teknik
+Ventilation/AC system: Marineair/Dockstavarvet
+Life rafts: Viking, 2 x 6 persons
+Batteries : Optima
+Battery chargers: Victron
+Diesel generator: Onan, 7kW
+Nav lights: Aqua Signal
+Window wipers: Doga
+Compass: Plath Iota
+Horn: Ibuki
+ENFORCER II: 10 years development
+produces fastest patrol vessel yet
+
+Builder : VT Group (Vosper Thornycroft
+Shipbulding)
+Vessel name: HMS Tyne
+Owner/Operator: VT Maritime Affairs/Royal Navy
+Designer: VT Group with assistance from 
+Three Quays Marine
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Two
+Contract date: 8 May 2001
+Delivery date: 1 November 2002
+TECHNICAL PARTICULARS   
+Length, oa : 79.75m
+Length, bp:73.6m
+Breadth, moulded: 13.60m
+Depth, moulded : 7.00m
+Gross tonnage: 2109tonnes
+Displacement: 1800tonnes
+Design draught: 4.15m to props
+Service speed: 20knots @ 100% MCR in sea state 414knots @ 90% MCR in sea state 6
+Range : 5500nm @ 12knots 
+Classification Society & Notation : DNV Rules for the
+Light Craft and Naval Surface Craft, +1A1 LC Patrol E0 7TEU CLEAN ERS
+Other regulations: SOLAS, MARPOL, IMO Code of
+Safety for Special Purpose Ships
+Main Engine(s)
+Model: Ruston 12RK270
+Manufacturer: MAN B&W
+Number : 2
+KW and rev/min of engines: 4125kW 
+@ 1000rev/min
+Alternators
+Number: 3 main generator sets
+Make/type: Finnings/Caterpillar 3406T with Newage
+Output and rev/min of each set: 250kW @1800rev/min
+Gearbox
+Make : Reintjes
+Model: Type LAF 5645
+Number : 2
+Reduction ratio: 3.4:1
+Propeller
+Material : Ni Al Bronze
+Manufacturer: Wärtsilä Lips
+Number: Two
+Pitch: Controllable 
+Diameter : 2.74m
+Open or nozzled: Open
+Bow Thruster
+Make: Veth VT300
+Output of each kW and rev/min: 280kW @1500rev/min
+Deck machinery: SEC anchor windlass with 
+warping rollers; SEC mooring capstan aft; SEC
+bollards, fairleads, warping rollers; SEC roller fairlead
+forward for astern refuelling RAS; ECS/Effer hydraulic
+knuckle boom Stores crane fwd (1.5tonnes at 10m
+reach); ECS/Effer hydraulic knuckle boom GP crane aft
+(3.0tonnes at 11m reach); 2 x ECS/Launch & Rescue
+SOLAS Fast Rescue Boat davits for 2.5tonne boat
+Bridge electronics
+Radar make/model : Xand S band ARPA radars,
+MES/Kelvin Hughes Nucleus 3
+Autopilot make/model: MES/Simrad AP9 Mk3
+Log & WSDMES/Walker integrated log and 
+wind data
+GMDSS make/model: MES/Furuno
+Other communication systems: Rhode & Schwartz
+Military Communications System: MES/Taiyo 
+VHF DF; MES/NERA Inmarsat B for high speed
+data comms; MES/Seatel Satellite TV system
+Internal Communications: MES/Thales
+GPS make/model: MES/Leica
+DGPS: MES/Leica
+Loran C: MES/Furuno
+Gyro: MES/Raytheon Anchütz
+Electronic Chart: MES/Safe Marine ECS 
+with RIB tracking
+Engine monitoring/fire detection system: VT
+Controls platform CAMS with Thorn addressable 
+Fire Detection system
+Complement
+Crew : 28, with accommodation for up to 50
+Number of Cabins: 26 cabins plus hospital
+Other equipment: 2 x
+Halmatic Pacific 22 MkII RIBs for boarding 
+and rescue duties
+HMS TYNE: double chine hull for Royal
+Navy
+
+Builder: Damen Shipyards
+Vessel name: P41 and P42
+Owner/Operator : Netherlands Police Forces
+Designer ........................................................................-
+Flag : The Netherlands
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Three
+Contract date..................................................................-
+Delivery date: May 2002
+TECHNICAL PARTICULARS   
+Length, oa: 26.40m
+Beam, oa : 6.00m
+Depth, at sides: 2.90m
+Draught, aft : 1.60m
+Max speed (100% MCR engine output)............25knots
+Classification Society & Notation: Bureau Veitas 
+I 3/3 E* Light Ship/Fast Police Boat, 
+Coastal waters, MACH
+Shipping Directorate: coastal waters up to15nm from shore at max Beaufort 7
+Main Engine
+Model: 3412 E TTA
+Manufacturer : Caterpillar
+Number : 2
+Bhp and rev/min of each engine: 2230bhp
+@ 2300rev/min
+Gearbox
+Make : ZF
+Model : 1900
+Number : 2
+Bow Thruster
+Make: Promac FP 50/430
+Output : 37kW
+Deck machinery: Effer 12000-2S hydraulic crane;
+Rubbylene 120mm fendering
+Bridge electronics
+Radar make/model: JRC JMA 608/JMA 7710/6
+Echo sounder: JRC FF50
+Electronic compass: Alphatron Alphacourse
+Gyro: Anschultz STD20
+Chart plotter: Ecdis 200 S
+Other communication systems: JRC river radar 
+system with integrated ECDIS chart system; 
+JRC sea radar system; Alpharudder rudder angle
+indicator; Alphapilot river pilot; Alphapilot sea 
+pilot; Alphacourse electronic compass; 
+Alphaturn rate-of-turn indicator; Anthea Ben 
+speedlog; a JRC DGPS; Raytheon intercom system;
+McMurdo EPIRB; McMurdo SART; Tyio TDL radio
+direction finder; JRC Navtex; Alphawind 
+windspeed meter; a Skanti VHF 
+installation; Police radio system
+P41 & P42: state-of-the-art patrol vessel
+for Netherlands Police
+Builder: Derecktor Shipyards
+Vessel name: America
+Owner/Operator: Fire Island Ferries, Inc
+Designer : Nigel Gee & Associates
+Flag: USA
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: September 25 2001
+Delivery date: June 7 2002
+TECHNICAL PARTICULARS   
+Length, oa : 25.9m
+Length, bp: 25m
+Breadth, moulded : 7.0m
+Depth, moulded: 2.35m
+Gross tonnage: 95gt
+Displacement: 86tonnes
+Lightweight: 43.4tonnes
+Design, deadweight : 35.7tonnes
+Design draught: 1.3m
+Max speed (100% MCR engine output) ..............15knots
+Service speed: 13knots @ 85% MCR
+Range : 500nm
+Regulations : USCG Subchapter T
+Main Engine
+Model: Series 60
+Manufacturer: Detroit Diesel Corp
+Number: 2
+KW (bhp) of each engine: 298kW
+(400bhp) @ 1800rev/min
+Alternators
+Number: 2
+Make/type: Delco Remy America Series 3451
+Output of each set: 100A, 24V
+Gearbox
+Make : Twin Disc
+Model: 5114SC
+Number: 2
+Reduction ratio: 25:1
+Propeller
+Material: Bronze
+Manufacturer: Austral
+Number: 2
+Pitch: Fixed, 864mm
+Diameter : 914mm 
+Open or nozzled: Open
+Deck machinery: Deck crane - Palfinger
+PK12080MA
+Bridge electronics
+Radar make/model : Furuno FR7112
+GPS make/model : Furuno GP36 
+Engine monitoring/fire detection system: DDEC/
+Murphy Alarm Panel
+Complement
+Crew: 5
+Passengers: 149
+Vehicles
+Number of vehicle decks: 1
+Other : Hydraulic ramp at transom; heavily
+reinforced cargo deck for carriage of
+cargo/vehicles including 36,288kg 
+concrete mixer design load
+AMERICA: first vessel delivered by yard's
+new facility
+Builder : Austal Ships
+Vessel name: Fares Al Salam
+Owner/Operator : El Salam Maritime Company, Egypt
+Designer: Austal Ships
+Flag : Egyptian
+Total number of sister ships already completed: Nil
+Total number of sister ships on order: Nil
+Contract date: August 2001
+Delivery date: April 2002
+TECHNICAL PARTICULARS   
+Length, oa: 56m
+Length, bp: 48.8m
+Breadth, moulded: 14m
+Depth, moulded : 5.0m
+Gross tonnage: 1412gt
+Design deadweight: 130tonnes
+Design draught: 2.7m
+Max speed (100% MCR engine output).............38knots
+Service speed: 34.50knots @ 90% MCR
+Range : 730nm
+Fuel consumption: 206g/kW/hr
+Classification Society & Notation : Germanischer 
+Lloyd +100 A5
+Other regulations: HSC Code Resolution MSC 36 (63)
+Main Engine
+Model: MTU 16V 4000 M70
+Manufacturer : MTU
+Number : 4
+Output : 2320kW @ 2000rev/min
+Alternators
+Number : 2
+Make : Cummins 6CT8.3-D(M)
+Output : 117kW @ 1500rev/min
+Gearbox
+Make : Reintjes
+Model : VLJ930
+Number : 4
+Reduction ratio: 2.27:1
+Waterjets
+Make: Kamewa 71 S11
+Number : 4
+Deck machinery: Guard rails; deck drains; MOB
+boat and launching davit; stairs to main 
+deck aft; intercom (davit); lifejacket 
+stowage lockers; emergency 
+generator
+Bridge Electronics
+Radar: Furuno/Kelvin Hughes FR 21305
+Autopilot : Anschutz/Cplath
+GMDSS: Sailor/SP/Skant
+GPS : Leica
+Gyro: Anschutz/Cplath
+Engine monitoring/fire detection: Autronica
+/Salwico
+Complement
+Crew: 12
+Passengers : 430
+Vehicles
+Number vehicle decks: 1
+Total lane length: 4.5m x 2.25m
+Number of cars: 43
+FARES AL SALAM: builder's first fast
+ferry delivery to Middle East
+Builder: Stocznia Pólnocna SA,
+Northern Shipyard YN B 597/1
+Vessel name: Linga
+Owner/Operator : Shetland Islands Council, UK
+Designer : Nigel Gee and Associates and
+Vik-Sandvik Poland
+Flag: British
+Total number of sister ships already completed: Nil
+Contract date: 2001
+Delivery date: 2002
+TECHNICAL PARTICULARS   
+Length, oa : 38.00m
+Length, waterline: 35.50m 
+Breadth, moulded : 10.80m
+Depth, moulded: 4.60m
+Gross tonnage: 628gt
+Design, deadweight: 133dwt
+Design draught: 2.70m
+Max speed (100% MCR engine output)..............12knots
+Max bollard pull: 14tonnes
+Service speed: 11knots @ 85% MCR
+Classification Society & Notation : LR + 100 A1 LMC
+UMS Roll on/Roll off Passenger/Vehicle Ferry, Laxo to 
+Symbister Service, Nav 1
+Other regulations: all requirements
+of the EU Council Directive 98/18/EC,
+EU Class B
+Main Engine
+Model: S6R2 - MPTKF
+Manufacturer: Mitsubishi
+KW and rev/min of each engine: 640kW @1500rev/min
+Alternators
+Number: 3 main and 1 emergency
+Make/type: Stamford
+Output : 612kW @ 1500rev/min
+Propeller - azimuth thrusters
+Manufacturer: Kamewa Aquamaster
+Number : 2
+Pitch : Fixed
+Open or nozzled: Open
+Bow Thruster
+Make: Kamewa Aquamaster 
+Number : 2
+Output of each kW: 190kW
+Deck machinery
+Winches : SEC
+Capstan/Windlass : SEC
+Rescue boat: Fassmer
+Rescue boat davit: Neddeck Marine
+Liferafts: LS Australia
+Safety Equipment: Seadog
+Anchors : SEC
+Stern ramp: Northern Shipyard
+Hydraulic equipment: Mannesmann Rexroth
+Bridge electronics
+Radar make/model: Furuno
+Autopilot make/model: Simrad Robertson
+Sound systems: Phontech
+Video system: Herniss
+GPS make/model: Furuno
+Gyro : Robertson
+Engine monitoring/fire detection system..Rolls-Royce
+Marine
+Complement
+Crew : 5
+Passengers : 95
+Vehicles
+Number of vehicle decks: 1
+No of trucks or trailers equipment: 2 HGV and10 cars
+Other equipment
+Paint/coatings : Jotun
+Windows: Bohamet
+LINGA: new car-passenger ferry for
+Shetland Islands Council
+
+Builder: Rodriquez Cantieri Navali 
+Vessel name: Natalie M
+Owner/Operator : Ustica Lines Spa
+Designer : Rodriquez
+Total number of sister ships already completed: Three
+Total number of sister ships on order: One
+Delivery date: 22 February 2002
+TECHNICAL PARTICULARS   
+Length, oa: 31.2m
+Length, bp: 26.4m
+Breadth, moulded: 6.780m
+Depth, moulded: 1.660m
+Gross tonnage: 240gt
+Max speed (100% MCR engine output)............40knots
+Service speed: 38knots @ 95% MCR
+Range: 300nm
+Fuel consumption (daily)..........................3000litres/day
+Classification Society & Notation : RINa
+Main Engine
+Model: MTU 16v 395 TE 74 L
+Manufacturer: MTU
+Number : 2
+Output : 2000kW
+Alternators
+Number : 2
+Make: Stamegna SM 800
+Output: 75Kva
+Gearbox
+Make : ZF
+Model: BW
+Number : 2
+Reduction ratio: 1.946:1
+Propellers
+Manufacturer: Radice
+Number : 2
+Pitch: Fixed
+Diameter: 1510mm
+Open/Nozzled: Nozzled
+Bridge Electronics
+Radar : Decca Bridge master (M.1)
+GMDSS: ICS
+Other commincation systems: Sailor VHF/SSB
+GPS : JRC NWL 4570
+Gyro: CPLAT
+Chart plotter: Navionics Geonav 11 Flash
+Engine monitoring/fire detection: Rodriquez Marine
+Sysyem/MTU
+Complement
+Crew: 6
+Passengers: 240
+NATALIE M: one of the most economic
+fast ferries available
+
+Builder: Iris Catamarans
+Vessel name: New York
+Owner/Operator : Expo 02
+Designer: Andrieu/Flahault
+Flag : Swiss
+Total number of sister ships already completed: Two
+Total number of sister ships still on order: Nil
+Delivery date: April 2002
+TECHNICAL PARTICULARS 
+Length, oa : 42.80m
+Length, bp: 39m
+Breadth, moulded: 10.60m
+Depth, moulded : 4.10m
+Gross tonnage: 339UMS
+Design, deadweight : 36tonnes
+Design draught: 1.80m
+Max speed (100% MCR engine output)...............40knots 
+Service speed: 35knots
+Range: 490nm
+Fuel Consumption (daily)...............................650litres/h
+Classification Society & Notation: DNV 1A1 HSLC 
+R3 Passenger
+Other regulations: Swiss Federal
+Office of Transport
+Main Engine
+Model: 16V 4000 M70
+Manufacturer : MTU
+KW and rev/min of each engine: 2320kW @2000rev/min
+Alternators
+Number : 2
+Make/type: Stamford UC M274C1
+Output and rev/min of each set: 1500rev/min
+Gearbox
+Make : ZF
+Model: BU 755-1
+Number : 2
+Reduction ratio: 2.241:1
+Waterjet
+Make: MJP 750DD
+Number : 2
+Deck machinery: windlass: capstan; Hypac: 
+rescue boat launch
+Bridge electronics
+Radar make/model: Furuno 1510 Mark 3
+Autopilot make/model: Simrad AP9 Mark 3
+GMDSS make/model: Zone A1
+Gyro: Simrad RGC-12
+Chart plotter: Macsea
+Complement
+Crew: 4
+Passengers : 400
+NEW YORK: catamaran built for Swiss
+Expo
+
+Builder : Incat Tasmania Pty Ltd
+Vessel name: The Cat
+Owner/Operator : Bay Ferries
+Designer: Incat
+Flag : Bahamas
+Total number of sister ships already completed: Two
+Total number of sister ships on order: Two
+Delivery date: April 2002
+TECHNICAL PARTICULARS  
+Length, oa : 97.22m
+Length, bp: 92.00m
+Breadth, extreme: 26.61m
+Gross tonnage: 6464gt
+Design, deadweight : 750tonnes
+Design, draught : 3.42m
+Max speed (100% MCR engine output).........46.5knots
+Service speed: 40knots @ 85% MCR
+Fuel consumption (daily) ....4.93tonnes/hr @ 85% MCR
+Classification Society & Notation: DNV +1A1 
+HSLC R1 CAR FERRY 'B' EO
+Other regulations: DNV RULES, IMO HSC code and
+applicable IMO Regs current at date of contract
+Main Engine
+Model : 20 RK270 Diesel
+Manufacturer: Ruston
+Number : 4
+Output : 7080kW @ 1030rev/min
+Alternators
+Number : 4
+Make : Caterpillar 3406B
+Output : 245kW
+Gearbox
+Make : Reintjes
+Model : VLJ6831/1
+Number : 4
+Reduction ratio: 1.8424:1
+Waterjets
+Make : Lips 120E
+Number : 4
+Deck machinery: six hydraulically operated mooring
+capstans, each with 6tonne line pull at a 
+live speed of 12m/min, 25tonne load capacity;
+Panama-style fairleads; bollards; rope 
+storage areas
+Bridge Electronics
+Radar : Bridgemaster
+Autopilot : Lips
+GMDSS: Sea Area 1 & 2
+GPS: 2 x Leica Differential
+Gyro : Anschutz
+Engine monitoring/fire detection: Transis
+Passengers: 900
+Vehicles
+Number vehicle decks: Main plus 9 mezzanine 
+Total lane length: 380 truck lane metres, plus85 cars
+Number of cars: 267
+Number of trucks or trailers….380 truck lane metres
+Other: a Maritime Dynamics active ride control 
+system is fitted to maximise passenger comfort.  This
+system combines active trim tabs aft and a fold down
+T-foil located at the aft end of the centre bow
+THE CAT: revolutionary T-foil installed on
+fast ferry
+Builder: MacDuff Shipyards Ltd
+Vessel name: Emma
+Owner/Operator: Aquascot Group Ltd
+Designer: MacDuff Ship Design
+Flag: UK
+Total number of sister ships already completed: Nil
+Total number of sister ships on order: Nil
+Contract date: 6 August 2001
+Delivery Date: 12 February 2002
+E
+MMA is a newly designed 14.95m fish farm
+workboat,
+from Macduff
+Ship Design,
+of
+Grampian, Scotland, which has been created for
+carrying and anchor-handling duties. She has been built
+for Aquascot, a company that are involved in the
+sustainable farming of salmon, sea-grown trout, and
+turbot, and will operate at the company's site on the Isle
+of Gigha, Scotland.
+Macduff
+Ship Design produced the cutting
+information for this vessel as a computer file, enabling a
+kit of parts to be produced by Macduff Profilers.
+The conservatively-rated main engine, a Mermaid
+Mistral, is a six-cylinder, turbocharged heavy duty marine
+diesel engine and is based on the highly reliable Ford
+'Dover' series industrial engine. This features a specially
+matched water-cooled turbo-charger that enables low
+fuel consumption to be achieved. These two diesel
+Teignbridge 900mm handled propellers through PRM4:1 reduction ratio gearboxes. A PTO on one gearbox
+provides hydraulic power for a Palfinger carne on the
+starboard deck, and a capstan to port.
+Interestingly, there are two options for fish storage,
+catch can either be carried in a vivier tank, or stored in
+tubs as deck cargo.
+PRINCIPAL PARTICULARS   
+Length, oa : 14.95m
+Breadth, moulded: 5.60m
+Depth, moulded : 2.10m
+Gross tonnage: 20.39gt
+Displacement: 87tonnes
+Lightweight : 42tonnes
+Design deadweight: 45tonnes
+Design draught: 1.6m
+Max speed (100% MCR engine output)..............9knots
+Service speed: 8.5knots
+Regulations: Code of Practice for the Safety
+of Small Workboats and 
+Pilot Boats
+Main Engine
+Model : Mistral
+Manufacturer : Mermaid
+Number : 2
+Output : 126kW @ 2500rev/min
+Alternators
+Number : 2
+Output : 60kW @ 2500rev/min
+Gearboxes
+Make: PRM
+Model : 1000D4
+Number : 2
+Reduction ratio: 4:1
+Propellers
+Material : HTB1
+Manufacturer: Teignbridge
+Number : 2
+Pitch : Fixed
+Diameter : 900mm
+Open/Nozzled: Open
+Deck machinery: Palfinger PK14080B crane;
+MacDuff Shipyards Capstan
+Bridge Electronics
+Radar: Furuno M1622
+Communications : Icom M501 and DS100DSC
+Chart plotters: Furuno GP1650C GPS
+Complement
+Crew: 2
+Other: Vivier tank for carriage of fish; steel 
+processed in kit form by MacDuff 
+Profilers, a division of MacDuff 
+Shipyards Ltd
+EMMA: new fish farm workboat for Isle of
+Gigha
+
+Builder : Cygnus Marine Ltd
+Vessel name: Shanmhari
+Owner/Operator : Bressay Salmon, Shetland Islands
+Designer : Cygnus Marine Ltd
+Flag: British
+Total number of sister ships already completed: Two
+Total number of sister ships still on order: Two
+Contract Date: July 2001
+Delivery Date: July 2002
+S
+hanmhari is the newly designed Typhoon 38 from
+Cygnus Marine, based in Cornwall, for Bressay
+Salmon of the Shetland Isles. This 11.7m vessel is a
+fast fish-farm workboat.
+She is powered by a single Scania DS12 575hp to give
+a maximum speed of over 20knots, while the engine is
+located slightly forward of midship, to allow space for
+a removable 5tonne capacity aluminium hopper/feed
+blower system.
+A Palfinger hydraulic crane is located aft, to load on
+the feed bags from the quayside, ensuring self-
+sufficiency, and a rapid turn-around time for the
+operator. The twin unit hydraulic pump system also
+drives a capstan back aft, for lines and anchor handling.
+Three berths and a toilet compartment are located in
+the fore cabin, with crew dinette, galley, and helm
+position in the wheelhouse. In addition to the usual
+electronics, is an underwater video set to monitor
+conditions in cages during feeding.
+The Typhoon design has proved to be a remarkable
+success story since the original 10.3m version was
+launched at the Southampton Boat Show in 2001, with
+a 10m now fishing in Exmouth, another about to be
+launched as a fishing vessel in Skye, a 10.3m nearly
+completed in Belgium, and one 10m and two 12.8m
+versions being built in Ireland, along with many other
+orders reportedly under negotiation.
+TECHNICAL PARTICULARS   
+Length, oa : 11.7m
+Length, bp: 10.20m
+Breadth moulded: 5.37m
+Depth, moulded : 3.28m
+Gross tonnage: 9tonnes
+Displacement: 16.2tonnes
+Lightweight: 11.0
+Design, deadweight : 12.0tonnes
+Design, draught : 0.9m
+Max bollard pull: 0.5tonnes
+Service speed: 22knots @ 100% MCR
+Range: 500nm 
+Fuel consumption (daily) ..................................360litres
+Classification Society & Notation: MCA MECAL
+Main Engine
+Model : DSI 12 42m
+Manufacturer: Scania
+KW and rev/min of each engine: 368kW @2100rev/min
+Alternators
+Number : 1
+Make/type : Scania
+Output and rev/min of each set: 65A
+Gearbox
+Make: Twin Disc
+Model: MG 5114A
+Number : 1 
+Reduction ratio: 1.92:1
+Propeller
+Material: A1 B2 BSI400 AB2
+Manufacturer: Teignbridge Propellers Ltd
+Number : 1
+Pitch : Fixed
+Diameter : 760mm
+Open or nozzled: Open
+Deck machinery: Outreach PK5000 Hydraulic
+crane; Spencer-Carter 1000kg capstan' Akva
+hydraulic automatic salmon feeder
+Bridge electronics:
+Radar(s) make/model: Marconi Koden MD 3441 
+GMDSS make/model: Marconi Scanti 1000P DSC
+Other communication systems: Marconi Koden
+CVS118 Sounder
+GPS make/model : Koden MLR FX 312
+Engine monitoring/fire detection ..Electronic Devices Ltd
+Complement
+Crew: 3
+Number of Cabins: 1
+SHANMHARI: new fast fish farm workboat
+for Shetland Isles
+
+Builder: Safehaven Marine
+Vessel name: True Light of the Claddagh
+Owner: Martin Oliver
+Designer: Frank Kowalski
+Flag : Irish
+Total number of sister ships already completed: Two
+Total number of sister ships on order: One
+Delivery date: 2002
+TECHNICAL PARTICULARS
+Length, oa: 13.1m
+Breadth, moulded: 4.06m
+Registered tonnage: 19tonnes
+Displacement: 11,000kg
+Lightweight: 10,000kg
+Max speed (100% MCR engine output)........over 24knots @100% MCR
+Service speed: 18.5knots @ 80% MCR
+Range: 320nm
+Regulations: Class 6 passenger vessel
+Main Engine
+Model : CAT3126
+Manufacturer: Caterpillar
+Number : 2
+Output: 300hp
+Alternator
+Number : 1
+Gearbox
+Make : Twin Disc
+Model : 506A
+Number : 2
+Reduction ratio: 2:1
+Propellers
+Manufacturer : Clements Engineering
+Number : 2
+Diameter: 558.8mm
+Bridge Electronics
+Radar: Simrad
+GMDSS : Icom
+GPS : Simrad
+Chart plotter: Simrad
+Complement
+Crew : 2
+Passengers: 30
+Number of cabins: 1
+TRUE LIGHT OF THE CLADDAGH: first
+new Intercepter design has multiple roles
+Builder: Yantai Raffles Shipyard Ptd Ltd
+Vessel name: Anglian Princess
+Owner/Operator : Klyne Tugs (Lowestoft) Ltd, UK
+Designer: Rolls Royce Marine A/S, Norway
+Flag : United Kingdom
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: One
+Contract date: Late 2000
+Delivery date: Mid 2002
+TECHNICAL PARTICULARS   
+Length, oa : 67.4m
+Length, bp: 57.2m
+Breadth, moulded: 15.5m
+Depth, moulded : 7.5m
+Gross tonnage: 2270tonnes
+Displacement: 4169tonnes
+Lightweight : 2272.6tonnes
+Deadweight at design draft: approx 1000tonnes
+Deadweight at max draught: approx 1800tonnes
+Design draught: 5.2m
+Max speed: 17knots at draught 4m
+Max bollard pull: 180tonnes
+Economic speed: 12-13knots
+consumptions-measured on the test bed at100% load, not to exceed 180g/kWh +
+(according to ISO3046-1)
+Classification Society & Notation: Lloyd’s Register
++100A1, +LMC, UMS, Tug, Offshore Supply 
+Ship, FiFi 1, MCA (Marine and Coastguard Agency)
+Main Engine
+Model : Wärtsilä Vasa 16V32 Low Nox D
+Manufacturer: Wärtsilä Vasa
+Number : 2
+KW: 6000kW @ 750rev/min
+Gearbox
+Make : Rolls-Royce 
+Model: Ulstein Propeller reduction gear
+Number : 2
+Engine speed: 750
+Propeller
+Material: Ni-A1-Bronze
+Manufacturer : Ulstein Propeller
+Number : 2
+Pitch: Controllable
+Diameter: approx 4270mm in nozzle
+Open or nozzled: Nozzled
+Waterjet
+Make: Unitor
+Number : 2
+Bow Thruster
+Make : Electric Driven - CPP Kamewa 
+Ulstein 150TV
+Number : 2
+Output of each: 590kW @ 1200rev/min
+Stern Thruster
+Make : Electric Driven - CPP Kamewa 
+Ulstein 150TV
+Number: 1
+Output of each: 661kW @ 1200rev/min
+Deck machinery
+Auxiliary Generator: 1 x 300kW Cummins
+Anchor Windlass/Mooring Winch: 1 x 9.5tonnes @13.5m/mins Hydraulic Driven, Brattvaag
+BFMB 41-38 
+Hydraulic Waterfall, Ulstein Brattvaag SL300W/2BSL300W
+Capstans: 2 x 10tonnes at 19m/min, 
+Ulstein Brattvaag CM4108
+Tugger Winches: 2 x 10tonnes at 38m/min,
+Hydraulic Driven, Ulstein AKM 4110
+Stern Roller: 1 x SWL 500T, Ulstein Brattvaag
+Deck Crane: 1 x 3tonnes at 15m, Knuckle Boon,
+Palfinger PKM 520/15
+Tow Pins: 2 x 200tonnes Hydraulic - 
+Karm Forks 130554
+Anchor Handling Tongs: 2 x 500tonnes SWL
+Bridge electronics
+Radar make/model : Furuno/Radar
+S Band, X Band
+Autopilot make/model: Anschurtz
+GMDSS make/model: Area 3
+GPS make/model: Furuno
+Gyro : Anschurtz
+Weather fax receiver: Furuno 
+Engine monitoring/fire detection system: UMAS-V 
+system/Unitor
+Complement
+Crew: 20
+Number of Cabins: 17
+ANGLIAN PRINCESS: multiple use offshore
+vessel
+Builder : Pan-United Shipyard Pte Ltd
+Vessel name: Armada Salman
+Owner/Operator: Bumi Armada Navigation Sdn Bhd
+Designer: Conan Wu & Associates
+Flag : Malaysia
+Total number of sister ships already completed: Two
+Total number of sister ships still on order: Nil
+Contract date: 27th June 2001
+Delivery date: 27th July 2002
+TECHNICAL PARTICULARS   
+Length, oa: 66.6m
+Length, bp: 62.8m
+Breadth, moulded: 20.0m
+Depth, moulded: 6.5m
+Gross tonnage: 2838tonnes
+Displacement: 3810tonnes
+Lightweight : 2046tonnes
+Design, deadweight : 2610tonnes
+Design draught: 5.0m
+Max speed (100% MCR engine output)........12.28knots
+Max bollard pull: 12tonnes
+Service speed: 11.48knots @ 75% MCR
+Fuel Consumption: 2.5litre/min
+Classification Society & Notation : ABS + 
++ A1 + AMS + Circle E with descriptive notation
+offshore maintenance vessel for 
+unrestricted service
+Other regulations
+a) International Loadline Convention 1966
+b) Radio Communication Regulation
+c) GMDSS Regulations for Area A3
+d) IMO Intact and Damage Stability Guideline A469
+e) International Convention of Prevention of
+x) Collisions at Sea 1972
+f) International Tonnage Admeasurement 
+Convention 1969 (including 1967 amendment)
+g) Marpol 73/78 (ABS to issue certificates or 
+statement of facts of compliance to Annex I, IV ,V )
+h) Maritime Laws & Regulations of Malaysia
+i) SOLAS 1974 including all the latest amendments 
+for this type of vessel
+j) Noise Level Guideline as per IMO 468 (XII)
+k) Shipboard Oil Pollution Emergency Plan (SOPEP)
+Main Engine
+Model : 8N21 A-EN
+Manufacturer: Yanmar
+Bhp and rev/min of each engine: 1800bhp @900rev/min
+Alternators
+Number : 3 (main generator)
+Make/type : Cummins KTA 19D (m) GC
+Output and rev/min of each set: 412kW @ 1500rev/min
+Gearbox
+Make : Yanmar
+Model: YX-1800
+Number : 2
+Reduction ratio: 3.02:1
+Propeller
+Material: Mg-Br Kaplan type
+Manufacturer : Asia Foundry
+Number : 2 x 4-bladed
+Pitch : Fixed
+Diameter : 2000mm
+Open or nozzled: Nozzled
+Bow Thruster
+Make: Kamewa Ulstein CPP Transverse 
+Tunnel Thruster
+Deck machinery: 1 x Windlass 8.2tonnes @10m/min; 4 x mooring winch 40tonnes @
+Radar make/model : 2 x JRC 'X' JMA-7710-6 & 'S' JMA-7303
+Autopilot make/model: Anschutz Digital, Pilotstar D
+Other communication systems: 3 x JRC VHF200 and6 x Motorola GP-328
+GPS make/model : JRC GPS-888MK II
+Gyro: Yokogawa Digital
+Engine monitoring/fire detection system: Tetra
+Fire CO2 and detector in E/R; sprinkler and detector in
+accommodation; central alarm system in W/H
+Complement
+Passengers: 132 men (inclusive of crew)
+Number of cabins: 45
+Other significant or special item of equipment: 1 x
+Favelle Farco model: 6/10k lattice boom 
+type offshore pedestal crane
+ARMADA SALMAN: custom made vessel
+for offshore industry
+Builder: Kleven Verft 
+Vessel name: Havila Tampen
+Owner/Operator : Havila Supply A/S
+Designer : Rolls-Royce Marine
+A/S dep Ship Technology - Ulstein
+Flag: Norway
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: One
+Contract date: 3 August 2001
+Delivery date: 16 September 2002
+TECHNICAL PARTICULARS 
+Length, oa: 88.60m
+Length, bp: 78.80m
+Breadth moulded: 18.80m
+Depth, moulded: 7.60m
+Gross tonnage: approx 3325tonnes
+Displacement: 7098tonnes
+Lightweight: 2753tonnes
+Design, deadweight: 4345tonnes
+Design draught: 6.20m
+Max speed (100% MCR engine output)..........15.4knots
+Service speed: 12knots-14knots
+Classification Society & Notation: DNV +1A1, SF, E0,
+DK+, LFL*, DYNPOS AUTR. (IMO DPII);
+Clean, COMF-C(3) V(3) 
+Other regulations: The vessel has implemented
+all requirements defined by the International 
+Safety Management (ISM) Code. And complies 
+with Hydro requirements according to Hydro 
+standard Charter party - latest addition
+Main Engine
+Model: Cat. 3516TA
+Manufacturer: Catepillar Inc, USA 
+KW and rev/min of each engine: 1901kW @1800rev/min
+Alternators
+Number: 4
+Output and rev/min of each set: 1800rev/min/2280kVA,1824kW
+Propeller
+Material: NiAl - Bronze (Ulstein Aquamaster
+US 305 CP)
+Manufacturer: Rolls-Royce Maritime A/S
+Propulsion
+Number: 2
+Pitch: Controllable 
+Diameter: 3200mm
+Open or nozzled: Open
+Bow tunnel thruster(s)
+Make : Rolls-Royce Marine A/S - Propulsion
+Output of each kW and rev/min : 883kW @261rev/min
+Compass thruster Fwd
+Make: Rolls-Royce Marine A/S - Propulsion
+Output of each kW and rev/min : 883kW @300rev/min
+Deck machinery: 1 Brattvaag combined
+Brattvaag tugger winches type AKM4112,12tonnes pull; 2 Brattvaag capstans type
+CM4110, 10 tonnes pull
+Bridge Electronics
+Radar make/model: Furuno/FR-2835 S (100mm),
+FR-2115 (30mm) 
+Autopilot make/model: Anschütz/Pilotstar D
+GMDSS make/model: Furuno/MF/HF SSB 250W
+model FS-1562-25
+Other communication systems: VHS and UHF
+system
+GPS make/model: 1 Furuno Navigator GP-80
+(navigation); 2 Tales type: Sky Fix (for DP) 
+Gyro positionering: 3 Anschütz Standard 20, 
+type SEC-OP 
+Chart plotter: Furuno Telchart, model T-2025
+Engine monitoring/fire detection system
+Senitel/Type: BMS 904 Mini
+Complement
+Crew: 12
+Number of Cabins: 14 cabins/16 berths
+HAVILA TAMPEN: offshore vessel for
+charter in the North Sea
+Builder : Strategic Marine Pty Ltd
+Vessel name: Kaltim Maju
+Owner/Operator : PT Aquaria Shipping
+Designer : Strategic Marine & Southerly Design
+Flag: St Vincent & The Grenadines
+Total number of sister ships already completed: Two
+Total number of sister ships still on order: Nil
+Contract date: 7 June 2001
+Delivery date: 26 March 2002
+TECHNICAL PARTICULARS   
+Length, oa: 29.80m
+Length, bp : 26.79m
+Breadth moulded: 7.50m
+Depth, moulded: 3.15m
+Gross tonnage: 162.00tonnes
+Displacement: 103.90tonnes (loaded)
+Lightweight: 63.00tonnes
+Design, deadweight: 41.00tonnes
+Design, draught: 2.22m
+Max speed (100% MCR engine output) ........27.80knots  
+Service speed: 25.60knots @ 85% MCR
+Range : 700nm @ 23.0knots 
+Classification Society & Notation: Bureau Veritas1+Hull+Mach HSC Crew Boat Unrestricted
+Other regulations: GMDSS, HSC, 
+MARPOL, LOAD LINE, COL REGS
+Fuel Capacity: 12,000litres
+Freshwater Capacity: 5000litres
+Deck Cargo Capacity: 40tonnes
+Main Engine
+Model: 3412 E DITTA
+Manufacturer : Caterpillar
+Bhp and rev/min of each engine: 925bhp @2100rev/min
+Alternators
+Number : 2
+Output and rev/min of each set: 77.0kVA @1500rev/min
+Gearbox
+Make : Reintjes
+Model : WAF 344
+Number : 3
+Reduction ratio: 2.452:1
+Propeller
+Material: Aluminium bronze
+Manufacturer : Micado (Japan)
+Number : 3
+Pitch: Fixed
+Diameter: 900mm
+Open or nozzled: Open 
+Bridge electronics
+Radar make/model : Furuno 1932 Mk 2
+Autopilot make/model: ComNav 2001F with 
+Fluxgate Compass
+GMDSS make/model : Icom M127 VHF + DSC,
+M710 SSB MF/HF
+Other communication systems: PA/Intercom - 
+Vingtor 4 stn + hailer 
+GPS make/model: Furuno GP 31
+Engine monitoring: Caterpillar DITTA
+Fire detection system make/type: Notifier Analog
+AFP 200
+Complement
+Crew: 6
+Passengers : 50
+Number of Cabins: 3
+Other: Capstan/Windlass from Hypac Anchor 
+Winch; liferafts 8 x 25 Man life rafts; paints and
+coatings from International Paints; seating by 50 x
+KALTIM MAJU: crew boat that supports40tonnes
+Builder: Ulstein Verft A/S
+Vessel name: Tulpar
+Owner/Operator: BUE Marine Ltd
+Designer : BMT Shipdesign
+Flag : Cayman Islands
+Total number of sister ships already completed: Nil
+Total number of sister ships still on order: Nil
+Contract date: 30 July 2001
+Delivery date: November 2002
+TECHNICAL PARTICULARS   
+Length, oa : 94.08m
+Length, bp: 91.19m
+Breadth moulded: 21.0m
+Depth, moulded : 5.000m
+Design, deadweight : at max draught 4.0m2967tonnes; at min draught 2.0m, 500tonnes
+Design draught: 2.5/4.0m
+Max speed (100% MCR engine output) .........+13knots
+Max bollard pull: 50tonnes
+Service speed ...............................+13knots @ 4000kW
+Classification Society & Notation: DNV Class Notation1A1 - SF, EO, ICE1A*F, FiFi1, DK(+), HL (+)
+Other regulations: UK00A 120B
+Main Engine 
+Model: 12V200 
+Manufacturer: Wärtsilä
+Number: 3 main generator engines, 
+flexibly mounted
+KW (bhp) of each engine: 2100kW
+(2800bhp)
+Alternators
+Number : 3
+Output and rev/min of each set: 2020kW @1200rev/min
+Gearbox (FiFi Pump Step-up Gears)
+Make: Kvaerner Eureka A/S
+Model : 2FGEC - 280
+Number : 2
+Propeller
+Material: Cu Al 10 Ni
+Manufacturer: Schottel
+Number : 2
+Diameter : 2.4m
+Open or nozzled: Open
+Bow Thruster
+Make : Schottel, SPJ 220 (Pump jet)
+Number: 2
+Stern Thruster
+Make: Schottel, SRP 2020 FP
+Number : 2 
+Deck machinery: Rolls-Royce OY AB: Windlasses,
+capstans, towing/anchor handling winch, tugger
+winches and stern roller; Karmøy Winch A/S: 
+towing pins system; Hydralift deck crane
+Bridge electronics
+Radar make/model: Furuno FR 21355 FR 2115
+Autopilot make/model : Anschultz Pilotstar - D
+MDSS make/model : Jotron
+GPS make/model : Furuno GP80
+Gyro : Anschultz 130-601
+Chart plotter: Furuno FEA 2105
+Engine monitoring/fire detection..Rolls-Royce/ABB/TYCO
+Complement
+Crew: 20
+Number of cabins: 2 x suites, 4 x single berths,7 x double berths
+TULPAR: vessel for extreme Caspian
+conditions
+

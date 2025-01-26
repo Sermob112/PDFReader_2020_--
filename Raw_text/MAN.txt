@@ -1,0 +1,6964 @@
+33
+Contents
+Two-stroke Propulsion Engines
+4 - 35
+K98MC, K98MC-C,
+11 - 12
+S90MC-C, L90MC-C, K90MC, K90MC-C,
+13 - 16
+S80MC-C, S80MC, L80MC, K80MC-C,
+17 - 20
+S70MC-C, S70MC, L70MC
+21 - 23
+S60MC-C, S60MC, L60MC,
+24 - 26
+S50MC-C, S50MC, L50MC
+27 - 29
+S46MC-C, S42MC, L42MC
+30 - 32
+S35MC, L35MC, S26MC
+33 - 35
+Four-stroke Propulsion Engines
+36 - 50
+L58/64, L48/60, V48/60
+42 - 43
+L40/54, L32/40, V32/40
+44 - 45
+L28/32A, V28/32A, L27/38
+46 - 47
+L23/30A, V23/30A,
+48
+L32/40DG, V32/40DG
+49 - 50
+Pielstick
+51 - 54
+PC4.2 B
+52
+PC2.6B
+53
+PA6B
+54
+Propulsion Systems
+56 - 63
+Two-stroke propulsion systems
+57 - 59
+Four-stroke propulsion systems
+60 - 63
+Marine GenSets
+64 - 71
+L32/40
+67
+L28/32H - L27/38
+68 - 69
+L23/30H - L16/24
+70 - 71
+Standard Rating Values
+72 -75
+MAN B&W Diesel and Licensees
+76 -80
+Separate engine programme booklet is available for
+engines for stationary application.
+
+66
+MAN B&W Diesel
+Two-stroke Propulsion Programme
+
+77
+Layout Diagram
+The layout diagram applicable for the MC engines is defined
+by the power and speed combinations L1 - L2 - L3 and L4, with
+L1 indicating the Nominal Maximum Continuous Rating.
+Any combination of speed and power within the layout dia-
+gram may be used for selecting the Specified MCR and the
+Optimising point.
+The optimising point ”O” has to be the specified MCR ”M” for
+the types: S46MC-C, S42MC, L42MC, S35MC, L35MC and
+S26MC.
+If the compact engines: S70MC-C, S60MC-C and S50MC-C
+are without VIT fuel pumps they also have to be optimised at
+the specified MCR power ”O” = ”M”.
+The power is stated in kW and in metric horsepower
+(1 BHP = 75 kpm/s).
+4
+Power
+Speed
+L
+3
+L
+2
+L
+1
+L
+
+88
+Load Diagram
+The load diagram defines the power and speed limits for
+continuous as well as overload operation of an installed en-
+gine having an optimising point ”O” and a specified MCR
+point ”M” that confirm the ship’s specification.
+”A”
+100% reference point
+”M”
+Specified MCR
+”O”
+Optimising point
+Line 1
+Propeller curve though optimising point,
+for engine layout
+Line 2
+Propeller curve, fouled hull and
+heavy weather – heavy running
+Line 3
+Speed limit
+Line 4
+Torque/limit
+Line 5
+Mean effective pressure limit
+Line 6
+Propeller curve, clean hull and
+calm weather – light running, for propeller layout
+Line 7
+Power limit for continuous running
+Line 8
+Overload limit
+Line 9
+Speed limit at sea trial
+Point ”M” to be located on line 7 (normally in point ”A”)
+Engine shaft power, % of A
+Engine speed, % of A
+
+99
+Point ”A” is a 100% speed and power reference point of the
+load diagram, and is defined as the point on the propeller
+curve (line 1) through the optimising point ”O”, having the
+specified MCR power.
+The service points of the installed engine incorporate the en-
+gine power required for ship propulsion and shaft gene-rator,
+if installed.
+Limits for continuous operation
+The continuous service range is limited by lines 4, 5, 7
+and 3.
+Limits for overload operation
+The area between lines 4, 5, 7 and the heavy dashed line 8
+is available for overload running for limited periods only
+(1 hour per 12 hours).
+Emission Control
+All MC engines in this folder comply with the IMO speed de-
+pendent NOx emission limitations, measured according to the
+ISO 8178 test cycles E2/E3 for Heavy Duty Diesel Engines.
+Specific Fuel Oil Consumption (SFOC)
+The figures given in this folder represent the values obtained
+when the engine and turbocharger are matched with a view
+to obtaining the lowest possible SFOC values and fulfilling
+the IMO NOx emission limitations.
+The SFOC figures are given with a tolerance of 5% and are
+based on the use of a fuel with a lower calorific value of
+42,700 kJ/kg (10,200 kcal/kg) at ISO conditions:
+1,000 mbar ambient air pressure
+25 °C ambient air temperature
+25 °C cooling water temperature
+SFOC and NOx are interrelated parameters, so an engine of-
+fered without fulfilling the IMO NOx limitations is subject to a
+tolerance of only 3% of the SFOC.
+
+10
+10
+Coagency of SFOC
+and Exhaust Gas Data
+On the S70MC-C, S70MC, S60MC-C, S60MC, L60MC,
+S50MC-C, S50MC and L50MC type engines, the matching of
+the engine and the turbocharging system can be modified,
+thus increasing the exhaust gas temperature from 235° to
+255°C.
+This modification will lead to a 7-8% reduction in the
+exhaust gas amount and involve a SFOC penalty of up to
+2 g/BHPh.
+Dry masses
+The masses are stated for the standard engines with MAN
+B&W turbocharger(s), a standard turning wheel and can vary
+up to 10% depending on the design and options chosen such
+as moment compensators, tuning wheel, etc.
+The minimum lengths Lmin are stated from the aft end of the
+crankshaft to the fore end of the engine footprint.
+MC-GI Dual Fuel Gas Engines
+All two-stroke engines with cylinder diameter 500 mm or
+larger can be delivered as duel fuel engines with high
+pressure gas injectors. The performance data are the same
+as for the diesel version stated in this folder.
+For further information, please contact MAN B&W
+Diesel A/S in Copenhagen, Denmark.
+
+11
+11
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+94
+94
+84
+84
+mep
+bar
+18.2
+14.6
+18.2
+14.6
+kW
+BHP
+kW
+kW
+kW
+6 K98MC
+34 320
+46 680
+27 480
+30 660
+24 540
+7 K98MC
+40 040
+54 460
+32 060
+35 770
+28 630
+8 K98MC
+45 760
+62 240
+36 640
+40 880
+32 720
+9 K98MC
+51 480
+70 020
+41 220
+45 990
+36 810
+10 K98MC
+57 200
+77 800
+45 800
+51 100
+40 900
+11 K98MC
+62 920
+85 580
+50 380
+56 210
+44 990
+12 K98MC
+68 640
+93 360
+54 960
+61 320
+49 080
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+162
+171
+162
+g/BHPh
+126
+119
+126
+119
+Lubricating oil consumption: approximately 19 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+K98MC
+Bore: 980 mm, Stroke: 2 660 mm
+Cyl. No.
+6
+7
+8
+9
+10
+11
+12
+Lmin
+mm
+12 865 14 615 17 605
+19 355
+21 105 22 855  24 605
+Dry mass  ton*
+1 152
+1 318
+1 528
+1 678
+1 856
+2 006
+2 157
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+Revised September 1999
+
+12
+12
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+104
+104
+94
+94
+mep
+bar
+18.2
+14.6
+18.2
+14.6
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+162
+171
+162
+g/BHPh
+126
+119
+126
+119
+Lubricating oil consumption: approximately 18 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+K98MC-C
+Bore: 980 mm, Stroke: 2 400 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+Cyl. No.
+6
+7
+8
+9
+10
+11
+12
+Lmin
+mm
+12 865 14 615 17 605
+19 355
+21 105 22 855  24 605
+Dry mass  ton*
+1 100
+1 265
+1 472
+1 621
+1 797
+1 946
+2 095
+kW
+BHP
+kW
+kW
+kW
+6 K98MC-C
+34 260
+46 560
+27 420
+30 960
+24 780
+7 K98MC-C
+39 970
+54 320
+31 990
+36 120
+28 910
+8 K98MC-C
+45 680
+62 080
+36 560
+41 280
+33 040
+9 K98MC-C
+51 390
+69 840
+41 130
+46 440
+37 170
+10 K98MC-C
+57 100
+77 600
+45 700
+51 600
+41 300
+11 K98MC-C
+62 810
+85 360
+50 270
+56 760
+45 430
+12 K98MC-C
+68 520
+93 120
+54 840
+61 920
+49 560
+Revised September 1999
+
+13
+13
+Cyl. No.
+6
+7
+Lmin
+mm
+12 802
+13 524
+Dry mass  ton*
+1 093
+1 297
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+167
+160
+167
+160
+g/BHPh
+123
+118
+123
+118
+Lubricating oil consumption: approximately 15 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+6 S90MC-C
+29 340
+39 900
+23 520
+23 580
+18 840
+7 S90MC-C
+34 230
+46 550
+27 440
+27 510
+21 980
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+76
+76
+61
+61
+mep
+bar
+19.0
+15.2
+19.0
+15.2
+S90MC-C
+Bore: 900 mm, Stroke: 3 188 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+14
+14
+Cyl. No.
+6
+7
+8
+9
+10
+11
+12
+Lmin
+mm
+12 400 15 502 17 104
+18 706
+20 308 21 910 23 512
+Dry mass  ton*
+1 077
+1 279
+1 446
+1 589
+1 734
+1 877
+2 038
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+167
+155
+167
+155
+g/BHPh
+123
+114
+123
+114
+Lubricating oil consumption: approximately 14 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+83
+83
+62
+62
+mep
+bar
+19.0
+12.2
+19.0
+12.2
+kW
+BHP
+kW
+kW
+kW
+6 L90MC-C
+29 340
+39 900
+18 780
+21 900
+14 040
+7 L90MC-C
+34 230
+46 550
+21 910
+25 550
+16 380
+8 L90MC-C
+39 120
+53 200
+25 040
+29 200
+18 720
+9 L90MC-C
+44 010
+59 850
+28 170
+32 850
+21 060
+10 L90MC-C
+48 900
+66 500
+31 300
+36 500
+23 400
+11 L90MC-C
+53 790
+73 150
+34 430
+40 150
+25 740
+12 L90MC-C
+58 680
+79 800
+37 560
+43 800
+28 080
+L90MC-C
+Bore: 900 mm, Stroke: 2 916 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+15
+15
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+9 176 10 778 12 380 13 982 17 084 18 686 20 288 21 890 23 492
+Dry mass
+ 787
+931  1 074
+1 272
+1 411
+1 553
+1 700
+1 840
+1 980
+ton*
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+159
+171
+159
+g/BHPh
+126
+117
+126
+117
+Lubricating oil consumption: approximately 15 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 K90MC
+18 280
+24 880
+11 720
+13 720
+8 800
+5 K90MC
+22 850
+31 100
+14 650
+17 150
+11 000
+6 K90MC
+27 420
+37 320
+17 580
+20 580
+13 200
+7 K90MC
+31 990
+43 540
+20 510
+24 010
+15 400
+8 K90MC
+36 560
+49 760
+23 440
+27 440
+17 600
+9 K90MC
+41 130
+55 980
+26 370
+30 870
+19 800
+10 K90MC
+45 700
+62 200
+29 300
+34 300
+22 000
+11 K90MC
+50 270
+68 420
+32 230
+37 730
+24 200
+12 K90MC
+54 840
+74 640
+35 160
+41 160
+26 400
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+94
+94
+71
+71
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+K90MC
+Bore: 900 mm, Stroke: 2 550 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+16
+16
+Cyl. No.
+6
+7
+8
+9
+10
+11
+12
+Lmin
+mm
+12 447 14 049 15 651
+18 403
+20 005 21 607 23 209
+Dry mass  ton*
+986
+1 106
+1 253
+1 415
+1 561
+1 686
+1 826
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+165
+171
+165
+g/BHPh
+126
+121
+126
+121
+Lubricating oil consumption: approximately 15 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+104
+104
+89
+89
+mep
+bar
+18.0
+14.4
+18.0
+14.4
+kW
+BHP
+kW
+kW
+kW
+6 K90MC-C
+27 360
+37 260
+21 900
+23 280
+18 600
+7 K90MC-C
+31 920
+43 470
+25 550
+27 160
+21 700
+8 K90MC-C
+36 480
+49 680
+29 200
+31 040
+24 800
+9 K90MC-C
+41 040
+55 890
+32 850
+34 920
+27 900
+10 K90MC-C
+45 600
+62 100
+36 500
+38 800
+31 000
+11 K90MC-C
+50 160
+68 310
+40 150
+42 680
+34 100
+12 K90MC-C
+54 720
+74 520
+43 800
+46 560
+37 200
+K90MC-C
+Bore: 900 mm, Stroke: 2 300 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+17
+17
+Cyl. No.
+6
+7
+8
+Lmin
+mm
+10 899
+12 323
+13 747
+Dry mass  ton*
+872
+981
+1088
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+167
+155
+167
+155
+g/BHPh
+123
+114
+123
+114
+Lubricating oil consumption: approximately 13 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+6 S80MC-C
+23 280
+31 680
+14 880
+17 460
+11 160
+7 S80MC-C
+27 160
+36 960
+17 360
+20 370
+13 020
+8 S80MC-C
+31 040
+42 240
+19 840
+23 280
+14 880
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+76
+76
+57
+57
+mep
+bar
+19.0
+12.2
+19.0
+12.2
+S80MC-C
+Bore: 800 mm, Stroke: 3 200 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+18
+18
+S80MC
+Bore: 800 mm, Stroke: 3 056 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+167
+155
+167
+155
+g/BHPh
+123
+114
+123
+114
+Lubricating oil consumption: approximately 13 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+Cyl. No.
+4
+5
+6
+7
+8
+9
+Lmin
+mm
+8 051
+9 475
+10 899
+12 323
+13 747
+16 331
+Dry mass  ton*
+636
+756
+864
+996
+1 105
+1 223
+kW
+BHP
+kW
+kW
+kW
+4 S80MC
+15 360
+20 880
+9 840
+11 480
+7 360
+5 S80MC
+19 200
+26 100
+12 300
+14 350
+9 200
+6 S80MC
+23 040
+31 320
+14 760
+17 220
+11 040
+7 S80MC
+26 880
+36 540
+17 220
+20 090
+12 880
+8 S80MC
+30 720
+41 760
+19 680
+22 960
+14 720
+9 S80MC
+34 560
+46 980
+22 140
+25 830
+16 560
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+79
+79
+59
+59
+mep
+bar
+19.0
+12.2
+19.0
+12.2
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+19
+19
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+8 386 9 810 11 234 12 658 14 082 16 786 18 210 19 634 21 058
+Dry mass
+580
+681
+791
+864
+974
+1 120
+1 218
+1 339
+1 440
+ton*
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+174
+162
+174
+162
+g/BHPh
+128
+119
+128
+119
+Lubricating oil consumption: approximately 12 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 L80MC
+14 560
+19 760
+9 320
+10 960
+7 000
+5 L80MC
+18 200
+24 700
+11 650
+13 700
+8 750
+6 L80MC
+21 840
+29 640
+13 980
+16 440
+10 500
+7 L80MC
+25 480
+34 580
+16 310
+19 180
+12 250
+8 L80MC
+29 120
+39 520
+18 640
+21 920
+14 000
+9 L80MC
+32 760
+44 460
+20 970
+24 660
+15 750
+10 L80MC
+36 400
+49 400
+23 300
+27 400
+17 500
+11 L80MC
+40 040
+54 340
+25 630
+30 140
+19 240
+12 L80MC
+43 680
+59 280
+27 960
+32 880
+21 000
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+93
+93
+70
+70
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+L80MC
+Bore: 800 mm, Stroke: 2 592 mm
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+20
+20
+kW
+BHP
+kW
+kW
+kW
+6 K80MC-C
+21 660
+29 400
+17 340
+18 540
+14 820
+7 K80MC-C
+25 270
+34 300
+20 230
+21 630
+17 290
+8 K80MC-C
+28 880
+39 200
+23 120
+24 720
+19 760
+9 K80MC-C
+32 490
+44 100
+26 010
+27 810
+22 230
+10 K80MC-C
+36 100
+49 000
+28 900
+30 900
+24 700
+11 K80MC-C
+39 710
+53 900
+31 790
+33 990
+27 170
+12 K80MC-C
+43 320
+58 800
+34 680
+37 080
+29 640
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+165
+171
+165
+g/BHPh
+126
+121
+126
+121
+Lubricating oil consumption: approximately 12 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+104
+104
+89
+89
+mep
+bar
+18.0
+14.4
+18.0
+14.4
+K80MC-C
+Bore: 800 mm, Stroke: 2 300 mm
+Cyl. No.
+6
+7
+8
+9
+10
+11
+12
+Lmin
+mm
+11 104 12 528 13 952
+16 526
+17 950 19 374 20 798
+Dry mass  ton*
+774
+875
+984
+1 101
+1 202
+1 302
+1 423
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+21
+21
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+169
+156
+169
+156
+g/BHPh
+124
+115
+124
+115
+Lubricating oil consumption: approximately 10 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S70MC-C
+12 420
+16 880
+7 940
+9 320
+5 960
+5 S70MC-C
+15 525
+21 100
+9 925
+11 650
+7 450
+6 S70MC-C
+18 630
+25 320
+11 910
+13 980
+8 940
+7 S70MC-C
+21 735
+29 540
+13 895
+16 310
+10 430
+8 S70MC-C
+24 840
+33 760
+15 880
+18 640
+11 920
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+91
+91
+68
+68
+mep
+bar
+19.0
+12.2
+19.0
+12.2
+S70MC-C
+Bore: 700 mm, Stroke: 2 800 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+6 591
+7 781
+8 971
+10 161
+11 351
+Dry mass  ton*
+408
+480
+555
+624
+704
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+22
+22
+S70MC
+Bore: 700 mm, Stroke: 2 674 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+169
+156
+169
+156
+g/BHPh
+124
+115
+124
+115
+Lubricating oil consumption: approximately 9 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S70MC
+11 240
+15 280
+7 200
+8 440
+5 400
+5 S70MC
+14 050
+19 100
+9 000
+10 550
+6 750
+6 S70MC
+16 860
+22 920
+10 800
+12 660
+8 100
+7 S70MC
+19 670
+26 740
+12 600
+14 770
+9 450
+8 S70MC
+22 480
+30 560
+14 400
+16 880
+10 800
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+91
+91
+68
+68
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+7 177
+8 423
+9 669
+10 915
+12 161
+Dry mass  ton*
+413
+492
+562
+648
+722
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+23
+23
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+174
+162
+174
+162
+g/BHPh
+128
+119
+128
+119
+Lubricating oil consumption: approximately 9 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+L70MC
+Bore: 700 mm, Stroke: 2 268 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+7 008
+8 254
+9 500
+10 746
+11 992
+Dry mass  ton*
+383
+448
+525
+592
+667
+kW
+BHP
+kW
+kW
+kW
+4 L70MC
+11 320
+15 380
+7 240
+8 480
+5 420
+5 L70MC
+14 150
+19 225
+9 050
+10 600
+6 775
+6 L70MC
+16 980
+23 070
+10 860
+12 720
+8 130
+7 L70MC
+19 810
+26 915
+12 670
+14 840
+9 485
+8 L70MC
+22 640
+30 760
+14 480
+16 960
+10 840
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+108
+108
+81
+81
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+24
+24
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+170
+158
+170
+158
+g/BHPh
+125
+116
+125
+116
+Lubricating oil consumption: approximately 7 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+S60MC-C
+Bore: 600 mm, Stroke: 2 400 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+5 648
+6 668
+7 688
+8 708
+9 728
+Dry mass  ton*
+263
+314
+358
+410
+467
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+kW
+BHP
+kW
+kW
+kW
+4 S60MC-C
+9 020
+12 280
+5 780
+6 760
+4 340
+5 S60MC-C
+11 275
+15 350
+7 225
+8 450
+5 425
+6 S60MC-C
+13 530
+18 420
+8 670
+10 140
+6 510
+7 S60MC-C
+15 785
+21 490
+10 115
+11 830
+7 595
+8 S60MC-C
+18 040
+24 560
+11 560
+13 520
+8 680
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+105
+105
+79
+79
+mep
+bar
+19.0
+12.2
+19.0
+12.2
+
+25
+25
+S60MC
+Bore: 600 mm, Stroke: 2 292 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+170
+158
+170
+158
+g/BHPh
+125
+116
+125
+116
+Lubricating oil consumption: approximately 7 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S60MC
+8 160
+11 120
+5 240
+6 120
+3 920
+5 S60MC
+10 200
+13 900
+6 550
+7 650
+4 900
+6 S60MC
+12 240
+16 680
+7 860
+9 180
+5 880
+7 S60MC
+14 280
+19 460
+9 170
+10 710
+6 860
+8 S60MC
+16 320
+22 240
+10480
+12 240
+7 840
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+105
+105
+79
+79
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+6 116
+7 184
+8 252
+9 320
+10 388
+Dry mass  ton*
+273
+319
+371
+422
+470
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+26
+26
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+159
+171
+159
+g/BHPh
+126
+117
+126
+117
+Lubricating oil consumption: approximately 6 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 L60MC
+7 680
+10 400
+4 920
+5 760
+3 680
+5 L60MC
+9 600
+13 000
+6 150
+7 200
+4 600
+6 L60MC
+11 520
+15 600
+7 380
+8 640
+5 520
+7 L60MC
+13 440
+18 200
+8 610
+10 080
+6 440
+8 L60MC
+15 360
+20 800
+9 840
+11 520
+7 360
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+123
+123
+92
+92
+mep
+bar
+17.0
+10.9
+17.0
+10.9
+L60MC
+Bore: 600 mm, Stroke: 1 944 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+5 956
+7 024
+8 092
+9 160
+10 228
+Dry mass  ton*
+270
+318
+343
+407
+451
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+27
+27
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+159
+171
+159
+g/BHPh
+126
+117
+126
+117
+Lubricating oil consumption: approximately 5 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S50MC-C
+6 320
+8 580
+4 040
+4 740
+3 040
+5 S50MC-C
+7 900
+10 725
+5 050
+5 925
+3 800
+6 S50MC-C
+9 480
+12 870
+6 060
+7 110
+4 560
+7 S50MC-C
+11 060
+15 015
+7 070
+8 295
+5 320
+8 S50MC-C
+12 640
+17 160
+8 080
+9 480
+6 080
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+127
+127
+95
+95
+mep
+bar
+19.0
+12.2
+19.0
+12.2
+S50MC-C
+Bore: 500 mm, Stroke: 2 000 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+4 739
+5 589
+6 439
+7 289
+8 139
+Dry mass  ton*
+155
+181
+207
+238
+273
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+28
+28
+S50MC
+Bore: 500 mm, Stroke: 1 910 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+171
+159
+171
+159
+g/BHPh
+126
+117
+126
+117
+Lubricating oil consumption: approximately 5 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S50MC
+5 720
+7 760
+3 640
+4 280
+2 760
+5 S50MC
+7 150
+9 700
+4 550
+5 350
+3 450
+6 S50MC
+8 580
+11 640
+5 460
+6 420
+4 140
+7 S50MC
+10 010
+13 580
+6 370
+7 490
+4 830
+8 S50MC
+11 440
+15 520
+7 280
+8 560
+5 520
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+127
+127
+95
+95
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+5 730
+6 620
+7 510
+8 400
+9 290
+Dry mass  ton*
+171
+195
+225
+255
+288
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+29
+29
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+173
+160
+173
+160
+g/BHPh
+127
+118
+127
+118
+Lubricating oil consumption: approximately 4 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 L50MC
+5 320
+7 240
+3 400
+4 000
+2 560
+5 L50MC
+6 650
+9 050
+4 250
+5 000
+3 200
+6 L50MC
+7 980
+10 860
+5 100
+6 000
+3 840
+7 L50MC
+9 310
+12 670
+5 950
+7 000
+4 480
+8 L50MC
+10 640
+14 480
+6 800
+8 000
+5 120
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+148
+148
+111
+111
+mep
+bar
+17.0
+10.9
+17.0
+10.9
+L50MC
+Bore: 500 mm, Stroke: 1 620 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+5 615
+6 505
+7 395
+8 285
+9 175
+Dry mass  ton*
+163
+188
+215
+249
+276
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+30
+30
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+174
+169
+174
+169
+g/BHPh
+128
+124
+128
+124
+Lubricating oil consumption: approximately 4 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S46MC-C
+5 240
+7 140
+4 200
+4 400
+3 520
+5 S46MC-C
+6 550
+8 925
+5 250
+5 500
+4 400
+6 S46MC-C
+7 860
+10 710
+6 300
+6 600
+5 280
+7 S46MC-C
+9 170
+12 495
+7 350
+7 700
+6 160
+8 S46MC-C
+10 480
+14 280
+8 400
+8 800
+7 040
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+129
+129
+108
+108
+mep
+bar
+19.0
+15.2
+19.0
+15.2
+S46MC-C
+Bore: 460 mm, Stroke: 1 932 mm
+Cyl. No.
+4
+5
+6
+7
+8
+Lmin
+mm
+4 357
+5 139
+5 921
+6 703
+7 485
+Dry mass  ton*
+133
+153
+171
+197
+217
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+31
+31
+S42MC
+Bore: 420 mm, Stroke: 1 764 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+177
+171
+177
+171
+g/BHPh
+130
+126
+130
+126
+Lubricating oil consumption: approximately 3 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S42MC
+4 320
+5 880
+3 460
+3 660
+2 920
+5 S42MC
+5 400
+7 350
+4 325
+4 575
+3 650
+6 S42MC
+6 480
+8 820
+5 190
+5 490
+4 380
+7 S42MC
+7 560
+ 10 290
+6 055
+6 405
+5 110
+8 S42MC
+8 640
+11 760
+6 920
+7 320
+5 840
+9 S42MC
+9 720
+13 230
+7 785
+8 235
+6 570
+10 S42MC
+10 800
+14 700
+8 650
+9 150
+7 300
+11 S42MC
+11 880
+16 170
+9 515
+10 065
+8 030
+12 S42MC
+12 960
+17 640
+10 380
+10 980
+8 760
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+136
+136
+115
+115
+mep
+bar
+19.5
+15.6
+19.5
+15.6
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+4 240 4 988 5 736
+6 484 7 232 7 980 9 476 10 224 10 972
+Dry mass
+109
+125
+143
+160
+176
+195
+232
+249
+269
+ton*
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+a) Min. 7 325 for
+turbocharger
+NA57/T9
+
+32
+32
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+177
+165
+177
+165
+g/BHPh
+130
+121
+130
+121
+Lubricating oil consumption: approximately 3 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 L42MC
+3 980
+5 420
+2 540
+2 980
+1 920
+5 L42MC
+4 975
+6 775
+3 175
+3 725
+2 400
+6 L42MC
+5 970
+8 130
+3 810
+4 470
+2 880
+7 L42MC
+6 965
+9 485
+4 445
+5 215
+3 360
+8 L42MC
+7 960
+10 840
+5 080
+5 960
+3 840
+9 L42MC
+8 955
+12 195
+5 715
+6 705
+4 320
+10 L42MC
+9 950
+13 550
+6 350
+7 450
+4 800
+11 L42MC
+10 945
+14 905
+6 985
+8 195
+5 280
+12 L42MC
+11 940
+16 260
+7 620
+8 940
+5 760
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+176
+176
+132
+132
+mep
+bar
+18.0
+11.5
+18.0
+11.5
+L42MC
+Bore: 420 mm, Stroke: 1 360 mm
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+4 661 5 409 6 157
+6 905 7 653 8 401 9 897 10 645 11 393
+Dry mass
+95
+110
+125
+143
+158
+176
+210
+229
+244
+ton*
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+a) Min. 6 450 for tur-
+bocharger NA48/S
+
+33
+33
+S35MC
+Bore: 350 mm, Stroke: 1 400 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+178
+173
+178
+173
+g/BHPh
+131
+127
+131
+127
+Lubricating oil consumption: approximately 2 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 S35MC
+2 960
+4 040
+2 380
+2 520
+2 020
+5 S35MC
+3 700
+5 050
+2 975
+3 150
+2 525
+6 S35MC
+4 440
+6 060
+3 570
+3 780
+3 030
+7 S35MC
+5 180
+7 070
+4 165
+4 410
+3 535
+8 S35MC
+5 920
+8 080
+4 760
+5 040
+4 040
+9 S35MC
+6 660
+9 090
+5 355
+5 670
+4 545
+10 S35MC
+7 400
+10 100
+5 950
+6 300
+5 050
+11 S35MC
+8 140
+11 110
+6 545
+6 930
+5 555
+12 S35MC
+8 880
+12 120
+7 140
+7 560
+6 060
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+173
+173
+147
+147
+mep
+bar
+19.1
+15.3
+19.1
+15.3
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+3 480 4 080 4 680
+5 280 5 880 6 480 7 080 8 280
+8 880
+Dry mass
+57
+65
+75
+84
+93
+103
+122
+132
+141
+ton*
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+
+34
+34
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+177
+171
+177
+171
+g/BHPh
+130
+126
+130
+126
+Lubricating oil consumption: approximately 2 kg/cyl. 24 h
+Cylinder oil consumption: 0.9 - 1.4 g/kWh ~ 0.65 - 1.0 g/BHPh
+kW
+BHP
+kW
+kW
+kW
+4 L35MC
+2 600
+3 520
+2 080
+2 200
+1 760
+5 L35MC
+3 250
+4 400
+2 600
+2 750
+2 200
+6 L35MC
+3 900
+5 280
+3 120
+3 300
+2 640
+7 L35MC
+4 550
+6 160
+3 640
+3 850
+3 080
+8 L35MC
+5 200
+7 040
+4 160
+4 400
+3 520
+9 L35MC
+5 850
+7 920
+4 680
+4 950
+3 960
+10 L35MC
+6 500
+8 800
+5 200
+5 500
+4 400
+11 L35MC
+7 150
+9 680
+5 720
+6 050
+4 840
+12 L35MC
+7 800
+10 560
+6 240
+6 600
+5 280
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+210
+210
+178
+178
+mep
+bar
+18.4
+14.7
+18.4
+14.7
+L35MC
+Bore: 350 mm, Stroke: 1 050 mm
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+3 445 4 045 4 645
+5 245 5 845 6 445 7 645 8 245
+8 845
+Dry mass
+ 50
+58
+67
+75
+83
+92
+108
+118
+126
+ton*
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+H4: With manual
+double jib crane
+a) Min. 5 100 for
+turbocharger NA40/S
+
+35
+35
+kW
+BHP
+kW
+kW
+kW
+4 S26MC
+1 600
+2 180
+1 280
+1 360
+1 100
+5 S26MC
+2 000
+2 725
+1 600
+1 700
+1 375
+6 S26MC
+2 400
+3 270
+1 920
+2 040
+1 650
+7 S26MC
+2 800
+3 815
+2 240
+2 380
+1 925
+8 S26MC
+3 200
+4 360
+2 560
+2 720
+2 200
+9 S26MC
+3 600
+4 905
+2 880
+3 060
+2 475
+10 S26MC
+4 000
+5 450
+3 200
+3 400
+2 750
+11 S26MC
+4 400
+5 995
+3 520
+3 740
+3 025
+12 S26MC
+4 800
+6 540
+3 840
+4 080
+3 300
+Layout points
+L1
+L2
+L3
+L4
+Speed
+r/min
+250
+250
+212
+212
+mep
+bar
+18.5
+14.8
+18.5
+14.8
+S26MC
+Bore: 260 mm, Stroke: 980 mm
+Specific Fuel Oil Consumption (SFOC)
+g/kWh
+179
+174
+179
+174
+g/BHPh
+132
+128
+132
+128
+Lubricating oil consumption: approximately 1.5 kg/cyl. 24 h
+Cylinder oil consumption: 1.1 - 1.6 g/kWh ~ 0.8 - 1.2 g/BHPh
+Cyl. No.
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Lmin mm
+2 975 3 465 3 955
+4 445 4 935 5 425 6 405 6 895
+7 385
+Dry mass
+32
+37
+42
+48
+53
+58
+68
+74
+79
+ton*
+* The mass can vary
+up to 10% depending
+on the design and
+options chosen.
+H1: Vertical lift
+H2: Tilted lift
+H3: With electrical
+double jib crane
+H4: With manual
+double jib crane
+a) Min. 4 675 for
+turbocharger NA34/S
+
+38
+38
+Engine Power Ranges of
+Four-stroke Marine Propulsion Engines
+Marine propulsion engine with Controllable Pitch Propeller
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+40
+50
+60
+70
+80
+90
+103
+110
+Speed [%]
+  1
+   Load limit
+   Recommended combinator curve
+   Zero thrust curve
+       Operating range
+Torque/BMEP [%]
+MCR
+  1
+2
+3
+2
+3
+Power [%]
+MCR = maximum continuous rating (fuel stop power)
+100
+
+39
+39
+Emission Control
+All four-stroke engines in this folder can be delivered so as
+to comply with the IMO speed dependent NOx limit, meas-
+ured according to the ISO 8178 test cycles E2/E3 for
+Heavy Duty Diesel Engines. The NOx emissions from a
+given engine will vary according to the engine load and the
+optimising power.
+SFOC and NOx are interrelated parameters, and an engine
+offered with both a guaranteed SFOC and the IMO NOx
+limitation will be subject to a tolerance of 5% on the specific
+fuel oil consumption.
+NO  (g/kWh)
+x
+18
+17
+16
+14
+12
+10
+8
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1200
+Engine speed
+1000 1100
+
+40
+40
+General Definition of Diesel Engine Ratings
+(acc. to ISO 3046-1:1995)
+P = Continuous rating
+ISO reference conditions
+Air temperature:
+298 K (25 oC)
+Air pressure:
+1 bar
+Cooling water temperature
+upstream of charge-air cooler:
+298 K (25 oC)
+The fuel consumption rates are based on ISO reference
+conditions and a lower calorific value of the fuel of
+42,700 kJ/kg without engine driven pumps.
+Main Marine Engines
+MCR = Maximum Continuous Rating
+(fuel stop power)
+Blocking of the output for engines, driving a generator, at
+110% of the rated output. Overload >100% may only be run
+for a short time for recovery and prevent a frequency drop
+in case of load application.
+Reference conditions
+Air temperature:
+318 K (45 oC)
+Air pressure:
+1 bar
+Cooling water temperature
+upstream of charge-air cooler:
+305 K (32 oC)
+Marine Auxiliary Engines
+P = Continuous rating
+Blocking of the output, at 110% of the rated output. Over-
+load > 100% may only be run for a short time for recovery
+and prevent a frequency drop in case of load application.
+Reference conditions
+Air temperature:
+318 K (45 oC)
+Air pressure:
+1 bar
+Cooling water temperature
+upstream of charge-air cooler:
+305 K (32 oC)
+
+41
+41
+The MAN B&W Diesel
+Four-stroke Marine Propulsion Programme
+2
+26  BHP
+22
+8
+6
+4
+14
+12
+10
+8
+18
+16
+6
+4
+2
+800
+775
+775
+900
+750
+550
+514
+750
+428
+514
+900
+r/min
+L23/30A
+V23/30A
+L28/32A
+V28/32A
+L23/30A-E
+L32/40
+V32/40
+L27/38
+L48/60
+L58/64
+V48/60
+L40/54
+825
+20
+18
+16
+14
+12
+10
+24
+x 1000
+kW
+
+42
+42
+6L58/64
+7L58/64
+8L58/64
+9L58/64
+L/L1
+mm
+9 190/7810
+10600/ 8810 11600/9810 12600/10810
+W
+mm
+3550
+3550
+3550
+3550
+H
+mm
+5140
+5140
+5140
+5140
+Mass ton*
+154
+177
+198
+217
+kW
+BHP
+kW
+BHP
+6 L58/64
+8 340
+11 340
+7 800
+10 620
+7 L58/64
+9 730
+13 230
+9 100
+12 390
+8 L58/64
+11 120
+15 120
+10 400
+14 160
+9 L58/64
+12 510
+17 010
+11 700
+15 930
+L58/64
+Bore: 580 mm, Stroke: 640 mm
+* The masses are stated for the engines without turning wheel
+Minimum centreline distance for twin engine installation:
+3 750 mm
+Speed
+r/min
+428
+400
+mep
+bar
+23.0
+23.0
+Cm
+m/s
+9.1
+8.5
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L58/64
+177 g/kWh
+130 g/BHPh
+176 g/kWh
+129 g/BHPh
+Specific Lube Oil Consumption:  1.0 g/kWh - 0.7 g/BHPh
+
+43
+43
+kW
+BHP
+12 V48/60
+12 600
+17 160
+14 V48/60
+14 700
+20 020
+16 V48/60
+16 800
+22 880
+Speed r/min
+514 or 500
+mep
+bar
+22.6 or 23.2
+Cm
+m/s
+10.3 or 10.0
+Speed r/min
+514 or 500
+mep
+bar
+22.6 or 23.2
+Cm
+m/s
+10.3 or 10.0
+L+V48/60
+Bore: 480 mm, Stroke: 600 mm
+kW
+BHP
+6 L48/60
+6 300
+8 580
+7 L48/60
+7 350
+10 010
+8 L48/60
+8 400
+11 440
+9 L48/60
+9 450
+12 870
+6L48/60
+7L48/60
+8L48/60
+9L48/60
+L/L1
+mm
+8090/6720
+9120/ 7540
+9835/8360
+10655/9180
+W
+mm
+3130
+3390
+3265
+3265
+H
+mm
+5010
+5010
+5010
+5010
+Mass ton*
+108
+122
+136
+149
+Specific Lube Oil Consumption:  1.0 g/kWh – 0.7 g/BHPh
+12V48/60
+14V48/60
+16V48/60
+L/L1
+mm
+9670/7980
+10985/ 8980
+11985/9980
+W
+mm
+5515
+5515
+5515
+H
+mm
+4910
+4950
+4950
+Mass ton*
+190
+218
+242
+* The masses are
+stated for the
+engines without
+turning wheel.
+Minimum centreline
+distance for twin
+engine installation:
+3 400 mm L-engine
+5 800 mm V-engine
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L48/60
+181 g/kWh
+133 g/BHPh
+180 g/kWh
+132 g/BHPh
+V48/60
+180 g/kWh
+132 g/BHPh
+179 g/kWh
+131 g/BHPh
+
+44
+44
+kW
+BHP
+kW
+BHP
+kW
+BHP
+6 L40/54
+4 320
+5 880
+ 4 320
+5 880
+4 200
+5 700
+7 L40/54
+5 040
+6 860
+5 040
+6 860
+4 900
+6 650
+8 L40/54
+5 760
+7 840
+5 760
+7 840
+5 600
+7 600
+9 L40/54
+6 480
+8 820
+6 480
+8 820
+6 300
+8 550
+Speed
+r/min
+550
+514
+500
+mep
+bar
+23.1
+24.8
+24.8
+Cm
+m/s
+9.9
+9.2
+9.0
+6L40/54
+7L40/54
+8L40/54
+9L40/54
+L/L1
+mm
+7 520/5 910
+8 600/6 610
+9 155/7 310
+10 000/8 010
+W
+mm
+2 600
+2 750
+2 815
+2 815
+H
+mm
+4 345
+4 380
+4 380
+4 380
+Mass ton*
+70
+80
+89
+97
+L40/54
+Bore: 400 mm, Stroke: 540 mm
+* The masses are stated for the engines without turning wheel.
+Minimum centreline distance for twin engine installation: 2 800 mm.
+Specific Lube Oil Consumption:  1.0 g/kWh - 0.7 g/BHPh
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L40/54
+183 g/kWh
+135 g/BHPh
+181 g/kWh
+133 g/BHPh
+H
+620
+1 850
+3 775
+W
+
+45
+45
+kW
+BHP
+kW
+BHP
+12V32/40 5 760
+7 860
+5 760
+7 860
+14V32/40 6 720
+9 170
+6 720
+9 170
+16V32/40 7 680 10 480
+7 680 10 480
+Speed r/min
+750
+720
+mep
+bar
+23.9
+24.9
+Cm
+m/s
+10.0
+9.6
+kW
+BHP
+kW
+BHP
+6 L32/40 2 880 3 930  2 880 3 930
+7 L32/40 3 360 4 585 3 360 4 585
+8 L32/40 3 840 5 240 3 840 5 240
+9 L32/40 4 320 5 895 4 320 5 895
+Speed r/min
+750
+720
+mep
+bar
+23.9
+24.9
+Cm
+m/s
+10.0
+9.6
+L+V32/40
+Bore: 320 mm, Stroke: 400 mm
+* The masses are
+stated for the engines
+without turning wheel
+6L32/40
+7L32/40
+8L32/40
+9L32/40
+L/L1
+mm
+5 940/4 480
+6 470/5 010
+7 010/5 540
+7 675/6 070
+W
+mm
+2 740
+2 740
+2 900
+2 900
+H
+mm
+4 055
+4 055
+4 325
+4 325
+Mass ton*
+38
+43
+47
+52
+Specific Lube Oil Consumption:  1.0 g/kWh – 0.7 g/BHP
+12V32/40
+14V32/40
+16V32/40
+L/L1
+mm
+6 880/5 110
+7 510/5 740
+8 365/6 370
+W
+mm
+3 140
+3 140
+3 730
+H
+mm
+4 100
+4 100
+4 230
+Mass ton*
+63
+70
+79
+* The masses are
+stated for the
+engines without
+turning wheel
+Minimum centreline
+distance for twin
+engine installation:
+2 500 mm L-engine
+4 000 mm V-engine
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L32/40
+185 g/kWh
+136 g/BHPh
+183 g/kWh
+135 g/BHPh
+V32/40
+184 g/kWh
+135 g/BHPh
+182 g/kWh
+134 g/BHPh
+
+46
+46
+kW
+BHP
+12 V28/32A
+2 940
+4 000
+16 V28/32A
+3 920
+5 330
+Speed r/min
+775
+mep
+bar
+19.3
+Cm
+m/s
+8.3
+Speed r/min
+775
+mep
+bar
+19.3
+Cm
+m/s
+8.3
+kW
+BHP
+6 L28/32A
+1 470
+2 000
+7 L28/32A
+1 715
+2 330
+8 L28/32A
+1 960
+2 665
+9 L28/32A
+2 205
+3 000
+L+V28/32A
+Bore: 280 mm, Stroke: 320 mm
+6L28/32A
+7L28/32A
+8L28/32A
+9L28/32A
+L/L1
+mm
+5 330 /4 340
+5 810/ 4 750
+6 290/5 230
+6 770/5 780
+W
+mm
+1 732
+1 732
+1 732
+1 844
+H
+mm
+3 186
+3 186
+3 186
+3 242
+Mass ton
+19.0
+21.0
+23.5
+26.5
+Specific Lube Oil Consumption:  1.0 g/kWh – 0.7 g/BHPh
+12V28/32A
+16V28/32A
+L/L1
+mm
+5 560/4 870
+6 680/5 890
+W
+mm
+2 015
+2 015
+H
+mm
+3 032
+3 092
+Mass ton
+29.5
+37.0
+Minimum centreline
+distance for twin
+engine installation:
+2 000 mm L-engine
+2 500 mm V-engine
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L28/32A
+192 g/kWh
+141 g/BHPh
+191 g/kWh
+140 g/BHPh
+V28/32A
+193 g/kWh
+142 g/BHPh
+192 g/kWh
+141 g/BHPh
+1 300 L-engine
+1 400 V-engine
+2 300 L-engine
+2 235 V-engine
+315
+L1
+ L2
+H
+W
+
+47
+47
+1 370
+2 500
+530
+L1
+L
+W
+H
+kW
+BHP
+kW
+BHP
+kW
+BHP
+6 L27/38
+2 040
+2 775
+ 1 920
+2 610
+1 800
+2 450
+7 L27/38
+2 380
+3 235
+2 240
+3 045
+2 100
+2 855
+8 L27/38
+2 720
+3 700
+2 560
+3 480
+2 400
+3 265
+9 L27/38
+3 060
+4 160
+2 880
+3 915
+2 700
+3 670
+6L27/38
+7L27/38
+8L27/38
+9L27/38
+L/L1
+mm
+5 070/3 930
+5 515/4 380
+5 960/4 830
+6 405/5 275
+W
+mm
+2 035
+2 090
+2 090
+2 090
+H
+mm
+3 595
+3 595
+3 565
+3 565
+Mass ton
+30,0
+33,5
+37,0
+40,5
+L27/38
+Bore: 270 mm, Stroke: 380 mm
+Minimum centreline distance for twin engine installation: 2 500 mm
+Speed
+r/min
+800
+750
+720
+mep
+bar
+23.5
+23.5
+23.0
+Cm
+m/s
+10.1
+9.5
+9.1
+Specific Lube Oil Consumption:  1.0 g/kWh - 0.7 g/BHPh
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L27/38
+188 g/kWh
+138 g/BHPh
+186 g/kWh
+137 g/BHPh
+
+48
+48
+kW
+BHP
+12 V23/30A
+1 920
+2 610
+Speed r/min
+900
+mep
+bar
+17.9
+Cm
+m/s
+9.0
+kW
+BHP
+kW
+BHP
+6 L23/30A-E
+800 1 090
+6 L23/30A
+960 1 300
+8 L23/30A
+1 280 1 740
+Speed r/min
+825
+900
+mep
+bar
+16.3
+17.9
+Cm
+m/s
+8.25
+9.0
+L+V23/30A
+Bore: 225 mm, Stroke: 300 mm
+6L23/30A-E
+6L23/30A
+8L23/30A
+12V23/30A
+L1/L
+mm
+3 737/3 062
+3 737/3 062
+4 477/3 802
+4 670/3 830
+W
+mm
+1 628
+1 628
+1 628
+1 757
+H
+mm
+2 467
+2 467
+2 467
+2 615
+Mass ton
+11.5
+11.5
+14
+17.5
+Lube Oil Consumption:  1.0 g/kWh – 0.7 g/BHPh
+Minimum centreline distance for twin engine installation:
+1 900 mm L-engine, 2 100 mm V-engine
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+85% MCR
+L23/30A-E
+192 g/kWh
+141 g/BHPh
+191 g/kWh
+140 g/BHPh
+L23/30A
+194 g/kWh
+143 g/BHPh
+193 g/kWh
+142 g/BHPh
+V23/30A
+195 g/kWh
+144 g/BHPh
+194 g/kWh
+143 g/BHPh
+
+49
+49
+Specific Lube Oil Consumption in Dual Fuel Operation: 1.0 g/kWh - 0.7 g/BHP
+kW
+BHP
+kW
+BHP
+12V32/40DG 4 800 6 540 4 620 6 300
+14V32/40DG 5 600 7 630 5 390 7 350
+16V32/40DG 6 400 8 720 6 160 8 400
+18V32/40DG 7 200 9 810 6 930 9 450
+Speed r/min
+750
+720
+mep
+bar
+19.9
+19.9
+Cm
+m/s
+10.0
+9.6
+L+V32/40DG
+Bore: 320 mm, Stroke: 400 mm
+* The masses are
+stated for the engines
+without turning wheel
+6L32/40DG
+7L32/40DG
+8L32/40DG
+9L32/40DG
+L/L1
+mm
+5 940/4 480
+6 470/5 010
+7 010/5 540
+7 675/6 070
+W
+mm
+2 740
+2 740
+2 900
+2 900
+H
+mm
+4 055
+4 055
+4 325
+4 325
+Mass ton*
+39
+44
+49
+53
+12V32/40DG
+14V32/40DG
+16V32/40DG
+18V32/40DG
+L/L1
+mm
+6 880/5 110
+7 510/5 740
+8 365/6 370
+9 075/7 000
+W
+mm
+3 140
+3 140
+3 730
+3 730
+H
+mm
+4 100
+4 100
+4 230
+4 230
+Mass ton*
+66
+72
+81
+89
+* The masses are
+stated for the
+engines without
+turning wheel
+The engine ratings given in the table are valid for natural gas with a methane number of
+80-100. Energy consumption tolerance +5%
+kW
+BHP
+kW
+BHP
+6L32/40DG 2 400 3 270  2 310 3 150
+7L32/40DG 2 800 3 815 2 695 3 675
+8L32/40DG 3 200 4 360 3 080 4 200
+9L32/40DG 3 600 4 905 3 465 4 725
+Speed r/min
+750
+720
+mep
+bar
+19.9
+19.9
+Cm
+m/s
+10.0
+9.6
+Dual Fuel Engines
+Specific Fuel Oil Consumption (to ISO conditions)
+Specific energy Consumption
+8 460 kJ/kWh
+Pilot fuel consumption per hour
+0.8 kg/cyl.
+Fuel Consumption in Diesel
+L32/40DG
+195 g/kWh
+143 g/BHPh
+Fuel Operation 100% P
+V32/40DG
+194 g/kWh
+142 g/BHPh
+Lub Oil Consumption in Dual-fuel operation 1.0 g/kWh
+0.7 g/BHPh
+
+50
+50
+Definition of dual-fuel engine ratings
+(acc. to ISO 3046-1: 1995) without overload
+Air temperature
+298 K (25 °C)
+Air pressure
+1 bar
+Cooling water temperature
+upsream of charge-air cooler
+298 K(25 °C)
+Power factor
+= 0.8
+Energy consumption tolerance
++5 %
+
+52
+52
+18PC4.2B
+—
+—
+—
+L/L1
+mm
+13 370/11 088
+—
+—
+—
+W
+mm
+5 170
+—
+—
+—
+H
+mm
+7 465
+—
+—
+—
+Mass ton*
+330
+—
+—
+—
+kW
+BHP
+kW
+BHP
+18PC4.2B
+23 850
+32 400
+22 500
+30 600
+PC4.2B
+Bore: 570 mm, Stroke: 660 mm
+* The masses are stated for the engines without turning wheel
+Speed
+r/min
+430
+400
+mep
+bar
+22.0
+22.3
+Cm
+m/s
+9.5
+8.8
+Specific Lube Oil Consumption:  1.0 g/kWh - 0.7 g/BHPh
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+—
+PC4.2B
+185 g/kWh
+136 g/BHPh
+—
+—
+
+53
+53
+12PC2.6B
+16PC2.6B
+—
+—
+L/L1
+mm
+8 520/5 460
+10 000/6 940
+—
+—
+W
+mm
+3 580
+3 580
+—
+—
+H
+mm
+4 770
+4 770
+—
+—
+Mass ton*
+100
+120
+—
+—
+kW
+BHP
+12PC2.6B
+9 000
+12 240
+16PC2.6B
+12 000
+16 320
+PC2.6B
+Bore: 400 mm, Stroke: 500 mm
+* The masses are stated for the engines without turning wheel
+Speed
+r/min
+600
+mep
+bar
+23.9
+Cm
+m/s
+10.0
+Specific Lube Oil Consumption:  1.0 g/kWh - 0.7 g/BHPh
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+PC2.6B
+184 g/kWh
+135 g/BHPh
+
+54
+54
+12PA6B
+16PA6B
+—
+—
+L/L1
+mm
+5 860/3 790
+6 780/4 710
+—
+—
+W
+mm
+2 340
+2 340
+—
+—
+H
+mm
+2 940
+2 940
+—
+—
+Mass ton*
+26
+34
+—
+—
+kW
+BHP
+kW
+BHP
+12PA6B
+4 140
+5 630
+  3 900
+5 300
+16PA6B
+5 520
+7 510
+5 200
+7 070
+PA6B
+Bore: 280 mm, Stroke: 330 mm
+* The masses are stated for the engines without turning wheel
+Speed
+r/min
+1 000
+900
+mep
+bar
+20.4
+21.3
+Cm
+m/s
+11.0
+9.9
+Specific Lube Oil Consumption:  1.0 g/kWh - 0.7 g/BHPh
+Specific Fuel Oil Consumption (to ISO conditions)
+100% MCR
+100% MCR
+PA6B
+197 g/kWh
+145 g/BHPh
+193 g/kWh
+142 g/BHPh
+—
+—
+H
+545
+W
+L1
+L
+
+56
+56
+MAN B&W Controllable Pitch Propeller
+The standard propeller programme basically comprises two types:
+Type VBS
+- features propeller blade pitch setting by a hydraulic servo piston inte-
+grated in the propeller hub.
+Type VB
+- features propeller blade pitch setting by a hydraulic servo piston inte-
+grated in the Alpha reduction gearbox.
+The figures stated after VBS or VB indicate the propeller hub diameter.
+Standard blade/hub materials are Ni-Al-bronze.
+Stainless steel is available as an option.
+The propellers are available up to the highest ice classes.
+
+57
+57
+MAN B&W Two-stroke Propulsion System
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+Prop.
+speed
+VBS
+mass
+r/min
+mm
+mm
+mm
+mm
+mm
+ton*
+Type
+4
+8 160
+105
+5 650
+1 460
+1 100
+1 170
+2 676
+34.1
+5
+10 200
+105
+6 000
+1 560
+1 175
+1 242
+2 676
+39.2
+6
+12 240
+105
+6 300
+1 680
+1 278
+1 333
+2 919
+47.9
+7
+14 280
+105
+6 550
+1 680
+1 278
+1 338
+2 976
+54.0
+S60MC
+4
+7 680
+123
+5 200
+1 380
+1 030
+1 131
+2 651
+29.5
+5
+9 600
+123
+5 500
+1 460
+1 100
+1 170
+2 676
+34.5
+6
+11 520
+123
+5 750
+1 560
+1 175
+1 242
+2 676
+39.5
+7
+13 440
+123
+5 950
+1 560
+1 175
+1 257
+2 919
+44.2
+8
+15 360
+123
+6 150
+1 680
+1 278
+1 338
+2 976
+53.2
+L60MC
+4
+6 320
+127
+4 900
+1 280
+ 975
+1 035
+2 200
+24.0
+5
+7 900
+127
+5 200
+1 380
+1 050
+1 095
+2 270
+29.1
+6
+9 480
+127
+5 450
+1 380
+1 050
+1 095
+2 350
+32.1
+7
+11 060
+127
+5 650
+1 460
+1 110
+1 155
+2 350
+35.5
+8
+12 640
+127
+5 850
+1 560
+1 190
+1 225
+2 350
+39.9
+S50MC-C
+4
+9 020
+105
+5 850
+1 460
+1 100
+1 170
+2 676
+35.2
+5
+11 275
+105
+6 150
+1 560
+1 175
+1 257
+2 919
+43.5
+6
+13 530
+105
+6 450
+1 680
+1 278
+1 338
+2 976
+53.3
+S60MC-C
+* The masses are stated for 3,000 mm stern tube and
+6,000 mm propeller shaft.
+Q
+R
+W
+S min. ~ 3000
+S min. ~ 3000
+D
+
+58
+58
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+Prop.
+speed
+VBS
+mass
+r/min
+mm
+mm
+mm
+mm
+mm
+ton*
+Type
+4
+5 320
+148
+4 350
+1 180
+ 900
+ 940
+2 140
+18.3
+5
+6 650
+148
+4 600
+1 180
+ 900
+ 940
+2 160
+20.7
+6
+7 980
+148
+4 850
+1 280
+ 975
+1 035
+2 200
+25.5
+7
+9 310
+148
+5 050
+1 380
+1 050
+1 095
+2 270
+29.4
+8 10 640
+148
+5 200
+1 380
+1 050
+1 095
+2 270
+30.6
+L50MC
+4
+5 240
+129
+4 700
+1 180
+ 900
+ 940
+2 160
+19.7
+5
+6 550
+129
+4 950
+1 280
+ 975
+1 035
+2 200
+22.2
+6
+7 860
+129
+5 200
+1 380
+1 050
+1 095
+2 270
+27.8
+7
+9 170
+129
+5 400
+1 380
+1 050
+1 095
+2 270
+29.5
+8 10 480
+129
+5 600
+1 460
+1 100
+1 140
+2 350
+33.6
+S46MC-C
+4
+4 320
+136
+4 350
+1 080
+821
+945
+2 170
+16.5
+5
+5 400
+136
+4 600
+1 180
+ 855
+ 996
+2 265
+20.1
+6
+6 480
+136
+4 850
+1 280
+ 957
+ 1 075
+2 511
+24.4
+7
+7 560
+136
+5 050
+1 280
+ 957
+1 075
+2 511
+27.5
+8
+8 640
+136
+5 200
+1 380
+1 030
+1 131
+2 676
+30.5
+9
+9 720
+136
+5 350
+1 380
+1 030
+1 131
+2 676
+32.7
+10 10 800
+136
+5 500
+1 460
+1 100
+1 170
+2 676
+36.0
+11 11 880
+136
+5 650
+1 460
+1 100
+1 185
+2 595
+38.4
+12 12 960
+136
+5 750
+1 560
+1 175
+1 257
+2 595
+42.4
+S42MC
+4
+3 980
+176
+3 750
+980
+ 746
+ 805
+2 040
+12.0
+5
+4 975
+176
+4 000
+1 080
+ 825
+ 880
+2 140
+15.2
+6
+5 970
+176
+4 200
+1 180
+ 900
+ 940
+2 140
+16.4
+7
+6 965
+176
+4 350
+1 180
+ 900
+ 940
+2 160
+22.7
+8
+7 960
+176
+4 500
+1 280
+ 975
+1 035
+2 200
+23.1
+9
+8 955
+176
+4 600
+1 280
+ 975
+1 035
+2 200
+23.6
+10
+9 950
+176
+4 700
+1 280
+ 975
+1 035
+2 200
+26.2
+11 10 945
+176
+4 800
+1 380
+1 050
+1 095
+2 270
+29.9
+12 11 940
+176
+4 900
+1 380
+1 050
+1 095
+2 270
+30.5
+L42MC
+4
+5 720
+127
+4 800
+1 280
+ 975
+1 010
+2 140
+22.4
+5
+7 150
+127
+5 050
+1 280
+ 975
+1 035
+2 200
+24.4
+6
+8 580
+127
+5 300
+1 380
+1 095
+1 095
+2 270
+30.4
+7 10 010
+127
+5 500
+1 460
+1 110
+1 140
+2 350
+35.1
+8 11 440
+127
+5 700
+1 460
+1 110
+1 140
+2 350
+36.3
+S50MC
+
+59
+59
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+Prop.
+speed
+VBS
+mass
+r/min
+mm
+mm
+mm
+mm
+mm
+ton*
+Type
+4
+2 960
+173
+3 550
+ 860
+ 653
+ 742
+2 000
+9.6
+5
+3 700
+173
+3 750
+ 980
+ 746
+ 807
+2 040
+12.5
+6
+4 440
+173
+3 950
+ 980
+ 746
+ 807
+2 170
+14.0
+7
+5 180
+173
+4 100
+1 080
+ 821
+ 945
+2 170
+16.6
+8
+5 920
+173
+4 250
+1 080
+ 821
+ 945
+2 265
+18.5
+9
+6 660
+173
+4 350
+1 180
+ 885
+ 996
+2 265
+20.4
+10
+7 400
+173
+4 450
+1 180
+ 885
+ 996
+2 265
+21.1
+11
+8 140
+173
+4 550
+1 280
+ 957
+1 075
+2 511
+24.8
+12
+8 880
+173
+4 650
+1 280
+ 957
+1 075
+2 676
+27.4
+S35MC
+4
+2 600
+210
+3 150
+ 860
+655
+ 735
+1 970
+9.1
+5
+3 250
+210
+3 300
+ 860
+655
+ 735
+2 000
+9.5
+6
+3 900
+210
+3 450
+ 980
+746
+ 785
+2 000
+10.3
+7
+4 550
+210
+3 600
+ 980
+746
+ 785
+2 040
+11.8
+8
+5 200
+210
+3 700
+ 980
+746
+ 805
+2 040
+12.3
+9
+5 850
+210
+3 800
+1 080
+825
+ 880
+2 140
+13.9
+10
+6 500
+210
+3 900
+1 080
+825
+ 880
+2 140
+14.7
+11
+7 150
+210
+4 000
+1 180
+900
+ 940
+2 140
+16.5
+12
+7 800
+210
+4 100
+1 180
+900
+ 940
+2 140
+17.2
+L35MC
+4
+1 600
+250
+2 600
+ 740
+569
+ 655
+1 940
+5.5
+5
+2 000
+250
+2 750
+ 740
+569
+ 655
+1 940
+6.4
+6
+2 400
+250
+2 850
+ 740
+569
+ 655
+1 940
+7.2
+7
+2 800
+250
+2 950
+ 860
+655
+ 735
+1 970
+8.5
+8
+3 200
+250
+3 050
+ 860
+655
+ 735
+1 970
+9.3
+S26MC
+* The masses are stated for 3,000 mm stern tube and
+6,000 mm propeller shaft.
+
+60
+60
+6
+8 340 170
+4 500 1 280
+ 975 1 115 2 200
+*
+*
+23.9
+6
+8 340 130
+5 100 1 280
+ 975 1 115 2 350
+*
+*
+28.2
+6
+8 340
+90
+6 100 1 560 1 190 1 305 2 550
+*
+*
+40.3
+7
+9 730 170
+4 650 1 280
+ 975 1 115 2 200
+*
+*
+27.1
+7
+9 730 130
+5 300 1 380 1 050 1 175 2 350
+*
+*
+32.2
+7
+9 730
+90
+6 300 1 560 1 190 1 305 2 570
+*
+*
+45.4
+8 11 120 170
+4 800 1 380 1 050 1 175 2 270
+*
+*
+30.8
+8 11 120 130
+5 500 1 460 1 110 1 220 2 350
+*
+*
+35.9
+8 11 120
+90
+6 500 1 680 1 280 1 380 2 570
+*
+*
+52.2
+9 12 510 170
+4 950 1 380 1 050 1 175 2 350
+*
+*
+31.9
+9 12 510 130
+5 650 1 560 1 190 1 305 2 550
+*
+*
+41.2
+9 12 510
+90
+6 700 1 680 1 280 1 380 2 570
+*
+*
+55.4
+MAN B&W Four-stroke Propulsion System
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+K
+Gear Prop.
+speed
+VBS
+mass mass
+r/min
+mm
+mm
+mm
+mm
+mm
+mm
+ton
+ton**
+Type
+L58/64
+6
+6 300 180
+4 100 1 080
+ 825
+ 880 2 140
+*
+*
+16.6
+6
+6 300 140
+4 600 1 180
+ 900 1 020 2 160
+*
+*
+20.4
+6
+6 300 100
+5 450 1 380 1 050 1 175 2 270
+*
+*
+29.9
+7
+7 350 180
+4 250 1 180
+ 900
+ 940 2 140
+*
+*
+20.3
+7
+7 350 140
+4 800 1 280
+ 975 1 115 2 200
+*
+*
+25.4
+7
+7 350 100
+5 650 1 380 1 050 1 175 2 350
+*
+*
+32.5
+8
+8 400 180
+4 400 1 280
+ 975 1 115 2 200
+*
+*
+24.1
+8
+8 400 140
+4 950 1 280
+ 975 1 175 2 200
+*
+*
+27.6
+8
+8 400 100
+5 800 1 460 1 110 1 220 2 350
+*
+*
+35.2
+9
+9 450 180
+4 550 1 280
+ 975 1 115 2 200
+*
+*
+25.7
+9
+9 450 140
+5 100 1 380 1 050 1 175 2 270
+*
+*
+30.8
+9
+9 450 100
+6 000 1 560 1 190 1 350 2 550
+*
+*
+40.6
+L48/60
+* To be decided case by case
+
+61
+61
+6
+2 880 200
+3 250
+ 860
+655
+ 735 1 970
+*
+*
+8.8
+6
+2 880 160
+3 600
+ 860
+655
+ 735 2 000
+*
+*
+9.9
+6
+2 880 120
+4 150
+ 980
+746
+ 805 2 040
+*
+*
+12.4
+7
+3 360 200
+3 350
+ 860
+655
+ 735 2 000
+*
+*
+9.7
+7
+3 360 160
+3 750
+ 980
+746
+ 785 2 000
+*
+*
+11.8
+7
+3 360 120
+4 300 1 080
+825
+ 875 2 040
+*
+*
+14.5
+8
+3 840 200
+3 500
+ 860
+655
+ 735 2 000
+*
+*
+10.4
+8
+3 840 160
+3 900
+ 980
+746
+ 805 2 040
+*
+*
+12.6
+8
+3 840 120
+4 450 1 080
+825
+ 880 2 140
+*
+*
+16.4
+9
+4 320 200
+3 600
+ 980
+746
+ 785 2 000
+*
+*
+12.2
+9
+4 320 160
+4 000
+ 980
+746
+ 805 2 040
+*
+*
+13.2
+9
+4 320 120
+4 600 1 080
+825
+ 880 2 140
+*
+*
+17.2
+6
+4 320 190
+3 650
+ 980
+746
+ 805 2 040
+*
+*
+11.9
+6
+4 320 150
+4 100 1 080
+825
+ 880 2 140
+*
+*
+15.6
+6
+4 320 110
+4 800 1 180
+825
+ 880 2 140
+*
+*
+19.0
+7
+5 040 190
+3 800
+ 980
+746
+ 805 2 040
+*
+*
+12.9
+7
+5 040 150
+4 250 1 080
+825
+ 880 2 140
+*
+*
+16.2
+7
+5 040 110
+4 950 1 280
+975 1 115 2 200
+*
+*
+23.0
+8
+5 760 190
+3 950 1 080
+825
+ 880 2 140
+*
+*
+15.9
+8
+5 760 150
+4 400 1 180
+900
+ 940 2 160
+*
+*
+18.9
+8
+5 760 110
+5 100 1 280
+975 1 115 2 200
+*
+*
+25.2
+9
+6 480 190
+4 050 1 080
+825
+ 880 2 140
+*
+*
+16.5
+9
+6 480 150
+4 550 1 180
+900 1 020 2 160
+*
+*
+20.3
+9
+6 480 110
+5 250 1 280
+975 1 115 2 350
+*
+*
+27.4
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+K
+Gear Prop.
+speed
+VBS
+mass mass
+r/min
+mm
+mm
+mm
+mm
+mm
+mm
+ton
+ton**
+Type
+L40/54
+L32/40
+12 5 760 200
+3 850  1 080
+821
+ 880 2 040
+*
+*
+15.3
+12 5 760 160
+4 300  1 080
+821
+ 945 2 170
+*
+*
+17.0
+12 5 760 120
+4 950  1 280
+957  1 075 2 511
+*
+*
+23.5
+14 6 720 200
+4 000  1 080
+821
+ 945 2 170
+*
+*
+16.6
+14 6 720 160
+4 500  1 180
+885
+ 996 2 170
+*
+*
+20.2
+14 6 720 120
+5 150  1 280
+957  1 075 2 511
+*
+*
+25.7
+16 7 680 200
+4 150  1 180
+885
+ 996 2 170
+*
+*
+19.0
+16 7 680 160
+4 650  1 180
+885
+ 996 2 265
+*
+*
+22.2
+16 7 680 120
+5 350  1 380 1 030  1 131 2 651
+*
+*
+29.2
+V32/40
+** S min and propeller mass are based on 4,000 mm propeller shaft and 2,000 mm
+stern tube for 28/32, 27/30, – and 6,000 mm propeller shaft and 3,000 mm stern
+tube for the other types.
+
+62
+62
+6
+2 040 287
+2 550
+ 740
+569
+ 660 1 550 1 833
+7.5
+4.5
+6
+2 040 224
+2 850
+ 740
+569
+ 660 1 550 1 833
+7.7
+5.0
+6
+2 040 180
+3 150
+ 740
+569
+ 660 1 550 1 833
+8.4
+5.5
+6
+2 040 144
+3 500
+ 860
+655
+ 740 1 750 1 833
+9.0
+7.0
+7
+2 380 287
+2 600
+ 740
+569
+ 660 1 550 1 833
+7.5
+4.7
+7
+2 380 224
+2 950
+ 740
+569
+ 660 1 550 1 833
+7.7
+5.5
+7
+2 380 180
+3 300
+ 860
+655
+ 740 1 750 1 833
+8.4
+7.1
+7
+2 380 144
+3 650
+ 860
+655
+ 740 1 750 1 833
+9.0
+7.5
+8
+2 720 287
+2 700
+ 740
+569
+ 660 1 625 1 833
+7.5
+5.3
+8
+2 720 224
+3 050
+ 860
+665
+ 720 1 625 1 833
+7.7
+6.7
+8
+2 720 180
+3 400
+ 860
+665
+ 740 1 750 1 833
+8.4
+7.2
+8
+2 720 144
+3 800
+ 980
+746
+ 783 1 750 1 833
+9.0
+9.2
+9
+3 060 287
+2 750
+ 740
+569
+ 660 1 625 1 833
+7.5
+5.8
+9
+3 060 224
+3 150
+ 860
+665
+ 720 1 750 1 833
+7.7
+7.4
+9
+3 060 180
+3 500
+ 860
+665
+ 740 1 750 1 833
+8.4
+7.9
+9
+3 060 144
+3 900
+ 980
+746
+ 783 1 750 1 833
+9.0
+9.8
+L27/38
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+K
+Gear Prop.
+speed
+VBS
+mass mass
+r/min
+mm
+mm
+mm
+mm
+mm
+mm
+ton
+ton**
+Type
+12 2 940 248
+3 050
+ 860
+445
+745 1 350 2 174
+8.1
+7.1
+12 2 940 201
+3 400
+ 860
+445
+745 1 350 2 174
+8.1
+7.9
+12 2 940 171
+3 700
+ 980
+584
+820 1 600 2 174
+8.1
+8.6
+12 2 940 151
+3 950
+ 980
+584
+820 1 600 2 626 13.4
+8.9
+16 3 920 248
+3 250
+ 860
+445
+745 1 350 2 242
+8.1
+8.1
+16 3 920 231
+3 350
+ 860
+445
+745 1 350 2 626 11.6
+8.2
+16 3 920 191
+3 750
+ 980
+584
+820 1 600 2 626 11.6
+10.0
+16 3 920 151
+4 250 1 080
+600
+855 1 600 2 626 13.4
+13.2
+V28/32A
+Q
+Q
+R
+S min. *
+S min. *
+W
+K
+Hub VB
+
+63
+63
+6
+1 470 252
+2 600
+ 640
+360
+ 595
+ 900
+1 789
+3.8
+3.9
+6
+1 470 201
+2 850
+ 740
+415
+ 655 1 200
+2 142
+6.0
+5.1
+6
+1 470 161
+3 200
+ 860
+445
+ 745 1 350
+2 277
+8.1
+6.1
+6
+1 470 141
+3 500
+ 860
+445
+ 745 1 350
+2 277
+8.1
+7.2
+7
+1 715 252
+2 650
+ 740
+415
+ 655 1 200
+2 142
+6.0
+4.5
+7
+1 715 201
+3 000
+ 860
+445
+ 745 1 350
+2 142
+6.0
+5.8
+7
+1 715 161
+3 300
+ 860
+445
+ 745 1 350
+2 277
+8.1
+7.1
+7
+1 715 141
+3 600
+ 980
+584
+ 820 1 600
+2 277
+8.1
+8.3
+8
+1 960 252
+2 800
+ 740
+415
+ 655 1 200
+2 142
+6.0
+5.4
+8
+1 960 201
+3 100
+ 860
+445
+ 745 1 350
+2 277
+8.1
+6.5
+8
+1 960 161
+3 450
+ 860
+445
+ 745 1 350
+2 277
+8.1
+7.3
+8
+1 960 141
+3 750
+ 980
+584
+ 820 1 600
+2 277
+8.1
+8.4
+9
+2 205 248
+2 850
+ 740
+415
+ 655 1 200
+2 259
+8.1
+5.5
+9
+2 205 201
+3 200
+ 860
+445
+ 745 1 350
+2 259
+8.1
+7.1
+9
+2 205 161
+3 550
+ 980
+584
+ 745 1 350
+2 259
+8.1
+8.3
+9
+2 205 141
+3 850
+ 980
+584
+ 820 1 600
+2 259
+8.1
+8.6
+L28/32A
+Type
+6
+800 268
+2 200
+560
+293
+553
+ 900
+1 077
+3.5
+2.7
+6
+800 214
+2 450
+640
+360
+595
+ 900
+1 077
+3.5
+3.4
+6
+800 190
+2 600
+640
+360
+595
+ 900
+1 077
+3.5
+3.5
+6
+800 159
+2 850
+740
+415
+655 1 200
+1 662
+6.1
+4.4
+L23/30A-E
+6
+960 292
+2 250
+560
+293
+553
+ 900
+1 077
+3.5
+2.7
+6
+960 233
+2 450
+640
+360
+595
+ 900
+1 077
+3.5
+3.4
+6
+960 207
+2 600
+640
+360
+595
+ 900
+1 077
+3.5
+3.5
+6
+960 173
+2 850
+740
+445
+655 1 200
+1 662
+6.1
+4.4
+8
+1 280 292
+2 350
+640
+415
+595
+ 900
+1 325
+3.9
+3.4
+8
+1 280 233
+2 600
+640
+415
+655 1 200
+1 325
+3.9
+3.8
+8
+1 280 207
+2 800
+740
+415
+655 1 200
+1 325
+3.9
+4.5
+8
+1 280 173
+3 100
+860
+445
+745 1 350
+1 662
+6.1
+6.1
+L23/30A
+12 1 920 292
+2 550
+640
+360
+595
+ 900
+2 126
+6.0
+3.8
+12 1 920 233
+2 900
+740
+415
+655 1 200
+2 126
+6.0
+5.3
+12 1 920 187
+3 250
+860
+445
+745 1 350
+2 261
+8.1
+7.1
+12 1 920 164
+3 450
+860
+584
+820 1 600
+2 261
+8.1
+8.5
+V23/30A
+Cyl. kW
+Prop.
+D
+Hub
+Q
+R
+Wmin
+K
+Gear Prop.
+speed
+VB
+mass mass
+r/min
+mm
+mm
+mm
+mm
+mm
+mm
+ton
+ton**
+** S min and propeller mass are based on 4,000 mm propeller shaft and 2,000 mm
+stern tube for 28/32, 27/30, – and 6,000 mm propeller shaft and 3,000 mm stern
+tube for the other types.
+
+66
+66
+Engine Power Ranges of Holeby Marine GenSets
+The stated engine outputs are the Continuous Rating
+Overload corresponds to 110% Continuous Service Rating,
+(However 105% for L32/40) and may be permitted for a
+limited period of one hour every 12 hours
+Reference conditions:
+Ambient temperature:
+318 K = 45 oC
+Ambient pressure:
+1,000 mbar
+Seawater cooling temperature
+upstream of charge air cooler:
+305 K = 32 °C
+
+67
+67
+GenSets L32/40
+Bore: 320 mm, Stroke: 400 mm
+P: Free passage between the engines, 600 mm width and 2 000 mm height.
+a) ~Min. distance between centre of engines : 2835 mm without gallery
+~(3 220 mm with gallery)
+*
+Depending on alternator make
+**
+Engine and engine baseframe
+*** Mass, including a standard alternator
+All dimensions and masses are approximately, and subject to change
+without notice.
+720 r/min
+60Hz
+750 r/min
+50 Hz
+Eng.kW
+Gen.kW
+Eng.kW
+Gen.kW
+5L32/40
+6L32/40
+7L32/40
+8L32/40
+9L32/40
+A
+mm
+5 810
+6 340
+6 870
+7 400
+7 930
+B*
+mm
+3 415
+3 415
+3 415
+3 635
+3 635
+C*
+mm
+9 225
+9 755
+10 285
+11 035
+11 565
+H
+mm
+4 857
+4 510
+4 510
+4 780
+4 780
+Mass Engine
+ton**
+54
+60
+64
+70
+73
+Mass GenSets ton***
+67
+75
+79
+87
+91
+5L32/40
+2 400
+2 290
+2 400
+2 290
+6L32/40
+2 880
+2 750
+2 880
+2 750
+7L32/40
+3 360
+3 210
+3 360
+3 210
+8L32/40
+3 840
+3 670
+3 840
+3 670
+9L32/40
+4 320
+4 125
+4 320
+4 125
+
+68
+68
+Bore: 280 mm, Stroke: 320 mm
+L28/32H GenSets
+P: Free passage between the engines, 600 mm width and 2 000 mm height.
+a) 2 655 mm without gallery. With gallery min. 2 850 mm
+*
+Depending on alternator make
+** Engine and engine baseframe
+*** Mass included a standard alternator
+All dimensions and masses are approximately, and subject to change
+without notice.
+720 r/min
+60Hz
+750 r/min
+50 Hz
+Eng.kW
+Gen.kW
+Eng.kW
+Gen.kW
+5L28/32H 6L28/32H 7L28/32H 8L28/32H 9L28/32H
+A
+mm
+4 140
+4 620
+5 100
+5 580
+6 060
+B*
+mm
+2 400
+2 510
+2 680
+2 770
+2 690
+C*
+mm
+6 540
+7 130
+7 780
+8 350
+8 750
+H
+mm
+3 185
+3 185
+3 375
+3 375
+3 535
+Mass Engine
+ton**
+18.2
+20.8
+22.6
+24.9
+27.8
+Mass GenSets ton***
+25.5
+28.7
+32.8
+36.3
+39.2
+5L28/32H
+1 050
+1 000
+1 100
+1 045
+6L28/32H
+1 260
+1 200
+1 320
+1 255
+7L28/32H
+1 470
+1 400
+1 540
+1 465
+8L28/32H
+1 680
+1 600
+1 760
+1 670
+9L28/32H
+1 890
+1 800
+1 980
+1 880
+
+69
+69
+  GenSets L27/38
+Bore: 270 mm, Stroke: 380 mm
+P: Free passage between the engines, 600 mm width and 2 000 mm height
+*
+Depending on alternator make
+**
+Engine and engine baseframe
+*** Mass included a standard alternator
+All dimensions and masses are approximately, and subject to change
+without notice.
+720 r/min
+60Hz
+750 r/min
+50 Hz
+Eng.kW
+Gen.kW
+Eng.kW
+Gen.kW
+5L27/38
+6L27/38
+7L27/38
+8L27/38
+9L27/38
+A
+mm
+4 331
+4 776
+5 221
+5 666
+6 111
+B*
+mm
+2 486
+2 766
+2 766
+2 986
+2 986
+C*
+mm
+6 817
+7 542
+7 987
+8 652
+9 097
+H
+mm
+3 645
+3 645
+3 637
+3 637
+3 797
+Mass Engine
+ton**
+31.3
+35.4
+39.1
+43.8
+47.3
+Mass GenSets ton***
+42.1
+46.9
+51.6
+57.8
+61.8
+5L27/38
+1 500
+1 425
+1 600
+1 520
+6L27/38
+1 800
+1 710
+1 920
+1 825
+7L27/38
+2 100
+1 995
+2 240
+2 130
+8L27/38
+2 400
+2 280
+2 560
+2 430
+9L27/38
+2 700
+2 565
+2 880
+2 735
+C
+A
+B
+H
+1770
+min. 3 000
+P
+
+70
+70
+L23/30H GenSets
+Bore: 225 mm, Stroke: 300 mm
+P: Free passage between the engines, 600 mm width and 2000 mm height.
+*
+Depending on alternator make
+** Engine and engine baseframe
+*** Mass included a standard alternator
+All dimensions and masses are approximately, and subject to change
+without notice.
+720 r/min
+60Hz
+750 r/min 50 Hz
+900 r/min
+60 Hz
+Eng.kW Gen.kW Eng.kW Gen.kW Eng.kW Gen.kW
+5L23/30H 6L23/30H 6L23/30H 7L23/30H 7L23/30H
+r/min
+720/750
+720/750
+900
+720/750
+900
+A
+mm
+3 350
+3 720
+3 720
+4 090
+4 090
+B*
+mm
+2 155
+2 385
+2 325
+2 270
+2 270
+C*
+mm
+5 505
+6 105
+6 045
+6 360
+6 360
+H
+mm
+2 383
+2 383
+2 815
+2 815
+2 815
+Mass Engine
+ton**
+12.2
+12.9
+12.9
+14.3
+14.3
+Mass GenSets ton***
+16.8
+18.7
+18.7
+19.2
+19.2
+5L23/30H
+650
+615
+675
+645
+6L23/30H
+780
+740
+810
+770
+960
+910
+7L23/30H
+910
+865
+945
+900
+1 120
+1 060
+8L23/30H
+1 040
+990
+1 080
+1 025
+1 280
+1 215
+8L23/30H 8L23/30H
+r/min
+720/750
+900
+A
+mm
+4 460
+4 460
+B*
+mm
+2 380
+2 355
+C*
+mm
+6 840
+6 815
+H
+mm
+2 815
+2 815
+Mass Engine
+ton**
+15.8
+15.8
+Mass GenSets ton***
+23.7
+23.7
+H
+1030
+min. 2250
+A
+B
+P
+C
+
+71
+71
+  GenSets L16/24
+Bore: 160 mm, Stroke: 240 mm
+P: Free passage between the engines, 600 mm width and 2000 mm height.
+*
+Depending on alternator make
+**
+Engine and engine baseframe
+*** Mass included a standard alternator
+All dimensions and masses are approximaely, and subject to change
+without notice.
+1 200 r/min
+60Hz
+1 000 r/min
+50 Hz
+Eng.kW
+Gen.kW
+Eng.kW
+Gen.kW
+5L16/24
+6L16/24
+7L16/24
+8L16/24
+9L16/24
+A
+mm
+2 745
+3 020
+3 295
+3 570
+3 845
+B*
+mm
+1 399
+1 489
+1 584
+1 679
+1 679
+C*
+mm
+4 145
+4 509
+4 880
+5 250
+5 525
+H
+mm
+2 175
+2 175
+2 215
+2 215
+2 315
+Mass Engine
+ton**
+6.5
+7.6
+8.2
+8.6
+9.4
+Mass GenSets ton***
+9.5
+10.5
+11.4
+12.4
+13.1
+5L16/24
+500
+475
+450
+430
+6L16/24
+600
+570
+540
+515
+7L16/24
+700
+665
+630
+600
+8L16/24
+800
+760
+720
+680
+9L16/24
+900
+855
+810
+770
+H
+C
+A
+1000
+min. 1600
+B
+P
+
+74
+74
+Standard Rating values Diesel generating sets
+6
+97
+4 200
+5 700 500
+5 095
+4 075
+4 320
+5 880
+514
+5 235
+4 190
+7
+97
+4 900
+6 650 500
+5 945
+4 755
+5 040
+6 860
+514
+6 110
+4 890
+8
+97
+5 600
+7 600 500
+6 785
+5 430
+5 760
+7 840
+514
+6 980
+5 585
+9
+97
+6 300
+8 550 500
+7 635  6 110
+6 480
+8 820
+514
+7 855
+6 285
+L40/54
+6
+97.3
+6 300
+8 580 500
+7 650
+6 130
+6 300
+8 580
+514
+7 660
+6 130
+7
+97.3
+7 350 10 010 500
+8 935
+7 150
+7 350 10 010
+514
+8 935
+7 150
+8
+97.3
+8 400 11 440 500 10 220
+8 175
+8 400 11 440
+514 10 220
+8 175
+9
+97.3
+9 450 12 870 500 11 495
+9 195
+9 450 12 870
+514 11 495
+9 195
+L48/60
+12 97.3 12 600 17 160 500 15 325 12 260 12 600 17 160 514 15 325 12 260
+14 97.3 14 700 20 020 500 17 880 14 305 14 700 20 020 514 17 880 14 305
+16 97.3 16 800 22 880 500 20 430 16 345 16 800 22 880 514 20 430 16 345
+V48/60
+6
+97.3
+8 340 11 340 428 10 145
+8 115
+7 800 10 620 400
+9 485
+7 590
+7
+97.3
+9 730 13 230 428 11 830
+9 465
+9 100 12 390 400 11 070
+8 855
+8
+97.3 11 120 15 120 428 13 525 10 820 10 400 14 160 400 12 650 10 120
+9
+97.3 12 510 17 010 428 15 210 12 170 11 700 15 930 400 14 230 11 385
+L58/64
+Type
+kW
+bhp
+r/min
+kVA
+kW
+kW
+bhp
+r/min
+kVA
+kW
+Cyl.
+η
+50 Hz
+60Hz
+P Diesel
+n
+P Generator
+P Diesel
+n
+P Generator
+Gene-
+rator
+6
+96.5
+2 880
+3 930 750
+3 475
+2 780
+2 880
+3 930
+720
+3 475
+2 780
+7
+96.5
+3 360
+4 585 750
+4 050
+3 240
+3 360
+4 585
+720
+4 050
+3 240
+8
+96.5
+3 840
+5 240 750
+4 630
+3 705
+3 840
+5 240
+720
+4 630
+3 705
+9
+96.5
+4 320
+5 895 750
+5 210
+4 170
+4 320
+5 895
+720
+5 210
+4 170
+L32/40
+V32/40
+12
+97
+5 760
+7 860 750
+6 980
+5 585
+5 760
+7 860
+720
+6 980
+5 585
+14
+97
+6 720
+9 170 750
+8 150
+6 520
+6 720
+9 170
+720
+8 150
+6 520
+16
+97
+7 680 10 480 750
+9 310
+7 450
+7 680 10 480
+720
+9 310
+7 450
+
+75
+75
+12
+97
+9 000 12 240 600 10 910
+8 730
+9 000 12 240
+600 10 910
+8 730
+16
+97 12 000 16 320 600 14 550 11 640 12 000 16 320
+600 14 550 11 640
+12
+95
+4 140
+5 630 1 000 4 920
+3 935
+3 200
+4 350
+900
+3 800
+3 040
+16
+95
+5 520
+7 510 1 000 6 550
+5 245
+5 200
+7 070
+900
+6 175
+4 940
+PA6B
+PC2.6B
+18 97.3 23 850 32 460 429 29 005 23 205 22 500 30 600 400 27 365 21 890
+12
+97
+4 800
+6 540 750
+5 820
+4 655
+4 620
+6 300
+720
+5 600
+4 480
+14
+97
+5 600
+7 630 750
+6 785
+5 430
+5 390
+7 350
+720
+6 535
+5 230
+16
+97
+6 400
+8 720 750
+7 760
+6 210
+6 160
+8 400
+720
+7 470
+5 975
+18
+97
+7 200
+9 810 750
+8 730
+6 985
+6 930
+9 450
+720
+8 400
+6 720
+V32/40DG
+Type
+kW
+bhp
+r/min
+kVA
+kW
+kW
+bhp
+r/min
+kVA
+kW
+Cyl.
+η
+Gene-
+rator
+PC4.2B
+6
+96.5
+2 400
+3 270 750
+2 895
+2 315
+2 310
+3 150
+720
+2 785
+2 230
+7
+96.5
+2 800
+3 815 750
+3 375
+2 700
+2 695
+3 675
+720
+3 250
+2 600
+8
+96.5
+3 200
+4 360 750
+3 860
+3 090
+3 080
+4 200
+720
+3 710
+2 970
+9
+96.5
+3 600
+4 905 750
+4 345
+3 475
+3 465
+4 725
+720
+4 180
+3 345
+L32/40DG
+Dual-Fuel Engines
+Pielstick
+50 Hz
+60Hz
+P Diesel
+n
+P Generator
+P Diesel
+n
+P Generator
+
+76
+76
+List of Licensees
+Symbols used:
+2: MAN B&W Diesel two-stroke licence
+4: MAN B&W Diesel four-stroke licence
+A: MAN B&W Diesel Alpha propulsion plant licence
+H: MAN B&W Diesel Holeby GenSet licence
+Brazil
+Mecánica Pesada S.A. (4,H)
+Teleph.: +55 (21) 290 93 93
+Telefax: +55 (21) 290 91 44
+China, The People’s Republic of
+China Shipbuilding Trading Co. Ltd. (2,4)
+Teleph.: +86 (10) 68 03 26 81
+Telefax: +86 (10) 68 03 33 80
+Engine Works:
+Dalian Marine Diesel Works (2)
+Teleph.: +86 (411) 441 15 58
+Telefax: +86 (411) 441 74 99
+Guangzhou Diesel Engine Factory (4)
+Teleph.: +86 (20) 81 89 16 19
+Telefax: +86 (20) 81 89 22 97
+Hudong Heavy Machinery Co., Ltd. (2)
+Teleph.: +86 (21) 58 71 32 22
+Telefax: +86 (21) 58 46 20 23
+Shanghai Hudong Heavy Machinery
+Shang Chuan Diesel Co., Ltd. (2)
+Teleph.: +86 (21) 58 79 04 51
+Telefax: +86 (21) 58 76 15 46
+Xinzhong Power Machine Plant (4)
+Teleph.: +86 (21) 56 65 11 00
+Telefax: +86 (21) 56 65 22 94
+Sichuan Diesel Engine Works (4)
+Teleph.: +86 (23) 47 83 42 44
+Telefax: +86 (23) 47 83 45 97
+76
+76
+
+77
+77
+77
+77
+Yichang Marine Diesel Engine Plant (2)
+Teleph.: +86 (717) 646 88 82
+Telefax: +86 (717) 646 91 52
+Zhenjiang Marine Diesel Works (4,H)
+Teleph.: +86 (511) 45 11 882
+Telefax: +86 (511) 45 10 033
+Croatia
+Brodosplit – Brodográdiliste d.o.o. (2,4,H)
+Teleph.: +385 (21) 51 00 05
+Telefax: +385 (21) 52 26 39
+Uljanik Strojogradnja d.d. (2,4,H)
+Teleph.: +385 (52) 2 43 22, 3 43 22
+Telefax: +385 (52) 21 16 74
+France
+S.E.M.T. Pielstick (4)
+Teleph.: +33 148 09 76 00
+Telefax: +33 148 09 78 78
+Germany
+Dieselmotorenwerk Rostock GmbH (2)
+Teleph.: +49 (381) 12 32-0
+Telefax: +49 (381) 12 32 102
+Maschinenbau Halberstadt GmbH (4)
+Teleph.: +49 (941) 320
+Telefax: +49 (941) 240 36
+Great Britain
+Harland and Wolff Shipbuilding Heavy Industries Lim-
+ited (4)
+Teleph.: +44 (1232) 45 84 55
+Telefax: +44 (1232) 45 85 15
+Crossley Engines
+Allen Power Engineering Ltd. (4)
+Teleph.: +44 (161) 22 31 353
+Telefax: +44 (161) 22 31 738
+Indonesia
+P.T. Pal Indonesia (2,4)
+Teleph.: +62 (21) 315 68 60
+Telefax: +62 (21) 315 68 66
+
+78
+78
+Japan
+Hitachi Zosen Corporation (2)
+Ariake Machinery Works
+Teleph.: +81 (968) 78 21 55
+Telefax: +81 (968) 78 70 31
+Kawasaki Heavy Industries Ltd. (2,4)
+Kobe Works
+Teleph.: +81 (78) 682 53 43
+Telefax: +81 (78) 682 55 58
+Mitsubishi Heavy Industries Ltd. (4)
+Teleph.: +81 (33) 21 23 111
+Telefax: +81 (33) 21 29 621
+Mitsui Engineering & Shipbuilding Co. Ltd. (2)
+Teleph.: +81 (3) 35 44 36 25
+Telefax: +81 (3) 35 44 30 63
+Mitsui sub-licensee:
+Makita Corporation (2)
+Teleph.: +81 (878) 21 55 01
+Telefax: +81 (878) 21 55 10
+Niigata Engineering Co., Ltd. (4,H)
+Teleph.: +81 (33) 50 42 101
+Telefax: +81 (33) 73 98 113
+Korea, Republic of
+Halla Engineering & Heavy Industries Ltd. (2,4,H)
+Teleph.: +82 (693) 460 28 31
+Telefax: +82 (693) 460 37 60
+HANJUNG
+Korea Heavy Industries & Construction Co. Ltd. (2,4)
+Teleph.: +82 (551) 78 61 14/71 14
+Telefax: +82 (551) 64 55 51/55 52
+Hyundai Heavy Industries Co. Ltd. (2,4,A,H)
+Engine & Machinery Division
+Teleph.: +82 (522) 32 41 41
+Telefax: +82 (522) 30 76 92/76 94
+Samsung Heavy Industries Co. Ltd. (2)
+Teleph.: +82 (551) 60 60 00
+Telefax: +82 (551) 60 63 39
+78
+78
+
+79
+79
+Ssangyong Heavy Industries Co., Ltd. (2,4,A,H)
+Teleph.: +82 (551) 82 11 31
+Telefax: +82 (551) 84 82 00
+Poland
+H. Cegielski - Poznan S.A. (2,4,H)
+Teleph.: +48 (61) 831 13 50
++48 (61) 831 23 50
+Telefax: +48 (61) 833 33 41
+Rumania
+U.C.M. Resita S.A. (2,4)
+Teleph.: +40 (55) 217 111
+Telefax: +40 (55) 223 082
++40 (55) 220 113
+Russia
+Baltic Shipyard (A)
+(Propeller licence only)
+Teleph.: +7 (812) 217 91 92
+Telefax: +7 (812) 217 40 54
+Bryansk Engineering Works (2,4,A,H)
+Teleph.: +7 (083) 255 33 28
+Telefax: +7 (901) 991 24 78
+Joint Stock Company
+‘RUMO’ (4,A,H)
+Teleph.: +7 (8312) 55 21 05
+Telefax: +7 (8312) 53 86 68
+Russki Diesel (4)
+Teleph.: +7 (812) 542 68 70
+Telefax: +7 (812) 542 68 70
+Spain
+Manises Diesel Engine Company, S.A. (2)
+Teleph.: +34 (96) 159 82 00
+Telefax: +34 (96) 159 83 14
+USA
+Coltec Industries Inc. (4)
+Teleph.: +1 (608) 384 80 05
+Telefax: +1 (608) 384 03 82
+79
+79
+
+80
+80
+Denmark
+MAN B&W Diesel A/S
+Two-stroke design and sales
+Teglholmsgade 41
+DK-2450 Copenhagen SV
+Teleph.: +45 33 85 11 00
+Telefax: +45 33 85 10 30
+E-mail: manbw@manbw.dk
+www.manbw.dk
+Alpha Diesel
+MAN B&W Diesel A/S
+Alpha Diesel
+Niels Juels Vej 15
+DK-9900 Frederikshavn
+Teleph.: +45 96 20 41 00
+Telefax: +45 96 20 40 30
+E-mail: alpha@manbw.dk
+Holeby Diesel
+MAN B&W Diesel A/S
+Holeby Diesel
+Østervej 2
+DK-4960 Holeby
+Teleph.: +45 54 69 31 00
+Telefax: +45 54 69 30 30
+E-mail: holeby@manbw.dk
+80
+80
+Germany
+MAN B&W Diesel AG
+Four-stroke design and sales
+MAN B&W Diesel AG
+Stadtbachstrasse 1
+D-86135 Augsburg
+Teleph.: +49 (821) 322 0
+Telefax; +49 (821) 322 33 82
+E-mail: marineengines@manbw.de
+www.manbw.de
+MAN B&W Diesel AG
+Service and repair centre
+Rossweg 6
+D-20457 Hamburg
+Teleph.: +49 (40) 740 90
+Telefax: +49 (40) 740 91 04
+E-mail: service-hamburg@manbw.de
+France
+S.E.M.T. Pielstick S.A.
+2, Quai de Seine – B.P. 75
+F-93202 Saint-Denis-Cedex, France
+Teleph.: +33 148 09 76 00
+Telefax: +33 148 09 78 78
+E-mail: semt-sales@dial.oleane.com
+

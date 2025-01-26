@@ -1,15 +1,11 @@
-Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd.
-Vessel’s name: Al Adailiah
+Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd. Vessel’s name: Al Adailiah
 Owner/Operator:  Kuwait Oil Tanker
-Company S.A.K.
-Country: Kuwait
-Designer: Hyundai Mipo Dockyard Co., Ltd.
-Country: Republic of Korea
+Company S.A.K. Country: Kuwait
+Designer: Hyundai Mipo Dockyard Co., Ltd. Country: Republic of Korea
 Model test establishment used: SSPA
 Flag: Kuwait
 IMO number:  9856684
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa: Approx. 183m
@@ -37,8 +33,7 @@ Deadweight
 scantling:  48,500t
 
 design:  37,300t
-Speed, service (83%MCR output with 15%
-S.M.):  Approx. 15.0knots
+Speed, service (83% MCR output with 15%S.M.):  Approx. 15.0knots
 Cargo capacity (m³)
 Liquid volume:  54,600
 
@@ -60,20 +55,17 @@ Design: Hyundai – MAN B&W
 
 Model: 6G50ME-C9.5-HPSCR
 
-Manufacturer:  HHI Engine & Machinery .
-
+Manufacturer:  HHI Engine & Machinery . 
 Division
 
 Number:  1
 Type of fuel:  HFO, MGO
-Output of each engine:  8,400kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  8,400kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
 
-Designer/Manufacturer:  Hyundai Heavy  .
-
+Designer/Manufacturer:  Hyundai Heavy  . 
 Industries
 
 Number:  1
@@ -95,10 +87,8 @@ Number:  1
 
 Type: Heavy fuel oil burning
 
-Make: Alfa Laval
-Output, each boiler: 18,000kg/h
-
-(evaporation) / 7kg/cm 2g (steam condition) Stern appendages/special rudders:  N/A
+Make: Alfa Laval Output, each boiler: 18,000kg/h (evaporation) / 7kg/cm 2g (steam condition)
+Stern appendages/special rudders:  N/A
 Deck machinery
 
 Cargo cranes/cargo gear
@@ -126,11 +116,7 @@ Make: Oriental
 Type: Electro-hydraulic
 
 
-Tasks:  Provision and machinery parts
-.
-handling in engine room
-
-
+Tasks:  Provision and machinery parts . handling in engine room  
 Performance:SWL 3.2t / Outreach 2.7 ~ 10.6m
 Mooring equipment
 
@@ -197,16 +183,13 @@ Bridge control system
 Make: Kongsberg
 
 
-Type: AutoChief 600
-Is bridge fitted for one-man operation?Yes
-Integrated bridge system? No
+Type: AutoChief 600 Is bridge fitted for one-man operation?Yes Integrated bridge system? No
 
 Radars
 
 Number:  2
 
-Make: Japan Radio Co.,Ltd.
-
+Make: Japan Radio Co.,Ltd. 
 Model(s): JMR-9272-S / JMR-9225-6X
 
 Fire detection system
@@ -240,8 +223,7 @@ Other installed monitoring tools:  Torsion
 meter, Electro pneumatic type draught gauge
 Energy Saving Technologies*:
 
-Hull coatings: .Jhokwang Jotun / Seaquantum
-Pro U
+Hull coatings: .Jhokwang Jotun / Seaquantum Pro U
 Performance Monitoring Regime:  KYMA / SPMS (Ship Performance Monitoring System)
 
 Contract date:  30 April 2018
@@ -258,8 +240,7 @@ Designer:  Austal
 Country: Australia
 Flag: Spanish Maritime Authority
 IMO number:  9874296
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  1
 TECHNICAL PARTICULARS
 Length oa:  118m
@@ -291,8 +272,7 @@ Manufacturer: MTU
 
 Number:  4
 Type of fuel: MDO
-Output of each engine:  9,100kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  9,100kW Is this a diesel-electric or hybrid?: No
 Fuel Efficiency of each set: 2,072l/h
 
 Gearbox(es)
@@ -341,11 +321,7 @@ Make: Davit international-hische
 Type: Rescue boat davit
 
 
-Tasks: Rescue boat deployment and
-retrieval
-
-Anchor Winch
-
+Tasks: Rescue boat deployment and retrieval  Anchor Winch 
 Number:  1
 
 Make:  Hypac
@@ -374,8 +350,7 @@ Cargo/capacity
 Vehicles
 
 Number of vehicle decks:  2 vehicle decks
-Total lane length: .350 lane meters for trucks
-(and 100 cars)
+Total lane length: .350 lane meters for trucks (and 100 cars)
 
 
 Total cars: 276 cars
@@ -406,8 +381,7 @@ Make:  MARINELINK
 
 
 Type:  Intergrated monitoring and
-control system
-Is bridge fitted for one-man operation?: .No
+control system Is bridge fitted for one-man operation?: .No
 
 Radars
 
@@ -449,9 +423,7 @@ Installed Fuel Meters: 8 fuel flow meters
 installed on main engine supply and return lines
 Other installed monitoring tools: Torque meter,
 ultrasonic sensor system
-Energy Saving Technologies: Trim optimisation
-using Austal’s MARINELINK-Smart and
-Austal’s Motion Control System
+Energy Saving Technologies: Trim optimisation using Austal’s MARINELINK-Smart and Austal’s Motion Control System
 Hull coatings: International Intersleek
 
 Performance Monitoring Regime: MARINELINK- Smart
@@ -466,12 +438,10 @@ Delivery date: July 2020
 Shipbuilder: Oshima Shipbuilding Co., Ltd
 Vessel’s name:  Beate Oldendorff
 Owner/Operator: .Oldendorff Carriers GmbH & Co. KG
-Designer: Oshima Shipbuilding Co., Ltd.
-Country: Japan
+Designer: Oshima Shipbuilding Co., Ltd. Country: Japan
 Flag: Madeira
 IMO number:  9853022
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  199.995m
@@ -510,12 +480,10 @@ Design:  Kawasaki Heavy Industries
 
 Model:  Kawasaki MAN B&W 6S50ME-B9.5
 
-Manufacturer:  Kawasaki Heavy Industries,
-Ltd.
+Manufacturer:  Kawasaki Heavy Industries, Ltd.
 
 Number:  1
-Type of fuel: HFO
-Is this a diesel-electric or hybrid?: No
+Type of fuel: HFO Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -545,8 +513,7 @@ Number:  1
 
 Type:  Vertical cylindrical composite type
 
-Make: Osaka Boiler Mfg.
-
+Make: Osaka Boiler Mfg. 
 Deck machinery
 
 Cargo cranes/cargo gear
@@ -596,8 +563,7 @@ Type:  Multi control panel
 
 Ballast water treatment system
 
-Make: Techross Inc.
-
+Make: Techross Inc. 
 Complement
 
 Officers:  8
@@ -611,9 +577,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make:  Furuno Electric
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Make:  Furuno Electric Is bridge fitted for one-man operation? No Integrated bridge system?: No
 
 Radars
 
@@ -631,13 +595,11 @@ Fire extinguishing systems
 Cargo holds:
 
 
-Make/Type:  Air Water Safety Service
-Inc. / CO2 fire extinguishing system
+Make/Type:  Air Water Safety Service Inc. / CO2 fire extinguishing system
 Engine room:
 
 
-Make/Type:  Air Water Safety Service
-Inc. / CO2 fire extinguishing system
+Make/Type:  Air Water Safety Service Inc. / CO2 fire extinguishing system
 
 Cabins: As per rule requirement
 Public spaces: As per rule requirement
@@ -650,8 +612,7 @@ Incinerator
 Make:  Sunflame
 Waste shredder/crusher
 
-Make: Mitsuboshi Chuki Mfg.
-Sewage plant
+Make: Mitsuboshi Chuki Mfg. Sewage plant
 
 Make:  Taiko Kikai Industries
 
@@ -666,18 +627,15 @@ Delivery date:  18 March 2020
 
 
 Shipbuilder:  Yantai CIMC Raffles
-Offshore Ltd.
-Vessel’s name:  Bo Hai Heng Tong
+Offshore Ltd. Vessel’s name:  Bo Hai Heng Tong
 Owner/Operator:  Bohai Ferry Group Co., Ltd
 Country:  China
 Designer: Shanghai Merchant Ship Design & Research Institute, CSSC (SDARI)
 Country:  China
-Model test establishment used: .Shanghai Ship
-& Shipping Research Institute (SSSRI)
+Model test establishment used: .Shanghai Ship & Shipping Research Institute (SSSRI)
 Flag:  China
 IMO number:  9870680
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  189.9m
@@ -732,8 +690,7 @@ Industry
 
 Number:  2
 Type of fuel:  HFO, MDO
-Output of each engine:  4,500kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  4,500kW Is this a diesel-electric or hybrid?: No
 Gearbox(es)
 
 Make:  Chongqing Gearbox
@@ -794,8 +751,7 @@ Make: Jiangyin Oya Marine Machinery
 
 Type: Hydraulic telescope, cylinder luffing
 
-Tasks: Provision handling
-
+Tasks: Provision handling 
 Performance: SWL 2t x 7m outreach
 Mooring equipment
 
@@ -822,18 +778,12 @@ On deck:  2/6
 
 Vehicles
 
-Number of vehicle decks (fixed/moveable): 3
-(3/0)
+Number of vehicle decks (fixed/moveable): 3 (3/0)
 Total lane length:  2,700
-Total freight units (specify size): 251 units
-(10.0m x 2.5m)
+Total freight units (specify size): 251 units (10.0m x 2.5m)
 Doors/ramps/lifts/moveable car decks
 
-Number of each: Stern ramp/inner door (1),
-stern side ramp (1, starboard), bow
-ramp/inner door (1), tiltable ramp (1),
-lifting platform(1)
-
+Number of each: Stern ramp/inner door (1), stern side ramp (1, starboard), bow ramp/inner door (1), tiltable ramp (1), lifting platform(1) 
 Type: Hydraulic
 
 Designer: SMS-SME
@@ -852,9 +802,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make: Dong ze
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Make: Dong ze Is bridge fitted for one-man operation? No Integrated bridge system?: No
 Radars
 
 Number:  2
@@ -896,8 +844,7 @@ Delivery date: 29 September 2020
 
 
 
-Shipbuilder: . Hudong-Zhonghua Shipbuilding
-(Group) Co., Ltd.
+Shipbuilder: . Hudong-Zhonghua Shipbuilding (Group) Co., Ltd.
 Vessel’s name:  Bow Explorer
 Owner/Operator:  Odfjell
 Country:  Norway
@@ -905,8 +852,7 @@ Designer: Shanghai Merchant Ship Design & Research Institute, CSSC (SDARI)
 Country:  China
 Flag: Norway (NIS)
 IMO number:  9828211
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  182.88m
@@ -926,8 +872,7 @@ scantling:  38,000t
 
 design:  30,400t
 
-Speed, service (--%MCR output): 14.0knots
-(65%)
+Speed, service (--%MCR output): 14.0knots (65%)
 Classification society and notations:DNV 1A1 tanker for chemicals and oil products esp, E0, CSR, ETC, BIS, NAUT(OC), TMON, CCO, F(A), COAT-PSPC(B,V), VCS(2), BWM(T), BMON, Recyclable, Gas Ready(D,MEc),  Ship Type 2, a2, b3, c3, f2, str 0.075, k, ss
 Propulsion
 Main engine(s)
@@ -938,8 +883,7 @@ Model:  6G50 ME-C 9.5
 
 Number:  1
 Type of fuel:  HFO, MGO
-Output of each engine:  7,289kW x 92.1rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  7,289kW x 92.1rpm Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material:  Ni-Al-Bronze, Cu3
@@ -986,10 +930,8 @@ Bridge control system
 Make:  NanJing Friends
 
 
-Type: DNV NAUT-OC arrangement
-Is bridge fitted for one-man operation? Yes
-
-Integrated bridge system :  Yes
+Type: DNV NAUT-OC arrangement Is bridge fitted for one-man operation? Yes
+ Integrated bridge system :  Yes
 
 If yes, make: Sperry Marine
 
@@ -1027,8 +969,7 @@ Designer:  Samsung Heavy Industries
 Country: Republic of Korea
 Flag:  Marshall Islands
 IMO number:  9864784
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order:  3
 TECHNICAL PARTICULARS
 Length oa:  299.155m
@@ -1065,8 +1006,7 @@ Classification society and notations: LR
 Propulsion
 Main engine(s)
 
-Design: Winterthur Gas & Diesel
-Ltd. (WinGD)
+Design: Winterthur Gas & Diesel Ltd. (WinGD)
 
 Model: W5X72DF
 
@@ -1081,8 +1021,7 @@ Propeller(s)
 Material: Ni-Al-Bronze
 
 Designer/Manufacturer: Samsung Heavy
-Industries / Silla Metal Co.
-
+Industries / Silla Metal Co. 
 Number: 2 sets
 Fixed/Controllable pitch: Fixed
 
@@ -1141,10 +1080,7 @@ Make: Tech flower
 Type:  Elec-hyd, single jib
 
 
-Tasks:  2 sets for provision and E/R
-equipment / 1 set for CMR
-
-
+Tasks:  2 sets for provision and E/R equipment / 1 set for CMR  
 Performance: 2 X 8.0t SWL for provision, 1 X 6.0t SWL for CMR
 Mooring equipment
 
@@ -1193,8 +1129,7 @@ Crew:  13
 Supernumaries/Spare: .2 worker/riding squad
 Suez/Repair Crew: 6 Suez. crew
 
-Single/double/other rooms: 38 single rooms
-(officers and crews), 1 double room (workers), 1
+Single/double/other rooms: 38 single rooms (officers and crews), 1 double room (workers), 1
 other room (Suez crews) – total 40 cabins
 
 Navigation and other equipment
@@ -1205,9 +1140,7 @@ Bridge control system
 Make: Kongsberg
 
 
-Type: AutoChief 600
-Is bridge fitted for one-man operation?  Yes
-Integrated bridge system?:  Yes
+Type: AutoChief 600 Is bridge fitted for one-man operation?  Yes Integrated bridge system?:  Yes
 
 If yes, make: Furuno
 
@@ -1258,8 +1191,7 @@ Efficiency
 
 Attained EEDI value:  5.6
 Required EEDI value:  9.0
-Installed Fuel Meters: Coriolis type
-(mass type) for main engine, generator engine,
+Installed Fuel Meters: Coriolis type (mass type) for main engine, generator engine,
 GCU and auxiliary boiler
 Energy Saving Technologies*:  Rudder bulb, air
 lubrication (SAVER Air)
@@ -1271,8 +1203,7 @@ Delivery date: October 2020
 
 
 
-Shipbuilder: . Hudong-Zhonghua Shipbuilding
-(Group) Co., Ltd
+Shipbuilder: . Hudong-Zhonghua Shipbuilding (Group) Co., Ltd
 Vessel’s name: CMA CGM Jacques Saadé
 Owner/Operator: CMA CGM
 Country: France
@@ -1283,8 +1214,7 @@ Model test establishment used: Marine
 Research Institute Netherlands (MARIN)
 Flag: France
 IMO number:  9839179
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order:  7
 TECHNICAL PARTICULARS
 Length oa:  399.9m
@@ -1327,8 +1257,7 @@ Heavy oil:  2,541
 LNG:  18,762
 Diesel oil:  1,586
 Water ballast (m³):  56,602
-Container ships – water ballast in loaded condition
-(tonnes):  16,382t at heterogeneous
+Container ships – water ballast in loaded condition (tonnes):  16,382t at heterogeneous
 loading and scantling draught at maximum
 geometric capacity
 Daily fuel consumption (tonnes/day)
@@ -1349,8 +1278,7 @@ Manufacturer:  CMD
 
 Number:  1
 Type of fuel: LNG, HFO, MDO
-Output of each engine: 63,840kW at 80rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine: 63,840kW at 80rpm Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -1439,8 +1367,7 @@ Capacity: Max flow rate  IMO: 1,500m³/h
 Max flow rate USCG: 1,000m³/h
 Complement
 
-Officers:  9 .
-
+Officers:  9 . 
 Crew: Max. 20
 
 Supernumaries/Spare:  4
@@ -1460,9 +1387,7 @@ Bridge control system
 Make: SAM Electronics
 
 
-Type:  Platinum
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Type:  Platinum Is bridge fitted for one-man operation? No Integrated bridge system?: No
 Radars
 
 Number:  3
@@ -1499,18 +1424,14 @@ Delivery date: 22 September 2020
 
 
 Shipbuilder: Hyundai Samho Heavy
-Industries Co.,Ltd.
-Vessel’s name: CMA CGM Tenere
+Industries Co.,Ltd. Vessel’s name: CMA CGM Tenere
 Owner/Operator:  Eastern Pacific Shipping
-Pte, Ltd.
-Country: Singapore
+Pte, Ltd. Country: Singapore
 Designer:  Hyundai Samho Heavy Industries
-Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Country: Republic of Korea
 Flag:  Malta
 IMO number:  9859117
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  5
 TECHNICAL PARTICULARS
 Length oa:  365.99m
@@ -1540,8 +1461,7 @@ scantling:  159,614t
 
 design:  135,660t
 Block co-efficient: 0.6777 at design draught
-Speed, service:  21.86knots at 80%MCR
-(NCR) with 15% sea margin
+Speed, service:  21.86knots at 80%MCR (NCR) with 15% sea margin
 Cargo capacity (m³)
 
 Bale:  14,806TEU
@@ -1570,9 +1490,7 @@ Manufacturer: Hyundai-B&W
 
 Number: 1 set
 Type of fuel:  Gas, LFO, ULSFO, MGO
-Output of each engine:  46,360kW x 75.7rpm
-Is this a diesel-electric or hybrid?:  Yes
-(Diesel/gas)
+Output of each engine:  46,360kW x 75.7rpm Is this a diesel-electric or hybrid?:  Yes (Diesel/gas)
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -1617,14 +1535,11 @@ Make: Sangsangin Industry / Oriental
 
 Type: Electric-hydraulic
 
-Tasks: Provision handling, e/r spare parts
-handling, etc.
-
+Tasks: Provision handling, e/r spare parts handling, etc. 
 Performance: SWL 3t / SWL 12.5t
 Mooring equipment
 
-Number: Windlass (2 sets), mooring winch
-(6 sets)
+Number: Windlass (2 sets), mooring winch (6 sets)
 
 Make:  MacGregor
 
@@ -1674,8 +1589,7 @@ Make:  HiBallast
 Capacity:  2,000m³/h
 Complement
 
-Officers:  8 .
-
+Officers:  8 . 
 Crew:  20
 Suez/Repair Crew:  6
 Navigation and other equipment
@@ -1686,8 +1600,7 @@ Bridge control system
 Make:  Nabtesco
 
 
-Type: M-800-V
-Is bridge fitted for one-man operation? No
+Type: M-800-V Is bridge fitted for one-man operation? No
 Radars
 
 Number:  2 sets (S-band, X-band)
@@ -1740,15 +1653,13 @@ Shipbuilder:  Cosco Shipping Heavy
 Industries, Dalian - China
 Vessel’s name: CNTIC VPower Global
 Owner/Operator: CNTIC VPower LNG
-Logistics Holding Limited.
-Country:  Hong Kong
+Logistics Holding Limited. Country:  Hong Kong
 Designer:  Cosco Shipping Heavy Industries,
 Dalian – China
 Country:  China
 Flag: Hong Kong
 IMO number:  9696735
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  176.80m
@@ -1794,8 +1705,7 @@ Manufacturer:  Wärtsilä
 
 Number: PAAE254447
 Type of fuel: MDO
-Output of each engine:  8,775kW
-Is this a diesel-electric or hybrid?:  Yes
+Output of each engine:  8,775kW Is this a diesel-electric or hybrid?:  Yes
 Gearbox(es)
 
 Make:  Wärtsilä
@@ -1864,8 +1774,7 @@ Make: Shanghai Hengyuan Marine
 
 Type: EY-3-6-SL
 
-Tasks:  Provision, garbage and other stores
-
+Tasks:  Provision, garbage and other stores 
 Performance: Good
 Mooring equipment
 
@@ -1920,8 +1829,7 @@ Alarm System
 
 Make: Furuno
 
-Type: MU-190
-Integrated bridge system?:  Yes
+Type: MU-190 Integrated bridge system?:  Yes
 
 If yes, make: Furuno
 Radars
@@ -1997,8 +1905,7 @@ Model test establishment used: China Ship
 Scientific Research Center (CSSRC)
 Flag: Hong Kong
 IMO number:  9853888
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order:  4
 TECHNICAL PARTICULARS
 Length oa:  254.92m
@@ -2048,8 +1955,7 @@ Manufacturer:  CSSC-MES Diesel
 Number:  1
 Type of fuel:  HFO, MGO
 Output of each engine: SMCR 11,600kW
-x 77rpm
-Is this a diesel-electric or hybrid?: No
+x 77rpm Is this a diesel-electric or hybrid?: No
 
 Propeller(s)
 
@@ -2138,10 +2044,8 @@ Navigation and other equipment
 Bridge control system
 
 
-Make:  JRC
-Is bridge fitted for one-man operation? No
-
-Integrated bridge system?: No
+Make:  JRC Is bridge fitted for one-man operation? No
+ Integrated bridge system?: No
 
 Radars
 
@@ -2199,8 +2103,7 @@ Efficiency
 Attained EEDI value:  2.81
 Required EEDI value:  3.62
 
-Energy Saving Technologies:  PSV
-
+Energy Saving Technologies:  PSV 
 Contract date: 14 May 2018
 Launch/float-out date: 16 March 2020
 Delivery date: 26 May 2020
@@ -2217,12 +2120,10 @@ Country: USA
 Designer:  Shanghai Merchant Ship Design
 and Research Institute (SDARI)
 Country:  China
-Model test establishment used:  Shanghai Ship
-& Shipping Research Institute (SSSRI)
+Model test establishment used:  Shanghai Ship & Shipping Research Institute (SSSRI)
 Flag: Panama
 IMO number:  9849643
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order:  3
 TECHNICAL PARTICULARS
 Length oa:  192.00m
@@ -2271,8 +2172,7 @@ Manufacturer:  HHM
 
 Number:  1
 Type of fuel:  HFO, MDO
-Output of each engine:  18,200kW
-Is this a diesel-electric or hybrid?:Diesel-electric
+Output of each engine:  18,200kW Is this a diesel-electric or hybrid?:Diesel-electric
 
 Propeller(s)
 
@@ -2341,8 +2241,7 @@ Machinery Works
 
 Type: Single arm davit
 
-Tasks: For provision
-
+Tasks: For provision 
 Performance:  4t-6.5m
 
 Mooring equipment
@@ -2396,9 +2295,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make:  JRC
-Is bridge fitted for one-man operation?  Yes
-Integrated bridge system?: No
+Make:  JRC Is bridge fitted for one-man operation?  Yes Integrated bridge system?: No
 
 Radars
 
@@ -2439,25 +2336,19 @@ Efficiency
 Attained EEDI value:  18.24
 Required EEDI value:  20.05
 Installed Fuel Meters:  Volume
-Energy Saving Technologies:  SDARI Adapted
-Twisted Rudder
-
+Energy Saving Technologies:  SDARI Adapted Twisted Rudder 
 Contract date: June 2015
 Delivery date: June 2020
 
 
 
 
-Shipbuilder: Oshima Shipbuilding Co., Ltd.
-Vessel’s name: Dietrich Oldendorff
-Owner/Operator:  Oldendorff Carriers GmbH
-& Co. KG
-Designer: Oshima Shipbuilding Co., Ltd.
-Country: Japan
+Shipbuilder: Oshima Shipbuilding Co., Ltd. Vessel’s name: Dietrich Oldendorff
+Owner/Operator:  Oldendorff Carriers GmbH & Co. KG
+Designer: Oshima Shipbuilding Co., Ltd. Country: Japan
 Flag: Madeira
 IMO number:  9860350
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  234.96m
@@ -2500,16 +2391,14 @@ Model: Mitsui MAN 6G60ME-C9.5
 Manufacturer:  Mitsui E&S Machinery
 
 Number:  1
-Type of fuel: HFO
-Is this a diesel-electric or hybrid?: No
+Type of fuel: HFO Is this a diesel-electric or hybrid?: No
 
 Propeller(s)
 
 Material: Ni-Al-Bronze
 
 Designer/Manufacturer:  Nakashima
-Propeller Co., Ltd.
-
+Propeller Co., Ltd. 
 Number:  1
 Fixed/Controllable pitch: Fixed
 
@@ -2535,8 +2424,7 @@ Number:  1
 Type: Vertical cylindrical smoke tube,
 composite type
 
-Make: Osaka Boiler Mfg.
-
+Make: Osaka Boiler Mfg. 
 Other cranes
 
 Number:  1
@@ -2545,9 +2433,7 @@ Make: Kyoritsu Kikai
 
 Type: Electric motor driven
 
-Tasks: .Machinery parts, provision, Suez boat
-handling crane
-
+Tasks: .Machinery parts, provision, Suez boat handling crane 
 Performance:  4.0t
 
 Mooring equipment
@@ -2581,8 +2467,7 @@ Make: Nakakita Seisakusyo
 Type:  Multi control panel
 Ballast water treatment system
 
-Make: Techcross Inc.
-
+Make: Techcross Inc. 
 Complement
 
 Officers:  8
@@ -2597,9 +2482,7 @@ Bridge control system
 
 
 Make:  Furuno Electric
-
-Is bridge fitted for one-man operation?  No
-Integrated bridge system?: No
+ Is bridge fitted for one-man operation?  No Integrated bridge system?: No
 
 Radars
 
@@ -2609,8 +2492,7 @@ Make:  Furuno Electric
 
 Fire detection system
 
-Make:  Consilium Nittan Marine Ltd.
-
+Make:  Consilium Nittan Marine Ltd. 
 Type:  Smoke, thermal, flame
 Fire extinguishing systems
 
@@ -2635,8 +2517,7 @@ Incinerator
 Make:  Sunflame
 Waste shredder/crusher
 
-Make: Mitsuboshi Chuki Mfg.
-Sewage plant
+Make: Mitsuboshi Chuki Mfg. Sewage plant
 
 Make:  Taiko Kikai Industries
 
@@ -2653,17 +2534,14 @@ Delivery date:  March 2020
 Shipbuilder:  Samsung Heavy Industries
 Co., Ltd
 Vessel’s name: Eagle Blane
-Owner/Operator:  AET Inc. Ltd.
-Country: Singapore
+Owner/Operator:  AET Inc. Ltd. Country: Singapore
 Designer:  Samsung Heavy Industries
-Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Country: Republic of Korea
 Model test establishment used: .Samsung Ship
 Model Basin (SSMB)
 Flag: Norway (NIS)
 IMO number:  9833101
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  277m
@@ -2710,14 +2588,12 @@ Manufacturer: HHI-WINGD
 
 Number:  2
 Type of fuel:  MGO, LNG
-Output of each engine:  10,430kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  10,430kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
 
-Designer/Manufacturer:  Kawasaki Heavy Ind.
-
+Designer/Manufacturer:  Kawasaki Heavy Ind. 
 Number:  2
 Fixed/Controllable pitch:  Controllable
 
@@ -2781,9 +2657,7 @@ Make: SSII
 Type: High pressure, electro-hydraulic
 self-contained, single jib type
 
-Tasks: For provision / engine room
-equipment handling
-
+Tasks: For provision / engine room equipment handling 
 Performance: 5.0t SWL, each
 Mooring equipment
 
@@ -2833,22 +2707,18 @@ Officers:  18
 
 Crew:  12
 Suez/Repair Crew:  6
-Single/double/other rooms:  30 cabins
-(single), 3 cabins (for Suez crew, with 1
+Single/double/other rooms:  30 cabins (single), 3 cabins (for Suez crew, with 1
 two-tier bed)
 Navigation and other equipment
 
 Bridge control system
 
 
-Make: Kongsberg
-Is bridge fitted for one-man operation? .Yes
-Integrated bridge system?:  Yes
+Make: Kongsberg Is bridge fitted for one-man operation? .Yes Integrated bridge system?:  Yes
 
 If yes, make: Furuno
 
-Model: FMD-3300, etc.
-Radars
+Model: FMD-3300, etc. Radars
 
 Number:  2
 Model(s) :  1 x FAR-3330S-SSD, 1 x
@@ -2894,18 +2764,14 @@ Delivery date: February 2020
 
 
 Shipbuilder:  Samsung Heavy Industries
-Co., Ltd.
-Vessel’s name:  Eagle Petrolina
-Owner/Operator:  AET Inc. Ltd.
-Country: Singapore
-Designer: Samsung Heavy Industries Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Vessel’s name:  Eagle Petrolina
+Owner/Operator:  AET Inc. Ltd. Country: Singapore
+Designer: Samsung Heavy Industries Co., Ltd. Country: Republic of Korea
 Model test establishment used: .Samsung Ship
 Model Basin (SSMB)
 Flag: Singapore
 IMO number:  9858553
-Total number of sister ships already completed
-(excluding ship presented):  4
+Total number of sister ships already completed (excluding ship presented):  4
 Total number of sister ships still on order:  1
 TECHNICAL PARTICULARS
 Length oa:  277m
@@ -2955,8 +2821,7 @@ Manufacturer:  HHI-WinGD
 
 Number:  1
 Type of fuel:  HFO, MGO
-Output of each engine:  16,300kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  16,300kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material:  Ni-Al Bronze
@@ -3017,9 +2882,7 @@ Make: Oriental Precision
 Type: High pressure, electro-hydraulic
 self-contained, single jib type
 
-Tasks: For provision / engine room
-equipment handling
-
+Tasks: For provision / engine room equipment handling 
 Performance:  1 x 8.0t SWL, 1 x 2.0t SWL
 Mooring equipment
 
@@ -3066,20 +2929,18 @@ Officers:  16
 
 Crew:  14
 Suez/Repair Crew:  6
-Single/double/other rooms: 30 cabins
-(single), 1 cabin (for Suez crew, with 3 two-tier beds) Navigation and other equipment
+Single/double/other rooms: 30 cabins (single), 1 cabin (for Suez crew, with
+3 two-tier beds)
+Navigation and other equipment
 
 Bridge control system
 
 
-Make: Kongsberg
-Is bridge fitted for one-man operation? .Yes
-Integrated bridge system?: Yes
+Make: Kongsberg Is bridge fitted for one-man operation? .Yes Integrated bridge system?: Yes
 
 If yes, make:  JRC
 
-Model: JAN-9201, etc.
-Radars
+Model: JAN-9201, etc. Radars
 
 Number:  2
 
@@ -3119,8 +2980,7 @@ Efficiency
 
 Attained EEDI value:  3.054
 Required EEDI value:  3.234
-Energy Saving Technologies*: Saver Fin, SARB
-(Rudder bulb)
+Energy Saving Technologies*: Saver Fin, SARB (Rudder bulb)
 Hull coatings:  Sailadvance GX / low
 friction antifouling based on hydrolysable binder
 composition
@@ -3134,8 +2994,7 @@ Delivery date: May 2020
 
 
 Shipbuilder: China Merchants Jinling
-Shipyard (Nanjing) Co. Ltd.
-Vessel’s name:  Eco Valencia
+Shipyard (Nanjing) Co. Ltd. Vessel’s name:  Eco Valencia
 Owner/Operator:  Grimaldi Lines
 Country:  Italy
 Designer: Knud E. Hansen A/S
@@ -3144,8 +3003,7 @@ Model test establishment used: Hamburgische
 Schiffbau - Versuchsanstalt (HSVA)
 Flag:  Italy
 IMO number:  9859533
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  8
 TECHNICAL PARTICULARS
 Length oa:  238.00m
@@ -3189,8 +3047,7 @@ Manufacturer: HHI-EMD
 
 Number:  2
 Type of fuel: HFO
-Output of each engine:  12,780kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  12,780kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 Main engine(s)
 
@@ -3236,8 +3093,7 @@ Type: Electric
 
 Special lifesaving equipment
 
-Number of each and capacity: 2 lifeboats
-(45 persons each)
+Number of each and capacity: 2 lifeboats (45 persons each)
 
 Make:  Fassmer Marland
 ZhongShan China
@@ -3324,13 +3180,13 @@ Sewage plant
 Make: Jets
 Efficiency
 Attained EEDI value:  Confidential
-Required EEDI value:  10,42 g/DWT*Nm
-(calculated for model test)
+Required EEDI value:  10,42 g/DWT*Nm (calculated for model test)
 Installed Fuel Meters:  Installed for all
 consumers
 Energy Saving Technologies*:  Rudder bulb, air
-lubrication (Silverstream Technologies), batteries
-(zero emission in port), 600m 2 of solar panels Hull coatings: Bottom and sides
+lubrication (Silverstream Technologies), batteries (zero emission in port), 600m
+2 of solar panels
+Hull coatings: Bottom and sides
 up to load line, 2 x coats of anticorrosive and 2
 x coats of silicon paint
 
@@ -3341,18 +3197,14 @@ Delivery date: 16 October 2020
 
 
 Shipbuilder: Guangdong Bonnyfair Heavy
-Industry Ltd.
-Vessel’s name:  Esperanza
-Owner/Operator:  Navimag Ferries SA.
-Country: Chile
-Designer:  NaviForm Consulting & Research Ltd.
-Country:  Canada
+Industry Ltd. Vessel’s name:  Esperanza
+Owner/Operator:  Navimag Ferries SA. Country: Chile
+Designer:  NaviForm Consulting & Research Ltd. Country:  Canada
 Model test establishment used: SVA Potsdam
 GmbH
 Flag: Chile
 IMO number:  9850783
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  1
 TECHNICAL PARTICULARS
 Length oa:  150.0m
@@ -3405,8 +3257,7 @@ Manufacturer:  Wärtsilä
 
 Number:  2
 Type of fuel: Dual-fuel. MGO, HFO
-Output of each engine:  1,800kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  1,800kW Is this a diesel-electric or hybrid?: No
 Gearbox(es)
 
 Make:  Wärtsilä
@@ -3470,8 +3321,7 @@ Make: GHE
 
 Type:  Telescopic boom crane
 
-Tasks: Provision handling
-
+Tasks: Provision handling 
 Performance:  1t at 5m
 Mooring equipment
 
@@ -3497,12 +3347,10 @@ Number of vehicle decks:  2 fixed decks
 Total lane length:  1,788
 Doors/ramps/lifts/moveable car decks
 
-Number of each:  1
-
+Number of each:  1 
 Type:  Cable actuated ro-ro stern ramp
 
-Designer:  NaviForm Consulting & Research Ltd.
-Complement
+Designer:  NaviForm Consulting & Research Ltd. Complement
 
 Officers: 10
 
@@ -3522,9 +3370,7 @@ Bridge control system
 Make: Terasaki
 
 
-Type:  Bridge Control System
-Is bridge fitted for one-man operation? Yes
-Integrated bridge system?: No
+Type:  Bridge Control System Is bridge fitted for one-man operation? Yes Integrated bridge system?: No
 
 Radars
 
@@ -3566,17 +3412,14 @@ Delivery date: 10 September 2020
 
 
 Shipbuilder: Hyundai Samho Heavy
-Industries Co., Ltd.
-Vessel’s name:  Flex Aurora
+Industries Co., Ltd. Vessel’s name:  Flex Aurora
 Owner/Operator: Flex LNG
 Country:  Norway
-Designer:  Hyundai Samho Heavy Industries
-(HSHI)
+Designer:  Hyundai Samho Heavy Industries (HSHI)
 Country: Republic of Korea
 Flag:  Marshall Islands
 IMO number:  9857365
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order:  2
 TECHNICAL PARTICULARS
 Length oa:  297.09m
@@ -3608,8 +3451,7 @@ scantling:  93,775t
 design:  82,286t
 
 Block co-efficient:  0.7392 (scant. draught)
-Speed, service (--%MCR output): 19.5 knots
-(design draught, NCR with 20% S.M.)
+Speed, service (--%MCR output): 19.5 knots (design draught, NCR with 20% S.M.)
 Cargo capacity (m³)
 Liquid volume:  174,001
 Bunkers (m³)
@@ -3631,8 +3473,7 @@ Number: 2 sets
 Type of fuel:  HFO, ULSFO, MGO,
 GAS(LNG)
 Output of each engine:  12,259kW
-x 69.5rpm
-Is this a diesel-electric or hybrid? : No
+x 69.5rpm Is this a diesel-electric or hybrid? : No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -3691,10 +3532,7 @@ Make: Oriental
 Type: Electro-hydraulic
 
 
-Tasks: Provision handling, cargo
-machinery room service
-
-
+Tasks: Provision handling, cargo machinery room service  
 Performance: SWL 8t, SWL 6t
 Mooring equipment
 
@@ -3759,9 +3597,7 @@ Bridge control system
 Make: Kongsberg
 
 
-Type:  AutoChief-600
-Is bridge fitted for one-man operation? Yes
-Integrated bridge system?: No
+Type:  AutoChief-600 Is bridge fitted for one-man operation? Yes Integrated bridge system?: No
 Radars
 
 Number:  2 sets (S-band, X-band)
@@ -3780,8 +3616,7 @@ Efficiency
 
 Attained EEDI value:  4.52
 Required EEDI value:  8.92
-Energy Saving Technologies: Hi-FIN,
-Hi-Rudder Bulb
+Energy Saving Technologies: Hi-FIN, Hi-Rudder Bulb
 Contract date:  6 March 2018
 Launch/float-out date: 6 September 2019
 Delivery date: 29 July 2020
@@ -3799,8 +3634,7 @@ Model test establishment used:  Vienna Model
 Basin
 Flag: Singapore
 IMO number:  9859636
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  119.50m
@@ -3849,8 +3683,7 @@ Manufacturer:  Wärtsilä
 
 Number:  1 x W8L20DF, 2 x W6L20DF
 Type of fuel: Dual-fuel
-Output of each engine: 1,480kW, 1,110kW
-Is this a diesel-electric or hybrid?:  Yes
+Output of each engine: 1,480kW, 1,110kW Is this a diesel-electric or hybrid?:  Yes
 
 Main-engine driven alternators
 
@@ -3898,9 +3731,7 @@ Make:  TTS Bohai
 Type: GP 80-2-8
 
 
-Tasks: Provision crane
-
-
+Tasks: Provision crane  
 Performance:  2t at 8m
 
 Mooring equipment
@@ -3953,8 +3784,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make: Furuno
-Is bridge fitted for one-man operation?  No
+Make: Furuno Is bridge fitted for one-man operation?  No
 
 Radars
 
@@ -4009,16 +3839,12 @@ Delivery date: January 2021
 
 
 
-Shipbuilder: Namura Shipbuilding Co., Ltd.
-Vessel’s name:  Fujisan Maru
-Owner/Operator:  Iino Kaiun Kaisha, Ltd.
-Country: Japan
-Designer: Namura Shipbuilding Co., Ltd.
-Country: Japan
+Shipbuilder: Namura Shipbuilding Co., Ltd. Vessel’s name:  Fujisan Maru
+Owner/Operator:  Iino Kaiun Kaisha, Ltd. Country: Japan
+Designer: Namura Shipbuilding Co., Ltd. Country: Japan
 Flag:  Japan
 IMO number:  9827360
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  338.92m
@@ -4050,33 +3876,28 @@ Model:  B&W 7G80ME-C9.5 high
 load tuning
 
 Manufacturer:  Mitsui E&S Machinery
-Co., Ltd.
-
+Co., Ltd. 
 Number: 1 set
 Type of fuel: HFO (up to RMG380),
 MDO (DMB), MGO (DMA,DMZ)
-Output of each engine:  24,700kW
-Is this a diesel-electric or hybrid? : No
+Output of each engine:  24,700kW Is this a diesel-electric or hybrid? : No
 
 Propeller(s)
 
 Material: Ni-Al-Bronze
 Designer/Manufacturer:   Nakashima
-Propeller Co., Ltd.
-
+Propeller Co., Ltd. 
 Number: 1 set
 Fixed/Controllable pitch: Fixed
 Diesel-driven alternators
 
 Number:  3
 Engine make/type: Daihatsu diesel Mfg. Co., Ltd.
-Type of fuel: HFO (up to RMG380), MDO
-(DMB), MGO (DMA,DMZ)
+Type of fuel: HFO (up to RMG380), MDO (DMB), MGO (DMA,DMZ)
 Alternator make/type: Taiyo Electric / EF 558A-8
 Output/speed of each set:  1,400kW / 900min-1 Exhaust-gas scrubbing equipment
 
-Manufacturer: Alfa Laval Nijmegen B.V.
-
+Manufacturer: Alfa Laval Nijmegen B.V. 
 Type: U-type open loop system
 On main engines?:  Applied
 On auxiliary engines?:  Applied
@@ -4092,8 +3913,9 @@ water tube with fin type economiser
 
 
 Make: MHI Marine Machinery & Equipment
-/ Osaka boiler Mfg.
-Output, each boiler: 80,000kg/h of 1.96MPa, 1,600 kg/h of 0.59MPa saturated steam (Oil-fired side)
+/ Osaka boiler Mfg. Output, each boiler: 80,000kg/h of
+1.96MPa, 1,600 kg/h of 0.59MPa saturated
+steam (Oil-fired side)
 Deck machinery
 
 Other cranes
@@ -4108,9 +3930,7 @@ Make: Manabe Zoki
 Type: Electro-hydraulic driven
 
 
-Tasks:  Hose handling
-
-
+Tasks:  Hose handling  
 Performance:  20t
 Mooring equipment
 
@@ -4136,8 +3956,7 @@ Number:   3
 Type: Steam turbine driven vertical
 centrifugal type
 
-Make:  Shinko Ind.
-
+Make:  Shinko Ind. 
 Cargo control system
 
 Make: Nakakita Seisakusho
@@ -4146,8 +3965,7 @@ Type: Hydraulic remote control system
 
 Ballast control system
 
-Make: Nakakita Seisakusho.
-
+Make: Nakakita Seisakusho. 
 Type: Hydraulic remote control system
 Ballast water treatment system
 
@@ -4162,9 +3980,7 @@ Single/double/other rooms: 6 (Workers)
 
 Navigation and other equipment
 
-Bridge control system
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Bridge control system Is bridge fitted for one-man operation? No Integrated bridge system?: No
 
 Radars
 
@@ -4175,8 +3991,7 @@ Make:  JRC
 Model(s): JMR-9272-S, JMR-9225-9X
 Fire detection system
 
-Make:  Consilium Nittan Marine Ltd.
-
+Make:  Consilium Nittan Marine Ltd. 
 Type: Addressable type
 Fire extinguishing systems
 
@@ -4193,8 +4008,7 @@ Waste disposal plant
 Incinerator
 
 
-Make: Sunflame Co., Ltd.
-
+Make: Sunflame Co., Ltd. 
 
 Model: OSV – 900SAI
 Sewage plant
@@ -4208,37 +4022,29 @@ Model: SBH - 40
 Efficiency
 
 Installed Fuel Meters: 1 set of main
-engine & generator engine F.O. flow meter
-(volume type), 2 sets of generator engine
+engine & generator engine F.O. flow meter (volume type), 2 sets of generator engine
 F.O. flow meter (volume type), 1 set of
 auxiliary boiler F.O. flow meter (volume type), 1
 set of MDO/MGO  flow meter (volume type)
 
 Other installed monitoring tools: 1 set of shaft
 horse power meter
-Energy Saving Technologies:  Aerodynamic
-narrow superstructure, Namura flow Control Fin,
-Rudder Fin, hub vortex reduction type propeller
-boss cap fin
-
+Energy Saving Technologies:  Aerodynamic narrow superstructure, Namura flow Control Fin, Rudder Fin, hub vortex reduction type propeller boss cap fin 
 Delivery date:  23 March 2020
 
 
 
 
 Shipbuilder:  Hyundai Heavy Industries
-Co., Ltd.
-Vessel’s name: Future Diamond
+Co., Ltd. Vessel’s name: Future Diamond
 Owner/Operator: JX Ocean
 Country: Japan
-Designer: .Hyundai Heavy Industries Co., Ltd.
-Country: Republic of Korea
+Designer: .Hyundai Heavy Industries Co., Ltd. Country: Republic of Korea
 Model test establishment used:  Hyundai
 Maritime Research Institute (HMRI)
 Flag: Panama
 IMO number:  9853864
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  229.94m
@@ -4352,8 +4158,7 @@ Mooring equipment
 
 Number:  8
 
-Make: Flutek Ltd.
-
+Make: Flutek Ltd. 
 Type:  Hydraulic
 Special lifesaving equipment
 
@@ -4410,9 +4215,7 @@ Bridge control system
 Make:  Hyundai Electric
 
 
-Type: Floor mounting and standing
-Is bridge fitted for one-man operation? No
-Integrated bridge system?:  Yes
+Type: Floor mounting and standing Is bridge fitted for one-man operation? No Integrated bridge system?:  Yes
 
 If yes, make:  Hyundai Heavy Industries
 
@@ -4420,8 +4223,7 @@ If yes, make:  Hyundai Heavy Industries
 Model: ISS
 Radars
 
-Number: S-band radar (1ea), X-band radar
-(1ea)
+Number: S-band radar (1ea), X-band radar (1ea)
 
 Make:  JRC
 
@@ -4476,8 +4278,7 @@ Model test establishment used: Marine
 Research Institute Netherlands (MARIN)
 Flag: United Kingdom
 IMO number:  9856189
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order:  5
 TECHNICAL PARTICULARS
 Length oa:  214.5m
@@ -4524,8 +4325,7 @@ Manufacturer: MaK
 
 Number:  2
 Type of fuel:  HFO, MDO
-Output of each engine:  12,600kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  12,600kW Is this a diesel-electric or hybrid?: No
 Gearbox(es)
 
 Make:  RENK
@@ -4609,12 +4409,7 @@ Total lane length:  3,036
 Total cars: Hoistable car deck 2,000m²
 Doors/ramps/lifts/moveable car decks
 
-Number of each:  Drive through twin
-tier loading
-
-Designer: TTS
-Ballast water treatment system
-
+Number of each:  Drive through twin tier loading  Designer: TTS Ballast water treatment system 
 Make: Alfa Laval
 
 Capacity:  500m³/h
@@ -4638,9 +4433,7 @@ Bridge control system
 Make: Sperry
 
 
-Type: Naut AW
-Is bridge fitted for one-man operation? Yes
-Integrated bridge system?:  Yes
+Type: Naut AW Is bridge fitted for one-man operation? Yes Integrated bridge system?:  Yes
 If yes, make: Sperry
 Radars
 
@@ -4673,12 +4466,10 @@ Make/Type: Minimax
 Cabins:  Water mist
 
 
-Make/Type: Marioff / Hi-FOG.
-Public spaces:  Water mist
+Make/Type: Marioff / Hi-FOG. Public spaces:  Water mist
 
 
-Make/Type: Marioff / Hi-FOG.
-Waste disposal plant
+Make/Type: Marioff / Hi-FOG. Waste disposal plant
 
 Sewage plant
 
@@ -4692,10 +4483,7 @@ Efficiency
 
 Attained EEDI value: 20,743 gCO2/t-nm
 Required EEDI value: 22,279 gCO2/t-nm
-Energy Saving Technologies: Optimised hull
-and propeller design with propeller fairing cone,
-high lift streamlined flap rudders of twisted lead- ing edge type with rudder bulbs, variable fre- quency shaft generators, frequency controlled
-pumps and fans, LED lights.
+Energy Saving Technologies: Optimised hull and propeller design with propeller fairing cone, high lift streamlined flap rudders of twisted lead- ing edge type with rudder bulbs, variable fre- quency shaft generators, frequency controlled pumps and fans, LED lights.
 Hull coatings: Chuguku
 
 Contract date: 11 July 2017
@@ -4704,19 +4492,15 @@ Delivery date: 3 September 2020
 
 
 
-Shipbuilder: .Hudong-Zhonghua Ship Building
-(Group) Co., Ltd.
+Shipbuilder: .Hudong-Zhonghua Ship Building (Group) Co., Ltd.
 Vessel’s name: Gas Agility
-Owner/Operator: .Emerald Green Maritime Ltd.
-Country:  Malta
-Designer: Hudong-Zhonghua Ship Building
-(Group) Co., Ltd.
+Owner/Operator: .Emerald Green Maritime Ltd. Country:  Malta
+Designer: Hudong-Zhonghua Ship Building (Group) Co., Ltd.
 Country:  China
 Model test establishment used: SSPA
 Flag:  Malta
 IMO number:  9850680
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  1
 TECHNICAL PARTICULARS
 Length oa:  135.90m
@@ -4802,8 +4586,7 @@ Make:  TTS Bohai
 
 Type: GP 40-2-5
 
-Tasks:  Spare parts and provision crane
-
+Tasks:  Spare parts and provision crane 
 Performance: 2t x 5m, 2t x 5m
 Mooring equipment
 
@@ -4850,8 +4633,7 @@ Make:  Wärtsilä
 Capacity:  1,000m³/h
 Complement
 
-Officers:  10 .
-
+Officers:  10 . 
 Crew:  10
 Suez/Repair Crew:  6
 Single/double/other rooms:  20 rooms
@@ -4861,9 +4643,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make: Furuno
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Make: Furuno Is bridge fitted for one-man operation? No Integrated bridge system?: No
 Radars
 
 Number: 2 sets
@@ -4905,8 +4685,7 @@ Efficiency
 Installed Fuel Meters:  Gas flow meter
 Hull coatings: Anti-fouling paint
 Performance Monitoring Regime:  Continuous
-access to data both onboard and onshore.
-
+access to data both onboard and onshore. 
 Contract date: 2 February 2018
 Launch/float-out date: 10 October 2019
 Delivery date:  30 April 2020
@@ -4915,18 +4694,14 @@ Delivery date:  30 April 2020
 
 
 Shipbuilder: Daewoo Shipbuilding & Marine
-Engineering Co., Ltd.
-Vessel’s name: Global Energy
-Owner/Operator: Maran Gas Maritime Inc.
-Country:  Greece
+Engineering Co., Ltd. Vessel’s name: Global Energy
+Owner/Operator: Maran Gas Maritime Inc. Country:  Greece
 Designer: Daewoo Shipbuilding & Marine
-Engineering Co., Ltd.
-Country: Republic of Korea
+Engineering Co., Ltd. Country: Republic of Korea
 Model test establishment used:  KRISO, SSPA
 Flag:  Marshall Islands
 IMO number:  9845013
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order:  2
 TECHNICAL PARTICULARS
 Length oa:  294.9m
@@ -4977,8 +4752,7 @@ Propeller(s)
 
 Material: Ni-Al-Bronze
 
-Designer/Manufacturer:  Daewoo Shipbuilding
-& Marine Engineering  / Nakashima
+Designer/Manufacturer:  Daewoo Shipbuilding & Marine Engineering  / Nakashima
 Propeller
 
 Number:  2
@@ -5000,8 +4774,7 @@ Number:  2
 Type: Vertical, water tube
 
 Make: Alfa Laval
-Output, each boiler: 6,500kg/h x 6.0bar g.
-saturated
+Output, each boiler: 6,500kg/h x 6.0bar g. saturated
 Bow thruster(s)
 
 Make: Kawasaki
@@ -5032,8 +4805,7 @@ Make: Oriental
 
 Type: Hydraulic/electric
 
-Tasks: Provision & engine spare part handling
-
+Tasks: Provision & engine spare part handling 
 Performance: SWL 8t
 Mooring equipment
 
@@ -5051,8 +4823,7 @@ Type: Conventional gravity launching type
 Cargo tanks
 
 Number:  4
-Grades of cargo carried: LNG .
-Product range:  - GTT-NO96 cargo
+Grades of cargo carried: LNG . Product range:  - GTT-NO96 cargo
 containment system
 Stainless steel – structure/piping: Membrane
 type (INVAR)
@@ -5093,9 +4864,7 @@ Bridge control system
 Make: Kongsberg
 
 
-Type: Bridge manoeuvring system
-Is bridge fitted for one-man operation? Yes
-Integrated bridge system?: No
+Type: Bridge manoeuvring system Is bridge fitted for one-man operation? Yes Integrated bridge system?: No
 Radars
 
 Number:  3
@@ -5134,8 +4903,7 @@ Efficiency
 
 Attained EEDI value: 5.37 g/ton-mile
 Required EEDI value: 8.88 g/ton-mile
-Installed Fuel Meters: Positive displacement
-(volume) for fuel oil, coriolis (mass) for fuel gas
+Installed Fuel Meters: Positive displacement (volume) for fuel oil, coriolis (mass) for fuel gas
 Other installed monitoring tools:  Ship
 performance monitoring system
 Energy Saving Technologies*:  DSME full
@@ -5155,16 +4923,13 @@ Delivery date: 5 May 2020
 Shipbuilder: Daewoo Shipbuilding & Marine
 Engineering Co., Ltd. (DSME)
 Vessel’s name: HMM Algeciras
-Owner/Operator:  HMM Co., Ltd.
-Country: Republic of Korea
+Owner/Operator:  HMM Co., Ltd. Country: Republic of Korea
 Designer: Daewoo Shipbuilding & Marine
-Engineering Co., Ltd.
-Country: Republic of Korea
+Engineering Co., Ltd. Country: Republic of Korea
 Model test establishment used:  HSVA
 Flag: Panama
 IMO number:  9863297
-Total number of sister ships already completed
-(excluding ship presented):  6
+Total number of sister ships already completed (excluding ship presented):  6
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa: Approx. 399.9m
@@ -5248,9 +5013,7 @@ Type:  Vertical, oil fired (aux. boiler), smoke
 tube with built-in steam drum (exh. gas boiler)
 
 Make: KangRim
-Output, each boiler: 5,000kg/h x 7.0bar g.
-saturated (aux. boiler), 4,000kg/h x 7.0bar g.
-saturated (exh. gas boiler)
+Output, each boiler: 5,000kg/h x 7.0bar g. saturated (aux. boiler), 4,000kg/h x 7.0bar g. saturated (exh. gas boiler)
 Stern appendages/special rudders:  Pre-swirl
 stator / streamlined full spade rudder with bulb
 Bow thruster(s)
@@ -5268,9 +5031,7 @@ Make: Oriental
 
 Type: Single jib, cylinder luffing
 
-Tasks: Provisions, FO hose, Suez mooring
-boat handling
-
+Tasks: Provisions, FO hose, Suez mooring boat handling 
 Performance: 4t (SWL) on both sides
 
 Number:  1
@@ -5279,9 +5040,7 @@ Make: Oriental
 
 Type: .Electric monorail hoisting and travelling
 
-Tasks: Engine spare parts and Suez
-mooring boat handling
-
+Tasks: Engine spare parts and Suez mooring boat handling 
 Performance:  12.5t (SWL)
 Mooring equipment
 
@@ -5348,10 +5107,7 @@ Bridge control system
 Make:  Nabtesco
 
 
-Type:  Bridge Manoeuvring System
-(M-800-V)
-Is bridge fitted for one-man operation?:Yes
-Integrated bridge system?: No
+Type:  Bridge Manoeuvring System (M-800-V) Is bridge fitted for one-man operation?:Yes Integrated bridge system?: No
 Radars
 
 Number: S, X-band radar (2 sets)
@@ -5363,9 +5119,7 @@ Efficiency
 
 Attained EEDI value: 6.66 g/tonne-mile
 Required EEDI value: 13.08 g/tonne-mile
-Energy Saving Technologies:  Pre-swirl stator,
-full spade rudder with bulb
-
+Energy Saving Technologies:  Pre-swirl stator, full spade rudder with bulb 
 Contract date: 28 September 2018
 Launch/float-out date: 21 December 2019
 Delivery date:  24 April 2020
@@ -5374,19 +5128,16 @@ Delivery date:  24 April 2020
 
 
 Shipbuilder:  Samsung Heavy Industries
-Co., Ltd.
-Vessel’s name: HMM Oslo
+Co., Ltd. Vessel’s name: HMM Oslo
 Owner/Operator: HMM
 Country: Republic of Korea
 Designer:  Samsung Heavy Industries
-Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Country: Republic of Korea
 Model test establishment used: .Samsung Ship
 Model Basin (SSMB)
 Flag: Panama
 IMO number:  9868326
-Total number of sister ships already completed
-(excluding ship presented):  4
+Total number of sister ships already completed (excluding ship presented):  4
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa: Approx. 399.9m
@@ -5434,8 +5185,7 @@ Manufacturer: HHI-MAN
 
 Number:  1
 Type of fuel:  HFO, MGO
-Output of each engine:  59,600kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  59,600kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material:  Ni-Al Bronze
@@ -5446,8 +5196,7 @@ Number:  1
 Fixed/Controllable pitch: Fixed
 
 Diameter:  10.4m
-Special adaptations: STAR propeller
-(Samsung Tip Advanced Rake)
+Special adaptations: STAR propeller (Samsung Tip Advanced Rake)
 Diesel-driven alternators
 
 Number:  5
@@ -5460,8 +5209,7 @@ Number:  1
 
 Type: Oil fired
 
-Make:  KangRim Heavy Ind.
-Output, each boiler:  5t/h
+Make:  KangRim Heavy Ind. Output, each boiler:  5t/h
 Bow thruster(s)
 
 Make: Kawasaki
@@ -5476,8 +5224,7 @@ Number:  3
 Make: Oriental Precision
 
 Type: 2 - electro-hydraulic single jib type, 1 - electric motor driven monorail type 
-Tasks:  For provision and Suez mooring boat / engine room equipment handling
-
+Tasks:  For provision and Suez mooring boat / engine room equipment handling 
 Performance:  2 - 4.0t SWL, each / 1 - 13.5t SWL
 Mooring equipment
 
@@ -5543,21 +5290,17 @@ Officers:  15
 
 Crew:  14
 Suez/Repair Crew: 6 Suez crew
-Single/double/other rooms: 29 cabins
-(single), 1 cabin (for Suez crew, with 3 two-tier
+Single/double/other rooms: 29 cabins (single), 1 cabin (for Suez crew, with 3 two-tier
 beds)
 Navigation and other equipment
 
 Bridge control system
 
 
-Make: Kongsberg
-Is bridge fitted for one-man operation? .Yes
-Integrated bridge system?:  Yes
+Make: Kongsberg Is bridge fitted for one-man operation? .Yes Integrated bridge system?:  Yes
 If yes, make: Furuno
 
-Model: FMD-3300, etc.
-Radars
+Model: FMD-3300, etc. Radars
 
 Number:  2
 
@@ -5617,8 +5360,7 @@ Designer:  Samsung Heavy Industries
 Country: South Korea
 Flag: Indonesia
 IMO number:  9854935
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  292.5m
@@ -5734,8 +5476,7 @@ Make: Oriental
 
 Type:  Elec.-hyd. single jib
 
-Tasks:  2 sets for provision and E/R
-equipment / 1 set for CMR
+Tasks:  2 sets for provision and E/R equipment / 1 set for CMR
 Performance:  1 x 12.0t & 1 x 5.0t SWL for Provision, 1 x 5.0t SWL for CMR
 Mooring equipment
 
@@ -5782,9 +5523,7 @@ Bridge control system
 
 
 Make: ABB (El. propulsion motor
-control system)
-Is bridge fitted for one-man operation?  Yes
-Integrated bridge system?: No
+control system) Is bridge fitted for one-man operation?  Yes Integrated bridge system?: No
 
 Model:  Each 1 x ECDIS (FMD-3300), 1 x
 Conning (FMD-3300)
@@ -5809,8 +5548,7 @@ Engine room: High expansion foam
 Make/Type: NK
 Waste disposal plant
 
-Waste handled: Food waste digester
-(SIMPLE 100NS)
+Waste handled: Food waste digester (SIMPLE 100NS)
 Waste compactor
 
 Make: Metos
@@ -5835,18 +5573,14 @@ Delivery date: January 2021
 
 
 
-Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd.
-Vessel’s name:  KMTC Seoul
+Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd. Vessel’s name:  KMTC Seoul
 Owner/Operator: Korea Marine Transport
-Co., Ltd.
-Country: Republic of Korea
-Designer: Hyundai Mipo Dockyard Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Country: Republic of Korea
+Designer: Hyundai Mipo Dockyard Co., Ltd. Country: Republic of Korea
 Model test establishment used: KRISO
 Flag: Liberia
 IMO number:  9882205
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order:  3
 TECHNICAL PARTICULARS
 Length oa: Approx. 196m
@@ -5897,8 +5631,7 @@ Division
 
 Number:  1
 Type of fuel:  HFO, MDO
-Output of each engine:  16,700kW
-Is this a diesel-electric or hybrid? : No
+Output of each engine:  16,700kW Is this a diesel-electric or hybrid? : No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -5947,8 +5680,7 @@ Make: Tech Flower
 
 Type: Elec-Hyd
 
-Tasks: Provision crane
-
+Tasks: Provision crane 
 Performance:  4t x 2.6-11.8m
 Mooring equipment
 
@@ -6014,9 +5746,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make: HHI
-Is bridge fitted for one-man operation?:  No
-Integrated bridge system (Y/N?):  Yes
+Make: HHI Is bridge fitted for one-man operation?:  No Integrated bridge system (Y/N?):  Yes
 
 If yes, make:  JRC
 
@@ -6029,8 +5759,7 @@ Make:  JRC
 Model(s) : JMR-9282-S / JMR-9225-6X
 Fire detection system
 
-Make: B-I Industrial Co. Ltd.
-
+Make: B-I Industrial Co. Ltd. 
 Type: BDS-4000MIF
 Fire extinguishing systems
 
@@ -6083,18 +5812,14 @@ Delivery date:  27 August 2020
 
 
 Shipbuilder:  Hyundai Heavy Industries
-Co., Ltd.
-Vessel’s name: La Seine
-Owner/Operator: TMS Cardiff Gas Ltd.
-Country:  Greece
-Designer: .Hyundai Heavy Industries Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Vessel’s name: La Seine
+Owner/Operator: TMS Cardiff Gas Ltd. Country:  Greece
+Designer: .Hyundai Heavy Industries Co., Ltd. Country: Republic of Korea
 Model test establishment used:  Hyundai
 Maritime Research Institute (HMRI)
 Flag:  Malta
 IMO number:  9845764
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order:  3
 TECHNICAL PARTICULARS
 Length oa:  299.06m
@@ -6148,8 +5873,7 @@ Division
 
 Number:  2
 Type of fuel: HFO, MGO, LNG
-Output of each engine:  12,111kW x 77.1rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  12,111kW x 77.1rpm Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -6177,8 +5901,7 @@ Type: Oil fired
 
 Make: Alfa Laval
 Output, each boiler: 7,500kg/h
-Stern appendages/special rudders: Hi-Rudder
-& Hi-Fin
+Stern appendages/special rudders: Hi-Rudder & Hi-Fin
 
 Deck machinery
 
@@ -6202,8 +5925,7 @@ Make: Sangsangin Industries
 
 Type: Electro-hydraulic driven crane
 
-Tasks:  Provision Handling
-
+Tasks:  Provision Handling 
 Performance:  SWL 8t x 22m x 1set, SWL 2t
 x 22m x 1set
 Mooring equipment
@@ -6264,9 +5986,7 @@ Bridge control system
 Make: Konsgberg
 
 
-Type: AutoChief 600
-Is bridge fitted for one-man operation?:.Yes
-Integrated bridge system?:  Yes
+Type: AutoChief 600 Is bridge fitted for one-man operation?:.Yes Integrated bridge system?:  Yes
 
 
 Model: Furuno FMD-3300
@@ -6328,18 +6048,14 @@ Delivery date: 28 February 2020
 
 
 Shipbuilder:  Hyundai Heavy Industries
-Co., Ltd.
-Vessel’s name: La Seine
-Owner/Operator: TMS Cardiff Gas Ltd.
-Country:  Greece
-Designer: .Hyundai Heavy Industries Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Vessel’s name: La Seine
+Owner/Operator: TMS Cardiff Gas Ltd. Country:  Greece
+Designer: .Hyundai Heavy Industries Co., Ltd. Country: Republic of Korea
 Model test establishment used:  Hyundai
 Maritime Research Institute (HMRI)
 Flag:  Malta
 IMO number:  9845764
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order:  3
 TECHNICAL PARTICULARS
 Length oa:  299.06m
@@ -6393,8 +6109,7 @@ Division
 
 Number:  2
 Type of fuel: HFO, MGO, LNG
-Output of each engine:  12,111kW x 77.1rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  12,111kW x 77.1rpm Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -6422,8 +6137,7 @@ Type: Oil fired
 
 Make: Alfa Laval
 Output, each boiler: 7,500kg/h
-Stern appendages/special rudders: Hi-Rudder
-& Hi-Fin
+Stern appendages/special rudders: Hi-Rudder & Hi-Fin
 
 Deck machinery
 
@@ -6447,8 +6161,7 @@ Make: Sangsangin Industries
 
 Type: Electro-hydraulic driven crane
 
-Tasks:  Provision Handling
-
+Tasks:  Provision Handling 
 Performance:  SWL 8t x 22m x 1set, SWL 2t
 x 22m x 1set
 Mooring equipment
@@ -6509,9 +6222,7 @@ Bridge control system
 Make: Kongsberg
 
 
-Type: AutoChief 600
-Is bridge fitted for one-man operation?:.Yes
-Integrated bridge system?:  Yes
+Type: AutoChief 600 Is bridge fitted for one-man operation?:.Yes Integrated bridge system?:  Yes
 
 
 Model: Furuno FMD-3300
@@ -6572,17 +6283,13 @@ Delivery date: 28 February 2020
 
 
 
-Shipbuilder: .Keppel Nantong Shipyard Co. Ltd.
-Vessel’s name:  Marine Vicky
-Owner/Operator: .V-Bunkers Tankers Pte. Ltd.
-Country: Singapore
-Designer: SeaTech Solutions International
-(S) Pte. Ltd.
+Shipbuilder: .Keppel Nantong Shipyard Co. Ltd. Vessel’s name:  Marine Vicky
+Owner/Operator: .V-Bunkers Tankers Pte. Ltd. Country: Singapore
+Designer: SeaTech Solutions International (S) Pte. Ltd.
 Country: Singapore
 Flag:Singapore
 IMO number:  9880520
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  102.84m
@@ -6627,8 +6334,7 @@ Manufacturer:  Yanmar Co. Ltd, Japan
 
 Number:  2
 Type of fuel: Dual-fuel (MGO, LNG)
-Output of each engine:  1,200kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  1,200kW Is this a diesel-electric or hybrid?: No
 Gearbox(es)
 
 Make: Yanmar Kanzaki Kokyukoki Mfg
@@ -6642,8 +6348,7 @@ Propeller(s)
 Material: Cu3
 
 Designer/Manufacturer: Wuhan Heavy
-Industry Casting and Forging Co, Ltd
-(Wuhan -CHN)
+Industry Casting and Forging Co, Ltd (Wuhan -CHN)
 
 Number:  2
 Fixed/Controllable pitch: Fixed
@@ -6720,8 +6425,7 @@ Ship Accessories
 Type: Upper deck
 Doors/ramps/lifts/moveable car decks
 
-Number of each:  17 doors
-
+Number of each:  17 doors 
 Type: Marine Weathertight Single-Leaf
 Steel door
 Cargo tanks
@@ -6799,8 +6503,7 @@ Installed Fuel Meters: 2 Endress and Hauser
 Coriolis MFM’s installed
 - 10” (FO) recommended flowrate ≥150t/h
 - 6” (MGO) recommended flowrate ≥50t/h
-Energy Saving Technologies*: Alternative fuels
-(MGO/LNG dual-fuel main engine)
+Energy Saving Technologies*: Alternative fuels (MGO/LNG dual-fuel main engine)
 Hull coatings:  TBT free self-polishing
 antifouling coating manufactured by PPG
 Coatings (Kunshan)
@@ -6820,8 +6523,7 @@ Designer: Marine Engineering Bureau
 Country:  Ukraine
 Flag:  Russian Federation
 IMO number:  9879351
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  141.15m
@@ -6881,8 +6583,7 @@ Manufacturer:  Wärtsilä
 
 Number:  2
 Type of fuel: HFO
-Output of each engine: 1,200kW 1,000rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine: 1,200kW 1,000rpm Is this a diesel-electric or hybrid?: No
 
 Gearbox(es) (incorporated in rudder propellers)
 
@@ -6963,9 +6664,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make:  Wärtsilä, Schottel
-Is bridge fitted for one-man operation? No
-Integrated bridge system ? No
+Make:  Wärtsilä, Schottel Is bridge fitted for one-man operation? No Integrated bridge system ? No
 Radars
 
 Number:  2
@@ -7039,8 +6738,7 @@ Designer:  Partnership Design
 Country: Hamburg, Germany
 Flag:  Bahamas
 IMO number:  9842554
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  1
 TECHNICAL PARTICULARS
 Length oa:  124.4m
@@ -7114,17 +6812,14 @@ Delivery date:  16 March 2020
 
 
 
-Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd.
-Vessel’s name: Queen Jenuvia
+Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd. Vessel’s name: Queen Jenuvia
 Owner/Operator:  Seaworld Express Ferry
 Country: Republic of Korea
-Designer: Hyundai Mipo Dockyard Co., Ltd.
-Country: Republic of Korea
+Designer: Hyundai Mipo Dockyard Co., Ltd. Country: Republic of Korea
 Model test establishment used: KRISO
 Flag: Panama
 IMO number:  9867475
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa: Approx. 170.0m
@@ -7166,8 +6861,7 @@ Classification society and notations:  KR +KRS 0C – Passenger Ship Car Ferry, 
 Propulsion
 Main engine(s)
 
-Design:  HHI Engine & Machinery Division
-(medium speed four-stroke)
+Design:  HHI Engine & Machinery Division (medium speed four-stroke)
 
 Model: HiMSEN 8H46/60P (Tier II)
 
@@ -7176,8 +6870,7 @@ Division
 
 Number:  2
 Type of fuel:  HFO, MGO
-Output of each engine:  10,000kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  10,000kW Is this a diesel-electric or hybrid?: No
 Gearbox(es)
 
 Make: Renk
@@ -7237,8 +6930,7 @@ Number:  1
 Make:  Shinmyung Tech.
 Type:  Air motor driven davit
 
-Tasks: Provision dandling
-
+Tasks: Provision dandling 
 Performance: .Manual slewing gear, air winch
 hoisting (approx. 10m/min.)
 Mooring equipment
@@ -7250,8 +6942,7 @@ Make: Flutek
 Type:  Hydraulic
 Special lifesaving equipment
 
-Number of each and capacity: 2 x MES
-(660 persons/set)
+Number of each and capacity: 2 x MES (660 persons/set)
 
 Make: Shanghai Youlong Rubber Products
 
@@ -7264,11 +6955,8 @@ Total lane length:  Approx. 2,102m (incl. No.1 & 2 deck) Total cars: 478 units o
 25t truck
 Doors/ramps/lifts/moveable car decks
 
-Number of each: Stern ramp, 1 set / movable
-ramp, 2 sets / passenger door, 2 sets
-
-Type: Hydraulic. Direct cylinder / end-hinged
-(hydraulically operated jigger winch) / side hinged
+Number of each: Stern ramp, 1 set / movable ramp, 2 sets / passenger door, 2 sets 
+Type: Hydraulic. Direct cylinder / end-hinged (hydraulically operated jigger winch) / side hinged
 swing out (hydraulic. direct cylinder)
 
 Designer: SMS-SME
@@ -7298,9 +6986,7 @@ Control System)
 
 Make: Kongsberg
 
-Type: AutoChief 600
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Type: AutoChief 600 Is bridge fitted for one-man operation? No Integrated bridge system?: No
 Radars
 
 Number:  2
@@ -7335,8 +7021,7 @@ Public spaces:  Auto Sprinkler system
 Make/Type:  Fain / Fresh water
 
 Efficiency
-Energy Saving Technologies:
-
+Energy Saving Technologies: 
 Hull coatings: Interflex 8700
 
 Type:  Copper-free, low friction,
@@ -7351,14 +7036,12 @@ Delivery date: 7 September 2020
 
 Shipbuilder: .Japan Marine United Corporation
 Vessel’s name:  Sakizaya Star
-Owner/Operator: Mount Wisdom S.A.
-Country:  Taiwan
+Owner/Operator: Mount Wisdom S.A. Country:  Taiwan
 Designer: Japan Marine United Corporation
 Country: Japan
 Flag: Liberia
 IMO number:  9861316
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order:  5
 TECHNICAL PARTICULARS
 
@@ -7393,8 +7076,7 @@ Manufacturer:  Mitsui E&S Machinery
 
 Number:  1
 Type of fuel:  HFO, MDO
-Output of each engine: 9,120kW,  84rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine: 9,120kW,  84rpm Is this a diesel-electric or hybrid?: No
 
 Propeller(s)
 
@@ -7416,11 +7098,8 @@ Number:  1
 
 Type:  Vertical composite boiler
 
-Make: Osaka Boiler MFG.
-
-Stern appendages/special rudders: SSD
-(Super Stream Duct), SURF-BULB, ALV-Fin
-(Advanced Low Viscous Resistance Fin)
+Make: Osaka Boiler MFG. 
+Stern appendages/special rudders: SSD (Super Stream Duct), SURF-BULB, ALV-Fin (Advanced Low Viscous Resistance Fin)
 
 Mooring equipment
 
@@ -7456,8 +7135,7 @@ Ballast control system
 Make: Nakakita Seisakusho
 Ballast water treatment system
 
-Make: Techcross Inc.
-
+Make: Techcross Inc. 
 Complement
 
 Officers: 9
@@ -7465,8 +7143,7 @@ Officers: 9
 Crew:  13
 
 Supernumaries/Spare:  3
-
-Integrated bridge system?: No
+ Integrated bridge system?: No
 Radars
 
 Number:  2
@@ -7489,8 +7166,7 @@ Make:  Taiko Kikai Industries
 Efficiency
 
 Energy Saving Technologies*:  SSD (Super
-Stream Duct), SURF-BULB, ALV-Fin
-(Advanced Low Viscous Resistance Fin),
+Stream Duct), SURF-BULB, ALV-Fin (Advanced Low Viscous Resistance Fin),
 well-refined shape of superstructure
 
 Hull coatings:  Low-friction type of
@@ -7502,18 +7178,14 @@ Delivery date:  27 March 2020
 
 
 Shipbuilder:  Hyundai-Vietnam Shipbuilding
-Co., Ltd.
-Vessel’s name: Sara
+Co., Ltd. Vessel’s name: Sara
 Owner/Operator: Bahri Dry Bulk Company
-LLC.
-Country:  Saudi Arabia
-Designer: Hyundai Mipo Dockyard Co., Ltd.
-Country: Republic of Korea
+LLC. Country:  Saudi Arabia
+Designer: Hyundai Mipo Dockyard Co., Ltd. Country: Republic of Korea
 Model test establishment used:  HSVA
 Flag: Liberia
 IMO number:  9837119
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order:  1
 TECHNICAL PARTICULARS
 Length oa: Approx. 229m
@@ -7567,15 +7239,13 @@ Division
 
 Number:  1
 Type of fuel:   HFO, MGO
-Output of each engine:  9,665kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  9,665kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
 
 Designer/Manufacturer: Hyundai Heavy
-Industries.
-
+Industries. 
 Number:  1
 Fixed/Controllable pitch: Fixed
 
@@ -7614,8 +7284,7 @@ Make: Sangsangin Industry (DMC)
 
 Type: Electro-hydraulic driven type
 
-Tasks: Provision crane
-
+Tasks: Provision crane 
 Performance: SWL 4.0t  / Outreach max. 12.1m, min. 3.3m
 Mooring equipment
 
@@ -7674,9 +7343,7 @@ Bridge control system
 Make: Dongyang
 
 
-Type: Flour mounting and self-standing
-Is bridge fitted for one-man operation? No
-Integrated bridge system?:  Yes
+Type: Flour mounting and self-standing Is bridge fitted for one-man operation? No Integrated bridge system?:  Yes
 
 If yes, make:  JCR
 
@@ -7765,8 +7432,7 @@ Model test establishment used: Maritime
 Research Institute Netherlands (MARIN)
 Flag:  Bahamas
 IMO number:  9804801
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order:  3
 TECHNICAL PARTICULARS
 Length oa:  277.20m
@@ -7895,8 +7561,7 @@ Efficiency
 Attained EEDI value:  10.7
 Required EEDI value:  13.58
 Other installed monitoring tools:  Hull Flex
-Monitoring System.
-The system is to be able to supply the following
+Monitoring System. The system is to be able to supply the following
 information:
 •
 dynamic measuring/monitoring system for
@@ -7916,16 +7581,8 @@ Real Time Performance Tool that provides
 decision support aid for ship’s deck and engine
 officers with real-time and historic data of fuel
 and energy consumption in order to achieve
-energy conservation and energy saving.
-
-Energy Saving Technologies: Climeon waste
-heat recovery system, optimised air conditioning
-system with fancoils in cabins and public areas,
-occupancy based ventilation in public areas,
-demand based ventilation for galleys (Hoods
-Marvel system from Halton), extensive use of
-VFD for electric motors, extensive adoption of
-LED lighting
+energy conservation and energy saving. 
+Energy Saving Technologies: Climeon waste heat recovery system, optimised air conditioning system with fancoils in cabins and public areas, occupancy based ventilation in public areas, demand based ventilation for galleys (Hoods Marvel system from Halton), extensive use of VFD for electric motors, extensive adoption of LED lighting
 Hull coatings:  Self-polishing copolymer sylil
 acrylate antifouling
 For funnel a transom polysiloxane paint with
@@ -7950,17 +7607,14 @@ Delivery date: 14 February 2020
 
 
 Shipbuilder: Hyundai Samho Heavy
-Industries Co., Ltd.
-Vessel’s name: SCF La Perouse
+Industries Co., Ltd. Vessel’s name: SCF La Perouse
 Owner/Operator:  SCF
 Country: Russia
 Designer:  Hyundai Samho Heavy Industries
-Co., Ltd.
-Country: Republic of Korea
+Co., Ltd. Country: Republic of Korea
 Flag: Liberia
 IMO number:  9849887
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  297.09m
@@ -7990,8 +7644,7 @@ scantling:  93,026t
 
 design:  81,776t
 Block co-efficient:  0.7364 (scant. draught)
-Speed, service (--%MCR output): 19.48knots
-(design draught, NCR with 20% S.M.)
+Speed, service (--%MCR output): 19.48knots (design draught, NCR with 20% S.M.)
 Cargo capacity (m³)
 Liquid volume:  173,958.4
 Bunkers (m³)
@@ -8012,8 +7665,7 @@ Manufacturer:  Hyundai-WinGD
 Number:  2
 Type of fuel: HFO, ULSFO, MGO, MDO,
 GAS(LNG)
-Output of each engine:  12,035
-Is this a diesel-electric or hybrid?: No,
+Output of each engine:  12,035 Is this a diesel-electric or hybrid?: No,
 diesel
 Propeller(s)
 
@@ -8071,9 +7723,7 @@ Make: Oriental
 
 Type: Electro-hydraulic
 
-Tasks: Provision handling, cargo
-machinery room service
-
+Tasks: Provision handling, cargo machinery room service 
 Performance: SWL 8t / 2t, SWL 6t
 Mooring equipment
 
@@ -8139,13 +7789,10 @@ Make:  Hyundai Electric
 
 
 Type: Floor mounting and self-standing
-type
-Is bridge fitted for one-man operation? Yes
-Integrated bridge system?: No
+type Is bridge fitted for one-man operation? Yes Integrated bridge system?: No
 Radars
 
-Number:  S-band radar / X-band radar
-(total: 2 set)
+Number:  S-band radar / X-band radar (total: 2 set)
 
 Make:  JRC
 
@@ -8195,14 +7842,11 @@ Delivery date: 10 February 2020
 
 
 Shipbuilder: Mitsubishi Shipbuilding
-Co., Ltd.
-Vessel’s name:  Settsu
-Owner/Operator: Hankyu Ferry Co., Ltd.
-Country: Japan
+Co., Ltd. Vessel’s name:  Settsu
+Owner/Operator: Hankyu Ferry Co., Ltd. Country: Japan
 Flag: Japan
 IMO number:  9860831
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  195.00m
@@ -8226,8 +7870,7 @@ Model: 14V31
 
 Number:  2
 Type of fuel: HFO
-Output of each engine: 8,540kW, 750rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine: 8,540kW, 750rpm Is this a diesel-electric or hybrid?: No
 
 Gearbox(es)
 
@@ -8252,10 +7895,134 @@ Output/speed of each set:  1,600kW
 Diesel-driven alternators
 
 Number:  3
-Engine make/type:  Yanmar 6EY22ALW Output/speed of each set:  1,370kW  Exhaust-gas scrubbing equipment  2  Manufacturer:  Wärtsilä   Type: Hybrid On main engines?:  Yes  Bow thruster(s)  Number:  2 Output (each):  1,150kW  Stern thruster(s)  Number:  2 Output (each):  825kW  Special lifesaving equipment  Number of each and capacity: 2 x MES  Vehicles  Total lane length:  2,700 Total cars:  188 Total freight units (specify size): 277 max length 8.5m  Doors/ramps/lifts/moveable car decks  Number of each: 2 side ramps (1 each side at Deck 4), 1 stern axial ramp, 1 bow ramp at Deck 3  Complement  Crew:  36  Passengers  Total:  663 Number of cabins:  129 including 4 suites and 15 dormitory style. Mix of Western and Japanese styles  Radars  Model(s):  X-band and S-band  Efficiency One other unique feature of the ferry is its navigation software. By taking factors such as tidal current and wind velocity into account, the system can calculate arrival times as well as recommended speed settings to keep fuel consumption as low as possible.  Performance Monitoring Regime: MALS (Mitsubishi Air Lubrication System)*1 ×1 set  Launch/float-out date 2 August 2019 Delivery date: 27 February 2020    Shipbuilder:  Zhejiang Xinle Shipbuilding CO., Ltd. Vessel’s name: Sider Buffalo Owner/Operator: Westport Shipping Limited/ Technical Core Management SRL Country: Malta/Italy Flag: Portugal IMO number:  9861512 Total number of sister ships already completed (excluding ship presented):  1 Total number of sister ships still on order:  5 TECHNICAL PARTICULARS Length oa:  109.9m Length bp:  107.9m Breadth moulded:  16m Depth moulded  to main deck:  8.0m  to upper deck:  10.8m to other decks:  Bridge deck 13.4m Width of double skin  side:  1.5m  bottom:  1.2m Draught  scantling:  6.366m  design:  5.4m Gross:  4,764gt Displacement:  9,801.5t Lightweight:  2,200.8t Deadweight  scantling:  7,600.7t  design:  6,000t  Block co-efficient (please state relevant draught):  0.826/4.5m Speed, service (--%MCR output): Ballast 12.7knots, 85% loaded 12knots Cargo capacity (m³)  Bale:  7,843.3  Grain:  7,922.3 Liquid volume:  7,960.0 Bunkers (m³) Heavy oil:  338 Diesel oil:  95.9 Water ballast (m³):  2,942.3 Daily fuel consumption (tonnes/day)  Main engine only:  9.7 85%  Auxiliaries: At sea 0/at port 0.7 Classification society and notations:  RINa  Propulsion Main engine(s)  Design:  Daihatsu  Model:  8DK-28e  Manufacturer:  Daihatsu Diesel MFG Number: 1
+Engine make/type:  Yanmar 6EY22ALW
+Output/speed of each set:  1,370kW
+
+Exhaust-gas scrubbing equipment  2
+
+Manufacturer:  Wärtsilä
+
+
+Type: Hybrid
+On main engines?:  Yes
+
+Bow thruster(s)
+
+Number:  2
+Output (each):  1,150kW
+
+Stern thruster(s)
+
+Number:  2
+Output (each):  825kW
+
+Special lifesaving equipment
+
+Number of each and capacity: 2 x MES
+
+Vehicles
+
+Total lane length:  2,700
+Total cars:  188
+Total freight units (specify size): 277 max
+length 8.5m
+
+Doors/ramps/lifts/moveable car decks
+
+Number of each: 2 side ramps (1 each side at Deck 4), 1 stern axial ramp, 1 bow ramp at Deck 3  Complement 
+Crew:  36
+
+Passengers
+
+Total:  663
+Number of cabins:  129 including 4
+suites and 15 dormitory style. Mix of Western
+and Japanese styles
+
+Radars
+
+Model(s):  X-band and S-band
+
+Efficiency
+One other unique feature of the ferry is its
+navigation software. By taking factors such as
+tidal current and wind velocity into account,
+the system can calculate arrival times as well
+as recommended speed settings to keep fuel
+consumption as low as possible. 
+Performance Monitoring Regime: MALS (Mitsubishi Air Lubrication System)*1 ×1 set
+
+Launch/float-out date 2 August 2019
+Delivery date: 27 February 2020
+
+
+
+Shipbuilder:  Zhejiang Xinle Shipbuilding
+CO., Ltd. Vessel’s name: Sider Buffalo
+Owner/Operator: Westport Shipping Limited/ Technical Core Management SRL
+Country: Malta/Italy
+Flag: Portugal
+IMO number:  9861512
+Total number of sister ships already completed (excluding ship presented):  1
+Total number of sister ships still on order:  5
+TECHNICAL PARTICULARS
+Length oa:  109.9m
+Length bp:  107.9m
+Breadth moulded:  16m
+Depth moulded
+
+to main deck:  8.0m
+
+to upper deck:  10.8m
+to other decks:  Bridge deck 13.4m
+Width of double skin
+
+side:  1.5m
+
+bottom:  1.2m
+Draught
+
+scantling:  6.366m
+
+design:  5.4m
+Gross:  4,764gt
+Displacement:  9,801.5t
+Lightweight:  2,200.8t
+Deadweight
+
+scantling:  7,600.7t
+
+design:  6,000t
+
+Block co-efficient (please state relevant
+draught):  0.826/4.5m
+Speed, service (--%MCR output): Ballast 12.7knots, 85% loaded 12knots Cargo capacity (m³)
+
+Bale:  7,843.3
+
+Grain:  7,922.3
+Liquid volume:  7,960.0
+Bunkers (m³)
+Heavy oil:  338
+Diesel oil:  95.9
+Water ballast (m³):  2,942.3
+Daily fuel consumption (tonnes/day)
+
+Main engine only:  9.7 85%
+
+Auxiliaries: At sea 0/at port 0.7
+Classification society and notations:  RINa 
+Propulsion
+Main engine(s)
+
+Design:  Daihatsu
+
+Model:  8DK-28e
+
+Manufacturer:  Daihatsu Diesel MFG
+Number: 1
 Type of fuel: HFO
-Output of each engine: 2,800kW x 750rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine: 2,800kW x 750rpm Is this a diesel-electric or hybrid?: No
 
 Gearbox(es)
 
@@ -8306,9 +8073,7 @@ Make: Jiangyinshi Beihai LSA
 
 Type:  SC45KR
 
-Tasks:  Rescue boat
-Mooring equipment
-
+Tasks:  Rescue boat Mooring equipment 
 Number:  4
 
 Make:  Jiangsu Haitai Ship’s World Set
@@ -8357,12 +8122,9 @@ Navigation and otherequipment
 Bridge control system
 
 
-Make: SaierNico Electric & Automation Ltd.
+Make: SaierNico Electric & Automation Ltd. 
 
-
-Type:  AU
-Is bridge fitted for one-man operation? Yes
-Integrated bridge system?: No
+Type:  AU Is bridge fitted for one-man operation? Yes Integrated bridge system?: No
 Radars
 
 Number:  2
@@ -8391,24 +8153,21 @@ Incinerator
 
 
 Make:  CSSC. Nanjing Luzhou
-Machine Co., Ltd.
-
+Machine Co., Ltd. 
 
 Model:  OG120C
 Waste shredder/crusher
 
 
 Make: Anoing Mar Sc. and
-Tech.
-
+Tech. 
 
 Model: Pulvizer
 Sewage plant
 
 
 Make:  CSSC. Nanjing Luzhou
-Machine Co., Ltd.
-
+Machine Co., Ltd. 
 
 Model: STC-2
 Efficiency
@@ -8426,17 +8185,14 @@ Delivery date:  30 March 2020
 
 
 Shipbuilder: XSI Xiamen Shipbuilding
-Industry Co., Ltd.
-Vessel’s name:  Siem Confucius
-Owner/Operator: LS-LBR Co, Ltd.
-Country: Liberia
+Industry Co., Ltd. Vessel’s name:  Siem Confucius
+Owner/Operator: LS-LBR Co, Ltd. Country: Liberia
 Designer:  SDARI Shanghai Merchant Ship
 Design & Research Institute
 Country:  China
 Flag: Liberia
 IMO number:  9841017
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  199.90m
@@ -8490,8 +8246,7 @@ Manufacturer: Hyundai-MAN B&W
 
 Number:  1
 Type of fuel:  LNG, MGO
-Output of each engine:  12,614kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  12,614kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: MA5X
@@ -8531,8 +8286,7 @@ Output, each boiler:   42,700kJ/kg-MDO 49,500kJ/kg-NG Bow thruster(s)
 Make: Kawasaki-KWJ KT-219B3
 
 Number:  1
-Output (each):  2,000kW.
-Deck machinery
+Output (each):  2,000kW. Deck machinery
 
 Cargo cranes/cargo gear:  Ro-ro division
 quarter and side ramp/doors
@@ -8543,15 +8297,12 @@ Make:  MacGregor
 
 Type: Quarter ramp – SWL: 200 up to 300t,
  45.10m (L) x 14.94m (B) x 3.00/3.40/5.40m (H) 
-Side ramp - SWL: 20t, 25.00m (L) x 7.70m
-(B) x 3.00/3.40/5.40m (H), (adjustable
+Side ramp - SWL: 20t, 25.00m (L) x 7.70m (B) x 3.00/3.40/5.40m (H), (adjustable
 between Dk # 5 and #6)
 Mooring equipment
 
 Number: Fwd: windlass 2, mooring winch 3,
-drums 5, gypsy 2.
-Aft: mooring winch 3, drums 5, 3 gypsy.
-
+drums 5, gypsy 2. Aft: mooring winch 3, drums 5, 3 gypsy. 
 Make:  SEC Deck Machinery
 
 Type:  Electric EMW – 225kN; EAMW 87U3 – 225kN. Special lifesaving equipment
@@ -8569,21 +8320,10 @@ Viking 16DKF+, 1 x Viking 6DK+ Vehicles
 Number of vehicle decks (fixed/moveable): .9 / 4
 Total lane length:  64,506m²
 Total cars:  RT43 7,708; Audi A6 lim 4,790
-Total freight units (specify size):  Bus
-(12.0x2.5x3.2m) 380; dump truck(A)
-(7.8x3.7x3.6m) 243
+Total freight units (specify size):  Bus (12.0x2.5x3.2m) 380; dump truck(A) (7.8x3.7x3.6m) 243
 Doors/ramps/lifts/moveable car decks
 
-Number of each:  2 x ramps, 8 x movable
-ramps
-Quarter ramp – SWL:  200 up to 300t, 45.10m (L) x 14.94m (B) x 3.00/3.40/5.40m (H) Axle load = 55t / 4 wheels; axle load = 25t / 2 wheels Side ramp - SWL:  20t, 25.00m (L) x 7.70m
-(B) x 3.00/3.40/5.40m (H), Axle
-load = 15t / 2 wheels (adjustable
-between Dk # 5 and #6)
-
-Designer:  MacGregor
-Ballast control system
-
+Number of each:  2 x ramps, 8 x movable ramps Quarter ramp – SWL:  200 up to 300t, 45.10m (L) x 14.94m (B) x 3.00/3.40/5.40m (H) Axle load = 55t / 4 wheels; axle load = 25t / 2 wheels Side ramp - SWL:  20t, 25.00m (L) x 7.70m (B) x 3.00/3.40/5.40m (H), Axle load = 15t / 2 wheels (adjustable between Dk # 5 and #6)  Designer:  MacGregor Ballast control system 
 Make:  Kocumation
 
 Type:  Shipmaster
@@ -8598,9 +8338,7 @@ Bridge control system
 
 
 Make: Furuno / Simbo Marine
-Systems
-Is bridge fitted for one-man operation?  Yes
-Integrated bridge system (Y/N?):  Yes
+Systems Is bridge fitted for one-man operation?  Yes Integrated bridge system (Y/N?):  Yes
 
 If yes, make: Furuno
 
@@ -8611,8 +8349,7 @@ Number:  2
 
 Make:  Furuno Marine Radar / ARPA
 
-Model(s): FAR 2827 (X-band), FAR 2837S
-(S-band)
+Model(s): FAR 2827 (X-band), FAR 2837S (S-band)
 Fire detection system
 
 Make: Consilium
@@ -8637,8 +8374,7 @@ Vehicle spaces: Same as cargo holds
 Cabins:  Fire extinguishers and fire hoses
 Public spaces: Same as cabins
 
-Energy Saving Technologies*:  Alternative fuel
-(LNG), trim optimisation, ventilation
+Energy Saving Technologies*:  Alternative fuel (LNG), trim optimisation, ventilation
 optimisation, VFD for electric motors
 Contract date:  13 April 2017
 Delivery date:  12 March 2020
@@ -8654,8 +8390,7 @@ Designer: De Hoop
 Country:  The Netherlands
 Flag: Ecuador
 IMO number:  9837937
-Total number of sister ships already completed
-(excluding ship presented): Nil
+Total number of sister ships already completed (excluding ship presented): Nil
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  110.01m
@@ -8721,8 +8456,7 @@ Boilers
 Number:  1
 
 Type:  HW 700
-Make:  Heat-Master  B.V.
-
+Make:  Heat-Master  B.V. 
 Bow thruster(s)
 
 Make:  Veth Propulsion Type VT-550
@@ -8737,8 +8471,7 @@ Make: Sormec
 
 Type: M40SA
 
-Tasks: Sea state – harbour
-
+Tasks: Sea state – harbour 
 Performance: SWL 2,000kg – reach 10m.
 Mooring equipment
 
@@ -8794,8 +8527,7 @@ Bridge control system
 Make: JRC Alphatron
 
 
-Type:  Alphatron Marine
-Integrated bridge system:  Yes
+Type:  Alphatron Marine Integrated bridge system:  Yes
 
 If yes, make: Alphatron Marine
 
@@ -8873,16 +8605,13 @@ Delivery date: June 2020
 
 
 
-Shipbuilder: The Hakodate Dock Co., Ltd.
-Vessel’s name:  Singan
+Shipbuilder: The Hakodate Dock Co., Ltd. Vessel’s name:  Singan
 Owner/Operator: Swire Bulk
 Country: Singapore
-Designer: The Hakodate Dock Co., Ltd.
-Country: Japan
+Designer: The Hakodate Dock Co., Ltd. Country: Japan
 Flag: Hong Kong
 IMO number:  9873735
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  179.97m
@@ -8928,8 +8657,7 @@ Propeller(s)
 Material: Ni-Al-Bronze
 
 Designer/Manufacturer:  Nakashima
-Propeller Co., Ltd.
-
+Propeller Co., Ltd. 
 Number: 5 blades
 Fixed/Controllable pitch: Fixed
 
@@ -8956,9 +8684,7 @@ Number: 1 set
 Type:  OVS2-80/60-22
 
 
-Make: Osaka Boiler MFH.
-Co., Ltd.
-Output, each boiler:  Oil burning /800kg/h,
+Make: Osaka Boiler MFH. Co., Ltd. Output, each boiler:  Oil burning /800kg/h,
 Exh. gas heating 725kg/h
 
 Deck machinery
@@ -8983,8 +8709,7 @@ Make: Mansei Inc
 
 Type: Electric motor driven
 
-Tasks: Miscellaneous crane
-
+Tasks: Miscellaneous crane 
 Performance: 2.0t X 6.5m/r
 
 Mooring equipment
@@ -9002,8 +8727,7 @@ Number of each and capacity: 24 persons
 x 2 sets
 
 Make:  Jiangsu Jiaoyan Marine Equipment
-Co., Ltd.
-
+Co., Ltd. 
 Type: Totally enclosed type
 with engine
 
@@ -9035,16 +8759,13 @@ Crew:  9
 Supernumaries/Spare:  2
 
 Navigation and other equipment
-
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+ Is bridge fitted for one-man operation? No Integrated bridge system?: No
 
 Radars
 
 Number:  2
 
-Make: Japan Radio Co. Ltd.
-(JRC)
+Make: Japan Radio Co. Ltd. (JRC)
 
 Model(s):  JMR 9225-6X,
 JMR9272-S
@@ -9090,24 +8811,20 @@ Finland combined type
 Efficiency
 
 Installed Fuel Meters: Volume flow meter
-for M/E D/G inlet & outlet. Boiler.
-
+for M/E D/G inlet & outlet. Boiler. 
 Launch/float-out date: 18 February 2020
 Delivery date:  28 April 2020
 
 
 
-Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd.
-Vessel’s name:  Solar Sharna
+Shipbuilder: .Hyundai Mipo Dockyard Co., Ltd. Vessel’s name:  Solar Sharna
 Owner/Operator:  Tristar Transport LLC
 Country: UAE
-Designer: Hyundai Mipo Dockyard Co., Ltd.
-Country: Republic of Korea
+Designer: Hyundai Mipo Dockyard Co., Ltd. Country: Republic of Korea
 Model test establishment used:  HMRI
 Flag:  Marshall Islands
 IMO number:  9877614
-Total number of sister ships already completed
-(excluding ship presented):  3
+Total number of sister ships already completed (excluding ship presented):  3
 Total number of sister ships still on order:  2
 TECHNICAL PARTICULARS
 Length oa: Approx. 169m
@@ -9160,8 +8877,7 @@ Division
 
 Number:  1
 Type of fuel:  HFO, MGO
-Output of each engine:  7,000kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  7,000kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -9190,8 +8906,7 @@ Number:  1
 Type: Heavy fuel burning & marine gas oil
 
 Make: Alfa Laval
-Output, each boiler: 18,000kg/h
-(evaporation) / 7.0kg/cm²(steam condition)
+Output, each boiler: 18,000kg/h (evaporation) / 7.0kg/cm²(steam condition)
 Deck machinery
 
 Cargo cranes/cargo gear
@@ -9215,9 +8930,7 @@ Make: Oriental
 
 Type: Electro-hydraulic driven
 
-Tasks: Provision and machinery parts
-handling in engine room
-
+Tasks: Provision and machinery parts handling in engine room 
 Performance: SWL 2.0t  / Outreach 2.7m~9m
 Mooring equipment
 
@@ -9250,8 +8963,7 @@ Type:  Electric driven centrifugal
 
 Make: Marflex
 Stainless steel: AISI316L
-Capacity (each): 375m³/h (cargo) / 150m³/h
-(slop)
+Capacity (each): 375m³/h (cargo) / 150m³/h (slop)
 Cargo control system
 
 Make: Marflex
@@ -9269,8 +8981,7 @@ Make: Techcross
 Capacity:  1,000m³/h 1 set
 Complement
 
-Officers:  8 .
-
+Officers:  8 . 
 Crew:  15
 
 Supernumaries/Spare:  1
@@ -9290,9 +9001,7 @@ Bridge control system
 Make:  Nabtesco
 
 
-Type: M-800-V
-Is bridge fitted for one-man operation? No
-Integrated bridge system ?: No
+Type: M-800-V Is bridge fitted for one-man operation? No Integrated bridge system ?: No
 Radars
 
 Number:  2
@@ -9348,8 +9057,7 @@ Model test establishment used:  Hyundai
 Maritime Research Institute (HMRI)
 Flag: Norway (NIS)
 IMO number:  9868376
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  278.95m
@@ -9397,8 +9105,7 @@ Manufacturer:  Hyundai Heavy Industries
 
 Number:  1
 Type of fuel: MDO
-Output of each engine:  16,190kW
-Is this a diesel-electric or hybrid?: No
+Output of each engine:  16,190kW Is this a diesel-electric or hybrid?: No
 Propeller(s)
 
 Material: Ni-Al-Bronze
@@ -9461,8 +9168,7 @@ Make: Oriental
 
 Type: Electro-hydraulic
 
-Tasks:  Provision / BLS service
-
+Tasks:  Provision / BLS service 
 Performance: 8t, 2t SWL / 5t SWL
 Mooring equipment
 
@@ -9525,9 +9231,7 @@ Bridge control system
 Make:  MRC
 
 
-Type: One man
-Is bridge fitted for one-man operation? .Yes
-Integrated bridge system:  Yes
+Type: One man Is bridge fitted for one-man operation? .Yes Integrated bridge system:  Yes
 
 If yes, make: Furuno
 
@@ -9591,16 +9295,14 @@ Shipbuilder:  CSBC Corporation, Taiwan
 Vessel’s name: YM Celebrity
 Owner/Operator: Yang Ming Marine
 
-Transport Corp.
-Country:  Taiwan
+Transport Corp. Country:  Taiwan
 Designer: CSBC Corporation
 Country:  Taiwan
 Model test establishment used: Hamburg Ship
 Model Basin (HSVA)
 Flag: Liberia
 IMO number:  9864502
-Total number of sister ships already completed
-(excluding ship presented):  5
+Total number of sister ships already completed (excluding ship presented):  5
 Total number of sister ships still on order:  4
 TECHNICAL PARTICULARS
 Length oa:  209.75m
@@ -9650,8 +9352,7 @@ Propeller(s)
 Material: Ni-Al-Bronze
 
 Designer/Manufacturer:  CSBC/ Nakashima
-Propeller Co., Ltd.
-
+Propeller Co., Ltd. 
 Number:  1
 Fixed/Controllable pitch: Fixed
 
@@ -9670,8 +9371,7 @@ Number:  1
 
 Type: vertical oil fired boiler (water tube type)
 
-Make:  KangRim Heavy Industries Co., Ltd.
-Output, each boiler: 2,300kg/h
+Make:  KangRim Heavy Industries Co., Ltd. Output, each boiler: 2,300kg/h
 Bow thruster(s)
 
 Make:  Kawasaki Heavy Industries
@@ -9775,19 +9475,16 @@ Delivery date: 27 May 2020
 
 
 Shipbuilder:  CSSC, Wuchang Shipbuilding
-Industry Group Co., Ltd.
-Vessel’s name:  Yuan Da Fan Rong
+Industry Group Co., Ltd. Vessel’s name:  Yuan Da Fan Rong
 Owner/Operator:  Qingdao Grand Ocean
-Maritime Co., Ltd.
-Country:  China
+Maritime Co., Ltd. Country:  China
 Designer: Shanghai merchant ship design
 and research institute (SDARI)
 Country:  China
 Model test establishment used:  Shanghai
 Ship & Shipping Research Institute (SSSRI)
 Flag:  China
-Total number of sister ships already completed
-(excluding ship presented):  2
+Total number of sister ships already completed (excluding ship presented):  2
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  118.00m
@@ -9838,8 +9535,7 @@ Factory
 
 Number:  1
 Type of fuel:  HFO, MDO
-Output of each engine:  2,265kW
-Is this a diesel-electric or hybrid?:  No
+Output of each engine:  2,265kW Is this a diesel-electric or hybrid?:  No
 
 Gearbox(es)
 
@@ -9888,8 +9584,7 @@ Technology
 Type: 23kN rescue boat/ raft launching
 appliance & crane
 
-Tasks:  Rescue boat/ raft launching & provision crane
-
+Tasks:  Rescue boat/ raft launching & provision crane 
 Performance: 23kN for rescue boar/raft
 launching/15kN for provision crane
 
@@ -9916,12 +9611,10 @@ Hatch covers
 
 
 Design: Brightseas Ship Equipment
-Co., Ltd.
-
+Co., Ltd. 
 
 Manufacturer:  Brightseas Ship
-Equipment Co., Ltd.
-
+Equipment Co., Ltd. 
 
 Type:  Pontoon, non-sequential
 
@@ -9941,8 +9634,7 @@ Hold refrigeration system:  Air-cooled
 Ballast control system
 
 Make: Donjun Automation Equipment
-Co., Ltd.
-
+Co., Ltd. 
 Type:  Hydraulic
 
 Complement
@@ -9959,9 +9651,7 @@ Bridge control system
 Make:  GUANG CAI
 
 
-Type:  CDQY-2N1
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Type:  CDQY-2N1 Is bridge fitted for one-man operation? No Integrated bridge system?: No
 Radars
 
 Number:  2
@@ -9980,8 +9670,7 @@ Fire extinguishing systems
 Cargo holds:  CO2, sea water
 
 Make/Type: CSSS Jiujiang Fire Equipment
-Co., Ltd.
-Engine room: CO2
+Co., Ltd. Engine room: CO2
 
 Make/Type:  Seaplus, CSSS Jiujiang Fire
 Equipment
@@ -10009,19 +9698,15 @@ Delivery date: July 2020
 
 
 Shipbuilder:  Shandong Huanghai
-Shipbuilding Co., Ltd.
-Vessel’s name: Zhong Hua Fu Qiang
+Shipbuilding Co., Ltd. Vessel’s name: Zhong Hua Fu Qiang
 Owner/Operator: Weihai Haida Passenger
-Transport Co., Ltd.
-Country:  China
+Transport Co., Ltd. Country:  China
 Designer: Shanghai Merchant Ship Design & Research Institute, CSSC (SDARI)
 Country:  China
-Model test establishment used: .Shanghai Ship
-& Shipping Research Institute (SSSRI)
+Model test establishment used: .Shanghai Ship & Shipping Research Institute (SSSRI)
 Flag:  China
 IMO number:  9899404
-Total number of sister ships already completed
-(excluding ship presented):  1
+Total number of sister ships already completed (excluding ship presented):  1
 Total number of sister ships still on order: Nil
 TECHNICAL PARTICULARS
 Length oa:  186.02m
@@ -10074,8 +9759,7 @@ Manufacturer:  MAN
 
 Number:  2
 Type of fuel:  HFO, MDO
-Output of each engine: 8,000kW/750rpm
-Is this a diesel-electric or hybrid?: No
+Output of each engine: 8,000kW/750rpm Is this a diesel-electric or hybrid?: No
 Gearbox(es)
 
 Make:  Reintjes
@@ -10158,8 +9842,7 @@ Number of vehicle decks:  3(fixed)
 Total lane length:  2,580m
 Doors/ramps/lifts/moveable car decks
 
-Number of each:  2/2/0/0
-
+Number of each:  2/2/0/0 
 Type: Electric-Hydraulic driven
 
 Designer:  TTS Hua Hai Ships Equipment
@@ -10182,9 +9865,7 @@ Navigation and other equipment
 Bridge control system
 
 
-Make:  SMDERI
-Is bridge fitted for one-man operation? No
-Integrated bridge system?: No
+Make:  SMDERI Is bridge fitted for one-man operation? No Integrated bridge system?: No
 Radars
 
 Number:  3
