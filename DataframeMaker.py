@@ -59,7 +59,7 @@
 import openpyxl
 from openpyxl.styles import Alignment
 
-# ... (предыдущий код с функцией process_ship_data и словарем mapping) ...
+
 
 def save_to_excel(data_list, headers, output_filepath):
     """
@@ -73,18 +73,18 @@ def save_to_excel(data_list, headers, output_filepath):
     workbook = openpyxl.Workbook()
     sheet = workbook.active
 
-    # Записываем заголовки
+ 
     for col_num, header in enumerate(headers, 1):
         cell = sheet.cell(row=1, column=col_num, value=header)
         cell.alignment = Alignment(wrap_text=True, horizontal='center', vertical='center')
 
-    # Записываем данные
+
     for row_num, data_row in enumerate(data_list, 2):
         for col_num, header in enumerate(headers, 1):
             value = data_row.get(header, "")
             sheet.cell(row=row_num, column=col_num, value=value)
 
-    # Автоматическая ширина столбцов
+
     for column in sheet.columns:
         max_length = 0
         column = [cell for cell in column]
@@ -104,21 +104,19 @@ def extract_data_from_text(filepath, mapping):
     Извлекает данные из обработанного текста и возвращает список словарей.
     """
     processed_text = process_ship_data(filepath, mapping)
-    data_list = []  # Изменено: создаем список для хранения данных
+    data_list = [] 
     data_dict = {}
     for line in processed_text.split('\n'):
-        if line.strip() == '----------------------------------------':  # Добавлено: разделитель между судами
+        if line.strip() == '----------------------------------------': 
             data_list.append(data_dict)
             data_dict = {}
         elif ':' in line:
             key, value = line.split(':', 1)
             data_dict[key.strip()] = value.strip()
-    data_list.append(data_dict)  # Добавлено: добавляем последний словарь после цикла
+    data_list.append(data_dict)  
     return data_list
 
-# ... (словарь mapping) ...
 
-# Предполагаемые заголовки для Excel (нужно обновить список)
 headers = [
     "Shipbuilder", "Vessel’s name", "Hull No", "Owner/Operator", "Designer",
     "Flag", "IMO number", "Length oa", "Length bp", "Breadth moulded",
@@ -146,9 +144,9 @@ headers = [
     "Launch/float-out date", "Delivery date"
 ]
 
-# Использование:
-filepath = "ship_data.txt"  # Путь к вашему файлу (теперь содержит несколько судов, разделенных '---')
-output_excel_filepath = "ship_data.xlsx"  # Путь для сохранения Excel-файла
+
+filepath = "ship_data.txt"  
+output_excel_filepath = "ship_data.xlsx"  
 
 data_list = extract_data_from_text(filepath, mapping)
 save_to_excel(data_list, headers, output_excel_filepath)

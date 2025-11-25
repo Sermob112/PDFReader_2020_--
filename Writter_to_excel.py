@@ -89,27 +89,27 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Font
 
-# Читаем текстовый файл
+
 import os
 import re
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Font
 
-# Папки для ввода и вывода файлов
+
 input_folder = "processed_text_ss_test"
 output_folder = "Results_excel"
 
-# Создаем папку для вывода, если она не существует
+
 os.makedirs(output_folder, exist_ok=True)
 
-# Получаем список всех текстовых файлов в папке
+
 txt_files = [f for f in os.listdir(input_folder) if f.endswith('.txt')]
 
 for txt_file in txt_files:
     input_file_path = os.path.join(input_folder, txt_file)
     
-    # Читаем текстовый файл
+   
     with open(input_file_path, "r", encoding="utf-8") as file:
         lines = file.readlines()
 
@@ -119,10 +119,10 @@ for txt_file in txt_files:
     for line in lines:
         line = line.strip()
         if not line:
-            continue  # Пропускаем пустые строки
+            continue  
 
         if ":" in line:
-            # Это поле со значением
+          
             field, value = map(str.strip, line.split(":", 1))
             data.append([field, value])
 
@@ -132,27 +132,27 @@ for txt_file in txt_files:
         else:
             # Это заголовок
             current_header = line
-            data.append([current_header, ""])  # Заголовок занимает обе колонки
+            data.append([current_header, ""])  
 
-    # Создаем DataFrame и сохраняем в Excel
+
     output_file = os.path.join(output_folder, f"{os.path.splitext(txt_file)[0]}.xlsx")
     df = pd.DataFrame(data, columns=["Field", "Value"])
     df.to_excel(output_file, index=False, sheet_name="Data")
 
-    # Загружаем созданный Excel-файл для форматирования
+   
     wb = load_workbook(output_file)
     ws = wb.active
 
-    # Проходим по строкам и форматируем заголовки
-    for row in range(2, ws.max_row + 1):  # Начинаем со 2-й строки (пропуская заголовки колонок)
+   
+    for row in range(2, ws.max_row + 1):  
         field_cell = ws[f"A{row}"]
         value_cell = ws[f"B{row}"]
 
-        if field_cell.value and not value_cell.value:  # Если есть значение только в первой колонке — это заголовок
-            field_cell.font = Font(bold=True)  # Делаем полужирным
-            ws.merge_cells(start_row=row, start_column=1, end_row=row, end_column=2)  # Объединяем ячейки A и B
+        if field_cell.value and not value_cell.value: 
+            field_cell.font = Font(bold=True)  
+            ws.merge_cells(start_row=row, start_column=1, end_row=row, end_column=2)  
 
-    # Сохраняем изменения
+
     wb.save(output_file)
 
     print(f"Файл '{txt_file}' сохранен как '{output_file}'")

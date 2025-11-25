@@ -5,83 +5,82 @@ import re
 def table_merger_raw():
     file_path = 'HHI_PerformanceRecord_2024-tabl.xlsx'
 
-    # Чтение всех листов из файла
+ 
     xls = pd.ExcelFile(file_path)
 
-    # Словарь для хранения данных по названиям
+
     data_dict = {}
 
-    # Проход по всем листам
+ 
     for sheet_name in xls.sheet_names:
-        # Чтение данных из листа, пропуская первую строку
+     
         df = pd.read_excel(xls, sheet_name=sheet_name, dtype=str, header=1)
         df = df.drop([0, 4])
-        # Получение названия из первой строки исходного файла
+      
         title = pd.read_excel(xls, sheet_name=sheet_name, nrows=0).columns[0]
         
-        # Очистка названия от недопустимых символов
+
         cleaned_title = re.sub(r'[\\/*?:[\]]', '', title)
         
-        # Разделение названия на "Компания" и "Тип судна"
+        
         if ':' in title:
-            company, ship_type = title.split(':', 1)  # Разделяем по первому двоеточию
-            company = company.strip()  # Убираем лишние пробелы
+            company, ship_type = title.split(':', 1)  
+            company = company.strip()  
             ship_type = ship_type.strip()
         else:
-            company = title  # Если двоеточия нет, используем всё название как "Компания"
-            ship_type = ''   # "Тип судна" будет пустым
+            company = title  
+            ship_type = ''  
         
-        # Добавление новых столбцов
+        
         df['Компания'] = company
         df['Тип судна'] = ship_type
         
-        # Перестановка столбцов: "Компания" и "Тип судна" становятся первыми
+       
         cols = ['Компания', 'Тип судна'] + [col for col in df.columns if col not in ['Компания', 'Тип судна']]
         df = df[cols]
         
-        # Обработка столбцов MAIN ENGINE и OWNER
+        
         for column in ['MAIN ENGINE', 'OWNER']:
             if column in df.columns:
-                # Заполнение пропущенных значений
+                
                 df[column] = df[column].fillna('')
                 
-                # Объединение строк в столбце
+                
                 df[column] = df.groupby(df.index)[column].transform(lambda x: ' '.join(x))
                 
-                # Удаление дубликатов, если они возникли после объединения
+                
                 df = df.drop_duplicates(subset=df.columns.difference([column]))
 
         
         
-        # Добавление данных в словарь
+      
         if cleaned_title not in data_dict:
             data_dict[cleaned_title] = []
         data_dict[cleaned_title].append(df)
 
-    # Создание нового Excel файла
+   
     new_wb = Workbook()
-    new_wb.remove(new_wb.active)  # Удаление дефолтного листа
+    new_wb.remove(new_wb.active)  
 
-    # Запись данных в новый файл
+    
     for title, dfs in data_dict.items():
-        # Создание нового листа для каждого уникального названия
-        ws = new_wb.create_sheet(title=title[:31])  # Ограничение длины названия до 31 символа
         
-        # Объединение всех таблиц с одинаковым названием
+        ws = new_wb.create_sheet(title=title[:31])  
+        
+        
         combined_df = pd.concat(dfs, ignore_index=True)
         
-        # Запись заголовков столбцов в первую строку
+    
         ws.append(combined_df.columns.tolist())
         
-        # Запись данных в лист
+        
         for r in pd.DataFrame(combined_df).itertuples(index=False, name=None):
             ws.append(r)
 
-    # Сохранение нового файла
+    
     new_wb.save('Tables\combined_data_with_columns_3.xlsx')
 
-# Вызов функции
-# table_merger_raw()
+
 
 
 

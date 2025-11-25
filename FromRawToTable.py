@@ -17,44 +17,6 @@ from openpyxl.styles import Alignment
 
 # import re
 
-# def extract_technical_particulars_with_keywords(input_file, output_file):
-#     with open(input_file, 'r', encoding='utf-8') as infile:
-#         data = infile.readlines()  # Читаем файл построчно
-    
-#     # Регулярное выражение для поиска блока между "TECHNICAL PARTICULARS" и "Boilers"
-#     start_pattern = re.compile(r'^TECHNICAL PARTICULARS\b', re.MULTILINE)
-#     end_pattern = re.compile(r'^\s*Boilers\b', re.MULTILINE)
-
-#     extracting = False  # Флаг, указывающий, что мы внутри нужного блока
-#     extracted_lines = []  # Список для хранения результата
-
-#     # Ключевые слова, которые должны остаться
-#     keywords = ("Vessel’s", "IMO", "Total number", "Flag", "Length", "scantling","Contract date","Launch","Delivery date")
-
-#     for line in data:
-#         stripped_line = line.strip()
-
-#         # Если встречаем начало блока
-#         if start_pattern.match(stripped_line):
-#             extracting = True
-
-#         # Если встречаем конец блока
-#         if extracting and end_pattern.match(stripped_line):
-#             extracting = False
-
-#         # Если мы находимся внутри нужного блока или строка начинается с ключевого слова
-#         if extracting or stripped_line.startswith(keywords):
-#             extracted_lines.append(stripped_line)
-
-#     # Записываем результат в файл
-#     if extracted_lines:
-#         with open(output_file, 'w', encoding='utf-8') as outfile:
-#             outfile.write("\n".join(extracted_lines) + "\n")
-#         print(f"Данные записаны в '{output_file}', всего строк: {len(extracted_lines)}.")
-#     else:
-#         print("Не найдено нужных данных.")
-
-# # Пример использования
 # input_filename = r'Processed_text\SS 2009.txt'  # Имя входного файла
 # output_filename = 'output.txt'  # Имя выходного файла
 # extract_technical_particulars_with_keywords(input_filename, output_filename)
@@ -192,16 +154,16 @@ def process_ship_data(filepath, mapping):
         Строка с обработанными данными.
     """
     processed_data = ""
-    last_key = ""  # Для отслеживания контекста (предыдущий ключ)
-    with open(filepath, 'r', encoding='utf-8') as f:  # Изменено: добавлена кодировка
+    last_key = "" 
+    with open(filepath, 'r', encoding='utf-8') as f: 
         for line in f:
             line = line.strip()
             if not line:
                 continue
 
-            if line == '----------------------------------------':  # Добавлено: проверка на разделитель
+            if line == '----------------------------------------':  
                 processed_data += line + "\n"
-                last_key = ""  # Сбрасываем last_key
+                last_key = "" 
                 continue
 
             if ":" in line:
@@ -209,7 +171,7 @@ def process_ship_data(filepath, mapping):
                 key = key.strip()
                 value = value.strip()
 
-                # Разрешение конфликтов на основе контекста
+                
                 if key == "Number":
                     if last_key in ["Manufacturer", "Output of each engine"]:
                         mapped_key = "Main engine Number"
@@ -227,7 +189,7 @@ def process_ship_data(filepath, mapping):
                     elif last_key == "Local fire fighting system":
                         mapped_key = "Radars Number"
                     else:
-                        mapped_key = mapping.get(key, key) # Если не нашли в контексте, используем как есть
+                        mapped_key = mapping.get(key, key) 
 
                 elif key == "Make":
                     if last_key in ["Type", "Number", "Output, each boiler"]:
@@ -264,7 +226,7 @@ def process_ship_data(filepath, mapping):
                 elif key == 'Output/speed' and last_key == 'Alternator make/type':
                      mapped_key = "Alternator Output/speed"
                 else:
-                    mapped_key = mapping.get(key, key)  # Если не нашли в маппинге, оставляем как есть
+                    mapped_key = mapping.get(key, key)  
 
                 processed_data += f"{mapped_key}: {value}\n"
                 last_key = key
@@ -274,12 +236,12 @@ def process_ship_data(filepath, mapping):
                 processed_data = processed_data.rstrip('\n') + " " + line + "\n"
     return processed_data
 
-# # Пример использования:
+
 filepath = "output_Prod.txt"  # Замените на имя вашего файла
 # processed_data = process_ship_data(filepath, mapping)
 # # print(processed_data)
 
-# # # Сохраняем в новый файл:
+
 # with open("processed_ship_data.txt", "w", encoding='utf-8') as f:
 #     f.write(processed_data)
 
@@ -300,7 +262,7 @@ from openpyxl.styles import Alignment
 #             data_dict[key.strip()] = value.strip()
 #     return [data_dict]  # Возвращаем список, содержащий один словарь
 
-# Предполагаемые заголовки для Excel (нужно обновить список)
+
 headers = [
  "Shipbuilder", "Vessel’s name", "Hull No", "Owner/Operator", "Designer",
     "Flag", "IMO number", "Length oa", "Length bp", "Breadth moulded",
@@ -339,18 +301,18 @@ def save_to_excel(data_list, headers, output_filepath):
     workbook = openpyxl.Workbook()
     sheet = workbook.active
 
-    # Записываем заголовки
+
     for col_num, header in enumerate(headers, 1):
         cell = sheet.cell(row=1, column=col_num, value=header)
         cell.alignment = Alignment(wrap_text=True, horizontal='center', vertical='center')
 
-    # Записываем данные
+ 
     for row_num, data_row in enumerate(data_list, 2):
         for col_num, header in enumerate(headers, 1):
             value = data_row.get(header, "")
             sheet.cell(row=row_num, column=col_num, value=value)
 
-    # Автоматическая ширина столбцов
+
     for column in sheet.columns:
         max_length = 0
         column = [cell for cell in column]
@@ -364,7 +326,7 @@ def save_to_excel(data_list, headers, output_filepath):
         sheet.column_dimensions[openpyxl.utils.get_column_letter(column[0].column)].width = adjusted_width
 
     workbook.save(output_filepath)
-# Использование:
+
     
 def extract_data_from_text(filepath, mapping):
     """
@@ -372,24 +334,24 @@ def extract_data_from_text(filepath, mapping):
     """
     data_list = []
     data_dict = {}
-    with open(filepath, 'r', encoding='utf-8') as f:  # Добавлено: чтение из файла
+    with open(filepath, 'r', encoding='utf-8') as f:  
         for line in f:
             line = line.strip()
             if line == '----------------------------------------':
-                if data_dict:  # Проверка, чтобы не добавлять пустой словарь в начале
+                if data_dict: 
                     data_list.append(data_dict)
                 data_dict = {}
             elif ':' in line:
                 key, value = line.split(':', 1)
-                mapped_key = mapping.get(key.strip(), key.strip())  # Используем mapping
+                mapped_key = mapping.get(key.strip(), key.strip())  
                 data_dict[mapped_key] = value.strip()
-    if data_dict:  # Добавляем последний словарь, если он не пустой
+    if data_dict:  
         data_list.append(data_dict)
     return data_list
 
 processed_filepath = "processed_ship_data.txt"
-# filepath = "processed_ship_data.txt"  # Путь к вашему файлу
-output_excel_filepath = "ship_data.xlsx"  # Путь для сохранения Excel-файла
+# filepath = "processed_ship_data.txt"  
+output_excel_filepath = "ship_data.xlsx" 
 
 data_list = extract_data_from_text(processed_filepath, mapping)
 save_to_excel(data_list, headers, output_excel_filepath)
